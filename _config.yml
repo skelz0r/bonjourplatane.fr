@@ -57,6 +57,7 @@ exclude:
   - spec/lib
   - .rspec
   - CNAME
+  - templates/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
