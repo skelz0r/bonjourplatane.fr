@@ -1,8 +1,8 @@
 <h1 class="center">
-  Platane du jour - Adeline
+  Platane du jour - Georges
 </h1>
 
-![Adeline](/images/2021-10-20.jpg)
+![Georges](/images/2021-10-20.jpg)
 
 Source: [Wikipedia](https://fr.wikipedia.org/wiki/Platane_commun)
 
