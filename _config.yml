@@ -58,6 +58,8 @@ exclude:
   - .rspec
   - CNAME
   - templates/
+  - .env
+  - .env.example
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/

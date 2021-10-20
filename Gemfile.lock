@@ -31,6 +31,7 @@ GEM
     diff-lcs (1.4.4)
     dnsruby (1.61.7)
       simpleidn (~> 0.1)
+    dotenv (2.7.6)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -298,6 +299,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  dotenv
   github-pages
   jekyll-feed (~> 0.12)
   minima!
