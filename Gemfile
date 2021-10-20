@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll-feed", "~> 0.12"
 gem 'webrick'
+gem "minima", github: "jekyll/minima"
 
 group :jekyll_plugins do
   gem "github-pages"
