@@ -53,6 +53,9 @@ exclude:
   - Gemfile.lock
   - README.md
   - bin/
+  - lib/
+  - spec/lib
+  - .rspec
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
