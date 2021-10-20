@@ -5,5 +5,3 @@
 {% include today_image.md %}
 
 ---
-
-## Les platanes des derniers jours
