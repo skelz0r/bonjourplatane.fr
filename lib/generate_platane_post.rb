@@ -20,7 +20,7 @@ class GeneratePlatanePost
   private
 
   def download_image
-    File.open(final_image_path, 'w') { |f| f.write(URI.parse(platane_image['url']).read) }
+    File.open(final_image_path, 'w') { |f| f.write(URI.parse(platane_image['photo_url']).read) }
   end
 
   def create_post
@@ -29,7 +29,7 @@ class GeneratePlatanePost
       'title' => first_name,
       'date' => date.to_time.to_s,
       'date_formatted' => date_formatted,
-      'user_profile' => 'https://www.bonjourplatane.fr'
+      'user_profile' => platane_image['user_profile_url']
     }
     rendered_template = template.render(variables)
 
