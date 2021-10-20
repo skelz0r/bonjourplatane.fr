@@ -18,6 +18,8 @@ bundle install
 ./bin/local.sh
 ```
 
+Then visit `http://127.0.0.1:4000/`
+
 ## Credits
 
 Thanks to PrinceCaramel for the (stupid) idea.
