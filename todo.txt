@@ -1,0 +1,12 @@
+Automatisation:
+
+* build https://github.com/helaili/jekyll-action
+* schedule https://jasonet.co/posts/scheduled-actions/
+
+todo:
+
+* get que les images en licence free
+* harden pour vérifier que c'est bien un arbre
+* tweet tous les jours
+* faire l'automatisation (quand ça sera robuste)
+* import le footer (différent en local, why..?)
