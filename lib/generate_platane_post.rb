@@ -5,10 +5,12 @@ require 'human_first_name'
 require 'get_platane_image'
 
 class GeneratePlatanePost
-  attr_reader :date
+  attr_reader :date,
+    :interactive
 
-  def initialize(date)
+  def initialize(date, interactive: false)
     @date = date
+    @interactive = interactive
   end
 
   def perform
@@ -96,7 +98,7 @@ class GeneratePlatanePost
   end
 
   def platane_image
-    @platane_image ||= GetPlataneImage.new.perform
+    @platane_image ||= GetPlataneImage.new(interactive: interactive).perform
   end
 
   def first_name

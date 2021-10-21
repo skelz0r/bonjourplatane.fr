@@ -1,3 +1,7 @@
+require 'date'
+
+interative = true
+
 lib_path = File.expand_path(
   File.join(
     File.dirname(__FILE__),
@@ -5,9 +9,19 @@ lib_path = File.expand_path(
   )
 )
 
+if ARGV[0]
+  begin
+    date = Date.parse(ARGV[0])
+  rescue Date::Error
+    print "Invalid date"
+    exit 1
+  end
+else
+  date = Date.today
+end
+
 $LOAD_PATH.unshift(lib_path)
 
 require 'generate_platane_post'
 
-date = Date.new(2021, 10, 19)
-GeneratePlatanePost.new(date).perform
+GeneratePlatanePost.new(date, interactive: interative).perform

@@ -6,6 +6,12 @@ require 'already_used_images'
 require 'blacklist_images'
 
 class GetPlataneImage
+  attr_reader :interactive
+
+  def initialize(interactive: false)
+    @interactive = interactive
+  end
+
   def perform
     photo = extract_valid_photo
 
@@ -24,7 +30,21 @@ class GetPlataneImage
   end
 
   def extract_valid_photo
-    elligible_photos.sample
+    if interactive
+      photo = elligible_photos.sample
+
+      print "Photo: #{build_photo_url(photo)}\nKeep it ? (y/N)"
+      answer = gets
+
+      if answer.chomp.downcase == 'y'
+        photo
+      else
+        mark_photo_as_blacklisted(photo)
+        extract_valid_photo
+      end
+    else
+      elligible_photos.sample
+    end
   end
 
   def elligible_photos
@@ -66,6 +86,10 @@ class GetPlataneImage
 
   def add_photo_as_used(photo)
     AlreadyUsedImages.instance.add(build_photo_url(photo))
+  end
+
+  def mark_photo_as_blacklisted(photo)
+    BlacklistImages.instance.add(build_photo_url(photo))
   end
 
   def blacklist?(photo)
