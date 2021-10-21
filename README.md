@@ -1,4 +1,4 @@
-# bonjourplatane.fr
+# bonjourplatane.fr [![Build](https://github.com/skelz0r/bonjourplatane.fr/actions/workflows/build.yml/badge.svg)](https://github.com/skelz0r/bonjourplatane.fr/actions/workflows/build.yml)
 
 Tous les jours, une image de platane.
 
