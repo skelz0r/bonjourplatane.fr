@@ -17,8 +17,6 @@ class GeneratePlatanePost
     change_today_files
   end
 
-  private
-
   def download_image
     File.open(final_image_path, 'w') { |f| f.write(URI.parse(platane_image['photo_url']).read) }
   end
@@ -47,6 +45,8 @@ class GeneratePlatanePost
       'today_image.md'
     )
   end
+
+  private
 
   def write_today_file(content, file_name)
     File.open(file_path("../_includes/#{file_name}"), 'w') { |f| f.write(content) }
