@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll-feed", "~> 0.12"
 gem 'webrick'
-gem "minima", github: "jekyll/minima"
+gem "minima", "~> 2.5.1"
 gem "dotenv"
 
 group :jekyll_plugins do
