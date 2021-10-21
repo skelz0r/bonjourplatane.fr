@@ -41,7 +41,7 @@ class GeneratePlatanePost
     )
 
     write_today_file(
-      "![#{first_name}](/images/#{date_formatted}.jpg)",
+      "![#{first_name}](/images/#{date_formatted}.jpg)\n\nSource: [Flickr](#{platane_image['user_profile_url']})",
       'today_image.md'
     )
   end
