@@ -7,7 +7,7 @@ class GetPlataneImage
     photo = extract_valid_photo
 
     {
-      'photo_url' => "https://live.staticflickr.com/#{photo['server']}/#{photo['id']}_#{photo['secret']}.jpg",
+      'photo_url' => "https://live.staticflickr.com/#{photo['server']}/#{photo['id']}_#{photo['secret']}_b.jpg",
       'user_profile_url' => "https://www.flickr.com/people/#{photo['owner']}"
     }
   end
@@ -27,7 +27,29 @@ class GetPlataneImage
   end
 
   def api_url
-    "https://www.flickr.com/services/rest/?method=flickr.photos.search&text=platane&format=json&nojsoncallback=1&api_key=#{api_key}"
+    "https://www.flickr.com/services/rest/?method=flickr.photos.search&text=#{text}&format=json&nojsoncallback=1&sort=relevance&api_key=#{api_key}&license=#{license_ids}&per_page=#{per_page}&geo_context=2"
+  end
+
+  def text
+    'platane'
+  end
+
+  def license_ids
+    %w[
+      1
+      2
+      3
+      4
+      5
+      6
+      7
+      9
+      10
+    ].join(',')
+  end
+
+  def per_page
+    100
   end
 
   def api_key
