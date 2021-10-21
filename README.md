@@ -12,7 +12,7 @@ Tous les jours, une image de platane.
 bundle install
 ```
 
-Check `.env.local` for env
+Check `.env.example` for env
 
 ## Run in local
 
