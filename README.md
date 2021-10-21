@@ -30,6 +30,10 @@ Run:
 bundle exec ruby bin/generate_platane_post.rb
 ```
 
+## Analytics
+
+👉 https://bonjourplatane.goatcounter.com/
+
 ## Credits
 
 Thanks to PrinceCaramel for the (stupid) idea.
