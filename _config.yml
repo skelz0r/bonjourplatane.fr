@@ -62,6 +62,7 @@ exclude:
   - .env.example
   - secrets/
   - data/
+  - vendor/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
