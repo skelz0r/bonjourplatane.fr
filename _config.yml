@@ -60,6 +60,7 @@ exclude:
   - templates/
   - .env
   - .env.example
+  - secrets/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/

@@ -4,6 +4,7 @@ gem "jekyll-feed", "~> 0.12"
 gem 'webrick'
 gem "minima", "~> 2.5.1"
 gem "dotenv"
+gem "google-cloud-vision"
 
 group :jekyll_plugins do
   gem "github-pages"
