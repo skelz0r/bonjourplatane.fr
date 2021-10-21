@@ -2,24 +2,40 @@ require 'open-uri'
 require 'json'
 require 'dotenv/load'
 
+require 'already_used_images'
+require 'blacklist_images'
+
 class GetPlataneImage
   def perform
     photo = extract_valid_photo
 
+    add_photo_as_used(photo)
+
     {
-      'photo_url' => "https://live.staticflickr.com/#{photo['server']}/#{photo['id']}_#{photo['secret']}_b.jpg",
+      'photo_url' => build_photo_url(photo),
       'user_profile_url' => "https://www.flickr.com/people/#{photo['owner']}"
     }
   end
 
   private
 
+  def build_photo_url(photo)
+    "https://live.staticflickr.com/#{photo['server']}/#{photo['id']}_#{photo['secret']}_b.jpg"
+  end
+
   def extract_valid_photo
-    api_body['photos']['photo'].sample
+    elligible_photos.sample
+  end
+
+  def elligible_photos
+    api_body['photos']['photo'].reject do |photo|
+      blacklist?(photo) ||
+        already_used?(photo)
+    end
   end
 
   def api_body
-    JSON.parse(api_call)
+    @api_body ||= JSON.parse(api_call)
   end
 
   def api_call
@@ -48,6 +64,19 @@ class GetPlataneImage
     ].join(',')
   end
 
+  def add_photo_as_used(photo)
+    AlreadyUsedImages.instance.add(build_photo_url(photo))
+  end
+
+  def blacklist?(photo)
+    BlacklistImages.instance.include?(build_photo_url(photo))
+  end
+
+  def already_used?(photo)
+    AlreadyUsedImages.instance.include?(build_photo_url(photo))
+  end
+
+  # 500 = Max
   def per_page
     100
   end
