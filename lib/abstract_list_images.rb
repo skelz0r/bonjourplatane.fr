@@ -7,7 +7,7 @@ class AbstractListImages
     return if include?(string)
 
     @backend << string
-    File.open(file_path, 'a') { |f| f.write("\n#{string}") }
+    File.open(file_path, 'a') { |f| f.write(string) }
   end
 
   def include?(string)
