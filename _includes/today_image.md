@@ -1,3 +1,3 @@
-![Sandro](/images/2021-10-21.jpg)
+![Emy](/images/2021-10-22.jpg)
 
-Source: [Flickr](https://www.flickr.com/people/127615250@N05)
+Source: [Flickr](https://www.flickr.com/people/39528897@N06)
