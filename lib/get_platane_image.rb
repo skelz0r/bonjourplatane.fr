@@ -1,11 +1,10 @@
-require 'open-uri'
-require 'json'
-require 'dotenv/load'
-
+require 'flickr_helpers'
 require 'already_used_images'
 require 'blacklist_images'
 
 class GetPlataneImage
+  include FlickrHelpers
+
   attr_reader :interactive
 
   def initialize(interactive: false)
@@ -19,7 +18,7 @@ class GetPlataneImage
 
     {
       'photo_url' => build_photo_url(photo),
-      'user_profile_url' => "https://www.flickr.com/people/#{photo['owner']}"
+      'user_id' => photo['owner']
     }
   end
 
@@ -48,22 +47,14 @@ class GetPlataneImage
   end
 
   def elligible_photos
-    api_body['photos']['photo'].reject do |photo|
+    flick_api_body['photos']['photo'].reject do |photo|
       blacklist?(photo) ||
         already_used?(photo)
     end
   end
 
-  def api_body
-    @api_body ||= JSON.parse(api_call)
-  end
-
-  def api_call
-    URI.parse(api_url).open.read
-  end
-
-  def api_url
-    "https://www.flickr.com/services/rest/?method=flickr.photos.search&text=#{text}&format=json&nojsoncallback=1&sort=relevance&api_key=#{api_key}&license=#{license_ids}&per_page=#{per_page}&geo_context=2"
+  def flickr_api_url
+    "https://www.flickr.com/services/rest/?method=flickr.photos.search&text=#{text}&format=json&nojsoncallback=1&sort=relevance&api_key=#{flickr_api_key}&license=#{license_ids}&per_page=#{per_page}&geo_context=2"
   end
 
   def text
@@ -103,9 +94,5 @@ class GetPlataneImage
   # 500 = Max
   def per_page
     100
-  end
-
-  def api_key
-    ENV['FLICKR_API_KEY']
   end
 end

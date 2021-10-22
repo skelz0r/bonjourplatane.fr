@@ -3,6 +3,7 @@ require 'liquid'
 
 require 'human_first_name'
 require 'get_platane_image'
+require 'get_image_owner'
 
 class GeneratePlatanePost
   attr_reader :date,
@@ -29,7 +30,8 @@ class GeneratePlatanePost
       'title' => first_name,
       'date' => date.to_time.to_s,
       'date_formatted' => date_formatted,
-      'user_profile' => platane_image['user_profile_url']
+      'user_name' => image_owner['username'],
+      'user_profile_url' => image_owner['url']
     }
     rendered_template = template.render(variables)
 
@@ -43,7 +45,7 @@ class GeneratePlatanePost
     )
 
     write_today_file(
-      "![#{first_name}](/images/#{date_formatted}.jpg)\n\nSource: [Flickr](#{platane_image['user_profile_url']})",
+      "![#{first_name}](/images/#{date_formatted}.jpg)\n\nCrédits: [#{image_owner['username']}](#{image_owner['url']}) on flickr",
       'today_image.md'
     )
   end
@@ -95,6 +97,10 @@ class GeneratePlatanePost
 
   def date_formatted
     date.strftime('%Y-%m-%d')
+  end
+
+  def image_owner
+    @image_owner ||= GetImageOwner.new(platane_image['user_id']).perform
   end
 
   def platane_image

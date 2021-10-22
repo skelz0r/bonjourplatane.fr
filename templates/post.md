@@ -6,4 +6,4 @@ date: {{date}}
 
 ![{{title}}](/images/{{date_formatted}}.jpg)
 
-Source: [Flickr]({{user_profile}})
+Crédits: [{{user_name}}]({{user_profile_url}}) on flickr
