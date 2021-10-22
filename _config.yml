@@ -62,6 +62,7 @@ exclude:
   - secrets/
   - data/
   - vendor/
+  - .github/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/

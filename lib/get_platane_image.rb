@@ -34,7 +34,7 @@ class GetPlataneImage
       photo = elligible_photos.sample
 
       print "Photo: #{build_photo_url(photo)}\nKeep it ? (y/N)"
-      answer = gets
+      answer = STDIN.gets
 
       if answer.chomp.downcase == 'y'
         photo
