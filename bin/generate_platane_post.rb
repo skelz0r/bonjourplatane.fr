@@ -1,6 +1,6 @@
 require 'date'
 
-interative = true
+interative = ARGV[1].nil?
 
 lib_path = File.expand_path(
   File.join(

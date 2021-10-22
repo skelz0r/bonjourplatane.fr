@@ -28,13 +28,21 @@ page to get your json keyfile.
 
 Then visit `http://127.0.0.1:4000/`
 
-## Generate today post
+## Generate today post manually
 
 Run:
 
 ```sh
 bundle exec ruby bin/generate_platane_post.rb
 ```
+
+## Configure Github Action to today platane
+
+Add the following secrets:
+
+* `FLICKR_API_KEY` : Flickr API key
+* `VISION_CREDENTIALS_BASE_64` : JSON key for the Google Vision API as url safe
+  base64. You can use `./bin/encode_google_vision_json_key.rb` to generate this file
 
 ## Analytics
 
