@@ -33,8 +33,7 @@ language: "fr"
 # Build settings
 theme: minima
 plugins:
-  []
-  # - jekyll-feed
+  - jekyll-feed
 
 minima:
   date_format: "%d/%m/%Y"
