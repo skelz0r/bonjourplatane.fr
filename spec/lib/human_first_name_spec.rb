@@ -5,7 +5,7 @@ RSpec.describe HumanFirstName do
     subject { described_class.new(date).get }
 
     let(:date) { Date.new(2021, 10, 21) }
-    let(:url) { 'https://randomuser.me/api/?gender=male&nat=fr&seed=20211021' }
+    let(:url) { 'https://randomuser.me/api/?nat=fr&seed=20211021' }
 
     let(:stubbed_request) do
       stub_request(:get, url).to_return(

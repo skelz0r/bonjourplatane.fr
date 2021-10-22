@@ -24,7 +24,7 @@ class HumanFirstName
   end
 
   def api_url
-    "https://randomuser.me/api/?gender=male&nat=fr&seed=#{seed}"
+    "https://randomuser.me/api/?nat=fr&seed=#{seed}"
   end
 
   def seed
