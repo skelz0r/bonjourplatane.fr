@@ -1,3 +1,3 @@
-![Emy](/images/2021-10-22.jpg)
+![Lisa](/images/2021-10-23.jpg)
 
-Crédits: [@YannGarPhoto](https://www.flickr.com/people/yannickgar) on flickr
+Crédits: [elkema](https://www.flickr.com/people/24783406@N02/) on flickr
