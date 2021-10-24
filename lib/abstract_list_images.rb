@@ -7,7 +7,7 @@ class AbstractListImages
     return if include?(string)
 
     @backend << string
-    File.open(file_path, 'a') { |f| f.write(string) }
+    File.open(file_path, 'a') { |f| f.write("\n#{string}") }
   end
 
   def include?(string)
@@ -28,7 +28,7 @@ class AbstractListImages
   end
 
   def load_backend!
-    @backend ||= File.readlines(file_path).map(&:strip)
+    @backend ||= File.readlines(file_path).map(&:strip).reject(&:empty?)
   end
 
   def file_path

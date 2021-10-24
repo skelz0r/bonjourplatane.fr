@@ -45,6 +45,7 @@ RSpec.describe AbstractListImages do
       subject
 
       expect(File.read(file_path)).to include(string)
+      expect(File.read(file_path)).to eq("tree\nplatane\nhello")
     end
 
     it 'adds to backend' do
