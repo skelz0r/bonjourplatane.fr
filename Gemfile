@@ -5,6 +5,7 @@ gem 'webrick'
 gem "minima", "~> 2.5.1"
 gem "dotenv"
 gem "google-cloud-vision"
+gem "twitter"
 
 group :jekyll_plugins do
   gem "github-pages"
