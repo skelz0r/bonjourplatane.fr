@@ -36,7 +36,7 @@ Run:
 bundle exec ruby bin/generate_platane_post.rb
 ```
 
-## Configure Github Action to today platane
+## Configure Github Action for today platane
 
 Add the following secrets:
 
