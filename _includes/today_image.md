@@ -1,3 +1,3 @@
-![Lisa](/images/2021-10-23.jpg)
+![Stella](/images/2021-10-24.jpg)
 
-Crédits: [elkema](https://www.flickr.com/people/24783406@N02/) on flickr
+Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr
