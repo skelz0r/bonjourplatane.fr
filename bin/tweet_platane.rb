@@ -25,4 +25,8 @@ $LOAD_PATH.unshift(lib_path)
 
 require 'tweet_platane'
 
-TweetPlatane.new(date_string).perform
+tweet = TweetPlatane.new(date_string)
+
+tweet.perform
+
+print "Text: #{tweet.text}"

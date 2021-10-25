@@ -16,19 +16,15 @@ class TweetPlatane
     )
   end
 
-  private
-
   def text
     "#{name}\n#{link}\n\n#{credits}"
-  end
-
-  def name
-
   end
 
   def image
     File.open(image_path, 'r')
   end
+
+  private
 
   def date_dashed
     @date_dashed ||= date.strftime('%Y-%m-%d')
