@@ -36,6 +36,16 @@ Run:
 bundle exec ruby bin/generate_platane_post.rb
 ```
 
+## Tweet today's platane
+
+Check `.env.local` for credentials
+
+Run:
+
+```sh
+bundle exec ruby bin/tweet_platane.rb `date +%Y-%m-%d`
+```
+
 ## Configure Github Action for today platane
 
 Add the following secrets:
