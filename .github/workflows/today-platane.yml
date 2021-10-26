@@ -68,5 +68,4 @@ jobs:
           delete-branch: true
           base: develop
           title: Generate ${{ env.CURRENT_DATE }} platane
-          reviewers: skelz0r
 
