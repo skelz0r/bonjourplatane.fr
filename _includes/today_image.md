@@ -1,3 +1,3 @@
-![Garance](/images/2021-10-25.jpg)
+![Marin](/images/2021-10-26.jpg)
 
-Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr
+Crédits: [Gertrud K.](https://www.flickr.com/people/gertrudk/) on flickr
