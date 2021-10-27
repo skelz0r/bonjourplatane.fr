@@ -1,2 +1,170 @@
 ---
-items: []
+items:
+- :image_url: https://live.staticflickr.com/51/161868082_ee9c235821_b.jpg
+  :description: Petit bout d'arbre, photo de mer surtout
+  :labels:
+    Cloud: 0.9747447371482849
+    Sky: 0.9739201068878174
+    Water: 0.9711393713951111
+    Water resources: 0.9461103677749634
+    Azure: 0.8933266401290894
+    Beach: 0.8347961902618408
+    Coastal and oceanic landforms: 0.8309006690979004
+    Bank: 0.8061990141868591
+    Plant: 0.7980914115905762
+    Leisure: 0.7649561166763306
+- :image_url: https://live.staticflickr.com/4143/4861570974_eecaa9eaac_b.jpg
+  :description: Portrait d'une meuf en noir et blanc
+  :labels:
+    Lip: 0.9702587127685547
+    Hand: 0.960098147392273
+    Hairstyle: 0.9509009122848511
+    Eyebrow: 0.9394567608833313
+    Facial expression: 0.9325124621391296
+    Vision care: 0.9324444532394409
+    Organ: 0.9034619331359863
+    Human: 0.8991692662239075
+    Black: 0.897194504737854
+    Eyelash: 0.8823047876358032
+- :image_url: https://live.staticflickr.com/65535/47660269351_9cc704d27a_b.jpg
+  :description: Que des branches, surtout du ciel
+  :labels:
+    Sky: 0.9447694420814514
+    Natural landscape: 0.8544567227363586
+    Tree: 0.8088693022727966
+    Twig: 0.8030276298522949
+    Plant: 0.7493644952774048
+    Electric blue: 0.7400319576263428
+    Temperate broadleaf and mixed forest: 0.6268680691719055
+    Flowering plant: 0.5853816270828247
+    Science: 0.5266110301017761
+- :image_url: https://live.staticflickr.com/6223/6213630060_499bc81188_b.jpg
+  :description: Ecorce
+  :labels:
+    Road surface: 0.8785070776939392
+    Textile: 0.8721306920051575
+    Grey: 0.845626175403595
+    Wall: 0.8083718419075012
+    Material property: 0.8009735345840454
+    Flooring: 0.7902916073799133
+    Art: 0.783929705619812
+    Pattern: 0.7805445790290833
+    Tints and shades: 0.7707020044326782
+    Circle: 0.742688000202179
+- :image_url: https://live.staticflickr.com/7503/15731700606_04f95090f6_b.jpg
+  :description: Dessin
+  :labels:
+    Branch: 0.8828938007354736
+    Plant: 0.8767176866531372
+    Twig: 0.8688839077949524
+    Wood: 0.8539966344833374
+    Art: 0.8139238953590393
+    Trunk: 0.8010642528533936
+    Font: 0.7997785806655884
+    Tree: 0.7855275273323059
+    Illustration: 0.7250323295593262
+    Environmental art: 0.7139721512794495
+- :image_url: https://live.staticflickr.com/6076/6059546112_a89f43e4a5_b.jpg
+  :description: Surtout la ville
+  :labels:
+    Sky: 0.9567530751228333
+    Daytime: 0.9443544149398804
+    Plant: 0.9417873620986938
+    Building: 0.9363193511962891
+    Car: 0.9287618398666382
+    Tire: 0.9034229516983032
+    Vehicle: 0.8984888792037964
+    Road surface: 0.88055419921875
+    Motor vehicle: 0.8726227879524231
+    Street light: 0.8712618947029114
+- :image_url: https://live.staticflickr.com/7633/17058414895_038eebfe3a_b.jpg
+  :description: VALID
+  :labels:
+    Twig: 0.8804225921630859
+    Plant: 0.8718815445899963
+    Mammal: 0.857136607170105
+    Wood: 0.852705180644989
+    Trunk: 0.8422437310218811
+    Tree: 0.8392252922058105
+    Woody plant: 0.8046189546585083
+    Terrestrial plant: 0.7139015197753906
+    Flowering plant: 0.6227278709411621
+    Wildlife: 0.6016125082969666
+- :image_url: https://live.staticflickr.com/5224/5600093172_40b023c3a4_b.jpg
+  :description: VALID
+  :labels:
+    Sky: 0.9692445397377014
+    Plant: 0.925581157207489
+    World: 0.9208840727806091
+    Wood: 0.8891252279281616
+    Branch: 0.8768413662910461
+    Cloud: 0.8667061924934387
+    Trunk: 0.8612406849861145
+    Tree: 0.818041205406189
+    Art: 0.7970501780509949
+    Artifact: 0.7965874075889587
+- :image_url: https://live.staticflickr.com/1843/42768644080_29a2c31723_b.jpg
+  :description: VALID
+  :labels:
+    Light: 0.910661518573761
+    People in nature: 0.8907812833786011
+    Twig: 0.8829769492149353
+    Branch: 0.8778970241546631
+    Trunk: 0.863770067691803
+    Tree: 0.8605213165283203
+    Vegetation: 0.8477646708488464
+    Terrestrial plant: 0.8463917374610901
+    Sunlight: 0.843365490436554
+    Deciduous: 0.8398500680923462
+- :image_url: https://live.staticflickr.com/65535/48984330671_10b9cca7a3_b.jpg
+  :description: VALID
+  :labels:
+    Car: 0.9767305850982666
+    Land vehicle: 0.9702630043029785
+    Tire: 0.9650305509567261
+    Sky: 0.9614538550376892
+    Wheel: 0.9584739804267883
+    Vehicle: 0.9530301690101624
+    Cloud: 0.9319738745689392
+    Building: 0.9278175830841064
+    Window: 0.9214544892311096
+    Infrastructure: 0.9111347794532776
+- :image_url: https://live.staticflickr.com/65535/48907248821_2bac405c9a_b.jpg
+  :description: VALID
+  :labels:
+    Plant: 0.9564248323440552
+    Building: 0.9364230036735535
+    World: 0.9115532636642456
+    Leaf: 0.8957324624061584
+    Tree: 0.8890609741210938
+    Branch: 0.8869991898536682
+    Shade: 0.8650112152099609
+    Vegetation: 0.8496829271316528
+    Tower block: 0.8466551303863525
+    Sunlight: 0.8439804315567017
+- :image_url: https://live.staticflickr.com/4431/36509676294_087b9cee6b_b.jpg
+  :description: VALID
+  :labels:
+    Cloud: 0.9839112758636475
+    Sky: 0.9781741499900818
+    Plant: 0.9384620189666748
+    Twig: 0.8505610227584839
+    Terrestrial plant: 0.8158576488494873
+    Natural landscape: 0.806999683380127
+    Cumulus: 0.7567095756530762
+    Tree: 0.7565109133720398
+    Flowering plant: 0.7328497767448425
+    Electric blue: 0.6700618863105774
+- :image_url: https://live.staticflickr.com/7259/7147813195_afb50a2a15_b.jpg
+  :description: VALID
+  :labels:
+    Sky: 0.9698798656463623
+    Tree: 0.8677564859390259
+    Twig: 0.8664233684539795
+    Wood: 0.8501060009002686
+    Natural landscape: 0.8458361029624939
+    Trunk: 0.8298917412757874
+    Plant: 0.824675977230072
+    Deciduous: 0.7851125001907349
+    Tints and shades: 0.7726203799247742
+    Grass: 0.7050105929374695
