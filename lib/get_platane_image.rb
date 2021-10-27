@@ -1,6 +1,9 @@
 require 'flickr_helpers'
 require 'already_used_images'
 require 'blacklist_images'
+require 'extract_labels_from_image'
+require 'images_with_labels'
+require 'analyze_image'
 
 class GetPlataneImage
   include FlickrHelpers
@@ -31,6 +34,7 @@ class GetPlataneImage
   def extract_valid_photo
     if interactive
       photo = elligible_photos.sample
+      elligible_photos.delete(photo)
 
       print "Photo: #{build_photo_url(photo)}\nKeep it ? (y/N)"
       answer = STDIN.gets
@@ -42,7 +46,15 @@ class GetPlataneImage
         extract_valid_photo
       end
     else
-      elligible_photos.sample
+      image = elligible_photos.sample
+      elligible_photos.delete image
+
+      if valid_image?(image)
+        image
+      else
+        print "Invalid image, extract new one\n"
+        extract_valid_photo
+      end
     end
   end
 
@@ -51,6 +63,22 @@ class GetPlataneImage
       blacklist?(photo) ||
         already_used?(photo)
     end
+  end
+
+  def valid_image?(photo)
+    photo_url = build_photo_url(photo)
+    labels = ExtractLabelsFromImage.new(photo_url).perform
+    valid = AnalyzeImage.new(labels).valid?
+    valid_status = valid ? 'OK' : 'NOK'
+
+    ImagesWithLabels.data['items'] << {
+      image_url: photo_url,
+      description: "TBD #{valid_status}",
+      labels: labels
+    }
+    ImagesWithLabels.save!
+
+    valid
   end
 
   def flickr_api_url
