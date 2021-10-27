@@ -29,6 +29,13 @@ backend = YAML.load_file(backend_file)
 image_url = ARGV[0]
 description = ARGV[1]
 
+image_already_analysed = backend['items'].any? { |item| item[:image_url] == image_url }
+
+if image_already_analysed
+  print "Image already analysed"
+  exit 2
+end
+
 labels = ExtractLabelsFromImage.new(image_url).perform
 
 backend['items'] << {
