@@ -42,6 +42,7 @@ class AnalyzeImage
   def blacklist_labels
     [
       'Human',
+      'Human body',
       'Lip',
       'Hand',
       'Facial expression',
