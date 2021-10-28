@@ -168,3 +168,16 @@ items:
     Deciduous: 0.7851125001907349
     Tints and shades: 0.7726203799247742
     Grass: 0.7050105929374695
+- :image_url: https://live.staticflickr.com/7874/46556479564_1c067f158d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9531678557395935
+    People in nature: 0.9058444499969482
+    Human body: 0.8848977088928223
+    Branch: 0.8821575045585632
+    Wood: 0.8772481679916382
+    Trunk: 0.867007851600647
+    Tree: 0.866071343421936
+    Grass: 0.8085171580314636
+    Tints and shades: 0.7730178236961365
+    Happy: 0.7694668173789978
