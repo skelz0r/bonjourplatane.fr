@@ -181,3 +181,29 @@ items:
     Grass: 0.8085171580314636
     Tints and shades: 0.7730178236961365
     Happy: 0.7694668173789978
+- :image_url: https://live.staticflickr.com/8122/8693180654_b9084c0b7b_b.jpg
+  :description: En ville, y'a un poteau au milieu et plusieurs arbres
+  :labels:
+    Wheel: 0.9664311408996582
+    Plant: 0.9630802869796753
+    Sky: 0.9537385702133179
+    Daytime: 0.9454996585845947
+    Tire: 0.9281169176101685
+    Street light: 0.9209436774253845
+    Car: 0.9153262972831726
+    Building: 0.914665162563324
+    Road surface: 0.905914306640625
+    Infrastructure: 0.9019774794578552
+- :image_url: https://live.staticflickr.com/2650/3724121957_4598d721cd_b.jpg
+  :description: C'est une graine
+  :labels:
+    Leaf: 0.89866042137146
+    Wood: 0.8825734257698059
+    Twig: 0.8549425601959229
+    Grass: 0.8263925313949585
+    Road surface: 0.8130202293395996
+    Trunk: 0.7886499762535095
+    Asphalt: 0.7807150483131409
+    Terrestrial animal: 0.7802159786224365
+    Terrestrial plant: 0.7494354248046875
+    Landscape: 0.7427906394004822
