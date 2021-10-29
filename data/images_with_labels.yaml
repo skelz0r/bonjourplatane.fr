@@ -207,3 +207,16 @@ items:
     Terrestrial animal: 0.7802159786224365
     Terrestrial plant: 0.7494354248046875
     Landscape: 0.7427906394004822
+- :image_url: https://live.staticflickr.com/4072/4587936775_3b561fa4b1_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9769039750099182
+    Cloud: 0.9237586259841919
+    World: 0.9093867540359497
+    Branch: 0.8803046345710754
+    Twig: 0.8616755604743958
+    Trunk: 0.82610684633255
+    Natural landscape: 0.8235412240028381
+    Woody plant: 0.8008175492286682
+    Tints and shades: 0.773155152797699
+    Terrestrial plant: 0.7367403507232666
