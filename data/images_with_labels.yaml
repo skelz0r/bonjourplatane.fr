@@ -220,3 +220,16 @@ items:
     Woody plant: 0.8008175492286682
     Tints and shades: 0.773155152797699
     Terrestrial plant: 0.7367403507232666
+- :image_url: https://live.staticflickr.com/4148/4845249711_dc05bca013_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9527236223220825
+    Water: 0.9173997640609741
+    Plant: 0.8876110315322876
+    Twig: 0.8567200899124146
+    Natural landscape: 0.7843756079673767
+    Tree: 0.7768267393112183
+    Tints and shades: 0.7715070843696594
+    Flowering plant: 0.7526109218597412
+    Fruit: 0.7311072945594788
+    Wood: 0.6825990080833435
