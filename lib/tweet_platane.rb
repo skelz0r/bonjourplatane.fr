@@ -1,7 +1,6 @@
 require 'dotenv/load'
 require 'twitter'
 
-
 class TweetPlatane
   attr_reader :date
 
@@ -10,6 +9,8 @@ class TweetPlatane
   end
 
   def perform
+    return unless platane_exists?
+
     client.update_with_media(
       text,
       image
@@ -25,6 +26,10 @@ class TweetPlatane
   end
 
   private
+
+  def platane_exists?
+    File.exist?(image_path)
+  end
 
   def date_dashed
     @date_dashed ||= date.strftime('%Y-%m-%d')

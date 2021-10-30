@@ -27,5 +27,10 @@ require 'tweet_platane'
 
 tweet = TweetPlatane.new(date_string).perform
 
-print "URI: #{tweet.uri}\n\n"
-print "Text: #{tweet.text}"
+if tweet
+  print "URI: #{tweet.uri}\n\n"
+  print "Text: #{tweet.text}"
+else
+  print 'No platane to tweet'
+  exit 3
+end

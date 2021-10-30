@@ -1,0 +1,53 @@
+env:
+  CI: true
+  RUBY_VERSION: 3.0.2
+  TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+  TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+  TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+  TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
+name: Today platane tweet
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  test:
+    name: Run
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: Setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.RUBY_VERSION }}
+
+      # - name: Setup tmate session (for debugging purpose)
+      #   uses: mxschmitt/action-tmate@v2
+
+      - name: Cache Gems
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Bundle install
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+          bundler install --jobs 4 --retry 3
+
+      - name: Set current date in ENV
+        run: |
+          echo "CURRENT_DATE=`date +%Y-%m-%d`" >> $GITHUB_ENV
+
+      - name: Create today platane
+        run: |
+          bundle exec ruby bin/tweet_platane.rb ${{ env.CURRENT_DATE }}
