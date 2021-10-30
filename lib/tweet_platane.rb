@@ -1,7 +1,6 @@
 require 'dotenv/load'
 require 'twitter'
 
-
 class TweetPlatane
   attr_reader :date
 
