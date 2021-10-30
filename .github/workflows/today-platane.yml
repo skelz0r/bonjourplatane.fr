@@ -13,7 +13,7 @@ on:
 
 jobs:
   test:
-    name: Generate today platane
+    name: Run
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -68,4 +68,3 @@ jobs:
           delete-branch: true
           base: develop
           title: Generate ${{ env.CURRENT_DATE }} platane
-
