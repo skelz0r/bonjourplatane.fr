@@ -68,3 +68,10 @@ jobs:
           delete-branch: true
           base: develop
           title: Generate ${{ env.CURRENT_DATE }} platane
+
+      # - name: Create and push on develop
+      #   uses: EndBug/add-and-commit@v7
+      #   with:
+      #     branch: develop
+      #     message: Generate ${{ env.CURRENT_DATE }} platane
+      #     push: true
