@@ -233,3 +233,29 @@ items:
     Flowering plant: 0.7526109218597412
     Fruit: 0.7311072945594788
     Wood: 0.6825990080833435
+- :image_url: https://live.staticflickr.com/16/92133874_c634e13358_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9247747659683228
+    Plant: 0.8625352382659912
+    Architecture: 0.8533535003662109
+    Building: 0.8349947333335876
+    Wood: 0.8286525011062622
+    Wall: 0.8127651810646057
+    Material property: 0.8019115924835205
+    Facade: 0.7835830450057983
+    Rectangle: 0.7791815400123596
+    Sky: 0.7753172516822815
+- :image_url: https://live.staticflickr.com/5293/5502370541_dc7aeb3933_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9664261341094971
+    Atmosphere: 0.9481807947158813
+    Cloud: 0.9181568026542664
+    World: 0.9038323760032654
+    Natural landscape: 0.8873944878578186
+    Twig: 0.8826071619987488
+    Tree: 0.8651480078697205
+    Trunk: 0.8497726321220398
+    Plant: 0.8477866649627686
+    Atmospheric phenomenon: 0.8255600333213806
