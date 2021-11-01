@@ -259,3 +259,16 @@ items:
     Trunk: 0.8497726321220398
     Plant: 0.8477866649627686
     Atmospheric phenomenon: 0.8255600333213806
+- :image_url: https://live.staticflickr.com/5218/5502369295_d62ce27bbe_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9789085388183594
+    Sky: 0.9752596616744995
+    Atmosphere: 0.9481807947158813
+    Plant: 0.93016517162323
+    Leaf: 0.8957027196884155
+    Natural environment: 0.8895131945610046
+    Natural landscape: 0.8875553011894226
+    Twig: 0.8806357979774475
+    Branch: 0.8671019673347473
+    Vegetation: 0.8503223657608032
