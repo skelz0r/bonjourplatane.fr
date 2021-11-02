@@ -272,3 +272,16 @@ items:
     Twig: 0.8806357979774475
     Branch: 0.8671019673347473
     Vegetation: 0.8503223657608032
+- :image_url: https://live.staticflickr.com/4483/38039164356_c774e12178_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9751613736152649
+    Plant: 0.9640045166015625
+    Tree: 0.88381427526474
+    Natural landscape: 0.8806861042976379
+    Branch: 0.8771457672119141
+    Fluvial landforms of streams: 0.8596006035804749
+    Body of water: 0.8509959578514099
+    Wood: 0.8411244750022888
+    Watercourse: 0.8356074094772339
+    Lake: 0.8217249512672424
