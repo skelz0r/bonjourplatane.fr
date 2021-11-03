@@ -285,3 +285,29 @@ items:
     Wood: 0.8411244750022888
     Watercourse: 0.8356074094772339
     Lake: 0.8217249512672424
+- :image_url: https://live.staticflickr.com/7498/15709740648_4ba0697e0f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Plant: 0.9293380379676819
+    Wood: 0.8440274000167847
+    Tree: 0.8267247676849365
+    Trunk: 0.7942286729812622
+    Beige: 0.7856249809265137
+    Tints and shades: 0.7639837265014648
+    Pattern: 0.7447730898857117
+    Rectangle: 0.718640148639679
+    Camouflage: 0.6511821150779724
+- :image_url: https://live.staticflickr.com/1441/25446260772_e531a9219b_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9287011623382568
+    Twig: 0.8558590412139893
+    Trunk: 0.8374130725860596
+    Tree: 0.8332709074020386
+    Wood: 0.8275248408317566
+    Tints and shades: 0.7719716429710388
+    Deciduous: 0.7114390134811401
+    Natural material: 0.6202391982078552
+    Plant stem: 0.5951336026191711
+    Wildlife: 0.573365330696106
