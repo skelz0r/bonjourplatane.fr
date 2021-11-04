@@ -1,3 +1,3 @@
-![Nathanaël](/images/2021-11-03.jpg)
+![Quentin](/images/2021-11-04.jpg)
 
-Crédits: [Bernhard Scheid](https://www.flickr.com/people/bluntschli/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr

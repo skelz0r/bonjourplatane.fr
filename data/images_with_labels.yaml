@@ -311,3 +311,16 @@ items:
     Natural material: 0.6202391982078552
     Plant stem: 0.5951336026191711
     Wildlife: 0.573365330696106
+- :image_url: https://live.staticflickr.com/4457/37948306091_2d704bdb2a_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9332010746002197
+    Twig: 0.8895641565322876
+    Natural environment: 0.8886644840240479
+    Botany: 0.8866576552391052
+    Branch: 0.8836925029754639
+    Sunlight: 0.8454270362854004
+    Tree: 0.8448702096939087
+    Sky: 0.8267351388931274
+    Biome: 0.8256716728210449
+    Woody plant: 0.8158550262451172
