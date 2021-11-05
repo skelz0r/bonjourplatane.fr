@@ -324,3 +324,29 @@ items:
     Sky: 0.8267351388931274
     Biome: 0.8256716728210449
     Woody plant: 0.8158550262451172
+- :image_url: https://live.staticflickr.com/3276/2692342544_f5e36f35a4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9515537023544312
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8683100342750549
+    Twig: 0.8470132946968079
+    Sunset: 0.832800030708313
+    Dusk: 0.8095500469207764
+    Wood: 0.8091820478439331
+    Sunrise: 0.797006368637085
+    Landscape: 0.7790185809135437
+    Tints and shades: 0.7672160267829895
+- :image_url: https://live.staticflickr.com/6208/6108862808_0f176e9f4d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9687063097953796
+    Sky: 0.9529669880867004
+    Natural landscape: 0.8892644047737122
+    Tree: 0.8760132789611816
+    Branch: 0.8746922612190247
+    Grass: 0.8638771772384644
+    Trunk: 0.7923744916915894
+    Shade: 0.7751413583755493
+    Tints and shades: 0.766376256942749
+    Flowering plant: 0.742058515548706

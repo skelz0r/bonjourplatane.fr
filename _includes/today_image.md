@@ -1,3 +1,3 @@
-![Quentin](/images/2021-11-04.jpg)
+![Tom](/images/2021-11-05.jpg)
 
-Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr
+Crédits: [nathanoj06](https://www.flickr.com/people/brad_le_roux/) on flickr
