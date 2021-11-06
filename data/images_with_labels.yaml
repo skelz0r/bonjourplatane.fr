@@ -350,3 +350,19 @@ items:
     Shade: 0.7751413583755493
     Tints and shades: 0.766376256942749
     Flowering plant: 0.742058515548706
+- :image_url: https://live.staticflickr.com/1823/42226730465_61bfb4acb4_b.jpg
+  :description: TBD NOK
+  :labels: {}
+- :image_url: https://live.staticflickr.com/4555/24871029608_27d4f0ac58_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9687776565551758
+    Atmosphere: 0.9481807947158813
+    Cloud: 0.9471738338470459
+    Tree: 0.8877789974212646
+    Natural landscape: 0.8834072351455688
+    Purple: 0.8780003190040588
+    Afterglow: 0.8687515258789062
+    Lighting: 0.8639764189720154
+    Dusk: 0.8604981303215027
+    Plant: 0.812961757183075

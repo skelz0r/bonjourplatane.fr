@@ -1,3 +1,3 @@
-![Tom](/images/2021-11-05.jpg)
+![Lila](/images/2021-11-06.jpg)
 
-Crédits: [nathanoj06](https://www.flickr.com/people/brad_le_roux/) on flickr
+Crédits: [sergecos](https://www.flickr.com/people/sergecos/) on flickr
