@@ -366,3 +366,16 @@ items:
     Lighting: 0.8639764189720154
     Dusk: 0.8604981303215027
     Plant: 0.812961757183075
+- :image_url: https://live.staticflickr.com/5174/5502982978_7e8cb44a6f_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9381950497627258
+    Flower: 0.8877336382865906
+    Twig: 0.8864985108375549
+    Wood: 0.8823248744010925
+    Branch: 0.8711296319961548
+    Sky: 0.8688015341758728
+    Tree: 0.8381707072257996
+    Natural landscape: 0.7924777865409851
+    Terrestrial plant: 0.7724973559379578
+    Deciduous: 0.7610086798667908
