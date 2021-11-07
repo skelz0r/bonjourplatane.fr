@@ -1,3 +1,3 @@
-![Lila](/images/2021-11-06.jpg)
+![Hugo](/images/2021-11-07.jpg)
 
-Crédits: [sergecos](https://www.flickr.com/people/sergecos/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
