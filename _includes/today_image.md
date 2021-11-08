@@ -1,3 +1,3 @@
-![Hugo](/images/2021-11-07.jpg)
+![Samuel](/images/2021-11-08.jpg)
 
-Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
+Crédits: [PhilC75](https://www.flickr.com/people/philc75/) on flickr
