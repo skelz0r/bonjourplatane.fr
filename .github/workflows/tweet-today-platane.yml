@@ -10,7 +10,7 @@ name: Today platane tweet
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 10 * * *"
 
 jobs:
   test:
