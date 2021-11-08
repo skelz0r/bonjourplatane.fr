@@ -60,18 +60,18 @@ jobs:
           rm -rf .bundle/
           git checkout Gemfile.lock
 
-      - name: Create Pull request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          commit-message: Generate ${{ env.CURRENT_DATE }} platane
-          branch: posts/${{ env.CURRENT_DATE }}
-          delete-branch: true
-          base: develop
-          title: Generate ${{ env.CURRENT_DATE }} platane
-
-      # - name: Create and push on develop
-      #   uses: EndBug/add-and-commit@v7
+      # - name: Create Pull request
+      #   uses: peter-evans/create-pull-request@v3
       #   with:
-      #     branch: develop
-      #     message: Generate ${{ env.CURRENT_DATE }} platane
-      #     push: true
+      #     commit-message: Generate ${{ env.CURRENT_DATE }} platane
+      #     branch: posts/${{ env.CURRENT_DATE }}
+      #     delete-branch: true
+      #     base: develop
+      #     title: Generate ${{ env.CURRENT_DATE }} platane
+
+      - name: Create and push on develop
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: develop
+          message: Generate ${{ env.CURRENT_DATE }} platane
+          push: true
