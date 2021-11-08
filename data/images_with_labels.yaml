@@ -379,3 +379,16 @@ items:
     Natural landscape: 0.7924777865409851
     Terrestrial plant: 0.7724973559379578
     Deciduous: 0.7610086798667908
+- :image_url: https://live.staticflickr.com/8377/8531479777_08cff3e391_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9647032022476196
+    Twig: 0.8763934969902039
+    Plant: 0.855863094329834
+    Tree: 0.8353668451309204
+    Trunk: 0.818932294845581
+    Wood: 0.7478128671646118
+    Deciduous: 0.6810227036476135
+    Plant stem: 0.6006091833114624
+    Event: 0.5611726641654968
+    Natural material: 0.5265282392501831
