@@ -4,6 +4,7 @@ env:
   FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }}
   VISION_CREDENTIALS: secrets/google-vision.json
   VISION_CREDENTIALS_BASE_64: ${{ secrets.VISION_CREDENTIALS_BASE_64 }}
+  ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
 name: Generate today platane
 
@@ -20,6 +21,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: develop
+          token: ${{ env.ACCESS_TOKEN }}
 
       - name: Setup ruby
         uses: ruby/setup-ruby@v1
@@ -72,6 +74,7 @@ jobs:
       - name: Create and push on develop
         uses: EndBug/add-and-commit@v7
         with:
+          default_author: github_actions
           branch: develop
           message: Generate ${{ env.CURRENT_DATE }} platane
           push: true

@@ -50,9 +50,11 @@ bundle exec ruby bin/tweet_platane.rb `date +%Y-%m-%d`
 
 Add the following secrets:
 
-* `FLICKR_API_KEY` : Flickr API key
-* `VISION_CREDENTIALS_BASE_64` : JSON key for the Google Vision API as url safe
+- `FLICKR_API_KEY` : Flickr API key
+- `VISION_CREDENTIALS_BASE_64` : JSON key for the Google Vision API as url safe
   base64. You can use `./bin/encode_google_vision_json_key.rb` to generate this file
+- `ACCESS_TOKEN` : Github Personal Access Token with at least write access to
+  repositories: can trigger builds from push to develop
 
 ## Analytics
 
