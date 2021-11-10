@@ -405,3 +405,29 @@ items:
     Deciduous: 0.7674253582954407
     Pattern: 0.725636899471283
     Monochrome photography: 0.7237322926521301
+- :image_url: https://live.staticflickr.com/65535/49929867798_21d772373b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762204885482788
+    Liquid: 0.8431996703147888
+    Terrestrial plant: 0.8163679242134094
+    Lake: 0.8112788796424866
+    Twig: 0.7839870452880859
+    Grass: 0.7611027359962463
+    Tints and shades: 0.7349881529808044
+    Flowering plant: 0.7336666584014893
+    Natural landscape: 0.6923115253448486
+    Lacustrine plain: 0.6861192584037781
+- :image_url: https://live.staticflickr.com/65535/51567158152_398a3b32a4_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9765039682388306
+    Plant: 0.9730255603790283
+    Sky: 0.9691424369812012
+    Botany: 0.8959448933601379
+    Natural landscape: 0.8946680426597595
+    Natural environment: 0.8935832381248474
+    Road surface: 0.8851439356803894
+    Branch: 0.879061222076416
+    Tree: 0.8776139616966248
+    Vegetation: 0.8618970513343811
