@@ -119,8 +119,11 @@ class GetPlataneImage
     AlreadyUsedImages.instance.include?(build_photo_url(photo))
   end
 
-  # 500 = Max
   def per_page
-    100
+    max_per_page
+  end
+
+  def max_per_page
+    500
   end
 end
