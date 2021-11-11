@@ -431,3 +431,16 @@ items:
     Branch: 0.879061222076416
     Tree: 0.8776139616966248
     Vegetation: 0.8618970513343811
+- :image_url: https://live.staticflickr.com/3686/9386213402_34a7b7e158_b.jpg
+  :description: TBD OK
+  :labels:
+    Branch: 0.8714823126792908
+    Tree: 0.86065274477005
+    Twig: 0.8459839224815369
+    Natural landscape: 0.8454978466033936
+    Trunk: 0.8329285979270935
+    Terrestrial plant: 0.8224218487739563
+    Plant: 0.8050026297569275
+    Grass: 0.7660072445869446
+    Deciduous: 0.7433280944824219
+    Tints and shades: 0.7261806726455688
