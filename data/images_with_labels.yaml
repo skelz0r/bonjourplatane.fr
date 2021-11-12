@@ -444,3 +444,16 @@ items:
     Grass: 0.7660072445869446
     Deciduous: 0.7433280944824219
     Tints and shades: 0.7261806726455688
+- :image_url: https://live.staticflickr.com/340/32666063056_bcc65817e5_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9711877107620239
+    Plant: 0.9567164778709412
+    Tree: 0.8852458000183105
+    Natural landscape: 0.8819149136543274
+    Branch: 0.8767500519752502
+    Twig: 0.8704904317855835
+    Wood: 0.8656669855117798
+    Grass: 0.8269249200820923
+    Thoroughfare: 0.8170833587646484
+    Woody plant: 0.810529351234436
