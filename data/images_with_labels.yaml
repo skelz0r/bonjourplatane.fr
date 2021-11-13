@@ -457,3 +457,16 @@ items:
     Grass: 0.8269249200820923
     Thoroughfare: 0.8170833587646484
     Woody plant: 0.810529351234436
+- :image_url: https://live.staticflickr.com/5531/14583214516_1c6929b62d_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.960811197757721
+    Building: 0.951375424861908
+    Window: 0.902633011341095
+    Tree: 0.8653314113616943
+    Road surface: 0.8090280294418335
+    Woody plant: 0.8052524924278259
+    City: 0.7810617089271545
+    Facade: 0.7720590829849243
+    Tints and shades: 0.7676618099212646
+    Travel: 0.7349473834037781
