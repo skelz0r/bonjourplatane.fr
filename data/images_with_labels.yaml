@@ -483,3 +483,16 @@ items:
     Wood: 0.7255685925483704
     Twig: 0.7152214050292969
     Road: 0.690838098526001
+- :image_url: https://live.staticflickr.com/220/513284494_116b251fd6_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9615004658699036
+    Flower: 0.9007619619369507
+    Leaf: 0.8962490558624268
+    Tree: 0.8513631820678711
+    Terrestrial plant: 0.7687792181968689
+    Fruit tree: 0.7422966361045837
+    Flowering plant: 0.7401986122131348
+    Grapevine family: 0.7125499248504639
+    Twig: 0.6954213380813599
+    Grape leaves: 0.6791384220123291
