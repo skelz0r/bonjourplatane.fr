@@ -496,3 +496,16 @@ items:
     Grapevine family: 0.7125499248504639
     Twig: 0.6954213380813599
     Grape leaves: 0.6791384220123291
+- :image_url: https://live.staticflickr.com/65535/48814712686_35035aebae_b.jpg
+  :description: TBD OK
+  :labels:
+    World: 0.9069511294364929
+    Wood: 0.8950114846229553
+    Branch: 0.8947343826293945
+    Leaf: 0.8927385210990906
+    Trunk: 0.8722898364067078
+    Tree: 0.8632328510284424
+    Biome: 0.8323960304260254
+    Woody plant: 0.8097683191299438
+    Twig: 0.8087256550788879
+    Birdhouse: 0.8072728514671326
