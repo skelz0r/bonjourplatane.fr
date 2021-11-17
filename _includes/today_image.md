@@ -1,3 +1,3 @@
-![Faustine](/images/2021-11-16.jpg)
+![Margaux](/images/2021-11-17.jpg)
 
-Crédits: [thierry llansades](https://www.flickr.com/people/llansades/) on flickr
+Crédits: [lilli2de](https://www.flickr.com/people/seven_of9/) on flickr

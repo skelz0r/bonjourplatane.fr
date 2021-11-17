@@ -509,3 +509,29 @@ items:
     Woody plant: 0.8097683191299438
     Twig: 0.8087256550788879
     Birdhouse: 0.8072728514671326
+- :image_url: https://live.staticflickr.com/65535/51257962442_659b210112_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9770256876945496
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9471738338470459
+    Sky: 0.936106264591217
+    Ecoregion: 0.9256210327148438
+    Afterglow: 0.9143838882446289
+    Liquid: 0.876800000667572
+    Natural landscape: 0.8726886510848999
+    Orange: 0.8726774454116821
+    Fluid: 0.8696794509887695
+- :image_url: https://live.staticflickr.com/4019/4319244589_be9451bbcb_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.960882306098938
+    Atmosphere: 0.9481807947158813
+    Wood: 0.8789189457893372
+    Natural landscape: 0.8779826164245605
+    World: 0.8677940964698792
+    Trunk: 0.8654500246047974
+    Tree: 0.8649275898933411
+    Twig: 0.8595181703567505
+    Deciduous: 0.8012474775314331
+    Tints and shades: 0.7739855647087097
