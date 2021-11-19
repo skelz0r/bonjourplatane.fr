@@ -1,3 +1,3 @@
-![Nathanaël](/images/2021-11-18.jpg)
+![Lyna](/images/2021-11-19.jpg)
 
-Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr
+Crédits: [www.wbayer.com - www.facebook.com/wbayercom](https://www.flickr.com/people/wbayercom/) on flickr

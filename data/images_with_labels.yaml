@@ -626,3 +626,29 @@ items:
     Tints and shades: 0.7736411094665527
     Twig: 0.7716423273086548
     Outdoor bench: 0.7641183137893677
+- :image_url: https://live.staticflickr.com/108/311075918_6f33ce1b15_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9347285032272339
+    Sky: 0.8924072980880737
+    Road surface: 0.8854862451553345
+    Branch: 0.8733915090560913
+    Electricity: 0.8687732219696045
+    Tree: 0.8371939659118652
+    Neighbourhood: 0.8312046527862549
+    Plant: 0.8305102586746216
+    Residential area: 0.7917043566703796
+    Road: 0.7887775301933289
+- :image_url: https://live.staticflickr.com/1974/45335270861_fc1d916a4c_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9483211636543274
+    Plant: 0.9479678869247437
+    Road surface: 0.8873252868652344
+    Tree: 0.8668003082275391
+    Shade: 0.863259494304657
+    Building: 0.8446282148361206
+    Woody plant: 0.8195317983627319
+    Leisure: 0.8109827041625977
+    City: 0.7895498871803284
+    Urban design: 0.7881896495819092
