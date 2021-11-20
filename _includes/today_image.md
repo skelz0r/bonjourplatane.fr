@@ -1,3 +1,3 @@
-![Lyna](/images/2021-11-19.jpg)
+![Angèle](/images/2021-11-20.jpg)
 
-Crédits: [www.wbayer.com - www.facebook.com/wbayercom](https://www.flickr.com/people/wbayercom/) on flickr
+Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr

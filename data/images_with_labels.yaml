@@ -652,3 +652,81 @@ items:
     Leisure: 0.8109827041625977
     City: 0.7895498871803284
     Urban design: 0.7881896495819092
+- :image_url: https://live.staticflickr.com/16/92133874_c634e13358_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9247747659683228
+    Plant: 0.8625352382659912
+    Architecture: 0.8533535003662109
+    Building: 0.8349947333335876
+    Wood: 0.8286525011062622
+    Wall: 0.8127651810646057
+    Material property: 0.8019115924835205
+    Facade: 0.7835830450057983
+    Rectangle: 0.7791815400123596
+    Sky: 0.7753172516822815
+- :image_url: https://live.staticflickr.com/7498/15709740648_4ba0697e0f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Plant: 0.9293380379676819
+    Wood: 0.8440274000167847
+    Tree: 0.8267247676849365
+    Trunk: 0.7942286729812622
+    Beige: 0.7856249809265137
+    Tints and shades: 0.7639837265014648
+    Pattern: 0.7447730898857117
+    Rectangle: 0.718640148639679
+    Camouflage: 0.6511821150779724
+- :image_url: https://live.staticflickr.com/65535/50066192982_cecd99c09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330711364746094
+    Road surface: 0.8319665193557739
+    Wood: 0.8241688013076782
+    Urban design: 0.82343590259552
+    Neighbourhood: 0.8189184069633484
+    Gas: 0.7803220152854919
+    City: 0.761350154876709
+    Sidewalk: 0.7401350140571594
+    Composite material: 0.7344955801963806
+    Facade: 0.7344334125518799
+- :image_url: https://live.staticflickr.com/4050/4621443060_76e9fcb5bd_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9756446480751038
+    Plant: 0.9575576782226562
+    Natural landscape: 0.8907727003097534
+    Natural environment: 0.8893810510635376
+    Body of water: 0.8472487926483154
+    Grass: 0.8383035063743591
+    Watercourse: 0.8364418745040894
+    Tree: 0.8293474912643433
+    Bank: 0.8261971473693848
+    Road surface: 0.8097510933876038
+- :image_url: https://live.staticflickr.com/5573/15268789632_9a6546be6a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9755120873451233
+    Sky: 0.9635610580444336
+    Afterglow: 0.9073030352592468
+    Cloud: 0.8984994292259216
+    Dusk: 0.8683615326881409
+    Beach: 0.8512528538703918
+    Sunrise: 0.8475185632705688
+    Sunset: 0.8468990921974182
+    Coastal and oceanic landforms: 0.8285346031188965
+    Horizon: 0.825654923915863
+- :image_url: https://live.staticflickr.com/7144/6778273669_7b7db864ac_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9773925542831421
+    Plant: 0.9628161191940308
+    Building: 0.9386269450187683
+    Natural landscape: 0.8980979919433594
+    Sky: 0.8830437064170837
+    Tree: 0.874987781047821
+    Lake: 0.8343125581741333
+    House: 0.8053684830665588
+    Grass: 0.8011959791183472
+    Landscape: 0.795718252658844
