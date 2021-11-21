@@ -730,3 +730,29 @@ items:
     House: 0.8053684830665588
     Grass: 0.8011959791183472
     Landscape: 0.795718252658844
+- :image_url: https://live.staticflickr.com/7397/9383454029_8edc8d2763_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9363899827003479
+    Branch: 0.8721203804016113
+    Fruit: 0.8706783056259155
+    Grape: 0.8429709076881409
+    Grass: 0.8187375664710999
+    Seedless fruit: 0.8142238259315491
+    Twig: 0.8082298636436462
+    Tree: 0.8039476275444031
+    Woody plant: 0.7998095750808716
+    Groundcover: 0.7907243967056274
+- :image_url: https://live.staticflickr.com/283/32334517622_6ee460372b_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9630425572395325
+    Light: 0.9111208915710449
+    Nature: 0.9015087485313416
+    Botany: 0.9008437991142273
+    Branch: 0.8851907253265381
+    Twig: 0.8846890926361084
+    Tree: 0.8655413389205933
+    Yellow: 0.8451377749443054
+    Wood: 0.8302531242370605
+    Terrestrial plant: 0.8238241076469421
