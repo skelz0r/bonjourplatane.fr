@@ -756,3 +756,42 @@ items:
     Yellow: 0.8451377749443054
     Wood: 0.8302531242370605
     Terrestrial plant: 0.8238241076469421
+- :image_url: https://live.staticflickr.com/4026/5131793499_036677956c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Insect: 0.9339244365692139
+    Ladybug: 0.9258930087089539
+    Arthropod: 0.9166379570960999
+    Wood: 0.8868159651756287
+    Beetle: 0.8736538887023926
+    Hardwood: 0.7857082486152649
+    Pest: 0.7856147885322571
+    Varnish: 0.731207549571991
+    Wood stain: 0.7000458836555481
+- :image_url: https://live.staticflickr.com/4809/45521857834_f7ac7b5b71_b.jpg
+  :description: TBD NOK
+  :labels:
+    Vertebrate: 0.9216375946998596
+    Organism: 0.8644490242004395
+    Marine biology: 0.7892224192619324
+    Arthropod: 0.7881234884262085
+    Underwater: 0.7648327350616455
+    Terrestrial animal: 0.7631338834762573
+    Scaled reptile: 0.7257359623908997
+    Close-up: 0.703016459941864
+    Soil: 0.6780081391334534
+    Fashion accessory: 0.6553020477294922
+- :image_url: https://live.staticflickr.com/7835/31835969647_5208110649_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9737396240234375
+    Sky: 0.9639889597892761
+    Cloud: 0.9068979024887085
+    Natural landscape: 0.9008857011795044
+    Branch: 0.884723424911499
+    Twig: 0.8712321519851685
+    Watercourse: 0.8359309434890747
+    Wood: 0.8359087705612183
+    Bank: 0.8240016102790833
+    Plant: 0.8226678371429443
