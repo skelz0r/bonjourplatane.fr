@@ -808,3 +808,29 @@ items:
     Flowering plant: 0.7254719138145447
     Close-up: 0.7198976874351501
     Art: 0.6856028437614441
+- :image_url: https://live.staticflickr.com/1964/43519733200_dc126de393_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.881006121635437
+    Plant: 0.8541924953460693
+    Trunk: 0.8396791815757751
+    Woody plant: 0.8129169940948486
+    Wall: 0.8105175495147705
+    Formation: 0.7928433418273926
+    Tree: 0.7876268625259399
+    Tints and shades: 0.7721914052963257
+    Landscape: 0.7544270753860474
+    Automotive tire: 0.7480998039245605
+- :image_url: https://live.staticflickr.com/4292/36132835995_1f55117e80_b.jpg
+  :description: TBD OK
+  :labels:
+    Light: 0.9106462597846985
+    Twig: 0.8735455870628357
+    Plant: 0.8731018900871277
+    Branch: 0.8685664534568787
+    Wood: 0.8589022159576416
+    Trunk: 0.8381584286689758
+    Freezing: 0.7988414764404297
+    Terrestrial plant: 0.7755166292190552
+    Tints and shades: 0.7738731503486633
+    Deciduous: 0.7735369801521301
