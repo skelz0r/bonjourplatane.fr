@@ -834,3 +834,29 @@ items:
     Terrestrial plant: 0.7755166292190552
     Tints and shades: 0.7738731503486633
     Deciduous: 0.7735369801521301
+- :image_url: https://live.staticflickr.com/65535/51585881184_0b7c3dccd9_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9449573159217834
+    Leaf: 0.8981521725654602
+    Branch: 0.885706901550293
+    Botany: 0.8778719902038574
+    Twig: 0.821942150592804
+    Tree: 0.7879460453987122
+    Flowering plant: 0.7629405856132507
+    Terrestrial plant: 0.6413377523422241
+    Deciduous: 0.5630155205726624
+    Flower: 0.5599834322929382
+- :image_url: https://live.staticflickr.com/7800/46070980165_de64b5e149_b.jpg
+  :description: TBD OK
+  :labels:
+    Window: 0.9417633414268494
+    Plant: 0.9239326119422913
+    Building: 0.9171146750450134
+    Cloud: 0.9134014844894409
+    Sky: 0.9110322594642639
+    Tree: 0.8958795666694641
+    Door: 0.8924739956855774
+    House: 0.8482919335365295
+    Road surface: 0.8440181016921997
+    Wood: 0.8086457252502441
