@@ -860,3 +860,16 @@ items:
     House: 0.8482919335365295
     Road surface: 0.8440181016921997
     Wood: 0.8086457252502441
+- :image_url: https://live.staticflickr.com/3468/3301640428_4b0c0ee441_b.jpg
+  :description: TBD OK
+  :labels:
+    Street light: 0.9268693327903748
+    Twig: 0.8743458390235901
+    Branch: 0.8720031976699829
+    Wood: 0.8282696604728699
+    Woody plant: 0.8125348687171936
+    Trunk: 0.7989075779914856
+    Tree: 0.793301522731781
+    Sky: 0.7921072244644165
+    Tints and shades: 0.7732457518577576
+    Monochrome: 0.76172935962677
