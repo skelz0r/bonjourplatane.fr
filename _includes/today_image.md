@@ -1,3 +1,3 @@
-![Aurore](/images/2021-11-27.jpg)
+![Samuel](/images/2021-11-28.jpg)
 
-Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr
+Crédits: [@YannGarPhoto](https://www.flickr.com/people/yannickgar/) on flickr
