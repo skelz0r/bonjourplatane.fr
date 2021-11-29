@@ -899,3 +899,16 @@ items:
     Body of water: 0.8413209319114685
     Sky: 0.8363131284713745
     Leisure: 0.8164562582969666
+- :image_url: https://live.staticflickr.com/7920/46320490865_5482ba6c1a_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.967694878578186
+    Cloud: 0.9510729312896729
+    Water: 0.9492387771606445
+    Sky: 0.9457306861877441
+    Plant community: 0.932616114616394
+    Boat: 0.9071946144104004
+    Tree: 0.8949888944625854
+    Natural landscape: 0.8912307024002075
+    Watercraft: 0.849618673324585
+    Body of water: 0.8419910669326782
