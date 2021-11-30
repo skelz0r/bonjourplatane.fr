@@ -912,3 +912,55 @@ items:
     Natural landscape: 0.8912307024002075
     Watercraft: 0.849618673324585
     Body of water: 0.8419910669326782
+- :image_url: https://live.staticflickr.com/2902/14619069864_b58ebbb826_b.jpg
+  :description: TBD NOK
+  :labels:
+    Road surface: 0.8490187525749207
+    Road: 0.7653395533561707
+    Tunnel: 0.7570227980613708
+    Vault: 0.7331287860870361
+    Concrete: 0.7261718511581421
+    Arch: 0.7085582613945007
+    Arcade: 0.7068953514099121
+    Symmetry: 0.67867112159729
+    History: 0.6548015475273132
+    Historic site: 0.65143883228302
+- :image_url: https://live.staticflickr.com/7427/13990223827_c38748f718_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8828938007354736
+    Plant: 0.8767176866531372
+    Twig: 0.8688839077949524
+    Wood: 0.8539966344833374
+    Art: 0.8139238953590393
+    Trunk: 0.8010642528533936
+    Font: 0.7997785806655884
+    Tree: 0.7855275273323059
+    Illustration: 0.7250323295593262
+    Environmental art: 0.7139721512794495
+- :image_url: https://live.staticflickr.com/2205/2012574245_8233d8fe93_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9083254933357239
+    Terrestrial plant: 0.8522893786430359
+    Asphalt: 0.769363522529602
+    Tints and shades: 0.7659881711006165
+    Road surface: 0.7646889090538025
+    Slope: 0.7617813348770142
+    Grass: 0.7510678172111511
+    Soil: 0.6871660351753235
+    Flowering plant: 0.6784135699272156
+    Font: 0.656220555305481
+- :image_url: https://live.staticflickr.com/4135/4849187277_8a9edc351d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.8925976753234863
+    Branch: 0.868820071220398
+    Twig: 0.8533767461776733
+    Terrestrial plant: 0.8366339802742004
+    Tree: 0.8255620002746582
+    Grass: 0.8228604793548584
+    Evergreen: 0.8098852634429932
+    Trunk: 0.8027186989784241
+    Shrub: 0.7764549255371094
+    Tints and shades: 0.7691692113876343
