@@ -1,3 +1,3 @@
-![Flavie](/images/2021-11-30.jpg)
+![Théo](/images/2021-12-01.jpg)
 
-Crédits: [Tom à la rue](https://www.flickr.com/people/t2thestreet/) on flickr
+Crédits: [L'imaGiraphe](https://www.flickr.com/people/limagiraphe/) on flickr

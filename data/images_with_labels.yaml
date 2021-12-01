@@ -964,3 +964,29 @@ items:
     Trunk: 0.8027186989784241
     Shrub: 0.7764549255371094
     Tints and shades: 0.7691692113876343
+- :image_url: https://live.staticflickr.com/5579/14598156076_1bddea5618_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9728721380233765
+    Water resources: 0.9473137259483337
+    Nature: 0.8998746275901794
+    Leaf: 0.896728515625
+    World: 0.881812334060669
+    Plant: 0.8712090849876404
+    Watercourse: 0.8309697508811951
+    Wood: 0.8233875036239624
+    Art: 0.8153403997421265
+    Road surface: 0.7876762747764587
+- :image_url: https://live.staticflickr.com/6063/6094354995_db6ed54bbc_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8973243236541748
+    Plant: 0.8854462504386902
+    Branch: 0.8706930875778198
+    Vegetation: 0.848374605178833
+    Sunlight: 0.8430625200271606
+    Trunk: 0.8405927419662476
+    Sky: 0.827602207660675
+    Wood: 0.8253819346427917
+    People in nature: 0.7947519421577454
+    Adaptation: 0.7918581366539001
