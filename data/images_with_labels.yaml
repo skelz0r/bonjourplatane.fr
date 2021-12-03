@@ -1003,3 +1003,16 @@ items:
     Land lot: 0.8609951138496399
     Agriculture: 0.8242437839508057
     Landscape: 0.8149527907371521
+- :image_url: https://live.staticflickr.com/4451/37764719796_e93527e75a_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    People in nature: 0.9139382243156433
+    Twig: 0.8723843097686768
+    Trunk: 0.836150050163269
+    Natural landscape: 0.8125947713851929
+    Deciduous: 0.7967351078987122
+    Tree: 0.7746193408966064
+    Tints and shades: 0.7737674117088318
+    Terrestrial plant: 0.7088865041732788
+    Temperate broadleaf and mixed forest: 0.6951647400856018
