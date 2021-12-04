@@ -1016,3 +1016,16 @@ items:
     Tints and shades: 0.7737674117088318
     Terrestrial plant: 0.7088865041732788
     Temperate broadleaf and mixed forest: 0.6951647400856018
+- :image_url: https://live.staticflickr.com/8150/7261880418_12c312f19c_b.jpg
+  :description: TBD OK
+  :labels:
+    Building: 0.9418138265609741
+    Window: 0.8997558355331421
+    Tree: 0.8800557255744934
+    Branch: 0.8670161366462708
+    Twig: 0.8631710410118103
+    Trunk: 0.8351725339889526
+    Tints and shades: 0.7730525732040405
+    City: 0.7358967065811157
+    Deciduous: 0.7011860013008118
+    Flowering plant: 0.6743086576461792
