@@ -1029,3 +1029,16 @@ items:
     City: 0.7358967065811157
     Deciduous: 0.7011860013008118
     Flowering plant: 0.6743086576461792
+- :image_url: https://live.staticflickr.com/7314/26915403595_c777c609cc_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9598855376243591
+    Green: 0.9035346508026123
+    Natural landscape: 0.8924240469932556
+    Tree: 0.887067973613739
+    Branch: 0.8847180008888245
+    Wood: 0.8774779438972473
+    Trunk: 0.8620887398719788
+    Grass: 0.8595422506332397
+    Vegetation: 0.856747031211853
+    Terrestrial plant: 0.8564957976341248
