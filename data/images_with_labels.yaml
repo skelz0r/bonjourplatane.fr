@@ -1042,3 +1042,16 @@ items:
     Grass: 0.8595422506332397
     Vegetation: 0.856747031211853
     Terrestrial plant: 0.8564957976341248
+- :image_url: https://live.staticflickr.com/5453/9383441799_df5c486819_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8895531892776489
+    Natural landscape: 0.8626984357833862
+    Trunk: 0.8561909794807434
+    Terrestrial plant: 0.8469298481941223
+    Twig: 0.829502284526825
+    Wood: 0.8014350533485413
+    Grass: 0.7981353998184204
+    Plant: 0.7624106407165527
+    Deciduous: 0.7193841934204102
+    Forest: 0.7042936086654663
