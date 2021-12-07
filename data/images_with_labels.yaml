@@ -1055,3 +1055,16 @@ items:
     Plant: 0.7624106407165527
     Deciduous: 0.7193841934204102
     Forest: 0.7042936086654663
+- :image_url: https://live.staticflickr.com/7096/7261890740_67edaa0e87_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9685690402984619
+    Twig: 0.8746325373649597
+    Woody plant: 0.808076798915863
+    Tree: 0.8043849468231201
+    Terrestrial plant: 0.7104496955871582
+    Flowering plant: 0.6983532905578613
+    Fruit tree: 0.6976882219314575
+    Plant: 0.674320638179779
+    Pole: 0.6513695120811462
+    Forest: 0.6512536406517029
