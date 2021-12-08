@@ -1,3 +1,3 @@
-![Malone](/images/2021-12-07.jpg)
+![Kelya](/images/2021-12-08.jpg)
 
-Crédits: [marsupilami92](https://www.flickr.com/people/marsupilami92/) on flickr
+Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr

@@ -1068,3 +1068,32 @@ items:
     Plant: 0.674320638179779
     Pole: 0.6513695120811462
     Forest: 0.6512536406517029
+- :image_url: https://live.staticflickr.com/7498/15709740648_4ba0697e0f_b.jpg
+  :description: TBD NOK
+  :labels: {}
+- :image_url: https://live.staticflickr.com/6076/6059604310_00a0898627_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9749832153320312
+    Afterglow: 0.8997582793235779
+    Body of water: 0.8366957306861877
+    Dusk: 0.8311275243759155
+    Sunrise: 0.8223956227302551
+    Beach: 0.8183783292770386
+    Sunset: 0.8150019645690918
+    Red sky at morning: 0.8021147847175598
+    Horizon: 0.8015289902687073
+    Lake: 0.7790443301200867
+- :image_url: https://live.staticflickr.com/4360/35552901244_b22bc9730e_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.929021418094635
+    Leaf: 0.9019834995269775
+    Branch: 0.8849279284477234
+    Natural landscape: 0.8679323792457581
+    Wood: 0.8596540689468384
+    Trunk: 0.8577964901924133
+    Twig: 0.8556433916091919
+    Tree: 0.8543192148208618
+    Vegetation: 0.847935676574707
+    Sunlight: 0.8470382690429688
