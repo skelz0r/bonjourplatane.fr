@@ -1,3 +1,3 @@
-![Kelya](/images/2021-12-08.jpg)
+![Louise](/images/2021-12-09.jpg)
 
-Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr
+Crédits: [Ol.v!er [H2vPk]](https://www.flickr.com/people/smallbox/) on flickr

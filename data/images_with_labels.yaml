@@ -1097,3 +1097,16 @@ items:
     Tree: 0.8543192148208618
     Vegetation: 0.847935676574707
     Sunlight: 0.8470382690429688
+- :image_url: https://live.staticflickr.com/90/246700601_b78953bf15_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.954943060874939
+    Nature: 0.8993733525276184
+    Wood: 0.8750448822975159
+    Trunk: 0.8505697846412659
+    Twig: 0.8302142024040222
+    Wall: 0.8261868357658386
+    Grass: 0.8211264610290527
+    Tree: 0.8041660189628601
+    Woody plant: 0.8032857179641724
+    Natural landscape: 0.7900225520133972
