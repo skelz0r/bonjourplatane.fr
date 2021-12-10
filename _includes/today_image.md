@@ -1,3 +1,3 @@
-![Louise](/images/2021-12-09.jpg)
+![Lilou](/images/2021-12-10.jpg)
 
-Crédits: [Ol.v!er [H2vPk]](https://www.flickr.com/people/smallbox/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr

@@ -1110,3 +1110,16 @@ items:
     Tree: 0.8041660189628601
     Woody plant: 0.8032857179641724
     Natural landscape: 0.7900225520133972
+- :image_url: https://live.staticflickr.com/1936/31843581608_6579567ddc_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9753708243370056
+    Natural landscape: 0.8908431529998779
+    Twig: 0.8773701190948486
+    Wood: 0.8754690289497375
+    Branch: 0.873268723487854
+    Plant: 0.8697724938392639
+    Tree: 0.8643901348114014
+    Orange: 0.8626998662948608
+    Sunlight: 0.850305438041687
+    People in nature: 0.8432521224021912
