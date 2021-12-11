@@ -1123,3 +1123,16 @@ items:
     Orange: 0.8626998662948608
     Sunlight: 0.850305438041687
     People in nature: 0.8432521224021912
+- :image_url: https://live.staticflickr.com/1911/45285487762_544d10375e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9085065722465515
+    Twig: 0.8781357407569885
+    Branch: 0.8732903599739075
+    Flower: 0.8706745505332947
+    Wood: 0.8676844239234924
+    Terrestrial plant: 0.8645998239517212
+    Organism: 0.855595052242279
+    Sunlight: 0.8441115021705627
+    Trunk: 0.8417392373085022
+    Adaptation: 0.7924657464027405
