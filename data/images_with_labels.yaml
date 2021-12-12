@@ -1136,3 +1136,68 @@ items:
     Sunlight: 0.8441115021705627
     Trunk: 0.8417392373085022
     Adaptation: 0.7924657464027405
+- :image_url: https://live.staticflickr.com/7085/7002973820_dc3af243c3_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9602029323577881
+    Flower: 0.9578932523727417
+    Branch: 0.8689756989479065
+    Twig: 0.8451712727546692
+    Terrestrial plant: 0.8263601660728455
+    Tree: 0.8099265694618225
+    Flowering plant: 0.7334326505661011
+    Pollen: 0.6018152236938477
+    Plant stem: 0.5928374528884888
+    Fruit tree: 0.5801094174385071
+- :image_url: https://live.staticflickr.com/3039/2746419168_039ef3b7ee_b.jpg
+  :description: TBD NOK
+  :labels:
+    Automotive lighting: 0.920459508895874
+    Sky: 0.9127144813537598
+    Plant: 0.9075400233268738
+    Road surface: 0.8973851203918457
+    Natural landscape: 0.8950274586677551
+    Wood: 0.8857094645500183
+    Branch: 0.8843000531196594
+    Asphalt: 0.87896728515625
+    Trunk: 0.8348786234855652
+    Thoroughfare: 0.8178793787956238
+- :image_url: https://live.staticflickr.com/2205/2012574245_8233d8fe93_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9083254933357239
+    Terrestrial plant: 0.8522893786430359
+    Asphalt: 0.769363522529602
+    Tints and shades: 0.7659881711006165
+    Road surface: 0.7646889090538025
+    Slope: 0.7617813348770142
+    Grass: 0.7510678172111511
+    Soil: 0.6871660351753235
+    Flowering plant: 0.6784135699272156
+    Font: 0.656220555305481
+- :image_url: https://live.staticflickr.com/3276/2692342544_f5e36f35a4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9515537023544312
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8683100342750549
+    Twig: 0.8470132946968079
+    Sunset: 0.832800030708313
+    Dusk: 0.8095500469207764
+    Wood: 0.8091820478439331
+    Sunrise: 0.797006368637085
+    Landscape: 0.7790185809135437
+    Tints and shades: 0.7672160267829895
+- :image_url: https://live.staticflickr.com/8260/8665001305_4819887bd8_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9576109051704407
+    Daytime: 0.944159746170044
+    Building: 0.9227831363677979
+    Window: 0.9010308980941772
+    Tree: 0.8844393491744995
+    Facade: 0.7762736082077026
+    City: 0.7713404893875122
+    House: 0.7655253410339355
+    Arch: 0.7256802320480347
+    Plant: 0.7205491065979004
