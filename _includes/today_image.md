@@ -1,3 +1,3 @@
-![Cassandre](/images/2021-12-12.jpg)
+![Rachel](/images/2021-12-13.jpg)
 
-Crédits: [byb64](https://www.flickr.com/people/50879678@N03/) on flickr
+Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr
