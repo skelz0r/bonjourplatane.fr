@@ -1214,3 +1214,29 @@ items:
     Shade: 0.8396411538124084
     Woody plant: 0.8106458187103271
     Trunk: 0.8069947361946106
+- :image_url: https://live.staticflickr.com/5614/15807473852_88bc8e6546_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water resources: 0.9476445317268372
+    Water: 0.9197248816490173
+    World: 0.8624683022499084
+    Urban design: 0.845387876033783
+    Landscape: 0.8083426356315613
+    Tree: 0.7997870445251465
+    Building: 0.7682979106903076
+    Waterway: 0.7615554332733154
+    Geological phenomenon: 0.7611224055290222
+    Natural landscape: 0.7560070157051086
+- :image_url: https://live.staticflickr.com/2792/4403554251_aea3b5de4c_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9500956535339355
+    Sky: 0.9254988431930542
+    Flower: 0.8991755247116089
+    Twig: 0.8725892305374146
+    Branch: 0.8723302483558655
+    Tree: 0.8398168683052063
+    Fruit: 0.7978119850158691
+    Flowering plant: 0.7653718590736389
+    Terrestrial plant: 0.7207134962081909
+    Plant stem: 0.5747517347335815
