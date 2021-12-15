@@ -1240,3 +1240,16 @@ items:
     Flowering plant: 0.7653718590736389
     Terrestrial plant: 0.7207134962081909
     Plant stem: 0.5747517347335815
+- :image_url: https://live.staticflickr.com/8333/8367367930_e1b9940da9_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9794434309005737
+    Plant: 0.9649351835250854
+    Boat: 0.9149495363235474
+    Sky: 0.9105462431907654
+    Tree: 0.8967193961143494
+    Building: 0.8782593607902527
+    Vegetation: 0.8572514057159424
+    Watercraft: 0.8551071882247925
+    Body of water: 0.8530793190002441
+    Natural landscape: 0.8529596924781799
