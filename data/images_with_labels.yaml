@@ -1253,3 +1253,16 @@ items:
     Watercraft: 0.8551071882247925
     Body of water: 0.8530793190002441
     Natural landscape: 0.8529596924781799
+- :image_url: https://live.staticflickr.com/5027/5602352541_cc02ff9f62_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9715309739112854
+    Cloud: 0.9711377620697021
+    Photograph: 0.9415405988693237
+    White: 0.921873152256012
+    Vertebrate: 0.9194353818893433
+    Light: 0.9120745658874512
+    Nature: 0.9000128507614136
+    Black: 0.8976749777793884
+    Triangle: 0.8771461844444275
+    Tree: 0.8666566014289856

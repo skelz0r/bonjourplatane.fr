@@ -1,3 +1,3 @@
-![Albane](/images/2021-12-15.jpg)
+![Lorenzo](/images/2021-12-16.jpg)
 
-Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
+Crédits: [@YannGarPhoto](https://www.flickr.com/people/yannickgar/) on flickr
