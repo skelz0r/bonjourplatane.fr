@@ -1279,3 +1279,16 @@ items:
     Vehicle: 0.8597126603126526
     Lake: 0.8368045687675476
     Watercourse: 0.8261768221855164
+- :image_url: https://live.staticflickr.com/7927/46556488804_8165bcbbe1_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9556422829627991
+    Tree: 0.8987122774124146
+    People in nature: 0.8815169334411621
+    Wood: 0.8553586006164551
+    Sky: 0.8464179039001465
+    Trunk: 0.8383511304855347
+    Happy: 0.8131123781204224
+    Grass: 0.8072705864906311
+    Terrestrial plant: 0.8063104748725891
+    Tints and shades: 0.76642245054245
