@@ -1292,3 +1292,42 @@ items:
     Grass: 0.8072705864906311
     Terrestrial plant: 0.8063104748725891
     Tints and shades: 0.76642245054245
+- :image_url: https://live.staticflickr.com/7834/46260380974_061210c369_b.jpg
+  :description: TBD NOK
+  :labels:
+    Daytime: 0.9447488784790039
+    Property: 0.9435306191444397
+    World: 0.9200851917266846
+    Nature: 0.901255190372467
+    Leaf: 0.8931377530097961
+    Branch: 0.8764848709106445
+    Wood: 0.868520200252533
+    Cloud: 0.8663590550422668
+    Font: 0.8321498036384583
+    Biome: 0.8308658003807068
+- :image_url: https://live.staticflickr.com/8698/28411259522_33f86aa740_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9450693726539612
+    Natural landscape: 0.8833315968513489
+    Vegetation: 0.8554806113243103
+    Terrestrial plant: 0.8094449639320374
+    Twig: 0.8075939416885376
+    Plant: 0.7972341775894165
+    Groundcover: 0.7820934653282166
+    Shrub: 0.7635756731033325
+    Deciduous: 0.7473379969596863
+    Landscape: 0.7467029094696045
+- :image_url: https://live.staticflickr.com/4113/5001930556_1e93985f8f_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.8936123251914978
+    Leaf: 0.8923104405403137
+    Branch: 0.8743435144424438
+    Twig: 0.8743206262588501
+    Flowering plant: 0.7575365900993347
+    Water: 0.6991674304008484
+    Electric blue: 0.6969948410987854
+    Terrestrial plant: 0.673772931098938
+    Liquid: 0.6109405159950256
+    Plant stem: 0.5983649492263794
