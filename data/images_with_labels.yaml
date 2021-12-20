@@ -1331,3 +1331,41 @@ items:
     Terrestrial plant: 0.673772931098938
     Liquid: 0.6109405159950256
     Plant stem: 0.5983649492263794
+- :image_url: https://live.staticflickr.com/7418/13943039437_62a00925eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.9043694734573364
+    Temple: 0.6488432884216309
+    Orange: 0.8647605776786804
+    Wood: 0.8470230102539062
+    Tints and shades: 0.7734649181365967
+    Holy places: 0.7116792798042297
+    Cave: 0.7100251913070679
+    Landscape: 0.6703000664710999
+    Trunk: 0.6521625518798828
+- :image_url: https://live.staticflickr.com/7807/40352001963_20f76d50b1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9629084467887878
+    Infrastructure: 0.9049233198165894
+    Road surface: 0.8978814482688904
+    Asphalt: 0.8892839550971985
+    Building: 0.8872652053833008
+    Sky: 0.8807091116905212
+    Window: 0.8787767291069031
+    Car: 0.8636101484298706
+    Flooring: 0.8593977689743042
+    Neighbourhood: 0.8390142917633057
+- :image_url: https://live.staticflickr.com/6112/6344639783_06d171c9b5_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9812338948249817
+    Plant: 0.93353670835495
+    People in nature: 0.9049952030181885
+    Natural landscape: 0.8981308341026306
+    Tree: 0.8892988562583923
+    Twig: 0.8861982226371765
+    Wood: 0.8813818097114563
+    Branch: 0.8718699812889099
+    Trunk: 0.8639752864837646
+    Fluvial landforms of streams: 0.8542511463165283
