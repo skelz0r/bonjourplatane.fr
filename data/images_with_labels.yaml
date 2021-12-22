@@ -1382,3 +1382,16 @@ items:
     Twig: 0.8707427978515625
     Sky: 0.870493471622467
     Tree: 0.8693820238113403
+- :image_url: https://live.staticflickr.com/3895/14617960661_aa1322278d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9637406468391418
+    Window: 0.937181830406189
+    Building: 0.9293851256370544
+    Branch: 0.8748688697814941
+    Twig: 0.8518280982971191
+    Architecture: 0.8507477045059204
+    Tree: 0.8462315201759338
+    Neighbourhood: 0.8245716094970703
+    Woody plant: 0.8065153360366821
+    Freezing: 0.7988119125366211
