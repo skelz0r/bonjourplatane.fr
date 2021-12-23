@@ -1395,3 +1395,29 @@ items:
     Neighbourhood: 0.8245716094970703
     Woody plant: 0.8065153360366821
     Freezing: 0.7988119125366211
+- :image_url: https://live.staticflickr.com/3521/3867780567_a73e319e08_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Road surface: 0.8909358382225037
+    Asphalt: 0.8657791018486023
+    Grey: 0.8447861075401306
+    Tints and shades: 0.7722401022911072
+    Groundcover: 0.7506452798843384
+    Pattern: 0.7448533177375793
+    Concrete: 0.7393167614936829
+    Sidewalk: 0.7184351086616516
+    Art: 0.7102866768836975
+- :image_url: https://live.staticflickr.com/4131/4845869128_3d10017548_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9687948226928711
+    Sky: 0.9309616684913635
+    Natural landscape: 0.8873772025108337
+    People in nature: 0.8784584403038025
+    Tree: 0.8599177002906799
+    Vegetation: 0.8459431529045105
+    Grass: 0.8099168539047241
+    Landscape: 0.7881435751914978
+    Shrub: 0.7796630263328552
+    Shade: 0.7782229781150818
