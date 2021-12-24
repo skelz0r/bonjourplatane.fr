@@ -1421,3 +1421,54 @@ items:
     Landscape: 0.7881435751914978
     Shrub: 0.7796630263328552
     Shade: 0.7782229781150818
+- :image_url: https://live.staticflickr.com/6198/6059056677_e99aed47a7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9794048070907593
+    Sky: 0.9695720672607422
+    Water resources: 0.9509294629096985
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9215725064277649
+    Afterglow: 0.9131134748458862
+    Cloud: 0.9020235538482666
+    Fluid: 0.870185375213623
+    Orange: 0.8638483285903931
+    Coastal and oceanic landforms: 0.8534521460533142
+- :image_url: https://live.staticflickr.com/7418/13943039437_62a00925eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.9043694734573364
+    Temple: 0.6488432884216309
+    Orange: 0.8647605776786804
+    Wood: 0.8470230102539062
+    Tints and shades: 0.7734649181365967
+    Holy places: 0.7116792798042297
+    Cave: 0.7100251913070679
+    Landscape: 0.6703000664710999
+    Trunk: 0.6521625518798828
+- :image_url: https://live.staticflickr.com/16/92133874_c634e13358_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9247747659683228
+    Plant: 0.8625352382659912
+    Architecture: 0.8533535003662109
+    Building: 0.8349947333335876
+    Wood: 0.8286525011062622
+    Wall: 0.8127651810646057
+    Material property: 0.8019115924835205
+    Facade: 0.7835830450057983
+    Rectangle: 0.7791815400123596
+    Sky: 0.7753172516822815
+- :image_url: https://live.staticflickr.com/3890/14371065063_82faf14f75_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9626217484474182
+    Tree: 0.9016581177711487
+    Branch: 0.879748523235321
+    Twig: 0.8695252537727356
+    Trunk: 0.8613159656524658
+    Water: 0.8592389822006226
+    Natural landscape: 0.8569196462631226
+    Terrestrial plant: 0.854055643081665
+    Vegetation: 0.848386287689209
+    Grass: 0.8138740062713623
