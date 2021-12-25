@@ -1472,3 +1472,55 @@ items:
     Terrestrial plant: 0.854055643081665
     Vegetation: 0.848386287689209
     Grass: 0.8138740062713623
+- :image_url: https://live.staticflickr.com/6205/6059546322_6b735d1eab_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9718410968780518
+    Vehicle registration plate: 0.9439862966537476
+    Vehicle: 0.9240186810493469
+    Car: 0.9057528376579285
+    Street light: 0.9051516652107239
+    Motor vehicle: 0.9032546877861023
+    Automotive lighting: 0.8985126614570618
+    Building: 0.889129102230072
+    Infrastructure: 0.8878077864646912
+    Automotive design: 0.8603438138961792
+- :image_url: https://live.staticflickr.com/3243/3010442404_f43ba2b8c2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8901091814041138
+    Road surface: 0.8788784146308899
+    Organism: 0.860697329044342
+    Grey: 0.8447452187538147
+    Floor: 0.839988112449646
+    Beige: 0.8239158987998962
+    Wall: 0.8117714524269104
+    Flooring: 0.8081538081169128
+    Tints and shades: 0.773781418800354
+- :image_url: https://live.staticflickr.com/4720/40074129782_3dfaf917c1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Stop sign: 0.9291107058525085
+    Font: 0.8437069654464722
+    Motor vehicle: 0.8262506723403931
+    Gas: 0.780623197555542
+    Signage: 0.7586309909820557
+    Beauty: 0.7515310049057007
+    Sign: 0.6980545520782471
+    Tree: 0.6810373067855835
+    Carmine: 0.6742372512817383
+    Trunk: 0.645279049873352
+- :image_url: https://live.staticflickr.com/8369/8357270827_2da891991e_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9781197309494019
+    Plant: 0.96822190284729
+    Natural landscape: 0.896072268486023
+    Window: 0.8807440400123596
+    Tree: 0.880189836025238
+    Branch: 0.8695476651191711
+    Watercourse: 0.8427352905273438
+    Body of water: 0.8374851942062378
+    Lake: 0.8227819204330444
+    Bank: 0.8217848539352417
