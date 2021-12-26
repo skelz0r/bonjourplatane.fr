@@ -1,3 +1,3 @@
-![Oscar](/images/2021-12-25.jpg)
+![Marie](/images/2021-12-26.jpg)
 
-Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
+Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr

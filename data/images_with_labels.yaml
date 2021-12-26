@@ -1524,3 +1524,29 @@ items:
     Body of water: 0.8374851942062378
     Lake: 0.8227819204330444
     Bank: 0.8217848539352417
+- :image_url: https://live.staticflickr.com/65535/51585220166_5182c94cc2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9748318195343018
+    Daytime: 0.9451959729194641
+    Property: 0.9436184763908386
+    Cloud: 0.9419840574264526
+    Shade: 0.8684021830558777
+    Road surface: 0.8630910515785217
+    Urban design: 0.8611930012702942
+    Tree: 0.8342615962028503
+    Line: 0.8188146948814392
+    Building: 0.810572624206543
+- :image_url: https://live.staticflickr.com/4385/36388354205_fb45dfb61a_b.jpg
+  :description: TBD OK
+  :labels:
+    Wheel: 0.9645135998725891
+    Plant: 0.9596676826477051
+    Tire: 0.9543458819389343
+    Vehicle: 0.9205664992332458
+    Car: 0.897901177406311
+    Tree: 0.8817477822303772
+    Branch: 0.8783352971076965
+    Road surface: 0.8703229427337646
+    Shade: 0.8656710982322693
+    Sunlight: 0.8457472920417786
