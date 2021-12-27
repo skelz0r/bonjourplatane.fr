@@ -1550,3 +1550,16 @@ items:
     Road surface: 0.8703229427337646
     Shade: 0.8656710982322693
     Sunlight: 0.8457472920417786
+- :image_url: https://live.staticflickr.com/2454/3921732229_b1fb0e4a05_b.jpg
+  :description: TBD OK
+  :labels:
+    People in nature: 0.8787473440170288
+    Twig: 0.8714911341667175
+    Trunk: 0.8428295850753784
+    Natural landscape: 0.8180700540542603
+    Deciduous: 0.7821897864341736
+    Sky: 0.7763295769691467
+    Tints and shades: 0.7735500335693359
+    Flowering plant: 0.7324351072311401
+    Terrestrial plant: 0.7089704871177673
+    Temperate broadleaf and mixed forest: 0.6932223439216614
