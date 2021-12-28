@@ -1563,3 +1563,29 @@ items:
     Flowering plant: 0.7324351072311401
     Terrestrial plant: 0.7089704871177673
     Temperate broadleaf and mixed forest: 0.6932223439216614
+- :image_url: https://live.staticflickr.com/65535/50510942072_4f237ac8f0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8561059832572937
+    Natural landscape: 0.8559063673019409
+    Trunk: 0.8424938321113586
+    Black-and-white: 0.8293512463569641
+    Twig: 0.8207359313964844
+    Tints and shades: 0.773691713809967
+    Grass: 0.7521235942840576
+    Landscape: 0.7213003635406494
+    Forest: 0.7171574234962463
+    Darkness: 0.714565098285675
+- :image_url: https://live.staticflickr.com/2889/9529447329_d736beceaf_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9528650045394897
+    Nature: 0.8992151021957397
+    Tree: 0.8969805836677551
+    Wood: 0.8954542279243469
+    Natural environment: 0.8892229199409485
+    Branch: 0.8868216872215271
+    Natural landscape: 0.8745374083518982
+    Trunk: 0.8703193068504333
+    Vegetation: 0.8523784875869751
+    Sunlight: 0.8498687148094177

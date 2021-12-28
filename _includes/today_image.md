@@ -1,3 +1,3 @@
-![Rémy](/images/2021-12-27.jpg)
+![Romy](/images/2021-12-28.jpg)
 
-Crédits: [PierreChicotBernard](https://www.flickr.com/people/pierrebernard/) on flickr
+Crédits: [_Serge_Robert_](https://www.flickr.com/people/sergerobert/) on flickr
