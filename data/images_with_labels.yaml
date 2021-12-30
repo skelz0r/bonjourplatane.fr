@@ -1602,3 +1602,29 @@ items:
     Wood: 0.8443272709846497
     Grass: 0.8360587954521179
     Woody plant: 0.8045850396156311
+- :image_url: https://live.staticflickr.com/8478/8271389523_1c11e78acb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9245098233222961
+    Road surface: 0.8987736701965332
+    Infrastructure: 0.8881734013557434
+    Branch: 0.8835062980651855
+    Shade: 0.8710313439369202
+    Plant: 0.8596163392066956
+    Black-and-white: 0.8577613830566406
+    Style: 0.8396717309951782
+    Tree: 0.8396578431129456
+    Thoroughfare: 0.8366273641586304
+- :image_url: https://live.staticflickr.com/581/20648615364_49933aba7d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9700085520744324
+    Natural landscape: 0.8959075212478638
+    Tree: 0.895553469657898
+    Road surface: 0.8833371996879578
+    Branch: 0.878311038017273
+    Shade: 0.8774183988571167
+    Wood: 0.8748935461044312
+    Sunlight: 0.8541897535324097
+    Vegetation: 0.8499155640602112
+    Thoroughfare: 0.8458853960037231
