@@ -1628,3 +1628,42 @@ items:
     Sunlight: 0.8541897535324097
     Vegetation: 0.8499155640602112
     Thoroughfare: 0.8458853960037231
+- :image_url: https://live.staticflickr.com/4545/38865841712_c7152b6a1f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.8963086009025574
+    Leaf: 0.8933154940605164
+    Orange: 0.8730422854423523
+    Sky: 0.8554674386978149
+    Sunlight: 0.8439894914627075
+    Natural landscape: 0.7997395992279053
+    Twig: 0.7893871068954468
+    Tints and shades: 0.7732017040252686
+    Deciduous: 0.7224206924438477
+    Tree: 0.6958465576171875
+- :image_url: https://live.staticflickr.com/65535/48099226342_ca7feb450f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9649950861930847
+    Plant: 0.919938862323761
+    Road surface: 0.8718596696853638
+    Tree: 0.8466739058494568
+    Urban design: 0.8258550763130188
+    Woody plant: 0.810879647731781
+    Shade: 0.8033599257469177
+    Window: 0.7701687216758728
+    Facade: 0.7676358222961426
+    City: 0.7584217190742493
+- :image_url: https://live.staticflickr.com/7215/7261888426_b26cc9dbe2_b.jpg
+  :description: TBD OK
+  :labels:
+    Leaf: 0.8931158781051636
+    Sky: 0.8917971849441528
+    Tree: 0.8815827369689941
+    Twig: 0.8792357444763184
+    Branch: 0.8751714825630188
+    Botany: 0.8729422688484192
+    Plant: 0.87218177318573
+    Trunk: 0.8468478322029114
+    Yellow: 0.8445928692817688
+    Biome: 0.8269917964935303
