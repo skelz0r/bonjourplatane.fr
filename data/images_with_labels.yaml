@@ -1667,3 +1667,16 @@ items:
     Trunk: 0.8468478322029114
     Yellow: 0.8445928692817688
     Biome: 0.8269917964935303
+- :image_url: https://live.staticflickr.com/7094/7261883044_4cb8733a69_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8766520023345947
+    Sky: 0.8597729802131653
+    Trunk: 0.8595200777053833
+    Twig: 0.8510766625404358
+    Plant: 0.8471660614013672
+    Terrestrial plant: 0.8206067085266113
+    Deciduous: 0.8099045753479004
+    Forest: 0.7456432580947876
+    Temperate broadleaf and mixed forest: 0.7158399820327759
+    Woodland: 0.6913241147994995
