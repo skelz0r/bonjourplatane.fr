@@ -1,3 +1,3 @@
-![Ugo](/images/2022-01-01.jpg)
+![Mathilde](/images/2022-01-02.jpg)
 
-Crédits: [marsupilami92](https://www.flickr.com/people/marsupilami92/) on flickr
+Crédits: [abac077](https://www.flickr.com/people/9308488@N05/) on flickr

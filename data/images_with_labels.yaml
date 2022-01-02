@@ -1680,3 +1680,16 @@ items:
     Forest: 0.7456432580947876
     Temperate broadleaf and mixed forest: 0.7158399820327759
     Woodland: 0.6913241147994995
+- :image_url: https://live.staticflickr.com/7545/15522369939_514dcc4062_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9582642316818237
+    People in nature: 0.904850423336029
+    Nature: 0.9003335237503052
+    Natural landscape: 0.8923330307006836
+    Branch: 0.8848665952682495
+    Tree: 0.8765762448310852
+    Trunk: 0.840016782283783
+    Biome: 0.8344274163246155
+    Sky: 0.8316255807876587
+    Rectangle: 0.8315536379814148
