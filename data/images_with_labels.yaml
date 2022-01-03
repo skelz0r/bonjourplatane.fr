@@ -1693,3 +1693,28 @@ items:
     Biome: 0.8344274163246155
     Sky: 0.8316255807876587
     Rectangle: 0.8315536379814148
+- :image_url: https://live.staticflickr.com/7418/13943039437_62a00925eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.9043694734573364
+    Temple: 0.6488432884216309
+    Orange: 0.8647605776786804
+    Wood: 0.8470230102539062
+    Tints and shades: 0.7734649181365967
+    Holy places: 0.7116792798042297
+    Cave: 0.7100251913070679
+    Landscape: 0.6703000664710999
+    Trunk: 0.6521625518798828
+- :image_url: https://live.staticflickr.com/7056/27140166546_2f3eafa94d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9623674750328064
+    Plant community: 0.9348772764205933
+    Green: 0.9117051959037781
+    Natural landscape: 0.8840693831443787
+    Branch: 0.8812628388404846
+    Wood: 0.8700367212295532
+    Tree: 0.8696661591529846
+    Shade: 0.8676079511642456
+    Terrestrial plant: 0.8675568103790283
+    Vegetation: 0.8494254946708679
