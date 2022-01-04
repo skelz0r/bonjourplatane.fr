@@ -1718,3 +1718,16 @@ items:
     Shade: 0.8676079511642456
     Terrestrial plant: 0.8675568103790283
     Vegetation: 0.8494254946708679
+- :image_url: https://live.staticflickr.com/4808/46262785822_7bbeac26b7_b.jpg
+  :description: TBD OK
+  :labels:
+    Twig: 0.8717995882034302
+    Natural landscape: 0.8468144536018372
+    Trunk: 0.8427886962890625
+    Black-and-white: 0.8405479192733765
+    Style: 0.8380832672119141
+    Deciduous: 0.805789589881897
+    Tree: 0.7931430339813232
+    Wood: 0.783437967300415
+    Tints and shades: 0.7738379240036011
+    Pattern: 0.7423691153526306
