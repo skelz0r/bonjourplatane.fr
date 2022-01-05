@@ -1731,3 +1731,29 @@ items:
     Wood: 0.783437967300415
     Tints and shades: 0.7738379240036011
     Pattern: 0.7423691153526306
+- :image_url: https://live.staticflickr.com/3056/3010436254_b3a46f2f6d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Natural environment: 0.8885177969932556
+    Wood: 0.8876919746398926
+    World: 0.8791348338127136
+    Textile: 0.8761579394340515
+    Branch: 0.8687825202941895
+    Organism: 0.8645375370979309
+    Grey: 0.8436470031738281
+    Wall: 0.8133787512779236
+    Floor: 0.8087282180786133
+- :image_url: https://live.staticflickr.com/3866/15376427911_9ed0f36c32_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9651346802711487
+    Water: 0.9474051594734192
+    Sky: 0.9306590557098389
+    Branch: 0.8763938546180725
+    Twig: 0.8708752393722534
+    Tree: 0.8676800727844238
+    Cloud: 0.844275176525116
+    Style: 0.8385481238365173
+    Black-and-white: 0.8312119245529175
+    Atmospheric phenomenon: 0.824533224105835
