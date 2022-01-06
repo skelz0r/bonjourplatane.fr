@@ -1757,3 +1757,29 @@ items:
     Style: 0.8385481238365173
     Black-and-white: 0.8312119245529175
     Atmospheric phenomenon: 0.824533224105835
+- :image_url: https://live.staticflickr.com/7860/47239657172_751f3fdd7f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9801875352859497
+    Sky: 0.9642452001571655
+    Building: 0.9463960528373718
+    Water resources: 0.9452607035636902
+    Daytime: 0.9445304274559021
+    Window: 0.9106120467185974
+    Sunlight: 0.8596705794334412
+    Plant: 0.8537161350250244
+    Watercourse: 0.8421487808227539
+    Bank: 0.8243337869644165
+- :image_url: https://live.staticflickr.com/2078/2058463481_b4b8aaf0ce_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.979938805103302
+    Sky: 0.9689642190933228
+    Plant: 0.8811296224594116
+    Tree: 0.8745872974395752
+    Wood: 0.8689926266670227
+    Trunk: 0.8637099862098694
+    Natural landscape: 0.8603247404098511
+    Twig: 0.8567355275154114
+    Body of water: 0.8334717154502869
+    Tints and shades: 0.7730574607849121
