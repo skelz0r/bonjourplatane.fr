@@ -1,3 +1,3 @@
-![Hugo](/images/2022-01-06.jpg)
+![Louison](/images/2022-01-07.jpg)
 
-Crédits: [OliBac](https://www.flickr.com/people/olibac/) on flickr
+Crédits: [Paucal](https://www.flickr.com/people/paucal/) on flickr
