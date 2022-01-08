@@ -1796,3 +1796,81 @@ items:
     Wood: 0.8840755820274353
     Branch: 0.8711118102073669
     Twig: 0.8704652786254883
+- :image_url: https://live.staticflickr.com/3903/15317501236_eba79ab479_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.8861367702484131
+    Branch: 0.872843861579895
+    Road surface: 0.866746723651886
+    Wood: 0.8646678924560547
+    Trunk: 0.8483849167823792
+    Natural landscape: 0.8330093622207642
+    Grass: 0.8315752148628235
+    People in nature: 0.7993760108947754
+    Tints and shades: 0.7738962769508362
+    Landscape: 0.7738851308822632
+- :image_url: https://live.staticflickr.com/8225/8564519041_d3c989b343_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9290863275527954
+    Sky: 0.9270431995391846
+    Window: 0.9138203859329224
+    Tree: 0.8355382680892944
+    Twig: 0.8187628388404846
+    Neighbourhood: 0.8122143745422363
+    Residential area: 0.7984911799430847
+    City: 0.7898536920547485
+    Facade: 0.7892624735832214
+    Wood: 0.7863782644271851
+- :image_url: https://live.staticflickr.com/1043/1412077180_28bcedec65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768852591514587
+    Plant: 0.9690477848052979
+    Terrestrial plant: 0.8560479283332825
+    Grass: 0.795508086681366
+    Flowering plant: 0.7630450129508972
+    Close-up: 0.7200512886047363
+    Pollen: 0.6941031217575073
+    Annual plant: 0.681596577167511
+    Macro photography: 0.6477967500686646
+    Herbaceous plant: 0.6453429460525513
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485867977142334
+    Road surface: 0.8303500413894653
+    Twig: 0.8159112930297852
+    Wood: 0.8151054382324219
+    Facade: 0.7909618616104126
+    Window: 0.7881767749786377
+- :image_url: https://live.staticflickr.com/16/92133874_c634e13358_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9230005145072937
+    Plant: 0.8515826463699341
+    Architecture: 0.8505256175994873
+    Wood: 0.8346498012542725
+    Building: 0.8188558220863342
+    Wall: 0.8129547834396362
+    Material property: 0.8008148670196533
+    Rectangle: 0.7785736322402954
+    Facade: 0.7762269973754883
+    Tints and shades: 0.7737486362457275
+- :image_url: https://live.staticflickr.com/100/313393858_4ad59cae7f_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9457851052284241
+    Twig: 0.8817615509033203
+    Natural landscape: 0.8641660809516907
+    Trunk: 0.8478071689605713
+    Vegetation: 0.8469531536102295
+    Wood: 0.8381420373916626
+    Deciduous: 0.7958024740219116
+    Tree: 0.7909654974937439
+    Tints and shades: 0.7737489342689514
+    Forest: 0.7155278325080872
