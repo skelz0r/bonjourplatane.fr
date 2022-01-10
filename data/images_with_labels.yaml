@@ -1887,3 +1887,16 @@ items:
     Wood: 0.7871382832527161
     Rural area: 0.7865906357765198
     Tints and shades: 0.7739686965942383
+- :image_url: https://live.staticflickr.com/5470/9473211391_6d3a105f86_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9633995890617371
+    Sky: 0.9605302810668945
+    People in nature: 0.8862900137901306
+    Natural landscape: 0.8764308094978333
+    Tree: 0.8750664591789246
+    Branch: 0.8711380362510681
+    Twig: 0.8501745462417603
+    Rectangle: 0.8489784598350525
+    Grass: 0.8218269944190979
+    Adaptation: 0.7921517491340637
