@@ -1900,3 +1900,29 @@ items:
     Rectangle: 0.8489784598350525
     Grass: 0.8218269944190979
     Adaptation: 0.7921517491340637
+- :image_url: https://live.staticflickr.com/7834/46260380974_061210c369_b.jpg
+  :description: TBD NOK
+  :labels:
+    Daytime: 0.9447488784790039
+    Property: 0.9435306191444397
+    World: 0.9200851917266846
+    Nature: 0.901255190372467
+    Leaf: 0.8931377530097961
+    Branch: 0.8764848709106445
+    Wood: 0.868520200252533
+    Cloud: 0.8663590550422668
+    Font: 0.8321498036384583
+    Biome: 0.8308658003807068
+- :image_url: https://live.staticflickr.com/65535/51599921359_f8a171160a_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Sky: 0.9443164467811584
+    Leaf: 0.8974299430847168
+    Natural landscape: 0.8822245597839355
+    Twig: 0.8781367540359497
+    Branch: 0.8708645105361938
+    Tree: 0.8677066564559937
+    Orange: 0.8634768724441528
+    Trunk: 0.8594469428062439
+    Amber: 0.8385096192359924
