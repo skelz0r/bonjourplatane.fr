@@ -1926,3 +1926,29 @@ items:
     Orange: 0.8634768724441528
     Trunk: 0.8594469428062439
     Amber: 0.8385096192359924
+- :image_url: https://live.staticflickr.com/8478/8271389523_1c11e78acb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9245098233222961
+    Road surface: 0.8987736701965332
+    Infrastructure: 0.8881734013557434
+    Branch: 0.8835062980651855
+    Shade: 0.8710313439369202
+    Plant: 0.8596163392066956
+    Black-and-white: 0.8577613830566406
+    Style: 0.8396717309951782
+    Tree: 0.8396578431129456
+    Thoroughfare: 0.8366273641586304
+- :image_url: https://live.staticflickr.com/3687/11991087306_9377098bbd_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.979726254940033
+    Plant: 0.9643132090568542
+    Sky: 0.9593559503555298
+    Natural landscape: 0.9007052183151245
+    Tree: 0.8959929347038269
+    Natural environment: 0.8889378309249878
+    Branch: 0.8783459067344666
+    Fluvial landforms of streams: 0.8742223978042603
+    Lake: 0.8555636405944824
+    Sunlight: 0.8528527617454529
