@@ -1952,3 +1952,42 @@ items:
     Fluvial landforms of streams: 0.8742223978042603
     Lake: 0.8555636405944824
     Sunlight: 0.8528527617454529
+- :image_url: https://live.staticflickr.com/2067/2120562716_07a652791d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9489258527755737
+    Building: 0.9368828535079956
+    Wood: 0.8904263973236084
+    House: 0.8601175546646118
+    Font: 0.7973775863647461
+    Art: 0.7840917110443115
+    Brick: 0.7780545353889465
+    Facade: 0.7735867500305176
+    Tints and shades: 0.7712240219116211
+    City: 0.7499457597732544
+- :image_url: https://live.staticflickr.com/8427/7809204704_35d6f05922_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9482643604278564
+    Window: 0.9282504320144653
+    Branch: 0.875616192817688
+    Road surface: 0.8683684468269348
+    Shade: 0.8639609813690186
+    House: 0.8545351624488831
+    Trunk: 0.8413600921630859
+    Plant: 0.8366361260414124
+    Tree: 0.8191256523132324
+    Grass: 0.805937647819519
+- :image_url: https://live.staticflickr.com/7147/6778269259_9358464815_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9650093913078308
+    Plant: 0.9402934908866882
+    Building: 0.9251316785812378
+    Green: 0.9038024544715881
+    Tree: 0.8954996466636658
+    Natural landscape: 0.881621241569519
+    Rectangle: 0.8284141421318054
+    Grass: 0.8086637258529663
+    Woody plant: 0.8018554449081421
+    Tints and shades: 0.7718186378479004

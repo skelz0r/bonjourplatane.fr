@@ -1,3 +1,3 @@
-![Lia](/images/2022-01-12.jpg)
+![Alyssa](/images/2022-01-13.jpg)
 
-Crédits: [Ola Mojito !!!](https://www.flickr.com/people/ola_mojito/) on flickr
+Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr
