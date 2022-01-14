@@ -1991,3 +1991,55 @@ items:
     Grass: 0.8086637258529663
     Woody plant: 0.8018554449081421
     Tints and shades: 0.7718186378479004
+- :image_url: https://live.staticflickr.com/65535/50066192982_cecd99c09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330711364746094
+    Road surface: 0.8319665193557739
+    Wood: 0.8241688013076782
+    Urban design: 0.82343590259552
+    Neighbourhood: 0.8189184069633484
+    Gas: 0.7803220152854919
+    City: 0.761350154876709
+    Sidewalk: 0.7401350140571594
+    Composite material: 0.7344955801963806
+    Facade: 0.7344334125518799
+- :image_url: https://live.staticflickr.com/6076/6059604310_00a0898627_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9749832153320312
+    Afterglow: 0.8997582793235779
+    Body of water: 0.8366957306861877
+    Dusk: 0.8311275243759155
+    Sunrise: 0.8223956227302551
+    Beach: 0.8183783292770386
+    Sunset: 0.8150019645690918
+    Red sky at morning: 0.8021147847175598
+    Horizon: 0.8015289902687073
+    Lake: 0.7790443301200867
+- :image_url: https://live.staticflickr.com/2330/1876272642_919318b992_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.950075089931488
+    Plant: 0.931133508682251
+    Branch: 0.8875805139541626
+    Natural landscape: 0.8802263140678406
+    Tree: 0.8396661281585693
+    Trunk: 0.8325191140174866
+    Deciduous: 0.8061872124671936
+    Twig: 0.7881348729133606
+    Tints and shades: 0.7733543515205383
+    People in nature: 0.738715410232544
+- :image_url: https://live.staticflickr.com/3225/3053249047_47872d4cd3_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9516465067863464
+    Daytime: 0.9444913864135742
+    Plant: 0.8987070918083191
+    Branch: 0.8865042924880981
+    Twig: 0.870689332485199
+    Natural landscape: 0.8699169754981995
+    Trunk: 0.8649691343307495
+    Wood: 0.8532341718673706
+    Sunlight: 0.8425414562225342
+    Road surface: 0.8390307426452637
