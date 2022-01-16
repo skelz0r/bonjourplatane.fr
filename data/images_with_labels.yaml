@@ -2068,3 +2068,16 @@ items:
     Plant stem: 0.5896351337432861
     Grass: 0.5522773265838623
     Grapevine family: 0.5209235548973083
+- :image_url: https://live.staticflickr.com/4293/36202002736_8180a348b5_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8584979176521301
+    Plant: 0.8420522212982178
+    Urban design: 0.827109158039093
+    Building: 0.8118987083435059
+    Woody plant: 0.8010865449905396
+    City: 0.787597119808197
+    Facade: 0.7794037461280823
+    Window: 0.7727841734886169
+    Symmetry: 0.7463516592979431
+    Urban area: 0.7316268086433411
