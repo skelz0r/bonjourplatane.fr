@@ -2159,3 +2159,42 @@ items:
     Vegetation: 0.8595457077026367
     Sunlight: 0.8581348061561584
     Trunk: 0.8542853593826294
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485867977142334
+    Road surface: 0.8303500413894653
+    Twig: 0.8159112930297852
+    Wood: 0.8151054382324219
+    Facade: 0.7909618616104126
+    Window: 0.7881767749786377
+- :image_url: https://live.staticflickr.com/5579/14598156076_1bddea5618_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9728721380233765
+    Water resources: 0.9473137259483337
+    Nature: 0.8998746275901794
+    Leaf: 0.896728515625
+    World: 0.881812334060669
+    Plant: 0.8712090849876404
+    Watercourse: 0.8309697508811951
+    Wood: 0.8233875036239624
+    Art: 0.8153403997421265
+    Road surface: 0.7876762747764587
+- :image_url: https://live.staticflickr.com/1464/23898285283_1954d533df_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9454614520072937
+    Building: 0.941556990146637
+    Black: 0.8970809578895569
+    Black-and-white: 0.8652306795120239
+    Tree: 0.8633540868759155
+    Style: 0.8384620547294617
+    Window: 0.8170253038406372
+    Wall: 0.813085675239563
+    Adaptation: 0.7934971451759338
+    Plant: 0.7799824476242065
