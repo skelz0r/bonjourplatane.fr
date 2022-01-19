@@ -2198,3 +2198,29 @@ items:
     Wall: 0.813085675239563
     Adaptation: 0.7934971451759338
     Plant: 0.7799824476242065
+- :image_url: https://live.staticflickr.com/4053/4531924933_9040af6c80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9785861372947693
+    Plant: 0.9684004783630371
+    Flowerpot: 0.9346052408218384
+    Houseplant: 0.9313276410102844
+    Sky: 0.9231992363929749
+    Botany: 0.912769079208374
+    Petal: 0.8942161202430725
+    Pink: 0.8301515579223633
+    Terrestrial plant: 0.8265478610992432
+    Tree: 0.7876741290092468
+- :image_url: https://live.staticflickr.com/3894/32307852964_23f4993acf_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.967634916305542
+    Sky: 0.9428828358650208
+    Tree: 0.8843567967414856
+    Natural landscape: 0.8839440941810608
+    Branch: 0.8819732666015625
+    Wood: 0.8684844970703125
+    Twig: 0.8672723174095154
+    Trunk: 0.8611863255500793
+    Vegetation: 0.847375750541687
+    Grass: 0.8056933879852295
