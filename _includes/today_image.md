@@ -1,3 +1,3 @@
-![Sélène](/images/2022-01-19.jpg)
+![Cassandra](/images/2022-01-20.jpg)
 
-Crédits: [niharbb](https://www.flickr.com/people/bbrahin/) on flickr
+Crédits: [Isaszas](https://www.flickr.com/people/isasza/) on flickr

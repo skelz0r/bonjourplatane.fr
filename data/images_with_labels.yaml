@@ -2224,3 +2224,29 @@ items:
     Trunk: 0.8611863255500793
     Vegetation: 0.847375750541687
     Grass: 0.8056933879852295
+- :image_url: https://live.staticflickr.com/3243/3010442404_f43ba2b8c2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8901091814041138
+    Road surface: 0.8788784146308899
+    Organism: 0.860697329044342
+    Grey: 0.8447452187538147
+    Floor: 0.839988112449646
+    Beige: 0.8239158987998962
+    Wall: 0.8117714524269104
+    Flooring: 0.8081538081169128
+    Tints and shades: 0.773781418800354
+- :image_url: https://live.staticflickr.com/7885/46968434512_0975a093d4_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9608287811279297
+    Azure: 0.892915666103363
+    Blue: 0.8919183015823364
+    Twig: 0.8656231164932251
+    Tree: 0.7922534346580505
+    Electric blue: 0.7406247854232788
+    Flowering plant: 0.6341980695724487
+    Plant stem: 0.571500301361084
+    Event: 0.5700586438179016
+    Science: 0.5365613102912903
