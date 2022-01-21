@@ -1,3 +1,3 @@
-![Cassandra](/images/2022-01-20.jpg)
+![Loan](/images/2022-01-21.jpg)
 
-Crédits: [Isaszas](https://www.flickr.com/people/isasza/) on flickr
+Crédits: [Philippe Vieux-Jeanton](https://www.flickr.com/people/miwok/) on flickr
