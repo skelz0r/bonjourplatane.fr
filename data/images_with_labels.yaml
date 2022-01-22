@@ -2341,3 +2341,55 @@ items:
     People in nature: 0.8888818025588989
     Wood: 0.8822460770606995
     Botany: 0.8722029328346252
+- :image_url: https://live.staticflickr.com/4153/4845868818_ce28f65c78_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9785541892051697
+    Plant: 0.9668987393379211
+    Natural landscape: 0.8904944062232971
+    Branch: 0.8681301474571228
+    Tree: 0.8448830842971802
+    Road surface: 0.8328489661216736
+    Shrub: 0.802403450012207
+    Woody plant: 0.8019189834594727
+    Grass: 0.7997082471847534
+    Landscape: 0.7956416606903076
+- :image_url: https://live.staticflickr.com/2067/2120562716_07a652791d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9489258527755737
+    Building: 0.9368828535079956
+    Wood: 0.8904263973236084
+    House: 0.8601175546646118
+    Font: 0.7973775863647461
+    Art: 0.7840917110443115
+    Brick: 0.7780545353889465
+    Facade: 0.7735867500305176
+    Tints and shades: 0.7712240219116211
+    City: 0.7499457597732544
+- :image_url: https://live.staticflickr.com/65535/51257962442_659b210112_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9770256876945496
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9471738338470459
+    Sky: 0.936106264591217
+    Ecoregion: 0.9256210327148438
+    Afterglow: 0.9143838882446289
+    Liquid: 0.876800000667572
+    Natural landscape: 0.8726886510848999
+    Orange: 0.8726774454116821
+    Fluid: 0.8696794509887695
+- :image_url: https://live.staticflickr.com/7149/6778275169_87dbd9bd40_b.jpg
+  :description: TBD OK
+  :labels:
+    Building: 0.9464846849441528
+    Plant: 0.9413946270942688
+    Tree: 0.8737148642539978
+    Sky: 0.8722582459449768
+    Window: 0.8633556365966797
+    Natural landscape: 0.8445408344268799
+    Grass: 0.7817315459251404
+    Rural area: 0.7796030640602112
+    Tints and shades: 0.7665988206863403
+    Cottage: 0.761673092842102

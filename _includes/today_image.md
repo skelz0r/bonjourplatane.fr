@@ -1,3 +1,3 @@
-![Loan](/images/2022-01-21.jpg)
+![Elia](/images/2022-01-22.jpg)
 
-Crédits: [Philippe Vieux-Jeanton](https://www.flickr.com/people/miwok/) on flickr
+Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr
