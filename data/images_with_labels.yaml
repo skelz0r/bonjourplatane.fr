@@ -2393,3 +2393,42 @@ items:
     Rural area: 0.7796030640602112
     Tints and shades: 0.7665988206863403
     Cottage: 0.761673092842102
+- :image_url: https://live.staticflickr.com/65535/51037532716_bf9bcc0bd7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9339303970336914
+    Flower: 0.8982082605361938
+    Leaf: 0.8920920491218567
+    Natural landscape: 0.8835872411727905
+    Petal: 0.8593034148216248
+    Black-and-white: 0.8566761016845703
+    Terrestrial plant: 0.8473320603370667
+    Wood: 0.8469545841217041
+    Style: 0.838456392288208
+    Grass: 0.8247738480567932
+- :image_url: https://live.staticflickr.com/8373/8366302147_664112a287_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9574189782142639
+    Sky: 0.9138858318328857
+    Wood: 0.86066734790802
+    Grass: 0.8318503499031067
+    Trunk: 0.82981276512146
+    Tree: 0.8296962380409241
+    Woody plant: 0.8021134734153748
+    Bedrock: 0.7978956699371338
+    Groundcover: 0.7744055390357971
+    Terrestrial plant: 0.7535896301269531
+- :image_url: https://live.staticflickr.com/65535/49929867748_50da56b794_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9523877501487732
+    Wood: 0.8887910842895508
+    Natural landscape: 0.888606607913971
+    Shade: 0.877281129360199
+    Trunk: 0.8649157285690308
+    Road surface: 0.8540980219841003
+    Thoroughfare: 0.8287835717201233
+    Terrestrial plant: 0.8275394439697266
+    Tree: 0.8023779988288879
+    Shrub: 0.8011289834976196
