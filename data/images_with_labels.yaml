@@ -2432,3 +2432,80 @@ items:
     Terrestrial plant: 0.8275394439697266
     Tree: 0.8023779988288879
     Shrub: 0.8011289834976196
+- :image_url: https://live.staticflickr.com/65535/50510942072_4f237ac8f0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8561059832572937
+    Natural landscape: 0.8559063673019409
+    Trunk: 0.8424938321113586
+    Black-and-white: 0.8293512463569641
+    Twig: 0.8207359313964844
+    Tints and shades: 0.773691713809967
+    Grass: 0.7521235942840576
+    Landscape: 0.7213003635406494
+    Forest: 0.7171574234962463
+    Darkness: 0.714565098285675
+- :image_url: https://live.staticflickr.com/7257/7731701390_f694f63238_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9717754125595093
+    Water: 0.9713912606239319
+    Water resources: 0.9544278979301453
+    Plant: 0.9172130227088928
+    World: 0.9054480791091919
+    Natural landscape: 0.8951240181922913
+    Rectangle: 0.838633120059967
+    Tree: 0.8349448442459106
+    Lake: 0.8205238580703735
+    Landscape: 0.7985516786575317
+- :image_url: https://live.staticflickr.com/7418/13943039437_62a00925eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.9043694734573364
+    Temple: 0.6488432884216309
+    Orange: 0.8647605776786804
+    Wood: 0.8470230102539062
+    Tints and shades: 0.7734649181365967
+    Holy places: 0.7116792798042297
+    Cave: 0.7100251913070679
+    Landscape: 0.6703000664710999
+    Trunk: 0.6521625518798828
+- :image_url: https://live.staticflickr.com/800/40678000294_3fa4b80518_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9480551481246948
+    Building: 0.9420463442802429
+    Property: 0.9419949650764465
+    Sky: 0.9300276041030884
+    Plant: 0.9001430869102478
+    Fixture: 0.8780507445335388
+    Wood: 0.8624019622802734
+    Neighbourhood: 0.8222013711929321
+    Residential area: 0.8132040500640869
+    House: 0.8069328665733337
+- :image_url: https://live.staticflickr.com/4545/38865841712_c7152b6a1f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.8963086009025574
+    Leaf: 0.8933154940605164
+    Orange: 0.8730422854423523
+    Sky: 0.8554674386978149
+    Sunlight: 0.8439894914627075
+    Natural landscape: 0.7997395992279053
+    Twig: 0.7893871068954468
+    Tints and shades: 0.7732017040252686
+    Deciduous: 0.7224206924438477
+    Tree: 0.6958465576171875
+- :image_url: https://live.staticflickr.com/8193/8136173065_e255f845f3_b.jpg
+  :description: TBD OK
+  :labels:
+    Natural landscape: 0.8826626539230347
+    Wood: 0.8681923151016235
+    Trunk: 0.8654493689537048
+    Twig: 0.857902467250824
+    Rectangle: 0.8571237325668335
+    Tree: 0.8331319093704224
+    Black-and-white: 0.822540819644928
+    Deciduous: 0.7805825471878052
+    Tints and shades: 0.774049699306488
+    Grass: 0.7721702456474304
