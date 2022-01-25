@@ -2509,3 +2509,94 @@ items:
     Deciduous: 0.7805825471878052
     Tints and shades: 0.774049699306488
     Grass: 0.7721702456474304
+- :image_url: https://live.staticflickr.com/65535/49570936427_d719672ebf_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9729418754577637
+    Sky: 0.9580843448638916
+    Asphalt: 0.8639031052589417
+    Road surface: 0.8521435856819153
+    Gas: 0.7806740403175354
+    Window: 0.7771722078323364
+    Building: 0.7653849124908447
+    Road: 0.7641206979751587
+    City: 0.7561855316162109
+    Concrete: 0.7354696393013
+- :image_url: https://live.staticflickr.com/6064/6059603842_127d1fcb74_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9749002456665039
+    Sky: 0.9496546387672424
+    Water resources: 0.9486099481582642
+    Atmosphere: 0.9481807947158813
+    Afterglow: 0.9149826169013977
+    Liquid: 0.8996413946151733
+    Dusk: 0.8853170275688171
+    Fluid: 0.8703904747962952
+    Red sky at morning: 0.8637983798980713
+    Sunset: 0.8624853491783142
+- :image_url: https://live.staticflickr.com/65535/51585220166_5182c94cc2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9748318195343018
+    Daytime: 0.9451959729194641
+    Property: 0.9436184763908386
+    Cloud: 0.9419840574264526
+    Shade: 0.8684021830558777
+    Road surface: 0.8630910515785217
+    Urban design: 0.8611930012702942
+    Tree: 0.8342615962028503
+    Line: 0.8188146948814392
+    Building: 0.810572624206543
+- :image_url: https://live.staticflickr.com/65535/51585881184_0b7c3dccd9_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9449573159217834
+    Leaf: 0.8981521725654602
+    Branch: 0.885706901550293
+    Botany: 0.8778719902038574
+    Twig: 0.821942150592804
+    Tree: 0.7879460453987122
+    Flowering plant: 0.7629405856132507
+    Terrestrial plant: 0.6413377523422241
+    Deciduous: 0.5630155205726624
+    Flower: 0.5599834322929382
+- :image_url: https://live.staticflickr.com/1455/26097009903_ceb020fb4e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9641260504722595
+    Building: 0.9386397004127502
+    Road surface: 0.8800604343414307
+    Sky: 0.8249209523200989
+    Neighbourhood: 0.8220155835151672
+    Sidewalk: 0.8101745843887329
+    Tree: 0.802817165851593
+    House: 0.792214572429657
+    Real estate: 0.7879204154014587
+    Road: 0.7876127362251282
+- :image_url: https://live.staticflickr.com/2590/3724121523_b5289c4c59_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9783975481987
+    Plant: 0.9527022242546082
+    Organism: 0.8544621467590332
+    Petal: 0.8508437275886536
+    Cuisine: 0.7717563509941101
+    Flowering plant: 0.7474371194839478
+    Thorns, spines, and prickles: 0.7190606594085693
+    Close-up: 0.7098538279533386
+    Pollen: 0.6957967877388
+    Daisy family: 0.6782165169715881
+- :image_url: https://live.staticflickr.com/1363/1434505203_17af7cbc41_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9525249004364014
+    Natural environment: 0.8883053064346313
+    Natural landscape: 0.8860442638397217
+    Tree: 0.8805569410324097
+    People in nature: 0.8726711273193359
+    Twig: 0.8692790269851685
+    Terrestrial plant: 0.8563728332519531
+    Trunk: 0.8469961285591125
+    Wood: 0.8306232690811157
+    Grass: 0.7928136587142944
