@@ -1,3 +1,3 @@
-![Alessio](/images/2022-01-25.jpg)
+![Maïwenn](/images/2022-01-26.jpg)
 
-Crédits: [A3X](https://www.flickr.com/people/14161500@N08/) on flickr
+Crédits: [Hindrik S](https://www.flickr.com/people/hindrik/) on flickr

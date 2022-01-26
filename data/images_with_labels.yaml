@@ -2600,3 +2600,42 @@ items:
     Trunk: 0.8469961285591125
     Wood: 0.8306232690811157
     Grass: 0.7928136587142944
+- :image_url: https://live.staticflickr.com/3341/5835889454_098f018551_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9420627355575562
+    Building: 0.9146541357040405
+    Branch: 0.8784293532371521
+    Shade: 0.8461526036262512
+    Tree: 0.8346072435379028
+    Biome: 0.8238743543624878
+    Plant: 0.8120220303535461
+    Woody plant: 0.8093127012252808
+    Twig: 0.8059144020080566
+    Trunk: 0.7795301675796509
+- :image_url: https://live.staticflickr.com/5464/30850899641_8b20c9c85c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant community: 0.9332168102264404
+    Natural landscape: 0.8899198174476624
+    Wood: 0.8581733703613281
+    Trunk: 0.8466734886169434
+    Twig: 0.8408223390579224
+    Sky: 0.815704345703125
+    Tree: 0.7976109981536865
+    Deciduous: 0.7885737419128418
+    Grass: 0.7841010093688965
+    Tints and shades: 0.7738811373710632
+- :image_url: https://live.staticflickr.com/7238/7353788098_8e4e74d8c3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant community: 0.9363683462142944
+    Plant: 0.9317592978477478
+    Tree: 0.8640201091766357
+    Natural landscape: 0.8633863925933838
+    Sky: 0.8595386743545532
+    Woody plant: 0.8065136671066284
+    Landscape: 0.7698600888252258
+    Grass: 0.7625570893287659
+    Soil: 0.6577953100204468
+    Wildlife: 0.6550213098526001
