@@ -2639,3 +2639,29 @@ items:
     Grass: 0.7625570893287659
     Soil: 0.6577953100204468
     Wildlife: 0.6550213098526001
+- :image_url: https://live.staticflickr.com/940/41788130320_c5331d2884_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9619925618171692
+    Road surface: 0.8949383497238159
+    Branch: 0.8717769384384155
+    Shade: 0.8679998517036438
+    Asphalt: 0.8636779189109802
+    Tree: 0.8420677185058594
+    Plant: 0.8270009756088257
+    Urban design: 0.8174427151679993
+    Woody plant: 0.8005199432373047
+    Road: 0.7753902673721313
+- :image_url: https://live.staticflickr.com/8474/8136193844_7c54fa570e_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8741013407707214
+    Twig: 0.8696554899215698
+    Trunk: 0.8455471396446228
+    Natural landscape: 0.8417518138885498
+    Black-and-white: 0.8209188580513
+    Tree: 0.7798228859901428
+    Tints and shades: 0.773902952671051
+    Deciduous: 0.7694206237792969
+    Rectangle: 0.757615327835083
