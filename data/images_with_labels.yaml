@@ -2665,3 +2665,16 @@ items:
     Tints and shades: 0.773902952671051
     Deciduous: 0.7694206237792969
     Rectangle: 0.757615327835083
+- :image_url: https://live.staticflickr.com/2924/14611121094_36eaed4b07_b.jpg
+  :description: TBD OK
+  :labels:
+    Photograph: 0.9422589540481567
+    Window: 0.9310545325279236
+    Flower: 0.9254440069198608
+    Light: 0.9117933511734009
+    Green: 0.9040688276290894
+    Street light: 0.8935580849647522
+    Twig: 0.886786937713623
+    Branch: 0.8804429769515991
+    Botany: 0.8688949346542358
+    Flowerpot: 0.8554193377494812
