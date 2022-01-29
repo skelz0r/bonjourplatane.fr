@@ -2678,3 +2678,29 @@ items:
     Branch: 0.8804429769515991
     Botany: 0.8688949346542358
     Flowerpot: 0.8554193377494812
+- :image_url: https://live.staticflickr.com/7427/13990223827_c38748f718_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8828938007354736
+    Plant: 0.8767176866531372
+    Twig: 0.8688839077949524
+    Wood: 0.8539966344833374
+    Art: 0.8139238953590393
+    Trunk: 0.8010642528533936
+    Font: 0.7997785806655884
+    Tree: 0.7855275273323059
+    Illustration: 0.7250323295593262
+    Environmental art: 0.7139721512794495
+- :image_url: https://live.staticflickr.com/7107/7455505520_29df1ae773_b.jpg
+  :description: TBD OK
+  :labels:
+    Leaf: 0.8944659233093262
+    Trunk: 0.8561921119689941
+    Wood: 0.8548663258552551
+    Camouflage: 0.8342218995094299
+    Tree: 0.8009904623031616
+    Military camouflage: 0.77589350938797
+    Tints and shades: 0.7659993767738342
+    Font: 0.7062249183654785
+    Grass: 0.6929786801338196
+    Pattern: 0.6865869164466858
