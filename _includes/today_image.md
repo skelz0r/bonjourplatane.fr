@@ -1,3 +1,3 @@
-![Alex](/images/2022-01-30.jpg)
+![Maëly](/images/2022-01-31.jpg)
 
-Crédits: [byb64](https://www.flickr.com/people/50879678@N03/) on flickr
+Crédits: [onnola](https://www.flickr.com/people/30845644@N04/) on flickr

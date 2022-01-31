@@ -2717,3 +2717,29 @@ items:
     City: 0.7799877524375916
     Road surface: 0.7536937594413757
     Winter: 0.6786996126174927
+- :image_url: https://live.staticflickr.com/5464/30850899641_8b20c9c85c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant community: 0.9332168102264404
+    Natural landscape: 0.8899203538894653
+    Wood: 0.8581733703613281
+    Trunk: 0.8466737866401672
+    Twig: 0.8408223390579224
+    Sky: 0.815704345703125
+    Tree: 0.797610878944397
+    Deciduous: 0.7885737419128418
+    Grass: 0.7841010093688965
+    Tints and shades: 0.7738811373710632
+- :image_url: https://live.staticflickr.com/65535/47973225121_80f53c76a3_b.jpg
+  :description: TBD OK
+  :labels:
+    Bird: 0.9494226574897766
+    Vertebrate: 0.9223952293395996
+    Twig: 0.8782922029495239
+    Botany: 0.8756182193756104
+    Branch: 0.8741235733032227
+    Plant: 0.863533079624176
+    Beak: 0.8620213270187378
+    Tree: 0.8223037719726562
+    Stock dove: 0.7158761620521545
+    Wildlife: 0.6077921986579895
