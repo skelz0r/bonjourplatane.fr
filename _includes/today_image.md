@@ -1,3 +1,3 @@
-![Maëly](/images/2022-01-31.jpg)
+![Gaël](/images/2022-02-01.jpg)
 
-Crédits: [onnola](https://www.flickr.com/people/30845644@N04/) on flickr
+Crédits: [TomLight Photography](https://www.flickr.com/people/tomlight/) on flickr

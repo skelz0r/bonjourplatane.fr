@@ -2743,3 +2743,16 @@ items:
     Tree: 0.8223037719726562
     Stock dove: 0.7158761620521545
     Wildlife: 0.6077921986579895
+- :image_url: https://live.staticflickr.com/379/32605307431_328a8d5ab2_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9542457461357117
+    Sky: 0.9030596613883972
+    Road surface: 0.8886316418647766
+    Natural landscape: 0.8884825110435486
+    Tree: 0.8856514096260071
+    Branch: 0.8847345113754272
+    Asphalt: 0.8548457026481628
+    Shade: 0.8482066988945007
+    Sunlight: 0.8433725237846375
+    Wood: 0.84309983253479
