@@ -1,3 +1,3 @@
-![Gaël](/images/2022-02-01.jpg)
+![Célestin](/images/2022-02-02.jpg)
 
-Crédits: [TomLight Photography](https://www.flickr.com/people/tomlight/) on flickr
+Crédits: [LiZakha](https://www.flickr.com/people/lizakha/) on flickr

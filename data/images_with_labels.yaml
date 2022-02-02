@@ -2756,3 +2756,55 @@ items:
     Shade: 0.8482066988945007
     Sunlight: 0.8433725237846375
     Wood: 0.84309983253479
+- :image_url: https://live.staticflickr.com/3743/32956705002_ac9e0a4ae8_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9229785799980164
+    Organism: 0.866556704044342
+    Terrestrial plant: 0.8452483415603638
+    Trunk: 0.8136200904846191
+    Grass: 0.793586015701294
+    Groundcover: 0.7624676823616028
+    Non-vascular land plant: 0.7380360960960388
+    Tree: 0.7198337912559509
+    Flowering plant: 0.7173577547073364
+    Soil: 0.6952034831047058
+- :image_url: https://live.staticflickr.com/3744/32986053171_099bbe019f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8800960183143616
+    Water: 0.8745882511138916
+    Natural material: 0.8615918755531311
+    Organism: 0.8539251089096069
+    Twig: 0.8438442349433899
+    Plant: 0.8362691402435303
+    Trunk: 0.8351505994796753
+    Terrestrial plant: 0.8333065509796143
+    Tree: 0.7418980002403259
+    Pattern: 0.735809862613678
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485865592956543
+    Road surface: 0.8303502798080444
+    Twig: 0.8159111738204956
+    Wood: 0.8151053190231323
+    Facade: 0.7909621000289917
+    Window: 0.7881766557693481
+- :image_url: https://live.staticflickr.com/6012/5999444954_6d0fd0cf57_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9232812523841858
+    Twig: 0.8753476738929749
+    Trunk: 0.873711884021759
+    Yellow: 0.8605757355690002
+    Plant: 0.8569443821907043
+    Wood: 0.8499492406845093
+    Sunlight: 0.8473239541053772
+    Deciduous: 0.8147022128105164
+    People in nature: 0.8086808919906616
+    Tree: 0.7739624381065369
