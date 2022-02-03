@@ -2808,3 +2808,29 @@ items:
     Deciduous: 0.8147022128105164
     People in nature: 0.8086808919906616
     Tree: 0.7739624381065369
+- :image_url: https://live.staticflickr.com/65535/50066192982_cecd99c09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330711364746094
+    Road surface: 0.83196622133255
+    Wood: 0.8241688013076782
+    Urban design: 0.8234358429908752
+    Neighbourhood: 0.8189184069633484
+    Gas: 0.7803220152854919
+    City: 0.761350154876709
+    Sidewalk: 0.7401347756385803
+    Composite material: 0.7344955801963806
+    Facade: 0.7344334125518799
+- :image_url: https://live.staticflickr.com/5137/5502961488_f5d6815209_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9794057011604309
+    Sky: 0.9735427498817444
+    Plant: 0.9679974913597107
+    Atmosphere: 0.9481807947158813
+    Daytime: 0.9447412490844727
+    Natural landscape: 0.8947693109512329
+    Natural environment: 0.8896960020065308
+    Branch: 0.8716840147972107
+    Tree: 0.8705554604530334
+    Grass: 0.8620070815086365
