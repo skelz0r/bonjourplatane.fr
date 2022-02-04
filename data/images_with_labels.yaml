@@ -2834,3 +2834,61 @@ items:
     Branch: 0.8716840147972107
     Tree: 0.8705554604530334
     Grass: 0.8620070815086365
+- :image_url: https://live.staticflickr.com/65535/50510942072_4f237ac8f0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8561058044433594
+    Natural landscape: 0.8559063673019409
+    Trunk: 0.8424935936927795
+    Black-and-white: 0.8293512463569641
+    Twig: 0.8207360506057739
+    Tints and shades: 0.773691713809967
+    Grass: 0.7521235942840576
+    Landscape: 0.7213003635406494
+    Forest: 0.7171574234962463
+    Darkness: 0.714565098285675
+- :image_url: https://live.staticflickr.com/108/311075918_6f33ce1b15_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9347283840179443
+    Sky: 0.8924072980880737
+    Road surface: 0.8854860067367554
+    Branch: 0.8733918070793152
+    Electricity: 0.8687734603881836
+    Tree: 0.8371937870979309
+    Neighbourhood: 0.8312051892280579
+    Plant: 0.8305101990699768
+    Residential area: 0.791703999042511
+    Road: 0.7887775301933289
+- :image_url: https://live.staticflickr.com/65535/50066192982_cecd99c09c_b.jpg
+  :description: TBD NOK
+  :labels: {}
+- :image_url: https://live.staticflickr.com/6071/6059604738_8325c65863_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9766667485237122
+    Sky: 0.9596863985061646
+    Water resources: 0.9532866477966309
+    Atmosphere: 0.9481807947158813
+    Daytime: 0.9451143145561218
+    Ecoregion: 0.9263128042221069
+    Cloud: 0.9064822793006897
+    Natural environment: 0.8924225568771362
+    Afterglow: 0.8897846341133118
+    Orange: 0.8700303435325623
+- :image_url: https://live.staticflickr.com/65535/48099226342_ca7feb450f_b.jpg
+  :description: TBD NOK
+  :labels: {}
+- :image_url: https://live.staticflickr.com/8097/8361228088_5e9b85c4f0_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9783023595809937
+    Plant: 0.9697943925857544
+    Boat: 0.9554088115692139
+    Window: 0.9431111812591553
+    Watercraft: 0.9243815541267395
+    Sky: 0.9226807355880737
+    Vehicle: 0.9097461104393005
+    Building: 0.8982707262039185
+    Tree: 0.8954050540924072
+    Naval architecture: 0.8453037738800049
