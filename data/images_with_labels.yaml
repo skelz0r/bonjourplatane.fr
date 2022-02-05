@@ -2892,3 +2892,29 @@ items:
     Building: 0.8982707262039185
     Tree: 0.8954050540924072
     Naval architecture: 0.8453037738800049
+- :image_url: https://live.staticflickr.com/3744/32986053171_099bbe019f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8800960183143616
+    Water: 0.8745882511138916
+    Natural material: 0.8615918755531311
+    Organism: 0.8539251089096069
+    Twig: 0.8438442349433899
+    Plant: 0.8362691402435303
+    Trunk: 0.8351505994796753
+    Terrestrial plant: 0.8333065509796143
+    Tree: 0.7418980002403259
+    Pattern: 0.735809862613678
+- :image_url: https://live.staticflickr.com/8087/8357821334_785b9a02a8_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9673296213150024
+    Sky: 0.9526678323745728
+    Building: 0.9339465498924255
+    Tree: 0.8902684450149536
+    Door: 0.8526096343994141
+    Cottage: 0.7965248823165894
+    Rural area: 0.7804692983627319
+    Grass: 0.7743017077445984
+    Facade: 0.7496151328086853
+    House: 0.7238849997520447
