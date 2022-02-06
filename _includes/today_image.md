@@ -1,3 +1,3 @@
-![Ethan](/images/2022-02-05.jpg)
+![Rémy](/images/2022-02-06.jpg)
 
-Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
+Crédits: [Louise Feige](https://www.flickr.com/people/miny-lou/) on flickr

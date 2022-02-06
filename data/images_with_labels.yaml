@@ -2918,3 +2918,68 @@ items:
     Grass: 0.7743017077445984
     Facade: 0.7496151328086853
     House: 0.7238849997520447
+- :image_url: https://live.staticflickr.com/7263/7804229672_343857d6b5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9547249674797058
+    Plant: 0.9425453543663025
+    Botany: 0.8901758790016174
+    Rectangle: 0.8802933692932129
+    Natural landscape: 0.8659253716468811
+    Tree: 0.8433987498283386
+    Shade: 0.840202808380127
+    Wood: 0.8305508494377136
+    Trunk: 0.8281769752502441
+    Grass: 0.818530797958374
+- :image_url: https://live.staticflickr.com/5464/30850899641_8b20c9c85c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant community: 0.9332168102264404
+    Natural landscape: 0.8899203538894653
+    Wood: 0.8581733703613281
+    Trunk: 0.8466737866401672
+    Twig: 0.8408223390579224
+    Sky: 0.815704345703125
+    Tree: 0.797610878944397
+    Deciduous: 0.7885737419128418
+    Grass: 0.7841010093688965
+    Tints and shades: 0.7738811373710632
+- :image_url: https://live.staticflickr.com/65535/51037532716_bf9bcc0bd7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9339303970336914
+    Flower: 0.8982082605361938
+    Leaf: 0.8920920491218567
+    Natural landscape: 0.8835869431495667
+    Petal: 0.8593034148216248
+    Black-and-white: 0.8566761016845703
+    Terrestrial plant: 0.8473320603370667
+    Wood: 0.8469547033309937
+    Style: 0.838456392288208
+    Grass: 0.8247734308242798
+- :image_url: https://live.staticflickr.com/65535/49322536886_4451116a6e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.906777560710907
+    Leaf: 0.8925381302833557
+    Branch: 0.8780335187911987
+    Plant: 0.8094725608825684
+    Woody plant: 0.8013328313827515
+    Groundcover: 0.7909635305404663
+    Flowering plant: 0.7838742136955261
+    Twig: 0.7450183629989624
+    Tints and shades: 0.74464350938797
+    Grass: 0.7421327829360962
+- :image_url: https://live.staticflickr.com/6116/6345384220_0fcbb4f0d6_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9648131132125854
+    Natural landscape: 0.8982607126235962
+    Road surface: 0.8931887745857239
+    Tree: 0.8740091919898987
+    Wood: 0.8686923980712891
+    Vegetation: 0.8634740710258484
+    Sky: 0.8621528148651123
+    Shade: 0.8601139783859253
+    Asphalt: 0.8573462963104248
+    Grass: 0.8256359696388245
