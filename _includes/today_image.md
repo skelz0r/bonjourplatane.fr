@@ -1,3 +1,3 @@
-![Rémy](/images/2022-02-06.jpg)
+![Laura](/images/2022-02-07.jpg)
 
-Crédits: [Louise Feige](https://www.flickr.com/people/miny-lou/) on flickr
+Crédits: [Kapa de Marseille](https://www.flickr.com/people/kapademarseille/) on flickr
