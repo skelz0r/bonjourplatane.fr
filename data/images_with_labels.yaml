@@ -3113,3 +3113,42 @@ items:
     City: 0.7681024670600891
     House: 0.7463130950927734
     Mixed-use: 0.6850676536560059
+- :image_url: https://live.staticflickr.com/1936/30395432717_aa0879b9c7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9678092002868652
+    Property: 0.9427356123924255
+    Plant: 0.934326708316803
+    Building: 0.9320259094238281
+    Azure: 0.8963138461112976
+    Window: 0.8829415440559387
+    Flower: 0.8055588603019714
+    Facade: 0.7791347503662109
+    Rural area: 0.7762364745140076
+    City: 0.7650371789932251
+- :image_url: https://live.staticflickr.com/5573/15268789632_9a6546be6a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9755120873451233
+    Sky: 0.9635611772537231
+    Afterglow: 0.9073030352592468
+    Cloud: 0.8984993100166321
+    Dusk: 0.8683615326881409
+    Beach: 0.8512528538703918
+    Sunrise: 0.8475185632705688
+    Sunset: 0.8468990921974182
+    Coastal and oceanic landforms: 0.8285346031188965
+    Horizon: 0.8256542682647705
+- :image_url: https://live.staticflickr.com/6080/6094353157_ca82184e3e_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8850671648979187
+    Branch: 0.8725569844245911
+    Trunk: 0.8541684746742249
+    Wood: 0.8459845185279846
+    Plant: 0.8322827816009521
+    Twig: 0.7983270883560181
+    Leisure: 0.7911921143531799
+    People in nature: 0.7841017246246338
+    Tints and shades: 0.7726127505302429
+    Travel: 0.76947021484375
