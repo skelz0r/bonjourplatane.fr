@@ -3152,3 +3152,16 @@ items:
     People in nature: 0.7841017246246338
     Tints and shades: 0.7726127505302429
     Travel: 0.76947021484375
+- :image_url: https://live.staticflickr.com/65535/50516952198_699d1f8043_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9618873000144958
+    Natural landscape: 0.8901115655899048
+    Shade: 0.8821694254875183
+    Tree: 0.8796436786651611
+    Branch: 0.8786998391151428
+    Road surface: 0.868804395198822
+    Wood: 0.8679829835891724
+    Trunk: 0.8571152091026306
+    Sunlight: 0.8483194708824158
+    Grass: 0.8273841738700867
