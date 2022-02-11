@@ -3165,3 +3165,16 @@ items:
     Trunk: 0.8571152091026306
     Sunlight: 0.8483194708824158
     Grass: 0.8273841738700867
+- :image_url: https://live.staticflickr.com/5708/30416196832_59630c4b85_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9658620953559875
+    Cloud: 0.9366426467895508
+    Plant: 0.8724392652511597
+    Natural landscape: 0.853824257850647
+    Trunk: 0.8520938754081726
+    Twig: 0.8478369116783142
+    Deciduous: 0.7809436321258545
+    Tints and shades: 0.77340167760849
+    Tree: 0.7662652730941772
+    Flowering plant: 0.7487605214118958
