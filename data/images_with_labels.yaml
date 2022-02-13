@@ -3256,3 +3256,16 @@ items:
     Fruit tree: 0.6335952281951904
     Wood: 0.5444576740264893
     Birch family: 0.5400331616401672
+- :image_url: https://live.staticflickr.com/3882/15193132509_2e198c7bd9_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9483153820037842
+    Twig: 0.8726643323898315
+    Branch: 0.8704146146774292
+    Sky: 0.8034529089927673
+    Tree: 0.791310727596283
+    Natural landscape: 0.7891625761985779
+    Wood: 0.769023597240448
+    Deciduous: 0.7662586569786072
+    Tints and shades: 0.7644941210746765
+    Flowering plant: 0.7266600728034973

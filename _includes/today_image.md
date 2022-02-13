@@ -1,3 +1,3 @@
-![Maxence](/images/2022-02-12.jpg)
+![Lena](/images/2022-02-13.jpg)
 
-Crédits: [melina1965](https://www.flickr.com/people/8989278@N03/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr
