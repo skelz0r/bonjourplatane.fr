@@ -3503,3 +3503,29 @@ items:
     Woody plant: 0.8093934655189514
     Tints and shades: 0.7739973664283752
     Landscape: 0.7588145136833191
+- :image_url: https://live.staticflickr.com/7427/13990223827_c38748f718_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8828938007354736
+    Plant: 0.8767176866531372
+    Twig: 0.8688839077949524
+    Wood: 0.8539966344833374
+    Art: 0.8139238953590393
+    Trunk: 0.8010642528533936
+    Font: 0.7997785806655884
+    Tree: 0.7855275273323059
+    Illustration: 0.7250323295593262
+    Environmental art: 0.7139721512794495
+- :image_url: https://live.staticflickr.com/4463/37883665571_1d29b9e90b_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9748635292053223
+    Plant: 0.9625417590141296
+    Green: 0.9142714142799377
+    Natural landscape: 0.9029111266136169
+    Leaf: 0.8944427371025085
+    Tree: 0.8939464092254639
+    People in nature: 0.8750149607658386
+    Orange: 0.8714785575866699
+    Botany: 0.870296061038971
+    Branch: 0.8697076439857483

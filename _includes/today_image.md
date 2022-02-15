@@ -1,3 +1,3 @@
-![Amelia](/images/2022-02-14.jpg)
+![Louna](/images/2022-02-15.jpg)
 
-Crédits: [L'imaGiraphe](https://www.flickr.com/people/limagiraphe/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr
