@@ -3529,3 +3529,26 @@ items:
     Orange: 0.8714785575866699
     Botany: 0.870296061038971
     Branch: 0.8697076439857483
+- :image_url: https://live.staticflickr.com/7899/46984886761_7f328e4e08_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9611644148826599
+    Car: 0.9577577710151672
+    Wheel: 0.9467796087265015
+    Window: 0.946563184261322
+    Sky: 0.9427892565727234
+    Tire: 0.9257305860519409
+    Vehicle: 0.9129871726036072
+    Tree: 0.8978586196899414
+    Road surface: 0.8940379023551941
+    Cloud: 0.8775323629379272
+- :image_url: https://live.staticflickr.com/1170/1435582775_4ea7b53fe9_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9665944576263428
+    Plant: 0.9554747939109802
+    Leaf: 0.897949755191803
+    Tree: 0.8508839011192322
+    Terrestrial plant: 0.8443978428840637
+    Flowering plant: 0.7365149855613708
+    Combretaceae: 0.5561743378639221
