@@ -3552,3 +3552,68 @@ items:
     Terrestrial plant: 0.8443978428840637
     Flowering plant: 0.7365149855613708
     Combretaceae: 0.5561743378639221
+- :image_url: https://live.staticflickr.com/6198/6059056677_e99aed47a7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9794048070907593
+    Sky: 0.9695720672607422
+    Water resources: 0.9509294629096985
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9215726852416992
+    Afterglow: 0.9131134748458862
+    Cloud: 0.902023434638977
+    Fluid: 0.870185375213623
+    Orange: 0.8638483285903931
+    Coastal and oceanic landforms: 0.8534529805183411
+- :image_url: https://live.staticflickr.com/3341/5835889454_098f018551_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9420627355575562
+    Building: 0.9146542549133301
+    Branch: 0.8784295916557312
+    Shade: 0.8461527824401855
+    Tree: 0.8346074223518372
+    Biome: 0.8238742351531982
+    Plant: 0.8120220303535461
+    Woody plant: 0.8093127012252808
+    Twig: 0.8059142231941223
+    Trunk: 0.7795299887657166
+- :image_url: https://live.staticflickr.com/65535/51257962442_659b210112_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9770256876945496
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9471738338470459
+    Sky: 0.9361064434051514
+    Ecoregion: 0.9256210327148438
+    Afterglow: 0.9143838882446289
+    Liquid: 0.876800000667572
+    Natural landscape: 0.8726886510848999
+    Orange: 0.8726774454116821
+    Fluid: 0.8696794509887695
+- :image_url: https://live.staticflickr.com/2205/2012574245_8233d8fe93_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9083254933357239
+    Terrestrial plant: 0.8522893786430359
+    Asphalt: 0.769363284111023
+    Tints and shades: 0.7659881711006165
+    Road surface: 0.7646889090538025
+    Slope: 0.7617812752723694
+    Grass: 0.7510682344436646
+    Soil: 0.6871662139892578
+    Flowering plant: 0.6784138083457947
+    Font: 0.6562201976776123
+- :image_url: https://live.staticflickr.com/3867/14426574508_9f20cfa057_b.jpg
+  :description: TBD OK
+  :labels:
+    Daytime: 0.9460523724555969
+    Window: 0.9430000185966492
+    Property: 0.9427961707115173
+    Building: 0.93986576795578
+    Twig: 0.872230052947998
+    Fixture: 0.8598454594612122
+    Tree: 0.8440786600112915
+    Residential area: 0.8026516437530518
+    Material property: 0.8009606003761292
+    Urban design: 0.7892050743103027

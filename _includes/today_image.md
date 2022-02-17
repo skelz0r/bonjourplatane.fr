@@ -1,3 +1,3 @@
-![Olivia](/images/2022-02-16.jpg)
+![Giulia](/images/2022-02-17.jpg)
 
-Crédits: [OliBac](https://www.flickr.com/people/olibac/) on flickr
+Crédits: [byb64](https://www.flickr.com/people/50879678@N03/) on flickr
