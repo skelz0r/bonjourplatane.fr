@@ -3617,3 +3617,16 @@ items:
     Residential area: 0.8026516437530518
     Material property: 0.8009606003761292
     Urban design: 0.7892050743103027
+- :image_url: https://live.staticflickr.com/65535/49929868608_c9f87c6dbe_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.972812294960022
+    Liquid: 0.9261777400970459
+    Plant: 0.8997153043746948
+    Fluid: 0.8704198598861694
+    Twig: 0.8671199083328247
+    Natural landscape: 0.8529059886932373
+    Lake: 0.8282172679901123
+    Watercourse: 0.8200922608375549
+    Tree: 0.737342894077301
+    Reflection: 0.619798481464386

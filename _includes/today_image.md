@@ -1,3 +1,3 @@
-![Giulia](/images/2022-02-17.jpg)
+![Tristan](/images/2022-02-18.jpg)
 
-Crédits: [byb64](https://www.flickr.com/people/50879678@N03/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
