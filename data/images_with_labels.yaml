@@ -3824,3 +3824,29 @@ items:
     World: 0.8444843888282776
     Sunlight: 0.8441289663314819
     Cloud: 0.8371549844741821
+- :image_url: https://live.staticflickr.com/1936/30395432717_aa0879b9c7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9678092002868652
+    Property: 0.9427356123924255
+    Plant: 0.934326708316803
+    Building: 0.9320259094238281
+    Azure: 0.8963138461112976
+    Window: 0.8829415440559387
+    Flower: 0.8055588603019714
+    Facade: 0.7791347503662109
+    Rural area: 0.7762364745140076
+    City: 0.7650371789932251
+- :image_url: https://live.staticflickr.com/8246/8533654201_8cac105e9f_b.jpg
+  :description: TBD OK
+  :labels:
+    Nature: 0.9001567959785461
+    Water: 0.8904359936714172
+    Branch: 0.8755279779434204
+    Twig: 0.8683092594146729
+    Natural landscape: 0.8534387350082397
+    Wood: 0.8529892563819885
+    Sky: 0.8454369902610779
+    Line: 0.8261939883232117
+    Plant: 0.7886587977409363
+    Grass: 0.7803241610527039
