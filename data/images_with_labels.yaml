@@ -3850,3 +3850,16 @@ items:
     Line: 0.8261939883232117
     Plant: 0.7886587977409363
     Grass: 0.7803241610527039
+- :image_url: https://live.staticflickr.com/8094/8367369232_a5aa36d427_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9811188578605652
+    Plant: 0.9657984375953674
+    Sky: 0.9535689949989319
+    Water resources: 0.9462286829948425
+    Window: 0.9339934587478638
+    Natural environment: 0.8918036222457886
+    Building: 0.8769056797027588
+    Natural landscape: 0.8752476572990417
+    Tree: 0.873519241809845
+    Branch: 0.8697380423545837
