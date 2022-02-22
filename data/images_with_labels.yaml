@@ -3863,3 +3863,16 @@ items:
     Natural landscape: 0.8752476572990417
     Tree: 0.873519241809845
     Branch: 0.8697380423545837
+- :image_url: https://live.staticflickr.com/8525/8587323926_bcb5a6b3fa_b.jpg
+  :description: TBD OK
+  :labels:
+    Hood: 0.9167343974113464
+    Sky: 0.914622962474823
+    Building: 0.9132317304611206
+    Automotive lighting: 0.8842149972915649
+    Tree: 0.8780885338783264
+    Motor vehicle: 0.8442046046257019
+    Wood: 0.8219391703605652
+    Plant: 0.8105013370513916
+    Automotive exterior: 0.8081253170967102
+    Morning: 0.795620858669281

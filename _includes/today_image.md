@@ -1,3 +1,3 @@
-![Lina](/images/2022-02-21.jpg)
+![Léane](/images/2022-02-22.jpg)
 
-Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
+Crédits: [Casey Hugelfink](https://www.flickr.com/people/caseyhugelfink/) on flickr
