@@ -3876,3 +3876,16 @@ items:
     Plant: 0.8105013370513916
     Automotive exterior: 0.8081253170967102
     Morning: 0.795620858669281
+- :image_url: https://live.staticflickr.com/3880/14426795617_bf7c20c519_b.jpg
+  :description: TBD OK
+  :labels:
+    Building: 0.9490396976470947
+    Window: 0.9446685314178467
+    Tree: 0.863824725151062
+    Wall: 0.8086794018745422
+    Neighbourhood: 0.8079372644424438
+    City: 0.7913845181465149
+    Facade: 0.7907703518867493
+    Sky: 0.7900639176368713
+    Urban area: 0.7335898876190186
+    Arch: 0.7046278715133667
