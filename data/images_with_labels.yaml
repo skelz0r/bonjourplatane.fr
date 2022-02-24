@@ -3889,3 +3889,29 @@ items:
     Sky: 0.7900639176368713
     Urban area: 0.7335898876190186
     Arch: 0.7046278715133667
+- :image_url: https://live.staticflickr.com/65535/51037532716_bf9bcc0bd7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9339303970336914
+    Flower: 0.8982082605361938
+    Leaf: 0.8920920491218567
+    Natural landscape: 0.8835869431495667
+    Petal: 0.8593034148216248
+    Black-and-white: 0.8566761016845703
+    Terrestrial plant: 0.8473320603370667
+    Wood: 0.8469547033309937
+    Style: 0.838456392288208
+    Grass: 0.8247734308242798
+- :image_url: https://live.staticflickr.com/65535/51660797211_1a17caaa63_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9777939915657043
+    Plant: 0.9317681193351746
+    Sky: 0.8961572051048279
+    Tree: 0.8889093399047852
+    Natural landscape: 0.8836492896080017
+    People in nature: 0.8745745420455933
+    Branch: 0.867816150188446
+    Wood: 0.8528788685798645
+    Trunk: 0.8519865870475769
+    Twig: 0.8438921570777893

@@ -1,3 +1,3 @@
-![Estelle](/images/2022-02-23.jpg)
+![Sara](/images/2022-02-24.jpg)
 
-Crédits: [byb64](https://www.flickr.com/people/50879678@N03/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr
