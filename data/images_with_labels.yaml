@@ -3915,3 +3915,42 @@ items:
     Wood: 0.8528788685798645
     Trunk: 0.8519865870475769
     Twig: 0.8438921570777893
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485865592956543
+    Road surface: 0.8303502798080444
+    Twig: 0.8159111738204956
+    Wood: 0.8151053190231323
+    Facade: 0.7909621000289917
+    Window: 0.7881766557693481
+- :image_url: https://live.staticflickr.com/7263/7804229672_343857d6b5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9547249674797058
+    Plant: 0.9425453543663025
+    Botany: 0.8901758790016174
+    Rectangle: 0.8802933692932129
+    Natural landscape: 0.8659253716468811
+    Tree: 0.8433987498283386
+    Shade: 0.840202808380127
+    Wood: 0.8305508494377136
+    Trunk: 0.8281769752502441
+    Grass: 0.818530797958374
+- :image_url: https://live.staticflickr.com/8287/29212205041_544f134e4f_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8813691139221191
+    Branch: 0.8722127079963684
+    Plant: 0.8673222064971924
+    Twig: 0.8662484884262085
+    Trunk: 0.8599600195884705
+    Natural landscape: 0.8455809354782104
+    Deciduous: 0.784200131893158
+    Tints and shades: 0.7701137661933899
+    Grass: 0.7692645192146301
+    Terrestrial plant: 0.7596545219421387
