@@ -3954,3 +3954,16 @@ items:
     Tints and shades: 0.7701137661933899
     Grass: 0.7692645192146301
     Terrestrial plant: 0.7596545219421387
+- :image_url: https://live.staticflickr.com/7147/6778274091_9f65c433ac_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9782992601394653
+    Plant: 0.906065821647644
+    Sky: 0.8911358118057251
+    Natural landscape: 0.8839620351791382
+    Branch: 0.8806860446929932
+    Tree: 0.8682465553283691
+    Building: 0.8644797205924988
+    Lake: 0.8458917140960693
+    Watercourse: 0.8335580229759216
+    Bank: 0.8213203549385071
