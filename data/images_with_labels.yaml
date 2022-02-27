@@ -3967,3 +3967,120 @@ items:
     Lake: 0.8458917140960693
     Watercourse: 0.8335580229759216
     Bank: 0.8213203549385071
+- :image_url: https://live.staticflickr.com/1804/29430744828_b34f47702e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Temple: 0.8698256611824036
+    Market: 0.7638455033302307
+    City: 0.7507243156433105
+    Retail: 0.7155593037605286
+    Shopping: 0.7122094631195068
+    Road: 0.6990315318107605
+    Event: 0.6988368034362793
+    Marketplace: 0.6863429546356201
+    Bazaar: 0.643497884273529
+    Street: 0.6330080628395081
+- :image_url: https://live.staticflickr.com/3056/3010436254_b3a46f2f6d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Natural environment: 0.8885177969932556
+    Wood: 0.8876921534538269
+    World: 0.8791348338127136
+    Textile: 0.8761579394340515
+    Branch: 0.8687825202941895
+    Organism: 0.8645375370979309
+    Grey: 0.8436470031738281
+    Wall: 0.813379168510437
+    Floor: 0.8087282180786133
+- :image_url: https://live.staticflickr.com/5614/15807473852_88bc8e6546_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water resources: 0.9476445317268372
+    Water: 0.9197248816490173
+    World: 0.8624683022499084
+    Urban design: 0.8453877568244934
+    Landscape: 0.8083426356315613
+    Tree: 0.7997870445251465
+    Building: 0.7682979106903076
+    Waterway: 0.7615554332733154
+    Geological phenomenon: 0.7611224055290222
+    Natural landscape: 0.7560068368911743
+- :image_url: https://live.staticflickr.com/6198/6059056677_e99aed47a7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9794048070907593
+    Sky: 0.9695720672607422
+    Water resources: 0.9509294629096985
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9215726852416992
+    Afterglow: 0.9131134748458862
+    Cloud: 0.902023434638977
+    Fluid: 0.870185375213623
+    Orange: 0.8638483285903931
+    Coastal and oceanic landforms: 0.8534529805183411
+- :image_url: https://live.staticflickr.com/65535/51585881184_0b7c3dccd9_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9449571967124939
+    Leaf: 0.8981525301933289
+    Branch: 0.8857066631317139
+    Botany: 0.8778707385063171
+    Twig: 0.821942150592804
+    Tree: 0.7879460453987122
+    Flowering plant: 0.7629405856132507
+    Terrestrial plant: 0.6413376927375793
+    Deciduous: 0.563015341758728
+    Flower: 0.5599834322929382
+- :image_url: https://live.staticflickr.com/3744/32986053171_099bbe019f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8800960183143616
+    Water: 0.8745882511138916
+    Natural material: 0.8615918755531311
+    Organism: 0.8539251089096069
+    Twig: 0.8438442349433899
+    Plant: 0.8362691402435303
+    Trunk: 0.8351505994796753
+    Terrestrial plant: 0.8333065509796143
+    Tree: 0.7418980002403259
+    Pattern: 0.735809862613678
+- :image_url: https://live.staticflickr.com/1804/29430744828_b34f47702e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Temple: 0.8698256611824036
+    Market: 0.7638455033302307
+    City: 0.7507243156433105
+    Retail: 0.7155593037605286
+    Shopping: 0.7122094631195068
+    Road: 0.6990315318107605
+    Event: 0.6988368034362793
+    Marketplace: 0.6863429546356201
+    Bazaar: 0.643497884273529
+    Street: 0.6330080628395081
+- :image_url: https://live.staticflickr.com/65535/50066192982_cecd99c09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330711364746094
+    Road surface: 0.83196622133255
+    Wood: 0.8241688013076782
+    Urban design: 0.8234358429908752
+    Neighbourhood: 0.8189184069633484
+    Gas: 0.7803220152854919
+    City: 0.761350154876709
+    Sidewalk: 0.7401347756385803
+    Composite material: 0.7344955801963806
+    Facade: 0.7344334125518799
+- :image_url: https://live.staticflickr.com/65535/48903889853_ee599fde9f_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9697366952896118
+    Daytime: 0.9442278742790222
+    Building: 0.8977622985839844
+    Road surface: 0.8918452262878418
+    Tree: 0.8794819712638855
+    Neighbourhood: 0.8531564474105835
+    Shade: 0.8461747765541077
+    Urban design: 0.8455196619033813
+    Biome: 0.8282389640808105
+    Sidewalk: 0.8211250305175781

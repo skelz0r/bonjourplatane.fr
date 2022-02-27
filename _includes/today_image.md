@@ -1,3 +1,3 @@
-![Sohan](/images/2022-02-26.jpg)
+![Noham](/images/2022-02-27.jpg)
 
-Crédits: [Klasse im Garten](https://www.flickr.com/people/klasseimgarten/) on flickr
+Crédits: [Rüdiger Stehn](https://www.flickr.com/people/rstehn/) on flickr
