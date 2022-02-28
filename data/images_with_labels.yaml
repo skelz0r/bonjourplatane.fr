@@ -4084,3 +4084,29 @@ items:
     Urban design: 0.8455196619033813
     Biome: 0.8282389640808105
     Sidewalk: 0.8211250305175781
+- :image_url: https://live.staticflickr.com/4053/4531924933_9040af6c80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9785861372947693
+    Plant: 0.9684004783630371
+    Flowerpot: 0.9346052408218384
+    Houseplant: 0.9313274621963501
+    Sky: 0.9231992363929749
+    Botany: 0.912769079208374
+    Petal: 0.8942152857780457
+    Pink: 0.8301514983177185
+    Terrestrial plant: 0.8265478610992432
+    Tree: 0.7876739501953125
+- :image_url: https://live.staticflickr.com/7908/46485937644_18a25c99b5_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Plant community: 0.9364546537399292
+    Natural landscape: 0.8917551040649414
+    Twig: 0.8833628296852112
+    Wood: 0.8818421363830566
+    Branch: 0.8764941692352295
+    Trunk: 0.869892954826355
+    Tree: 0.8651436567306519
+    Grass: 0.8244224190711975
+    Deciduous: 0.8225383758544922
