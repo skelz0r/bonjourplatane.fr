@@ -4110,3 +4110,68 @@ items:
     Tree: 0.8651436567306519
     Grass: 0.8244224190711975
     Deciduous: 0.8225383758544922
+- :image_url: https://live.staticflickr.com/8478/8271389523_1c11e78acb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9245098233222961
+    Road surface: 0.8987736701965332
+    Infrastructure: 0.8881734013557434
+    Branch: 0.8835065364837646
+    Shade: 0.8710313439369202
+    Plant: 0.859616219997406
+    Black-and-white: 0.8577613830566406
+    Style: 0.8396717309951782
+    Tree: 0.8396578431129456
+    Thoroughfare: 0.8366278409957886
+- :image_url: https://live.staticflickr.com/75/154105562_5f3e231bde_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9748870134353638
+    Building: 0.9286584854125977
+    Window: 0.9218606352806091
+    Blue: 0.9050904512405396
+    Branch: 0.8678406476974487
+    Urban design: 0.7989643812179565
+    Twig: 0.7938379645347595
+    Tints and shades: 0.7710756063461304
+    Facade: 0.7612263560295105
+    Tree: 0.7405992150306702
+- :image_url: https://live.staticflickr.com/4111/5001328377_4618461c1f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9005475640296936
+    Cloud: 0.8954774141311646
+    Twig: 0.8306528925895691
+    Terrestrial plant: 0.7567991018295288
+    Aquatic plant: 0.7535030841827393
+    Tints and shades: 0.7465847134590149
+    Flowering plant: 0.7447303533554077
+    Grass: 0.6881013512611389
+    Annual plant: 0.6770084500312805
+    People in nature: 0.6507277488708496
+- :image_url: https://live.staticflickr.com/6198/6059056677_e99aed47a7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9794048070907593
+    Sky: 0.9695720672607422
+    Water resources: 0.9509294629096985
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9215726852416992
+    Afterglow: 0.9131134748458862
+    Cloud: 0.902023434638977
+    Fluid: 0.870185375213623
+    Orange: 0.8638483285903931
+    Coastal and oceanic landforms: 0.8534529805183411
+- :image_url: https://live.staticflickr.com/65535/49679956187_4e378db695_b.jpg
+  :description: TBD OK
+  :labels:
+    Wood: 0.8801427483558655
+    Tree: 0.8793414235115051
+    Natural landscape: 0.8785074949264526
+    Trunk: 0.8593432307243347
+    Sunlight: 0.8483313322067261
+    Plant: 0.8444521427154541
+    Black-and-white: 0.8381635546684265
+    Twig: 0.8286250233650208
+    Atmospheric phenomenon: 0.8204606771469116
+    Water: 0.8177562355995178

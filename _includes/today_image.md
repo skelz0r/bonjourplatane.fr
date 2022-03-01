@@ -1,3 +1,3 @@
-![Hanaé](/images/2022-02-28.jpg)
+![Naomi](/images/2022-03-01.jpg)
 
-Crédits: [LB Photo.](https://www.flickr.com/people/lucbarre/) on flickr
+Crédits: [Gauthier V.](https://www.flickr.com/people/gvdmoort/) on flickr
