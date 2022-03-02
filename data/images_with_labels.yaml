@@ -4175,3 +4175,16 @@ items:
     Twig: 0.8286250233650208
     Atmospheric phenomenon: 0.8204606771469116
     Water: 0.8177562355995178
+- :image_url: https://live.staticflickr.com/8498/8357817630_6231e7ed03_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9798915982246399
+    Sky: 0.9604975581169128
+    Plant: 0.9578041434288025
+    Natural landscape: 0.9004687070846558
+    Tree: 0.8925344347953796
+    Wood: 0.8826645016670227
+    Branch: 0.8730408549308777
+    Fluvial landforms of streams: 0.8688173294067383
+    Trunk: 0.8502368927001953
+    Vegetation: 0.8478612303733826

@@ -1,3 +1,3 @@
-![Naomi](/images/2022-03-01.jpg)
+![Justine](/images/2022-03-02.jpg)
 
-Crédits: [Gauthier V.](https://www.flickr.com/people/gvdmoort/) on flickr
+Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
