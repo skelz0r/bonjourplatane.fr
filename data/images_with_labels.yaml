@@ -4451,3 +4451,42 @@ items:
     Font: 0.8081830143928528
     Adaptation: 0.7924612164497375
     Tree: 0.7878939509391785
+- :image_url: https://live.staticflickr.com/7249/7774873170_4c174f3583_b.jpg
+  :description: TBD NOK
+  :labels:
+    People in nature: 0.886026918888092
+    Branch: 0.8677284121513367
+    Wood: 0.8598056435585022
+    Trunk: 0.8411920070648193
+    Natural landscape: 0.8202823400497437
+    Twig: 0.8019635081291199
+    Tints and shades: 0.7738953232765198
+    Landscape: 0.7706296443939209
+    Sky: 0.7184712886810303
+    Grass: 0.7157654762268066
+- :image_url: https://live.staticflickr.com/6198/6059056677_e99aed47a7_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9794048070907593
+    Sky: 0.9695720672607422
+    Water resources: 0.9509294629096985
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9215726852416992
+    Afterglow: 0.9131134748458862
+    Cloud: 0.902023434638977
+    Fluid: 0.870185375213623
+    Orange: 0.8638483285903931
+    Coastal and oceanic landforms: 0.8534529805183411
+- :image_url: https://live.staticflickr.com/7100/27160055245_4196e1a484_b.jpg
+  :description: TBD OK
+  :labels:
+    Branch: 0.871666669845581
+    Wood: 0.8644911646842957
+    Trunk: 0.8552970290184021
+    Tree: 0.8495418429374695
+    Twig: 0.847504198551178
+    Woody plant: 0.8050150275230408
+    Tints and shades: 0.740824282169342
+    Terrestrial plant: 0.7330238223075867
+    Forest: 0.723326563835144
+    Natural landscape: 0.7056083679199219
