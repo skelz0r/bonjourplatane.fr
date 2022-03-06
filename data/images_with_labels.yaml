@@ -4490,3 +4490,119 @@ items:
     Terrestrial plant: 0.7330238223075867
     Forest: 0.723326563835144
     Natural landscape: 0.7056083679199219
+- :image_url: https://live.staticflickr.com/8698/28411259522_33f86aa740_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9450693130493164
+    Natural landscape: 0.883331835269928
+    Vegetation: 0.8554806113243103
+    Terrestrial plant: 0.8094449639320374
+    Twig: 0.8075940608978271
+    Plant: 0.7972339987754822
+    Groundcover: 0.7820934653282166
+    Shrub: 0.7635756731033325
+    Deciduous: 0.7473379969596863
+    Landscape: 0.7467029094696045
+- :image_url: https://live.staticflickr.com/6077/6059604890_236ae5d416_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9738014340400696
+    Sky: 0.9646069407463074
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9451602101325989
+    Afterglow: 0.9031691551208496
+    Nature: 0.8993346095085144
+    Dusk: 0.8755133748054504
+    Beach: 0.8441572189331055
+    Coastal and oceanic landforms: 0.8440947532653809
+    Sunset: 0.8329856991767883
+- :image_url: https://live.staticflickr.com/65535/51077491207_1a56fb63f4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Rectangle: 0.8835140466690063
+    Wood: 0.8474801182746887
+    Trunk: 0.8355607390403748
+    Black-and-white: 0.8322670459747314
+    Building: 0.7914026975631714
+    Twig: 0.7857641577720642
+    Tree: 0.7806290984153748
+    Grass: 0.7744934558868408
+    Tints and shades: 0.7733882665634155
+    Art: 0.7696015238761902
+- :image_url: https://live.staticflickr.com/4809/45521857834_f7ac7b5b71_b.jpg
+  :description: TBD NOK
+  :labels:
+    Vertebrate: 0.9216372966766357
+    Organism: 0.8644490242004395
+    Marine biology: 0.7892215847969055
+    Arthropod: 0.7881234884262085
+    Underwater: 0.764832079410553
+    Terrestrial animal: 0.7631338834762573
+    Scaled reptile: 0.7257359623908997
+    Close-up: 0.703016459941864
+    Soil: 0.6780082583427429
+    Fashion accessory: 0.6553020477294922
+- :image_url: https://live.staticflickr.com/5579/14598156076_1bddea5618_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9728720784187317
+    Water resources: 0.9473135471343994
+    Nature: 0.8998746275901794
+    Leaf: 0.8967289328575134
+    World: 0.881812334060669
+    Plant: 0.8712090849876404
+    Watercourse: 0.8309697508811951
+    Wood: 0.8233873844146729
+    Art: 0.8153403997421265
+    Road surface: 0.7876760363578796
+- :image_url: https://live.staticflickr.com/4053/4531924933_9040af6c80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9785861372947693
+    Plant: 0.9684004783630371
+    Flowerpot: 0.9346052408218384
+    Houseplant: 0.9313274621963501
+    Sky: 0.9231992363929749
+    Botany: 0.912769079208374
+    Petal: 0.8942152857780457
+    Pink: 0.8301514983177185
+    Terrestrial plant: 0.8265478610992432
+    Tree: 0.7876739501953125
+- :image_url: https://live.staticflickr.com/65535/49570936427_d719672ebf_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9729418754577637
+    Sky: 0.9580845236778259
+    Asphalt: 0.8639031052589417
+    Road surface: 0.8521438837051392
+    Gas: 0.7806740403175354
+    Window: 0.7771722078323364
+    Building: 0.7653850317001343
+    Road: 0.7641201615333557
+    City: 0.7561855316162109
+    Concrete: 0.7354699373245239
+- :image_url: https://live.staticflickr.com/4143/4861570974_eecaa9eaac_b.jpg
+  :description: TBD NOK
+  :labels:
+    Lip: 0.9702587127685547
+    Hand: 0.9600982069969177
+    Hairstyle: 0.9509009122848511
+    Eyebrow: 0.939456582069397
+    Facial expression: 0.9325124621391296
+    Vision care: 0.9324444532394409
+    Organ: 0.9034619331359863
+    Human: 0.8991698026657104
+    Black: 0.897194504737854
+    Eyelash: 0.8823047876358032
+- :image_url: https://live.staticflickr.com/7211/7261885618_e536421dd9_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9653305411338806
+    Tree: 0.8604202270507812
+    Twig: 0.8569920063018799
+    Trunk: 0.8459091186523438
+    Wood: 0.6666244864463806
+    Deciduous: 0.619620680809021
+    Plant stem: 0.600155770778656
+    Tints and shades: 0.5788052678108215
+    Temperate broadleaf and mixed forest: 0.5074272751808167
