@@ -4606,3 +4606,185 @@ items:
     Plant stem: 0.600155770778656
     Tints and shades: 0.5788052678108215
     Temperate broadleaf and mixed forest: 0.5074272751808167
+- :image_url: https://live.staticflickr.com/7427/13990223827_c38748f718_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8828938007354736
+    Plant: 0.8767176866531372
+    Twig: 0.8688839077949524
+    Wood: 0.8539966344833374
+    Art: 0.8139238953590393
+    Trunk: 0.8010642528533936
+    Font: 0.7997785806655884
+    Tree: 0.7855275273323059
+    Illustration: 0.7250323295593262
+    Environmental art: 0.7139721512794495
+- :image_url: https://live.staticflickr.com/1043/1412077180_28bcedec65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768852591514587
+    Plant: 0.9690479040145874
+    Terrestrial plant: 0.8560477495193481
+    Grass: 0.795508086681366
+    Flowering plant: 0.763044536113739
+    Close-up: 0.7200508117675781
+    Pollen: 0.6941031217575073
+    Annual plant: 0.681596577167511
+    Macro photography: 0.6477967500686646
+    Herbaceous plant: 0.6453429460525513
+- :image_url: https://live.staticflickr.com/8478/8271389523_1c11e78acb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9245098233222961
+    Road surface: 0.8987736701965332
+    Infrastructure: 0.8881734013557434
+    Branch: 0.8835065364837646
+    Shade: 0.8710313439369202
+    Plant: 0.859616219997406
+    Black-and-white: 0.8577613830566406
+    Style: 0.8396717309951782
+    Tree: 0.8396578431129456
+    Thoroughfare: 0.8366278409957886
+- :image_url: https://live.staticflickr.com/65535/49322536886_4451116a6e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.906777560710907
+    Leaf: 0.8925381302833557
+    Branch: 0.8780335187911987
+    Plant: 0.8094725608825684
+    Woody plant: 0.8013328313827515
+    Groundcover: 0.7909635305404663
+    Flowering plant: 0.7838742136955261
+    Twig: 0.7450183629989624
+    Tints and shades: 0.74464350938797
+    Grass: 0.7421327829360962
+- :image_url: https://live.staticflickr.com/4111/5001328377_4618461c1f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9005475640296936
+    Cloud: 0.8954774141311646
+    Twig: 0.8306528925895691
+    Terrestrial plant: 0.7567991018295288
+    Aquatic plant: 0.7535030841827393
+    Tints and shades: 0.7465847134590149
+    Flowering plant: 0.7447303533554077
+    Grass: 0.6881013512611389
+    Annual plant: 0.6770084500312805
+    People in nature: 0.6507277488708496
+- :image_url: https://live.staticflickr.com/108/311075918_6f33ce1b15_b.jpg
+  :description: TBD NOK
+  :labels:
+    Building: 0.9347283840179443
+    Sky: 0.8924072980880737
+    Road surface: 0.8854860067367554
+    Branch: 0.8733918070793152
+    Electricity: 0.8687734603881836
+    Tree: 0.8371937870979309
+    Neighbourhood: 0.8312051892280579
+    Plant: 0.8305101990699768
+    Residential area: 0.791703999042511
+    Road: 0.7887775301933289
+- :image_url: https://live.staticflickr.com/8373/8366302147_664112a287_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9574190974235535
+    Sky: 0.9138855934143066
+    Wood: 0.8606671690940857
+    Grass: 0.8318499326705933
+    Trunk: 0.82981276512146
+    Tree: 0.8296962380409241
+    Woody plant: 0.8021134734153748
+    Bedrock: 0.7978955507278442
+    Groundcover: 0.7744055390357971
+    Terrestrial plant: 0.7535896301269531
+- :image_url: https://live.staticflickr.com/7860/47239657172_751f3fdd7f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9801875352859497
+    Sky: 0.9642453193664551
+    Building: 0.9463960528373718
+    Water resources: 0.9452607035636902
+    Daytime: 0.9445304870605469
+    Window: 0.9106119275093079
+    Sunlight: 0.8596703410148621
+    Plant: 0.8537161350250244
+    Watercourse: 0.8421487808227539
+    Bank: 0.8243340253829956
+- :image_url: https://live.staticflickr.com/8373/8366302147_664112a287_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9574190974235535
+    Sky: 0.9138855934143066
+    Wood: 0.8606671690940857
+    Grass: 0.8318499326705933
+    Trunk: 0.82981276512146
+    Tree: 0.8296962380409241
+    Woody plant: 0.8021134734153748
+    Bedrock: 0.7978955507278442
+    Groundcover: 0.7744055390357971
+    Terrestrial plant: 0.7535896301269531
+- :image_url: https://live.staticflickr.com/65535/51257962442_659b210112_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9770256876945496
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9471738338470459
+    Sky: 0.9361064434051514
+    Ecoregion: 0.9256210327148438
+    Afterglow: 0.9143838882446289
+    Liquid: 0.876800000667572
+    Natural landscape: 0.8726886510848999
+    Orange: 0.8726774454116821
+    Fluid: 0.8696794509887695
+- :image_url: https://live.staticflickr.com/4088/4845249145_8a7c1e984d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9773350358009338
+    Plant: 0.950716495513916
+    Sky: 0.9309403896331787
+    Fluvial landforms of streams: 0.8789669275283813
+    Branch: 0.8745773434638977
+    Natural landscape: 0.8667235970497131
+    Lake: 0.8439012169837952
+    Watercourse: 0.8308525681495667
+    Lacustrine plain: 0.8069567084312439
+    Bank: 0.8032506704330444
+- :image_url: https://live.staticflickr.com/65535/51077491207_1a56fb63f4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Rectangle: 0.8835140466690063
+    Wood: 0.8474801182746887
+    Trunk: 0.8355607390403748
+    Black-and-white: 0.8322670459747314
+    Building: 0.7914026975631714
+    Twig: 0.7857641577720642
+    Tree: 0.7806290984153748
+    Grass: 0.7744934558868408
+    Tints and shades: 0.7733882665634155
+    Art: 0.7696015238761902
+- :image_url: https://live.staticflickr.com/5614/15807473852_88bc8e6546_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water resources: 0.9476445317268372
+    Water: 0.9197248816490173
+    World: 0.8624683022499084
+    Urban design: 0.8453877568244934
+    Landscape: 0.8083426356315613
+    Tree: 0.7997870445251465
+    Building: 0.7682979106903076
+    Waterway: 0.7615554332733154
+    Geological phenomenon: 0.7611224055290222
+    Natural landscape: 0.7560068368911743
+- :image_url: https://live.staticflickr.com/7876/46524584394_2988518382_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9750102758407593
+    Plant: 0.910315990447998
+    Blue: 0.9027621746063232
+    Branch: 0.8863272070884705
+    Twig: 0.8794218301773071
+    Tree: 0.8775242567062378
+    Trunk: 0.8488941788673401
+    Natural landscape: 0.8429409861564636
+    Wood: 0.8235920667648315
+    Woody plant: 0.8102928400039673
