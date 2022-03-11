@@ -4944,3 +4944,158 @@ items:
     Tints and shades: 0.7730758786201477
     Landscape: 0.722991943359375
     Forest: 0.718532145023346
+- :image_url: https://live.staticflickr.com/7418/13943039437_62a00925eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Amber: 0.9043694734573364
+    Temple: 0.6488432884216309
+    Orange: 0.8647606372833252
+    Wood: 0.8470228314399719
+    Tints and shades: 0.7734649181365967
+    Holy places: 0.7116789221763611
+    Cave: 0.7100251913070679
+    Landscape: 0.6702999472618103
+    Trunk: 0.6521624326705933
+- :image_url: https://live.staticflickr.com/6205/6059546322_6b735d1eab_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9718410968780518
+    Vehicle registration plate: 0.9439862370491028
+    Vehicle: 0.9240186214447021
+    Car: 0.9057528376579285
+    Street light: 0.9051516652107239
+    Motor vehicle: 0.9032551050186157
+    Automotive lighting: 0.8985126614570618
+    Building: 0.889129102230072
+    Infrastructure: 0.8878076672554016
+    Automotive design: 0.8603438138961792
+- :image_url: https://live.staticflickr.com/4050/4621443060_76e9fcb5bd_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9756446480751038
+    Plant: 0.9575575590133667
+    Natural landscape: 0.8907727003097534
+    Natural environment: 0.8893810510635376
+    Body of water: 0.8472499251365662
+    Grass: 0.8383035063743591
+    Watercourse: 0.8364421129226685
+    Tree: 0.8293474912643433
+    Bank: 0.8261973857879639
+    Road surface: 0.8097510933876038
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485865592956543
+    Road surface: 0.8303502798080444
+    Twig: 0.8159111738204956
+    Wood: 0.8151053190231323
+    Facade: 0.7909621000289917
+    Window: 0.7881766557693481
+- :image_url: https://live.staticflickr.com/940/41788130320_c5331d2884_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9619924426078796
+    Road surface: 0.8949383497238159
+    Branch: 0.8717767000198364
+    Shade: 0.8679999709129333
+    Asphalt: 0.8636781573295593
+    Tree: 0.842067539691925
+    Plant: 0.8270009756088257
+    Urban design: 0.8174425959587097
+    Woody plant: 0.8005199432373047
+    Road: 0.7753907442092896
+- :image_url: https://live.staticflickr.com/3341/5835889454_098f018551_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9420627355575562
+    Building: 0.9146542549133301
+    Branch: 0.8784295916557312
+    Shade: 0.8461527824401855
+    Tree: 0.8346074223518372
+    Biome: 0.8238742351531982
+    Plant: 0.8120220303535461
+    Woody plant: 0.8093127012252808
+    Twig: 0.8059142231941223
+    Trunk: 0.7795299887657166
+- :image_url: https://live.staticflickr.com/3773/10005097185_9fef542958_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9763090014457703
+    Sky: 0.9615596532821655
+    Plant: 0.948489248752594
+    Facade: 0.7845166921615601
+    Symmetry: 0.7844884991645813
+    Tree: 0.7755448222160339
+    City: 0.731692910194397
+    Arch: 0.7050468325614929
+    Grass: 0.7034212350845337
+    Medieval architecture: 0.6806426644325256
+- :image_url: https://live.staticflickr.com/3521/3867780567_a73e319e08_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Road surface: 0.8909358382225037
+    Asphalt: 0.8657791018486023
+    Grey: 0.8447861075401306
+    Tints and shades: 0.7722401022911072
+    Groundcover: 0.7506452798843384
+    Pattern: 0.7448533177375793
+    Concrete: 0.7393170595169067
+    Sidewalk: 0.7184353470802307
+    Art: 0.710286557674408
+- :image_url: https://live.staticflickr.com/3056/3010436254_b3a46f2f6d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Natural environment: 0.8885177969932556
+    Wood: 0.8876921534538269
+    World: 0.8791348338127136
+    Textile: 0.8761579394340515
+    Branch: 0.8687825202941895
+    Organism: 0.8645375370979309
+    Grey: 0.8436470031738281
+    Wall: 0.813379168510437
+    Floor: 0.8087282180786133
+- :image_url: https://live.staticflickr.com/2067/2120562716_07a652791d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.9489258527755737
+    Building: 0.9368828535079956
+    Wood: 0.8904262185096741
+    House: 0.8601175546646118
+    Font: 0.7973775863647461
+    Art: 0.784091591835022
+    Brick: 0.7780545353889465
+    Facade: 0.7735865116119385
+    Tints and shades: 0.7712240219116211
+    City: 0.7499457597732544
+- :image_url: https://live.staticflickr.com/7498/15709740648_4ba0697e0f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Plant: 0.9293379783630371
+    Wood: 0.8440274000167847
+    Tree: 0.8267249464988708
+    Trunk: 0.7942284941673279
+    Beige: 0.7856249809265137
+    Tints and shades: 0.7639837265014648
+    Pattern: 0.7447733879089355
+    Rectangle: 0.718640148639679
+    Camouflage: 0.6511821150779724
+- :image_url: https://live.staticflickr.com/7826/47291773261_20903750fd_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9729167222976685
+    Plant: 0.9622569680213928
+    Water resources: 0.9484347701072693
+    Sky: 0.9068577885627747
+    Leaf: 0.8940905928611755
+    Natural landscape: 0.8844007253646851
+    Botany: 0.8739030957221985
+    Tree: 0.8649523854255676
+    Watercourse: 0.8441367745399475
+    Lacustrine plain: 0.8247118592262268

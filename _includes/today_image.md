@@ -1,3 +1,3 @@
-![Matthieu](/images/2022-03-10.jpg)
+![Clara](/images/2022-03-11.jpg)
 
-Crédits: [PhilC75](https://www.flickr.com/people/philc75/) on flickr
+Crédits: [Jeanne Menjoulet](https://www.flickr.com/people/jmenj/) on flickr
