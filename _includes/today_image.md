@@ -1,3 +1,3 @@
-![Anna](/images/2022-03-15.jpg)
+![Pierre](/images/2022-03-16.jpg)
 
-Crédits: [in hiatus](https://www.flickr.com/people/a-herzog/) on flickr
+Crédits: [cagouille05](https://www.flickr.com/people/martagon/) on flickr
