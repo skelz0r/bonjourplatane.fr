@@ -7088,3 +7088,68 @@ items:
     Branch: 0.8747750520706177
     Tree: 0.8710771203041077
     Vegetation: 0.8472808599472046
+- :image_url: https://live.staticflickr.com/4720/40074129782_3dfaf917c1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Stop sign: 0.9291107058525085
+    Font: 0.8437064290046692
+    Motor vehicle: 0.8262506723403931
+    Gas: 0.780623197555542
+    Signage: 0.7586301565170288
+    Beauty: 0.7515310049057007
+    Sign: 0.6980541348457336
+    Tree: 0.681037187576294
+    Carmine: 0.6742372512817383
+    Trunk: 0.6452789902687073
+- :image_url: https://live.staticflickr.com/2330/1876272642_919318b992_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.950075089931488
+    Plant: 0.931133508682251
+    Branch: 0.8875805139541626
+    Natural landscape: 0.8802263140678406
+    Tree: 0.8396658897399902
+    Trunk: 0.8325194120407104
+    Deciduous: 0.8061878085136414
+    Twig: 0.7881349921226501
+    Tints and shades: 0.7733543515205383
+    People in nature: 0.738715410232544
+- :image_url: https://live.staticflickr.com/2810/9386221272_40a50355df_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.8870812654495239
+    Branch: 0.8815562129020691
+    Flower: 0.8807430267333984
+    Twig: 0.8485918045043945
+    Sunlight: 0.8436465263366699
+    Terrestrial plant: 0.8385648727416992
+    Tree: 0.8058768510818481
+    Tints and shades: 0.7725369334220886
+    Deciduous: 0.7553353309631348
+    Flowering plant: 0.7507383227348328
+- :image_url: https://live.staticflickr.com/3027/2961402968_3fc858f430_b.jpg
+  :description: TBD NOK
+  :labels:
+    Tree: 0.8387724161148071
+    Tints and shades: 0.7566141486167908
+    Facade: 0.7484558820724487
+    Shade: 0.7381508946418762
+    Building: 0.7364704012870789
+    Arcade: 0.7326352000236511
+    Arch: 0.7254602313041687
+    Symmetry: 0.6990201473236084
+    Column: 0.6813121438026428
+    Historic site: 0.6692556142807007
+- :image_url: https://live.staticflickr.com/4150/4954573591_a67349c083_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.943551778793335
+    Helmet: 0.9205009937286377
+    Tree: 0.8765566349029541
+    Branch: 0.8686956167221069
+    Woody plant: 0.8187811970710754
+    Luggage and bags: 0.7950652837753296
+    Terrestrial plant: 0.7923930287361145
+    Workwear: 0.78012615442276
+    Backpack: 0.7760226726531982
+    Hat: 0.7537378668785095
