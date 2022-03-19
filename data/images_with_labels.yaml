@@ -7997,3 +7997,55 @@ items:
     Snow: 0.8540523648262024
     Trunk: 0.8502930402755737
     Biome: 0.8261609673500061
+- :image_url: https://live.staticflickr.com/7155/6778272319_f6a09ae152_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9458766579627991
+    Building: 0.9317833781242371
+    Window: 0.9093495607376099
+    Plant: 0.9009780287742615
+    Sky: 0.877836287021637
+    Fixture: 0.8582512736320496
+    Rectangle: 0.8300539255142212
+    Tree: 0.8139711022377014
+    Wall: 0.8095306754112244
+    Grass: 0.7860062122344971
+- :image_url: https://live.staticflickr.com/65535/47786794211_f50d5dcf9e_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9725189208984375
+    Plant: 0.912424623966217
+    Branch: 0.8692612051963806
+    Shade: 0.8678544759750366
+    Tree: 0.8485865592956543
+    Road surface: 0.8303502798080444
+    Twig: 0.8159111738204956
+    Wood: 0.8151053190231323
+    Facade: 0.7909621000289917
+    Window: 0.7881766557693481
+- :image_url: https://live.staticflickr.com/940/41788130320_c5331d2884_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9619924426078796
+    Road surface: 0.8949383497238159
+    Branch: 0.8717767000198364
+    Shade: 0.8679999709129333
+    Asphalt: 0.8636781573295593
+    Tree: 0.842067539691925
+    Plant: 0.8270009756088257
+    Urban design: 0.8174425959587097
+    Woody plant: 0.8005199432373047
+    Road: 0.7753907442092896
+- :image_url: https://live.staticflickr.com/4086/4845249439_1aa64c07bd_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9706491231918335
+    Water: 0.9617440104484558
+    Natural landscape: 0.8790878653526306
+    Sky: 0.8763043284416199
+    Branch: 0.8696757555007935
+    Tree: 0.8502554297447205
+    Road surface: 0.8493850231170654
+    Body of water: 0.8331514596939087
+    Grass: 0.8212487101554871
+    Woody plant: 0.8076606392860413
