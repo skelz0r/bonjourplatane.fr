@@ -86,7 +86,7 @@ class GetPlataneImage
   end
 
   def text
-    'platane'
+    'arbre'
   end
 
   def license_ids
