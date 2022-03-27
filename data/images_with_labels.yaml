@@ -10500,3 +10500,29 @@ items:
     Grass: 0.7762128114700317
     City: 0.7685396075248718
     Roof: 0.7672616243362427
+- :image_url: https://live.staticflickr.com/5798/30447952090_cefeec0fb2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.8972302079200745
+    Botany: 0.8802430033683777
+    Natural material: 0.8460898995399475
+    Terrestrial plant: 0.8407559990882874
+    Wood: 0.8311462998390198
+    Trunk: 0.8212663531303406
+    Tree: 0.7953557968139648
+    Grass: 0.7691165804862976
+    Sculpture: 0.7627813220024109
+    Art: 0.7375421524047852
+- :image_url: https://live.staticflickr.com/65535/49348713948_216144c304_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9760382771492004
+    Plant: 0.9606573581695557
+    Sky: 0.9044084548950195
+    Branch: 0.8693267703056335
+    Tree: 0.8676963448524475
+    Twig: 0.8297910094261169
+    Flowering plant: 0.7583912014961243
+    Event: 0.6085304021835327
+    Electric blue: 0.6062297821044922
+    People in nature: 0.5742402076721191
