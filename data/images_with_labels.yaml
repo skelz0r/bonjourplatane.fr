@@ -10526,3 +10526,16 @@ items:
     Event: 0.6085304021835327
     Electric blue: 0.6062297821044922
     People in nature: 0.5742402076721191
+- :image_url: https://live.staticflickr.com/3253/3280511085_9fd958be93_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9635406136512756
+    Light: 0.9105885028839111
+    Tree: 0.8843533992767334
+    Building: 0.8814132809638977
+    Branch: 0.8740288019180298
+    Wood: 0.8737497925758362
+    Twig: 0.8687148690223694
+    Trunk: 0.8493097424507141
+    World: 0.8439441919326782
+    Woody plant: 0.8019338846206665
