@@ -10539,3 +10539,29 @@ items:
     Trunk: 0.8493097424507141
     World: 0.8439441919326782
     Woody plant: 0.8019338846206665
+- :image_url: https://live.staticflickr.com/65535/51825904404_faa3f22fed_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9711090922355652
+    Land vehicle: 0.9603890180587769
+    Car: 0.9491652250289917
+    Plant: 0.9446637630462646
+    Daytime: 0.9442166686058044
+    Cloud: 0.9325598478317261
+    Leaf: 0.8946874737739563
+    Branch: 0.8862882256507874
+    Wheel: 0.8832452297210693
+    Road surface: 0.8712265491485596
+- :image_url: https://live.staticflickr.com/3227/2479081150_fb62d2de1d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9689126014709473
+    Plant community: 0.934567391872406
+    Branch: 0.8868618607521057
+    Natural landscape: 0.8824714422225952
+    Wood: 0.8812899589538574
+    Trunk: 0.8714114427566528
+    Twig: 0.8642207980155945
+    Vegetation: 0.8596801161766052
+    Black-and-white: 0.8566678762435913
+    Tree: 0.8451629281044006
