@@ -10591,3 +10591,16 @@ items:
     Trunk: 0.8321060538291931
     Grass: 0.7205847501754761
     Electricity: 0.6722281575202942
+- :image_url: https://live.staticflickr.com/3019/2296625511_62fe496857_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9405757188796997
+    Window: 0.9352468848228455
+    Building: 0.9099107384681702
+    Tree: 0.8702471852302551
+    Road surface: 0.8605289459228516
+    Urban design: 0.8111605644226074
+    Neighbourhood: 0.8073671460151672
+    Residential area: 0.8070647716522217
+    Facade: 0.7817623019218445
+    City: 0.7776939868927002
