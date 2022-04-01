@@ -31,7 +31,9 @@ class GetPlataneImage
     "https://live.staticflickr.com/#{photo['server']}/#{photo['id']}_#{photo['secret']}_b.jpg"
   end
 
-  def extract_valid_photo
+  def extract_valid_photo(i = 1)
+    raise "Too much tries, abort" if i >= 30
+
     if interactive
       photo = elligible_photos.sample
       elligible_photos.delete(photo)
@@ -53,7 +55,9 @@ class GetPlataneImage
         image
       else
         print "Invalid image, extract new one\n"
-        extract_valid_photo
+        i = i + 1
+
+        extract_valid_photo(i)
       end
     end
   end
