@@ -1,3 +1,3 @@
-![Marion](/images/2022-04-01.jpg)
+![Cléa](/images/2022-04-02.jpg)
 
-Crédits: [strapontins](https://www.flickr.com/people/strapontins/) on flickr
+Crédits: [LB Photo.](https://www.flickr.com/people/lucbarre/) on flickr
