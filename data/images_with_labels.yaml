@@ -10630,3 +10630,16 @@ items:
     Deciduous: 0.7658491134643555
     Grass: 0.7157570719718933
     Forest: 0.7078118324279785
+- :image_url: https://live.staticflickr.com/65535/49140519122_7fdfbdd35c_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant community: 0.9382513165473938
+    Plant: 0.9132563471794128
+    Natural landscape: 0.8862038850784302
+    Wood: 0.8819397687911987
+    Twig: 0.8782371878623962
+    Trunk: 0.8649381995201111
+    Bedrock: 0.8443193435668945
+    Watercourse: 0.8439111709594727
+    Fluvial landforms of streams: 0.8186597228050232
+    Tree: 0.8132184743881226
