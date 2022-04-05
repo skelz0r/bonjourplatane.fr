@@ -1,3 +1,3 @@
-![Lya](/images/2022-04-04.jpg)
+![Sandra](/images/2022-04-05.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [Sylvie Anne](https://www.flickr.com/people/46608049@N00/) on flickr
