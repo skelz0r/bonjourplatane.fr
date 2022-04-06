@@ -10656,3 +10656,16 @@ items:
     Trunk: 0.8073510527610779
     Grass: 0.8042218685150146
     Woody plant: 0.8041306138038635
+- :image_url: https://live.staticflickr.com/7147/6442035617_09605e1d85_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9715977311134338
+    Snow: 0.9258499145507812
+    Larch: 0.8821160197257996
+    Natural landscape: 0.8622250556945801
+    Twig: 0.8563888072967529
+    Trunk: 0.8410149216651917
+    Evergreen: 0.8263164758682251
+    Tree: 0.8253902196884155
+    Wood: 0.813614547252655
+    Freezing: 0.7864659428596497
