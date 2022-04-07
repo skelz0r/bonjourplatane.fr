@@ -1,3 +1,3 @@
-![Raphaël](/images/2022-04-06.jpg)
+![Lenny](/images/2022-04-07.jpg)
 
-Crédits: [Romain Cloff](https://www.flickr.com/people/romaincloff/) on flickr
+Crédits: [jpto_55](https://www.flickr.com/people/jpto_55/) on flickr

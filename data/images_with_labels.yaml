@@ -10669,3 +10669,16 @@ items:
     Tree: 0.8253902196884155
     Wood: 0.813614547252655
     Freezing: 0.7864659428596497
+- :image_url: https://live.staticflickr.com/65535/50976198327_b02482bcf1_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9618623852729797
+    Twig: 0.8801937103271484
+    Natural landscape: 0.8773988485336304
+    Wood: 0.8603020906448364
+    Tree: 0.8505205512046814
+    Cloud: 0.8434947729110718
+    Atmospheric phenomenon: 0.8225899338722229
+    Grass: 0.8205814957618713
+    Trunk: 0.8156070113182068
+    Shrub: 0.8097197413444519
