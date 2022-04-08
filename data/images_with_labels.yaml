@@ -10682,3 +10682,14 @@ items:
     Grass: 0.8205814957618713
     Trunk: 0.8156070113182068
     Shrub: 0.8097197413444519
+- :image_url: https://live.staticflickr.com/7023/6441373257_192eb8b95f_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.923546314239502
+    Twig: 0.8803430795669556
+    Trunk: 0.8184709548950195
+    Tree: 0.8131293058395386
+    Plant: 0.6240797638893127
+    Natural material: 0.5960192680358887
+    Plant stem: 0.586200475692749
+    Tints and shades: 0.5368620157241821
