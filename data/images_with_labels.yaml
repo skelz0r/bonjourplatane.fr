@@ -10706,3 +10706,29 @@ items:
     Tree: 0.8714131116867065
     Plant: 0.8639401197433472
     Sunlight: 0.8544440269470215
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8332133293151855
+    Sky: 0.812056303024292
+    Plant: 0.8014503717422485
+    Natural landscape: 0.7826152443885803
+    Wood: 0.7756111025810242
+    Tints and shades: 0.7719830274581909
+    Deciduous: 0.7216496467590332
+    Macro photography: 0.6540076732635498
+    Flowering plant: 0.6513732075691223
+    Wing: 0.6363402605056763
+- :image_url: https://live.staticflickr.com/65535/49840094886_686aeb34f0_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9663144946098328
+    Plant: 0.9446958899497986
+    Twig: 0.8828896284103394
+    Cloud: 0.8762030601501465
+    Tree: 0.7703066468238831
+    Flowering plant: 0.732862651348114
+    Trunk: 0.6671798229217529
+    Terrestrial plant: 0.6619719862937927
+    Blossom: 0.6512312889099121
+    Temperate broadleaf and mixed forest: 0.6493593454360962
