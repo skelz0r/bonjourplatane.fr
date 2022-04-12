@@ -10745,3 +10745,16 @@ items:
     Tree: 0.851230800151825
     House: 0.8446485996246338
     Grey: 0.8418706655502319
+- :image_url: https://live.staticflickr.com/1488/26775744815_9fd54e7f03_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9017629027366638
+    Natural landscape: 0.8857373595237732
+    Wood: 0.8820692896842957
+    Twig: 0.8779324889183044
+    Trunk: 0.858177661895752
+    Tree: 0.8456093072891235
+    Terrestrial plant: 0.8155317306518555
+    Deciduous: 0.8116273283958435
+    Tints and shades: 0.7739067077636719
+    Landscape: 0.7502515316009521
