@@ -10758,3 +10758,29 @@ items:
     Deciduous: 0.8116273283958435
     Tints and shades: 0.7739067077636719
     Landscape: 0.7502515316009521
+- :image_url: https://live.staticflickr.com/7540/15371960273_4362a62798_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8997644186019897
+    Plant: 0.8942289352416992
+    Natural environment: 0.8939814567565918
+    Botany: 0.8921121954917908
+    Branch: 0.8871343731880188
+    Wood: 0.8862134218215942
+    Organism: 0.8634079098701477
+    Terrestrial plant: 0.8594706058502197
+    Grass: 0.8547596335411072
+    Natural landscape: 0.852422833442688
+- :image_url: https://live.staticflickr.com/4221/34531364420_ebb64690f6_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9741356372833252
+    Bird: 0.9662091732025146
+    Beak: 0.9048156142234802
+    Branch: 0.8771224021911621
+    Twig: 0.8632038235664368
+    Plant: 0.8561820983886719
+    Feather: 0.7900547385215759
+    Songbird: 0.7513585686683655
+    Wing: 0.727911651134491
+    Perching bird: 0.6921480894088745
