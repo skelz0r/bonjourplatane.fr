@@ -10797,3 +10797,16 @@ items:
     Botany: 0.8735716342926025
     Vegetation: 0.8535885810852051
     Yellow: 0.846227765083313
+- :image_url: https://live.staticflickr.com/5255/5497351289_7d5935c8d1_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9763765335083008
+    Sky: 0.9747931957244873
+    Plant: 0.968392014503479
+    Plant community: 0.9358869194984436
+    Ecoregion: 0.9270430207252502
+    Natural landscape: 0.8943389654159546
+    Tree: 0.8805763125419617
+    Vegetation: 0.8479987382888794
+    Grass: 0.8189460039138794
+    Landscape: 0.8074670433998108
