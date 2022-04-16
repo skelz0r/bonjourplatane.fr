@@ -10810,3 +10810,29 @@ items:
     Vegetation: 0.8479987382888794
     Grass: 0.8189460039138794
     Landscape: 0.8074670433998108
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330518245697021
+    Flower: 0.8606212735176086
+    Terrestrial plant: 0.8280301690101624
+    Tree: 0.8187734484672546
+    Twig: 0.8134653568267822
+    Flowering plant: 0.7293251752853394
+    Wood: 0.6887960433959961
+    Plant pathology: 0.6789780259132385
+    Grass: 0.6326248049736023
+    Rose order: 0.6216371655464172
+- :image_url: https://live.staticflickr.com/65535/51189005483_b5761f89e8_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9641948342323303
+    Tree: 0.895159900188446
+    Twig: 0.833263099193573
+    Grass: 0.8235962390899658
+    Groundcover: 0.789776086807251
+    Flowering plant: 0.7807206511497498
+    Shrub: 0.741635262966156
+    Subshrub: 0.7014505863189697
+    Blossom: 0.6883029937744141
+    Chaparral: 0.6428263187408447
