@@ -10836,3 +10836,29 @@ items:
     Subshrub: 0.7014505863189697
     Blossom: 0.6883029937744141
     Chaparral: 0.6428263187408447
+- :image_url: https://live.staticflickr.com/65535/51842129379_20c80621db_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9747684597969055
+    Plant: 0.947502076625824
+    Leaf: 0.9018099308013916
+    Branch: 0.8785020709037781
+    Twig: 0.8295629620552063
+    Tree: 0.8066933155059814
+    Flowering plant: 0.79050213098526
+    Fruit: 0.7579421997070312
+    Fruit tree: 0.6968812942504883
+    Buckthorn family: 0.5261467695236206
+- :image_url: https://live.staticflickr.com/5647/22762545540_c181a38a6e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9578782916069031
+    Branch: 0.8811566829681396
+    Flower: 0.8743194937705994
+    Twig: 0.8611392378807068
+    Tree: 0.7956048250198364
+    Flowering plant: 0.7563753724098206
+    Terrestrial plant: 0.7142720818519592
+    Macro photography: 0.6632205843925476
+    Conifer: 0.6494402885437012
+    Natural material: 0.6228459477424622
