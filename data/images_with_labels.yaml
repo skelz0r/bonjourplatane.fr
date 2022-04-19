@@ -10875,3 +10875,16 @@ items:
     Natural landscape: 0.8438234329223633
     Tree: 0.8301762342453003
     Woody plant: 0.800510823726654
+- :image_url: https://live.staticflickr.com/5279/14397888634_a6ecfa8574_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9803848266601562
+    Sky: 0.9719569683074951
+    Daytime: 0.9447957873344421
+    Ecoregion: 0.9237932562828064
+    Natural landscape: 0.8963308334350586
+    Tree: 0.8946337699890137
+    Natural environment: 0.8889744877815247
+    Branch: 0.8846675157546997
+    Sunlight: 0.8572880625724792
+    Dusk: 0.8556452393531799
