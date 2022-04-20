@@ -10888,3 +10888,16 @@ items:
     Branch: 0.8846675157546997
     Sunlight: 0.8572880625724792
     Dusk: 0.8556452393531799
+- :image_url: https://live.staticflickr.com/1501/24081649202_e5d3a1eb06_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9749782085418701
+    Sky: 0.9466540813446045
+    Natural landscape: 0.8972818851470947
+    Natural environment: 0.8883945941925049
+    Twig: 0.8811769485473633
+    Wood: 0.8777884840965271
+    Lake: 0.8570429086685181
+    Trunk: 0.8242478370666504
+    Watercourse: 0.8229301571846008
+    Bank: 0.8144634962081909
