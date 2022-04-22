@@ -10914,3 +10914,16 @@ items:
     Art: 0.7832878828048706
     Wildlife: 0.6808310151100159
     Pest: 0.6786563396453857
+- :image_url: https://live.staticflickr.com/65535/50321680513_59b3133cd5_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9465799927711487
+    Natural landscape: 0.8818463087081909
+    Wood: 0.8786686658859253
+    Trunk: 0.8559378385543823
+    Tree: 0.8392132520675659
+    Twig: 0.8116833567619324
+    Grass: 0.7970793843269348
+    Landscape: 0.7775723934173584
+    Grassland: 0.7761206030845642
+    Natural material: 0.7721889019012451
