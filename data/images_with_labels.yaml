@@ -10927,3 +10927,16 @@ items:
     Landscape: 0.7775723934173584
     Grassland: 0.7761206030845642
     Natural material: 0.7721889019012451
+- :image_url: https://live.staticflickr.com/4028/4409564280_76f09fb614_b.jpg
+  :description: TBD OK
+  :labels:
+    Automotive lighting: 0.9153396487236023
+    Car: 0.8933312296867371
+    Vehicle: 0.8918591141700745
+    Road surface: 0.8875339031219482
+    Branch: 0.8762702345848083
+    Tree: 0.8731480836868286
+    Lighting: 0.8637304902076721
+    Asphalt: 0.857744038105011
+    Sky: 0.8415859937667847
+    Thoroughfare: 0.8325130343437195
