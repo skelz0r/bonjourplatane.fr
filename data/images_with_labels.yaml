@@ -10940,3 +10940,29 @@ items:
     Asphalt: 0.857744038105011
     Sky: 0.8415859937667847
     Thoroughfare: 0.8325130343437195
+- :image_url: https://live.staticflickr.com/65535/40752667473_9feab16a44_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9213252663612366
+    Fruit: 0.8972522020339966
+    Botany: 0.8971077799797058
+    Branch: 0.8729521036148071
+    Twig: 0.8465093374252319
+    Berry: 0.814861536026001
+    Woody plant: 0.8065178990364075
+    Fruit tree: 0.7780019640922546
+    Flowering plant: 0.7496218681335449
+    Produce: 0.7458865642547607
+- :image_url: https://live.staticflickr.com/65535/48675345698_2ec4c2ea9f_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9641311764717102
+    Plant: 0.9623866081237793
+    Flower: 0.9224677681922913
+    Leaf: 0.8951144218444824
+    Natural landscape: 0.8896517753601074
+    Tree: 0.877720296382904
+    Botany: 0.8689302206039429
+    Orange: 0.8668546080589294
+    Vegetation: 0.8487163186073303
+    Grass: 0.8452112078666687
