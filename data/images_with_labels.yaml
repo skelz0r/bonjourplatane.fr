@@ -10979,3 +10979,16 @@ items:
     Twig: 0.8637149930000305
     Slope: 0.8567562103271484
     Wood: 0.8309272527694702
+- :image_url: https://live.staticflickr.com/7592/26906110835_b749cc7573_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9772242903709412
+    Plant: 0.9605734348297119
+    Plant community: 0.9389215111732483
+    Sky: 0.9235494136810303
+    Tree: 0.8926940560340881
+    Natural landscape: 0.8908044099807739
+    Vegetation: 0.8455782532691956
+    Shrub: 0.8243988752365112
+    People in nature: 0.8203241229057312
+    Grassland: 0.819884181022644
