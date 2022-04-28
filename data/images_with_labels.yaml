@@ -11005,3 +11005,16 @@ items:
     Grass: 0.8329007625579834
     Wood: 0.8146652579307556
     Grassland: 0.7979280948638916
+- :image_url: https://live.staticflickr.com/65535/50329249917_6b4b61537e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9488394260406494
+    Tree: 0.8799827098846436
+    Natural landscape: 0.8592350482940674
+    Terrestrial plant: 0.8576061725616455
+    Trunk: 0.8192718625068665
+    Groundcover: 0.7905177474021912
+    Deciduous: 0.7622179985046387
+    Shrub: 0.7414125800132751
+    Wood: 0.7409676313400269
+    Forest: 0.7147865891456604
