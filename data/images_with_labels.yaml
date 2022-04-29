@@ -11018,3 +11018,29 @@ items:
     Shrub: 0.7414125800132751
     Wood: 0.7409676313400269
     Forest: 0.7147865891456604
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330518245697021
+    Flower: 0.8606212735176086
+    Terrestrial plant: 0.8280301690101624
+    Tree: 0.8187734484672546
+    Twig: 0.8134653568267822
+    Flowering plant: 0.7293251752853394
+    Wood: 0.6887960433959961
+    Plant pathology: 0.6789780259132385
+    Grass: 0.6326248049736023
+    Rose order: 0.6216371655464172
+- :image_url: https://live.staticflickr.com/65535/50975311338_4dca51c03f_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.9017032384872437
+    Snow: 0.8889726996421814
+    Twig: 0.8836598992347717
+    Natural landscape: 0.8804277181625366
+    Branch: 0.876230776309967
+    Black-and-white: 0.8583143353462219
+    Trunk: 0.8471964597702026
+    Rectangle: 0.8406166434288025
+    Style: 0.839790403842926
+    Atmospheric phenomenon: 0.8218978047370911
