@@ -11044,3 +11044,16 @@ items:
     Rectangle: 0.8406166434288025
     Style: 0.839790403842926
     Atmospheric phenomenon: 0.8218978047370911
+- :image_url: https://live.staticflickr.com/65535/50572582243_e79f3899ed_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Plant: 0.9284451603889465
+    Twig: 0.8788501620292664
+    Wood: 0.8691996932029724
+    Natural landscape: 0.862604022026062
+    Trunk: 0.8551253080368042
+    Grass: 0.7895501852035522
+    Terrestrial plant: 0.7729567885398865
+    Deciduous: 0.7710195183753967
+    Tints and shades: 0.7676687836647034
