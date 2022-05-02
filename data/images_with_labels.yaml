@@ -11070,3 +11070,29 @@ items:
     Tints and shades: 0.7692990899085999
     Deciduous: 0.7683301568031311
     Electric blue: 0.7521582245826721
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330518245697021
+    Flower: 0.8606212735176086
+    Terrestrial plant: 0.8280301690101624
+    Tree: 0.8187734484672546
+    Twig: 0.8134653568267822
+    Flowering plant: 0.7293251752853394
+    Wood: 0.6887960433959961
+    Plant pathology: 0.6789780259132385
+    Grass: 0.6326248049736023
+    Rose order: 0.6216371655464172
+- :image_url: https://live.staticflickr.com/65535/48451353967_edce3129c3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant community: 0.937441349029541
+    Plant: 0.9182633757591248
+    Wood: 0.8749096989631653
+    Tree: 0.8741718530654907
+    Natural landscape: 0.8725355267524719
+    Mountain: 0.8655369281768799
+    Trunk: 0.8375005125999451
+    Twig: 0.8077921867370605
+    Water: 0.8001735210418701
+    Deciduous: 0.7927789688110352
