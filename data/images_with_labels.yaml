@@ -11096,3 +11096,29 @@ items:
     Twig: 0.8077921867370605
     Water: 0.8001735210418701
     Deciduous: 0.7927789688110352
+- :image_url: https://live.staticflickr.com/5591/30743441621_9a4efc8701_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9774868488311768
+    Sky: 0.9744049310684204
+    Plant: 0.9479227066040039
+    Botany: 0.8882755041122437
+    Terrestrial plant: 0.815887451171875
+    Tree: 0.8062939047813416
+    Flowering plant: 0.7550248503684998
+    Shrub: 0.6740853786468506
+    Pole: 0.6295990347862244
+    Wildflower: 0.5838049054145813
+- :image_url: https://live.staticflickr.com/65535/51271271551_54955351db_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9500091075897217
+    Nature: 0.8991731405258179
+    Leaf: 0.8958877325057983
+    Branch: 0.8924453258514404
+    Botany: 0.8834169507026672
+    Twig: 0.8687251210212708
+    Flower: 0.8631102442741394
+    Vegetation: 0.8606517314910889
+    Terrestrial plant: 0.8493524193763733
+    Tree: 0.8037251234054565
