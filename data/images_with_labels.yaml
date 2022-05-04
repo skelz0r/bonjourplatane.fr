@@ -11122,3 +11122,29 @@ items:
     Vegetation: 0.8606517314910889
     Terrestrial plant: 0.8493524193763733
     Tree: 0.8037251234054565
+- :image_url: https://live.staticflickr.com/2794/4176262728_8000887e16_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9364306926727295
+    Leaf: 0.8918823003768921
+    Vegetation: 0.8479863405227661
+    Balloon: 0.8378568887710571
+    Terrestrial plant: 0.815043568611145
+    Grass: 0.8116374611854553
+    Astronomical object: 0.7840820550918579
+    Grass family: 0.7608774304389954
+    Circle: 0.7442729473114014
+    Electricity: 0.7418986558914185
+- :image_url: https://live.staticflickr.com/2940/14711847253_0e99a0349a_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9713523983955383
+    Sky: 0.9657987356185913
+    Property: 0.942695677280426
+    Flower: 0.9052906632423401
+    Building: 0.8992632627487183
+    Branch: 0.8778294324874878
+    Vegetation: 0.8593451380729675
+    Twig: 0.8558498024940491
+    Natural landscape: 0.8549773097038269
+    Tree: 0.8438221216201782
