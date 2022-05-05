@@ -11148,3 +11148,16 @@ items:
     Twig: 0.8558498024940491
     Natural landscape: 0.8549773097038269
     Tree: 0.8438221216201782
+- :image_url: https://live.staticflickr.com/65535/51061711867_fc1ddb7abe_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9508123397827148
+    Plant community: 0.9339281320571899
+    Sky: 0.9243794679641724
+    Natural landscape: 0.8759304881095886
+    Tree: 0.8715125322341919
+    Branch: 0.868586003780365
+    Woody plant: 0.8054860830307007
+    Landscape: 0.7933145761489868
+    Groundcover: 0.7907252311706543
+    Grassland: 0.7886911034584045
