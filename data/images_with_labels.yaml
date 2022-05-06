@@ -11161,3 +11161,29 @@ items:
     Landscape: 0.7933145761489868
     Groundcover: 0.7907252311706543
     Grassland: 0.7886911034584045
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9809227585792542
+    Plant: 0.966005802154541
+    Petal: 0.8580135107040405
+    Terrestrial plant: 0.8369317650794983
+    Flowering plant: 0.7694633603096008
+    Groundcover: 0.6963505744934082
+    Subshrub: 0.6807258725166321
+    Lantana: 0.6295644044876099
+    Lantana camara: 0.6018760204315186
+    Annual plant: 0.575315535068512
+- :image_url: https://live.staticflickr.com/8200/8200884064_cec8335137_b.jpg
+  :description: TBD OK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Sky: 0.917040228843689
+    Leaf: 0.9019138813018799
+    Natural landscape: 0.8776107430458069
+    Wood: 0.8766424655914307
+    Plant: 0.8749598860740662
+    Branch: 0.8733683228492737
+    Twig: 0.8665100336074829
+    Vegetation: 0.863554060459137
+    Trunk: 0.8581444025039673
