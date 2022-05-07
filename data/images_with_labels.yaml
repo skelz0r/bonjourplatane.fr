@@ -11187,3 +11187,42 @@ items:
     Twig: 0.8665100336074829
     Vegetation: 0.863554060459137
     Trunk: 0.8581444025039673
+- :image_url: https://live.staticflickr.com/65535/51825904404_faa3f22fed_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9711090922355652
+    Land vehicle: 0.9603890180587769
+    Car: 0.9491652250289917
+    Plant: 0.9446637630462646
+    Daytime: 0.9442166686058044
+    Cloud: 0.9325598478317261
+    Leaf: 0.8946874737739563
+    Branch: 0.8862882256507874
+    Wheel: 0.8832452297210693
+    Road surface: 0.8712265491485596
+- :image_url: https://live.staticflickr.com/65535/49692909021_6cddff8812_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9745128750801086
+    Plant: 0.9613240957260132
+    Purple: 0.9046288728713989
+    Sky: 0.8912460207939148
+    Cloud: 0.865787148475647
+    Shrub: 0.7952389121055603
+    Groundcover: 0.7901982069015503
+    Herbaceous plant: 0.7723298668861389
+    Flowering plant: 0.7613415122032166
+    Grass: 0.7019094228744507
+- :image_url: https://live.staticflickr.com/1964/45676656162_6677880f18_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9636597037315369
+    Window: 0.914110004901886
+    Tree: 0.8751641511917114
+    Building: 0.8568512797355652
+    Flower: 0.8424023389816284
+    House: 0.8384580016136169
+    Shrub: 0.7742210626602173
+    Tints and shades: 0.7698113322257996
+    Stairs: 0.7369161248207092
+    Twig: 0.7113528847694397
