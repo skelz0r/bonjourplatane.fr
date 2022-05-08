@@ -11226,3 +11226,55 @@ items:
     Tints and shades: 0.7698113322257996
     Stairs: 0.7369161248207092
     Twig: 0.7113528847694397
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9728826880455017
+    Branch: 0.8676266074180603
+    Plant: 0.8640193939208984
+    Fruit: 0.8516713976860046
+    Tree: 0.8343015909194946
+    Woody plant: 0.8052775263786316
+    Twig: 0.8007835745811462
+    Flowering plant: 0.7645140290260315
+    Produce: 0.7426806688308716
+    Fruit tree: 0.7388285994529724
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8332133293151855
+    Sky: 0.812056303024292
+    Plant: 0.8014503717422485
+    Natural landscape: 0.7826152443885803
+    Wood: 0.7756111025810242
+    Tints and shades: 0.7719830274581909
+    Deciduous: 0.7216496467590332
+    Macro photography: 0.6540076732635498
+    Flowering plant: 0.6513732075691223
+    Wing: 0.6363402605056763
+- :image_url: https://live.staticflickr.com/2260/2461434105_d115cd3b2c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9639664888381958
+    Sky: 0.9516567587852478
+    Wood: 0.8754772543907166
+    Twig: 0.8456154465675354
+    Sunlight: 0.8426822423934937
+    Tree: 0.81184321641922
+    Morning: 0.7978688478469849
+    Grass: 0.7909770607948303
+    Landscape: 0.787844717502594
+    Tints and shades: 0.7740818858146667
+- :image_url: https://live.staticflickr.com/65535/49303115602_cba8d711cd_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9806763529777527
+    Sky: 0.9614595174789429
+    Plant: 0.9423973560333252
+    Petal: 0.9077842235565186
+    Botany: 0.8876746892929077
+    Twig: 0.8834050893783569
+    Natural landscape: 0.8660731315612793
+    Tree: 0.8500149250030518
+    Pink: 0.8392335772514343
+    Blossom: 0.7822531461715698
