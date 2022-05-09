@@ -11278,3 +11278,16 @@ items:
     Tree: 0.8500149250030518
     Pink: 0.8392335772514343
     Blossom: 0.7822531461715698
+- :image_url: https://live.staticflickr.com/65535/51821459503_49971caf88_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9732952117919922
+    Sky: 0.9672891497612
+    Cloud: 0.9256666898727417
+    Leaf: 0.8928215503692627
+    Natural landscape: 0.8879286050796509
+    Tree: 0.8725895285606384
+    Grass: 0.8404192924499512
+    Flag: 0.808190107345581
+    Landscape: 0.7978360652923584
+    Asphalt: 0.786938488483429
