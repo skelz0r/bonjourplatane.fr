@@ -11291,3 +11291,16 @@ items:
     Flag: 0.808190107345581
     Landscape: 0.7978360652923584
     Asphalt: 0.786938488483429
+- :image_url: https://live.staticflickr.com/4784/40923045352_db01b40e1a_b.jpg
+  :description: TBD OK
+  :labels:
+    Natural landscape: 0.8874861598014832
+    Sky: 0.8820146918296814
+    Wood: 0.8706901669502258
+    Trunk: 0.8558449745178223
+    Twig: 0.8527092337608337
+    Tree: 0.8497424125671387
+    Plant: 0.8465403914451599
+    People in nature: 0.8337699770927429
+    Grass: 0.8323190808296204
+    Deciduous: 0.7942802906036377
