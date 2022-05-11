@@ -11304,3 +11304,16 @@ items:
     People in nature: 0.8337699770927429
     Grass: 0.8323190808296204
     Deciduous: 0.7942802906036377
+- :image_url: https://live.staticflickr.com/3190/2576604900_797e58b721_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9809074401855469
+    Sky: 0.9736748337745667
+    Plant: 0.9652420878410339
+    Natural landscape: 0.8968892693519592
+    Tree: 0.8754727244377136
+    Land lot: 0.8431531190872192
+    Rectangle: 0.8339046835899353
+    Grass: 0.8194790482521057
+    Horizon: 0.8079628944396973
+    Cumulus: 0.8077981472015381
