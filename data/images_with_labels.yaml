@@ -11330,3 +11330,42 @@ items:
     Trunk: 0.8611975312232971
     Wood: 0.8501926064491272
     Black-and-white: 0.8465619683265686
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9781500101089478
+    Water resources: 0.9491226077079773
+    Plant community: 0.9305078983306885
+    Plant: 0.9212726950645447
+    Natural landscape: 0.9055895805358887
+    Fluvial landforms of streams: 0.8963693976402283
+    Leaf: 0.8924326300621033
+    Natural environment: 0.8919334411621094
+    Branch: 0.8805990219116211
+    Vegetation: 0.8587437272071838
+- :image_url: https://live.staticflickr.com/7492/15146731424_ccbdce75fd_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.8933817148208618
+    Natural landscape: 0.8658819198608398
+    Tree: 0.8457755446434021
+    Trunk: 0.8412811160087585
+    Twig: 0.8278841972351074
+    Deciduous: 0.7854141592979431
+    Tints and shades: 0.7689164876937866
+    Flowering plant: 0.7438579797744751
+    Temperate broadleaf and mixed forest: 0.6991778612136841
+    Terrestrial plant: 0.6713095307350159
+- :image_url: https://live.staticflickr.com/2258/2288227045_d8b7c52ba8_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9469424486160278
+    Twig: 0.8776699304580688
+    Natural landscape: 0.8643937706947327
+    Trunk: 0.8500136733055115
+    Tree: 0.8293401002883911
+    Tints and shades: 0.7730185985565186
+    Plant: 0.7586051225662231
+    Monochrome: 0.6764596104621887
+    Monochrome photography: 0.6603760719299316
+    Forest: 0.6429170370101929
