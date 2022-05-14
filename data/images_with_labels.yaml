@@ -11369,3 +11369,16 @@ items:
     Monochrome: 0.6764596104621887
     Monochrome photography: 0.6603760719299316
     Forest: 0.6429170370101929
+- :image_url: https://live.staticflickr.com/65535/50503721878_ed2dc1f1ce_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9671518802642822
+    Plant: 0.9659543037414551
+    Flower: 0.9529840350151062
+    Plant community: 0.9391109943389893
+    Ecoregion: 0.9243208765983582
+    Leaf: 0.8924830555915833
+    Natural environment: 0.8915413618087769
+    Botany: 0.8856817483901978
+    Twig: 0.8778331875801086
+    Branch: 0.8752595782279968
