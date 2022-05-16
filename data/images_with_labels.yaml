@@ -11395,3 +11395,29 @@ items:
     Fawn: 0.8157604336738586
     Whiskers: 0.785939633846283
     Trunk: 0.7780796885490417
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8997547030448914
+    Plant: 0.8863766193389893
+    Orange: 0.871548593044281
+    Organism: 0.8545940518379211
+    Sunlight: 0.8463701009750366
+    Natural landscape: 0.8131647109985352
+    Tints and shades: 0.7680222392082214
+    Wood: 0.7420344352722168
+    Deciduous: 0.7373895049095154
+    Underwater: 0.7161422371864319
+- :image_url: https://live.staticflickr.com/172/415438347_d15994d4e2_b.jpg
+  :description: TBD OK
+  :labels:
+    Wood: 0.8766375780105591
+    Branch: 0.8681841492652893
+    Trunk: 0.8657341599464417
+    Organism: 0.8531351089477539
+    Woody plant: 0.8020602464675903
+    Terrestrial plant: 0.7728005647659302
+    Bedrock: 0.7710358500480652
+    Tints and shades: 0.7582088708877563
+    Forest: 0.7443580627441406
+    Pattern: 0.7436695098876953
