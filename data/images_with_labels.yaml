@@ -11460,3 +11460,16 @@ items:
     Organism: 0.854322612285614
     Tree: 0.8351553678512573
     Adaptation: 0.7935099601745605
+- :image_url: https://live.staticflickr.com/3246/2489977967_8ffce3d016_b.jpg
+  :description: TBD OK
+  :labels:
+    Branch: 0.8760181069374084
+    Natural landscape: 0.8757921457290649
+    Plant: 0.8647424578666687
+    People in nature: 0.8604143857955933
+    Tree: 0.8555143475532532
+    Twig: 0.8524258136749268
+    Shade: 0.8511645197868347
+    Trunk: 0.8491616249084473
+    Terrestrial plant: 0.8111955523490906
+    Deciduous: 0.8009945154190063
