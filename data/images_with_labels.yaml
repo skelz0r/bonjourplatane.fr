@@ -11486,3 +11486,29 @@ items:
     Deciduous: 0.6746029853820801
     Event: 0.5869045853614807
     Plant stem: 0.5805964469909668
+- :image_url: https://live.staticflickr.com/3109/2685401401_965d030e65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9817191958427429
+    Sky: 0.9634793996810913
+    Natural landscape: 0.8676424622535706
+    Branch: 0.8674521446228027
+    Tree: 0.836557149887085
+    Woody plant: 0.80314701795578
+    Cumulus: 0.7938458919525146
+    Shrub: 0.7687789797782898
+    Landscape: 0.7509056329727173
+    Horizon: 0.7485467195510864
+- :image_url: https://live.staticflickr.com/4224/34582492520_2d955541eb_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9742324352264404
+    Sky: 0.9670601487159729
+    Atmosphere: 0.9481807947158813
+    Plant: 0.9334940314292908
+    Natural landscape: 0.892796516418457
+    Natural environment: 0.8923084735870361
+    Tree: 0.8916809558868408
+    Twig: 0.8802112936973572
+    Branch: 0.876182496547699
+    Wood: 0.8700504899024963
