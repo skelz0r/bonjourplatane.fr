@@ -11512,3 +11512,16 @@ items:
     Twig: 0.8802112936973572
     Branch: 0.876182496547699
     Wood: 0.8700504899024963
+- :image_url: https://live.staticflickr.com/65535/50494708376_ceacf2c940_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9821012616157532
+    Sky: 0.9762865900993347
+    Plant: 0.9550313353538513
+    Plant community: 0.9370903968811035
+    Ecoregion: 0.9264687299728394
+    Natural landscape: 0.8890219330787659
+    Natural environment: 0.888838529586792
+    Tree: 0.8848843574523926
+    Branch: 0.8712689280509949
+    Trunk: 0.8551044464111328
