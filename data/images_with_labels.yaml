@@ -11551,3 +11551,16 @@ items:
     Organism: 0.8623019456863403
     Petal: 0.8548002243041992
     Twig: 0.8300148844718933
+- :image_url: https://live.staticflickr.com/5829/23753565672_daa538c146_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9607582688331604
+    Atmosphere: 0.9481807947158813
+    Water: 0.935383141040802
+    Ecoregion: 0.9236500859260559
+    Natural landscape: 0.8862638473510742
+    Fog: 0.8856077194213867
+    Tree: 0.880066454410553
+    Atmospheric phenomenon: 0.8650774955749512
+    Afterglow: 0.8424578905105591
+    Sunlight: 0.8413973450660706
