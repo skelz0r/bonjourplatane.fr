@@ -11564,3 +11564,55 @@ items:
     Atmospheric phenomenon: 0.8650774955749512
     Afterglow: 0.8424578905105591
     Sunlight: 0.8413973450660706
+- :image_url: https://live.staticflickr.com/156/353794736_1f4e1b48e1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Water: 0.9408972263336182
+    Plant: 0.938206672668457
+    Street light: 0.9193775653839111
+    Automotive lighting: 0.9140158295631409
+    Leaf: 0.8963996171951294
+    Branch: 0.8921753168106079
+    Road surface: 0.891354501247406
+    Sky: 0.8451167345046997
+    Tree: 0.8297897577285767
+- :image_url: https://live.staticflickr.com/65535/50688986783_a1592e6b29_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9786996841430664
+    Plant: 0.9594005346298218
+    Sky: 0.9449489712715149
+    Botany: 0.9060306549072266
+    Petal: 0.9017632007598877
+    Cloud: 0.8822963237762451
+    Branch: 0.8696059584617615
+    Tree: 0.7748933434486389
+    Groundcover: 0.7655515670776367
+    Flowering plant: 0.7631158828735352
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9790265560150146
+    Sky: 0.9760967493057251
+    Plant: 0.9498072862625122
+    Vegetation: 0.8616194725036621
+    Tree: 0.8416616916656494
+    Flowering plant: 0.785794734954834
+    Terrestrial plant: 0.7556176781654358
+    Shrub: 0.6821670532226562
+    Petal: 0.5918405055999756
+    Palm tree: 0.5813233256340027
+- :image_url: https://live.staticflickr.com/65535/48709556938_1390e80b50_b.jpg
+  :description: TBD OK
+  :labels:
+    Botany: 0.9033703804016113
+    Nature: 0.8997296094894409
+    Leaf: 0.893734872341156
+    Wood: 0.882118284702301
+    Branch: 0.8716676831245422
+    Tree: 0.8716063499450684
+    Terrestrial plant: 0.8538590669631958
+    Trunk: 0.852281391620636
+    Natural landscape: 0.8516133427619934
+    Twig: 0.8338172435760498
