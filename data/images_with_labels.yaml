@@ -11616,3 +11616,16 @@ items:
     Trunk: 0.852281391620636
     Natural landscape: 0.8516133427619934
     Twig: 0.8338172435760498
+- :image_url: https://live.staticflickr.com/65535/50388268291_8fc62000bb_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9501378536224365
+    Tree: 0.87640380859375
+    Wood: 0.8760398030281067
+    Natural landscape: 0.8737226128578186
+    Twig: 0.8683646321296692
+    Trunk: 0.8480783700942993
+    Sky: 0.8429834246635437
+    Thoroughfare: 0.7869712710380554
+    Road surface: 0.7827161550521851
+    Deciduous: 0.7781970500946045
