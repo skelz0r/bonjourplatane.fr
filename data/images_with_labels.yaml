@@ -11629,3 +11629,42 @@ items:
     Thoroughfare: 0.7869712710380554
     Road surface: 0.7827161550521851
     Deciduous: 0.7781970500946045
+- :image_url: https://live.staticflickr.com/65535/51762919607_9f58aafe48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9298948645591736
+    Food: 0.9132320284843445
+    Fruit: 0.9066194891929626
+    Leaf: 0.8975631594657898
+    Citrus: 0.8567755818367004
+    Flower: 0.834934413433075
+    Tree: 0.8091562986373901
+    Natural foods: 0.80642169713974
+    Fruit tree: 0.7886473536491394
+    Produce: 0.7853553295135498
+- :image_url: https://live.staticflickr.com/7141/6623911045_26718a294a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762795567512512
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9454827308654785
+    Sky: 0.9248154163360596
+    Light: 0.9104852676391602
+    World: 0.9101152420043945
+    Plant: 0.9073802828788757
+    Nature: 0.8993252515792847
+    People in nature: 0.8979979157447815
+    Leaf: 0.8935760259628296
+- :image_url: https://live.staticflickr.com/5641/23256336285_5f979a97ea_b.jpg
+  :description: TBD OK
+  :labels:
+    Snow: 0.9255955219268799
+    Nature: 0.9022538065910339
+    Black: 0.8963940143585205
+    Plant: 0.8937817811965942
+    Branch: 0.8901596665382385
+    Twig: 0.8821110129356384
+    Natural landscape: 0.8718292713165283
+    Black-and-white: 0.8521751761436462
+    Tree: 0.8519927859306335
+    Style: 0.8384963870048523
