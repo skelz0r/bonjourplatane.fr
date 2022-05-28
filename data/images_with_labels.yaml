@@ -11668,3 +11668,16 @@ items:
     Black-and-white: 0.8521751761436462
     Tree: 0.8519927859306335
     Style: 0.8384963870048523
+- :image_url: https://live.staticflickr.com/65535/49161981302_6dba5d3cd4_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9805750846862793
+    Sky: 0.9711397290229797
+    Plant: 0.9396043419837952
+    Branch: 0.8905086517333984
+    Twig: 0.8899526000022888
+    Petal: 0.8895848393440247
+    Tree: 0.8418287038803101
+    Terrestrial plant: 0.7798940539360046
+    Flowering plant: 0.7629967927932739
+    Blossom: 0.7434098124504089
