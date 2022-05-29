@@ -11681,3 +11681,16 @@ items:
     Terrestrial plant: 0.7798940539360046
     Flowering plant: 0.7629967927932739
     Blossom: 0.7434098124504089
+- :image_url: https://live.staticflickr.com/5349/9310132965_23eccdf48d_b.jpg
+  :description: TBD OK
+  :labels:
+    Branch: 0.8685252070426941
+    Natural landscape: 0.8567836284637451
+    Wood: 0.8546547293663025
+    Tree: 0.8502434492111206
+    Vegetation: 0.8476640582084656
+    Trunk: 0.8420700430870056
+    Terrestrial plant: 0.8398653268814087
+    Twig: 0.778203010559082
+    Deciduous: 0.7509565353393555
+    Landscape: 0.7486048936843872
