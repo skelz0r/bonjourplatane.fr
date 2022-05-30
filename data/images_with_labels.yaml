@@ -11694,3 +11694,16 @@ items:
     Twig: 0.778203010559082
     Deciduous: 0.7509565353393555
     Landscape: 0.7486048936843872
+- :image_url: https://live.staticflickr.com/65535/50403567951_7ede7a0e33_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9710485339164734
+    Photograph: 0.941865861415863
+    Plant: 0.9334082007408142
+    Leaf: 0.9050775170326233
+    Botany: 0.8921085000038147
+    Twig: 0.8844918608665466
+    Branch: 0.8708304166793823
+    Vegetation: 0.8534347414970398
+    Biome: 0.8287410736083984
+    Terrestrial plant: 0.8235459327697754
