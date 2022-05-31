@@ -11707,3 +11707,16 @@ items:
     Vegetation: 0.8534347414970398
     Biome: 0.8287410736083984
     Terrestrial plant: 0.8235459327697754
+- :image_url: https://live.staticflickr.com/65535/49076868518_155bf4086e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9644564390182495
+    Snow: 0.9202961325645447
+    Wood: 0.8797113299369812
+    Natural landscape: 0.8607379198074341
+    Twig: 0.8553240895271301
+    Trunk: 0.848020613193512
+    Tree: 0.8424307107925415
+    Atmospheric phenomenon: 0.8197020292282104
+    Deciduous: 0.8177779912948608
+    Landscape: 0.7846671342849731
