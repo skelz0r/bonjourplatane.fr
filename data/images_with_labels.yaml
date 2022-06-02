@@ -11733,3 +11733,68 @@ items:
     Tree: 0.8047876358032227
     Natural landscape: 0.8008120059967041
     Wood: 0.7743973135948181
+- :image_url: https://live.staticflickr.com/7058/6858668121_cb003b7cf4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Membranophone: 0.9739133715629578
+    Musical instrument: 0.9493353962898254
+    Drum: 0.9415266513824463
+    Light: 0.910754382610321
+    Idiophone: 0.9102213978767395
+    Wood: 0.8885335922241211
+    Trunk: 0.8366542458534241
+    Percussion mallet: 0.8182729482650757
+    Drumhead: 0.8133153915405273
+    Wall: 0.8088250160217285
+- :image_url: https://live.staticflickr.com/65535/51432349283_eb95a5142b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9600115418434143
+    Fruit: 0.8888232111930847
+    Branch: 0.8732162714004517
+    Flower: 0.8647640347480774
+    Terrestrial plant: 0.8305940628051758
+    Tree: 0.8159882426261902
+    Woody plant: 0.8087344169616699
+    Flowering plant: 0.7799413800239563
+    Twig: 0.7040863633155823
+    Fruit tree: 0.6759896874427795
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9010980129241943
+    Natural landscape: 0.879830002784729
+    Branch: 0.8741248846054077
+    Tree: 0.8302678465843201
+    Plant: 0.811410129070282
+    Trunk: 0.8036153316497803
+    Deciduous: 0.794918417930603
+    People in nature: 0.7773877382278442
+    Tints and shades: 0.7358005046844482
+    Twig: 0.7346998453140259
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9753431081771851
+    Plant: 0.9326514005661011
+    Petal: 0.8801230788230896
+    Road surface: 0.8637375831604004
+    Organism: 0.853516697883606
+    Vegetation: 0.850816547870636
+    Asphalt: 0.8315654397010803
+    Groundcover: 0.7890903353691101
+    Wood: 0.7847229838371277
+    Grass: 0.7815930247306824
+- :image_url: https://live.staticflickr.com/65535/48697122377_6f06bcfc11_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9368061423301697
+    Leaf: 0.8930208086967468
+    Natural landscape: 0.8845613598823547
+    Tree: 0.8706073760986328
+    Twig: 0.8665814399719238
+    Trunk: 0.8570604920387268
+    Wood: 0.8460070490837097
+    Sky: 0.8397694230079651
+    Biome: 0.8264596462249756
+    Landscape: 0.7769157886505127

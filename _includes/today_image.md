@@ -1,3 +1,3 @@
-![Justine](/images/2022-06-01.jpg)
+![Maëlia](/images/2022-06-02.jpg)
 
-Crédits: [Grégoire AUDOUX](https://www.flickr.com/people/gregoire-audoux/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
