@@ -11811,3 +11811,16 @@ items:
     Branch: 0.873228132724762
     Sunlight: 0.8498368263244629
     Tree: 0.8304020166397095
+- :image_url: https://live.staticflickr.com/3509/4058995816_4e0cdfd066_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9540640115737915
+    Tree: 0.8797828555107117
+    Natural landscape: 0.8795210123062134
+    Yellow: 0.8431286811828613
+    Deciduous: 0.797588586807251
+    Groundcover: 0.7864742875099182
+    Grass: 0.7787238955497742
+    Tints and shades: 0.7630167007446289
+    Shrub: 0.7609712481498718
+    Flowering plant: 0.7504120469093323
