@@ -11824,3 +11824,29 @@ items:
     Tints and shades: 0.7630167007446289
     Shrub: 0.7609712481498718
     Flowering plant: 0.7504120469093323
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8997547030448914
+    Plant: 0.8863766193389893
+    Orange: 0.871548593044281
+    Organism: 0.8545940518379211
+    Sunlight: 0.8463701009750366
+    Natural landscape: 0.8131647109985352
+    Tints and shades: 0.7680222392082214
+    Wood: 0.7420344352722168
+    Deciduous: 0.7373895049095154
+    Underwater: 0.7161422371864319
+- :image_url: https://live.staticflickr.com/2672/4192717887_87b55b232e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.8963301777839661
+    Natural landscape: 0.8831414580345154
+    Twig: 0.8757385611534119
+    Tree: 0.8737578988075256
+    Wood: 0.8551144599914551
+    Trunk: 0.8484783172607422
+    Freezing: 0.8264225125312805
+    Deciduous: 0.7994421124458313
+    Landscape: 0.787473738193512
+    Grass: 0.7727221250534058
