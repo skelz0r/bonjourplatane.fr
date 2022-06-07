@@ -11863,3 +11863,29 @@ items:
     Tree: 0.6362746953964233
     Glass: 0.6304276585578918
     Macro photography: 0.606173574924469
+- :image_url: https://live.staticflickr.com/5726/30626214181_e612e2cde2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9792989492416382
+    Sky: 0.9749679565429688
+    Plant: 0.9356840252876282
+    Building: 0.9335111975669861
+    Street light: 0.8520380854606628
+    Tree: 0.8491051197052002
+    Road surface: 0.816949188709259
+    Urban design: 0.7748382687568665
+    Road: 0.7572531700134277
+    City: 0.7566937804222107
+- :image_url: https://live.staticflickr.com/65535/48651483607_514afdd5b7_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9682344794273376
+    Cloud: 0.9666043519973755
+    Sky: 0.9628381729125977
+    Natural landscape: 0.9017946720123291
+    Tree: 0.8796153664588928
+    Branch: 0.8776870965957642
+    Twig: 0.8615216612815857
+    Vegetation: 0.852531909942627
+    Deciduous: 0.8307968378067017
+    Grass: 0.8295601010322571
