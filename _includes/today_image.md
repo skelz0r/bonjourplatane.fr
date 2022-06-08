@@ -1,3 +1,3 @@
-![Aymeric](/images/2022-06-07.jpg)
+![Lana](/images/2022-06-08.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr

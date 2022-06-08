@@ -11889,3 +11889,29 @@ items:
     Vegetation: 0.852531909942627
     Deciduous: 0.8307968378067017
     Grass: 0.8295601010322571
+- :image_url: https://live.staticflickr.com/65535/50904700173_0ff7c9b09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9553031325340271
+    Twig: 0.8370541930198669
+    Tree: 0.8316463828086853
+    Natural landscape: 0.8211798667907715
+    Wood: 0.8119988441467285
+    Art: 0.7943043112754822
+    Trunk: 0.7939536571502686
+    Snow: 0.7757880687713623
+    Freezing: 0.7332586050033569
+    Event: 0.7288724184036255
+- :image_url: https://live.staticflickr.com/1558/24409806820_89ab840a2d_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9745546579360962
+    Atmosphere: 0.9481807947158813
+    Daytime: 0.9442426562309265
+    Plant community: 0.9392440319061279
+    Ecoregion: 0.9222230315208435
+    Plant: 0.9149144887924194
+    Afterglow: 0.9147210121154785
+    Natural landscape: 0.893080472946167
+    Twig: 0.8797188997268677
+    Branch: 0.8787726759910583
