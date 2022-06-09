@@ -1,3 +1,3 @@
-![Lana](/images/2022-06-08.jpg)
+![Corentin](/images/2022-06-09.jpg)
 
-Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr

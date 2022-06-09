@@ -11915,3 +11915,16 @@ items:
     Natural landscape: 0.893080472946167
     Twig: 0.8797188997268677
     Branch: 0.8787726759910583
+- :image_url: https://live.staticflickr.com/4036/4372629659_f07cba1f43_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9704653024673462
+    Cloud: 0.9675036668777466
+    Plant: 0.9550076127052307
+    Natural landscape: 0.8848875164985657
+    Outdoor bench: 0.8820587992668152
+    Branch: 0.8690012693405151
+    Twig: 0.8550727963447571
+    Trunk: 0.8294553160667419
+    Wood: 0.8265156149864197
+    Grass: 0.8251697421073914
