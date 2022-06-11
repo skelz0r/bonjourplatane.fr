@@ -11941,3 +11941,29 @@ items:
     Tints and shades: 0.7629648447036743
     Space: 0.724928081035614
     Event: 0.697522759437561
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9470875859260559
+    Plant: 0.9204047322273254
+    Tree: 0.8233873844146729
+    Evergreen: 0.7895801663398743
+    Grass: 0.7737624645233154
+    Shrub: 0.7664567828178406
+    Flowering plant: 0.7277263402938843
+    Subshrub: 0.6672471761703491
+    Conifer: 0.6175283789634705
+    Garden: 0.6089221239089966
+- :image_url: https://live.staticflickr.com/65535/51246862370_9acdc99335_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9432817101478577
+    Wood: 0.8654318451881409
+    Tree: 0.853708803653717
+    Trunk: 0.8527997136116028
+    Grass: 0.8061337471008301
+    Groundcover: 0.7885116338729858
+    Road surface: 0.7615599036216736
+    Grass family: 0.7539642453193665
+    Tree stump: 0.7371678352355957
+    Concrete: 0.7221686840057373
