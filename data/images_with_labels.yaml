@@ -11967,3 +11967,16 @@ items:
     Grass family: 0.7539642453193665
     Tree stump: 0.7371678352355957
     Concrete: 0.7221686840057373
+- :image_url: https://live.staticflickr.com/7886/33643065238_fd0dff4e32_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9706472158432007
+    Plant: 0.954871654510498
+    Atmosphere: 0.9481807947158813
+    Moon: 0.9278414249420166
+    Tree: 0.8968139290809631
+    Azure: 0.8959361910820007
+    Leaf: 0.8937234282493591
+    Natural environment: 0.8918749690055847
+    Branch: 0.8868650794029236
+    Twig: 0.8631561398506165
