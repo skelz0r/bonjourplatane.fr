@@ -11993,3 +11993,28 @@ items:
     Terrestrial plant: 0.762083113193512
     Flowering plant: 0.6799538135528564
     Wood: 0.6791667342185974
+- :image_url: https://live.staticflickr.com/65535/50934782041_432e275fab_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9805710911750793
+    Plant: 0.9571402072906494
+    Petal: 0.895909309387207
+    Terrestrial plant: 0.8587686419487
+    Flowering plant: 0.7128267288208008
+    Herbaceous plant: 0.6262806057929993
+    Shrub: 0.5865527391433716
+    Pittosporaceae: 0.5332456827163696
+    Lily family: 0.5110536217689514
+- :image_url: https://live.staticflickr.com/65535/48850754356_1b712ab1c9_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9750736951828003
+    Plant: 0.9626222252845764
+    Cloud: 0.9349833130836487
+    Plant community: 0.9338346719741821
+    Leaf: 0.9086847901344299
+    Natural landscape: 0.8893399834632874
+    Tree: 0.8726012110710144
+    Sunlight: 0.8466052412986755
+    Grass: 0.834679901599884
+    Biome: 0.8321241140365601
