@@ -12083,3 +12083,16 @@ items:
     Songbird: 0.7553601861000061
     Tail: 0.7307854890823364
     Wing: 0.7153778076171875
+- :image_url: https://live.staticflickr.com/65535/51323837816_dd035d85d2_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9700348377227783
+    Tree: 0.902484118938446
+    Branch: 0.8763193488121033
+    Natural landscape: 0.8635870218276978
+    Wood: 0.8582621216773987
+    Terrestrial plant: 0.8543373346328735
+    Trunk: 0.8445309400558472
+    Woody plant: 0.7998374700546265
+    Twig: 0.7808400988578796
+    Deciduous: 0.7758514285087585

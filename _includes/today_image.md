@@ -1,3 +1,3 @@
-![Anaëlle](/images/2022-06-15.jpg)
+![Sandro](/images/2022-06-16.jpg)
 
-Crédits: [J-M Linder](https://www.flickr.com/people/jmverco/) on flickr
+Crédits: [ludo.dolu](https://www.flickr.com/people/ludo-dolu/) on flickr
