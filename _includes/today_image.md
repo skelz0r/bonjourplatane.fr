@@ -1,3 +1,3 @@
-![Sandro](/images/2022-06-16.jpg)
+![Léandre](/images/2022-06-17.jpg)
 
-Crédits: [ludo.dolu](https://www.flickr.com/people/ludo-dolu/) on flickr
+Crédits: [Phil du Valois](https://www.flickr.com/people/37149125@N04/) on flickr

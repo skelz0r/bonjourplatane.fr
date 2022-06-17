@@ -12096,3 +12096,16 @@ items:
     Woody plant: 0.7998374700546265
     Twig: 0.7808400988578796
     Deciduous: 0.7758514285087585
+- :image_url: https://live.staticflickr.com/1929/44822001764_9425f97ba3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9570146203041077
+    Tree: 0.9055252075195312
+    Natural landscape: 0.8698264360427856
+    Terrestrial plant: 0.8624370694160461
+    Trunk: 0.8620249629020691
+    Wood: 0.8600603938102722
+    Grass: 0.8260320425033569
+    Woody plant: 0.807584822177887
+    Deciduous: 0.8010773062705994
+    Groundcover: 0.7906912565231323
