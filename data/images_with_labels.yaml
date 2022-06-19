@@ -12109,3 +12109,16 @@ items:
     Woody plant: 0.807584822177887
     Deciduous: 0.8010773062705994
     Groundcover: 0.7906912565231323
+- :image_url: https://live.staticflickr.com/582/21147376451_995b0890c2_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9743636846542358
+    Cloud: 0.9731476306915283
+    Plant: 0.943225085735321
+    Leaf: 0.8961969614028931
+    Tree: 0.8823630213737488
+    Natural landscape: 0.8811231851577759
+    Dusk: 0.84492027759552
+    Afterglow: 0.837850034236908
+    Sunset: 0.8177838921546936
+    Sunrise: 0.8175643086433411
