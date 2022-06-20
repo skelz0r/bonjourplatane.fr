@@ -12122,3 +12122,16 @@ items:
     Afterglow: 0.837850034236908
     Sunset: 0.8177838921546936
     Sunrise: 0.8175643086433411
+- :image_url: https://live.staticflickr.com/5457/7069942677_234fef027e_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9831807017326355
+    Sky: 0.9603376388549805
+    Plant: 0.9561346173286438
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.925604522228241
+    Natural landscape: 0.904859185218811
+    Natural environment: 0.8906490206718445
+    Tree: 0.8890339732170105
+    Branch: 0.8872897624969482
+    Wood: 0.8648809194564819

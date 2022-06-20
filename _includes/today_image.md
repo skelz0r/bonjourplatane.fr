@@ -1,3 +1,3 @@
-![Victoria](/images/2022-06-19.jpg)
+![Jean](/images/2022-06-20.jpg)
 
-Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr
+Crédits: [cobanene](https://www.flickr.com/people/cobanene/) on flickr
