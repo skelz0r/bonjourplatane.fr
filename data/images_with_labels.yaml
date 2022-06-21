@@ -12135,3 +12135,55 @@ items:
     Tree: 0.8890339732170105
     Branch: 0.8872897624969482
     Wood: 0.8648809194564819
+- :image_url: https://live.staticflickr.com/2694/4355194851_c9f2929ae0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8872315883636475
+    Branch: 0.8698999285697937
+    Natural material: 0.8605251312255859
+    Trunk: 0.8455896973609924
+    Woody plant: 0.80173659324646
+    Grass: 0.8016889691352844
+    Terrestrial plant: 0.7833265662193298
+    Twig: 0.7440874576568604
+    Groundcover: 0.7213746905326843
+    Tree: 0.6868537664413452
+- :image_url: https://live.staticflickr.com/65535/50688986783_a1592e6b29_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9786996841430664
+    Plant: 0.9594005346298218
+    Sky: 0.9449489712715149
+    Botany: 0.9060306549072266
+    Petal: 0.9017632007598877
+    Cloud: 0.8822963237762451
+    Branch: 0.8696059584617615
+    Tree: 0.7748933434486389
+    Groundcover: 0.7655515670776367
+    Flowering plant: 0.7631158828735352
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9753431081771851
+    Plant: 0.9326514005661011
+    Petal: 0.8801230788230896
+    Road surface: 0.8637375831604004
+    Organism: 0.853516697883606
+    Vegetation: 0.850816547870636
+    Asphalt: 0.8315654397010803
+    Groundcover: 0.7890903353691101
+    Wood: 0.7847229838371277
+    Grass: 0.7815930247306824
+- :image_url: https://live.staticflickr.com/65535/50373431973_afb29662b7_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9584259986877441
+    Plant community: 0.9369638562202454
+    Flower: 0.9157850742340088
+    Natural landscape: 0.8861215114593506
+    Branch: 0.8698517680168152
+    Twig: 0.8515188694000244
+    Tree: 0.8390864133834839
+    Trunk: 0.8275015950202942
+    Grass: 0.8257790207862854
+    Shrub: 0.7972872853279114

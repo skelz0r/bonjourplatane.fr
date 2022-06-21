@@ -1,3 +1,3 @@
-![Jean](/images/2022-06-20.jpg)
+![Thomas](/images/2022-06-21.jpg)
 
-Crédits: [cobanene](https://www.flickr.com/people/cobanene/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
