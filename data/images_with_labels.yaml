@@ -12187,3 +12187,16 @@ items:
     Trunk: 0.8275015950202942
     Grass: 0.8257790207862854
     Shrub: 0.7972872853279114
+- :image_url: https://live.staticflickr.com/65535/51870715200_f8d77fca87_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9681947231292725
+    Twig: 0.8682751655578613
+    Trunk: 0.8638975620269775
+    Wood: 0.8475515842437744
+    Natural landscape: 0.8236371278762817
+    Tree: 0.8145347237586975
+    Deciduous: 0.8079990148544312
+    Freezing: 0.7062807679176331
+    Forest: 0.6772517561912537
+    Plant: 0.6749634146690369
