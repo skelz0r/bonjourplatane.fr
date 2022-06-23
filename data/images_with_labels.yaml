@@ -12200,3 +12200,16 @@ items:
     Freezing: 0.7062807679176331
     Forest: 0.6772517561912537
     Plant: 0.6749634146690369
+- :image_url: https://live.staticflickr.com/8260/8628452144_133974bac6_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Sky: 0.9665161371231079
+    Plant: 0.9412530064582825
+    Natural landscape: 0.8872201442718506
+    Tree: 0.8685904145240784
+    Wood: 0.8457438945770264
+    Grass: 0.8149296045303345
+    Plain: 0.7975202798843384
+    Horizon: 0.7874428629875183
+    Grassland: 0.7814468741416931

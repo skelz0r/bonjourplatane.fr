@@ -1,3 +1,3 @@
-![Enora](/images/2022-06-22.jpg)
+![Candice](/images/2022-06-23.jpg)
 
-Crédits: [GuillaBar](https://www.flickr.com/people/guillabar/) on flickr
+Crédits: [fred_v](https://www.flickr.com/people/vialbost/) on flickr
