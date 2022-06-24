@@ -12213,3 +12213,16 @@ items:
     Plain: 0.7975202798843384
     Horizon: 0.7874428629875183
     Grassland: 0.7814468741416931
+- :image_url: https://live.staticflickr.com/5170/5273202271_ec8ff74917_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9730974435806274
+    Cloud: 0.96229487657547
+    Plant: 0.9555270671844482
+    Ecoregion: 0.9279956221580505
+    Natural landscape: 0.9024537801742554
+    Natural environment: 0.8906359076499939
+    Branch: 0.8734068274497986
+    Tree: 0.8584983348846436
+    Twig: 0.8465943932533264
+    Rectangle: 0.8415849208831787
