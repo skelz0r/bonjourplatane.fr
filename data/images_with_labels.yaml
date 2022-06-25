@@ -12226,3 +12226,16 @@ items:
     Tree: 0.8584983348846436
     Twig: 0.8465943932533264
     Rectangle: 0.8415849208831787
+- :image_url: https://live.staticflickr.com/5829/23769646231_655db1319d_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9767149090766907
+    Sky: 0.9670724272727966
+    Plant: 0.9534288048744202
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8960818648338318
+    Tree: 0.8882469534873962
+    Branch: 0.8810363411903381
+    Atmospheric phenomenon: 0.849913477897644
+    Wood: 0.8492474555969238
+    Fog: 0.848362386226654
