@@ -12239,3 +12239,16 @@ items:
     Atmospheric phenomenon: 0.849913477897644
     Wood: 0.8492474555969238
     Fog: 0.848362386226654
+- :image_url: https://live.staticflickr.com/2947/33036650293_9e6a302ba4_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9153831601142883
+    Botany: 0.8966862559318542
+    Twig: 0.8848896026611328
+    Branch: 0.8834513425827026
+    Tree: 0.8585617542266846
+    Terrestrial plant: 0.8571809530258179
+    Vegetation: 0.8563010692596436
+    Yellow: 0.8552706241607666
+    Biome: 0.8313984870910645
+    Evergreen: 0.8185730576515198
