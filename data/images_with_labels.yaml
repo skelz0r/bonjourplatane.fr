@@ -12252,3 +12252,16 @@ items:
     Yellow: 0.8552706241607666
     Biome: 0.8313984870910645
     Evergreen: 0.8185730576515198
+- :image_url: https://live.staticflickr.com/65535/51842502365_0a98fa3867_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9437465667724609
+    Tire: 0.9428954720497131
+    Automotive tire: 0.9047015905380249
+    Wheel: 0.8880549073219299
+    Tree: 0.8698317408561707
+    Branch: 0.8676026463508606
+    Scaled reptile: 0.8370682597160339
+    Wood: 0.8359023332595825
+    Twig: 0.8302735686302185
+    Trunk: 0.8020324110984802
