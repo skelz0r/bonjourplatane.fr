@@ -12265,3 +12265,16 @@ items:
     Wood: 0.8359023332595825
     Twig: 0.8302735686302185
     Trunk: 0.8020324110984802
+- :image_url: https://live.staticflickr.com/65535/50201128111_6fe9a045ac_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.965614914894104
+    Natural landscape: 0.8844098448753357
+    Tree: 0.8770378232002258
+    Terrestrial plant: 0.8685337901115417
+    Grass: 0.8016375303268433
+    Woody plant: 0.7993276715278625
+    Groundcover: 0.7891144156455994
+    Trunk: 0.7805144190788269
+    Landscape: 0.7559097409248352
+    Forest: 0.7343215942382812
