@@ -12278,3 +12278,42 @@ items:
     Trunk: 0.7805144190788269
     Landscape: 0.7559097409248352
     Forest: 0.7343215942382812
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9728826880455017
+    Branch: 0.8676266074180603
+    Plant: 0.8640193939208984
+    Fruit: 0.8516713976860046
+    Tree: 0.8343015909194946
+    Woody plant: 0.8052775263786316
+    Twig: 0.8007835745811462
+    Flowering plant: 0.7645140290260315
+    Produce: 0.7426806688308716
+    Fruit tree: 0.7388285994529724
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.96858149766922
+    Plant: 0.9536087512969971
+    Leaf: 0.891778290271759
+    Terrestrial plant: 0.8436436653137207
+    Tree: 0.8322818279266357
+    Sky: 0.8062657713890076
+    Flowering plant: 0.755422055721283
+    Twig: 0.7102542519569397
+    Shrub: 0.610504150390625
+    Combretaceae: 0.5483389496803284
+- :image_url: https://live.staticflickr.com/65535/50396740992_20752bac4c_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9166091084480286
+    People in nature: 0.9061628580093384
+    Twig: 0.8806985020637512
+    Natural landscape: 0.8787181973457336
+    Trunk: 0.8580244183540344
+    Yellow: 0.8426946401596069
+    Wood: 0.8308213353157043
+    Tree: 0.8210067749023438
+    Deciduous: 0.7997599244117737
+    Tints and shades: 0.7736867070198059
