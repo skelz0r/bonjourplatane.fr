@@ -12317,3 +12317,29 @@ items:
     Tree: 0.8210067749023438
     Deciduous: 0.7997599244117737
     Tints and shades: 0.7736867070198059
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9732196927070618
+    Plant: 0.957913875579834
+    Petal: 0.8904391527175903
+    Terrestrial plant: 0.8645676970481873
+    Grass: 0.8165258765220642
+    Evergreen: 0.8135826587677002
+    Groundcover: 0.7908909916877747
+    Shrub: 0.7532666921615601
+    Flowering plant: 0.7456610798835754
+    Annual plant: 0.7225466966629028
+- :image_url: https://live.staticflickr.com/65535/50365951678_24b2ca7e3d_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9700019955635071
+    Plant: 0.966860830783844
+    Cloud: 0.8900668025016785
+    Branch: 0.8835625648498535
+    Twig: 0.8776960968971252
+    Tree: 0.8666574954986572
+    Trunk: 0.8385975956916809
+    Deciduous: 0.824431836605072
+    Woody plant: 0.8046222925186157
+    Street light: 0.7929638028144836
