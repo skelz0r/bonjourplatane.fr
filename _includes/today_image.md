@@ -1,3 +1,3 @@
-![Antoine](/images/2022-07-03.jpg)
+![Guillaume](/images/2022-07-04.jpg)
 
-Crédits: [photogreuhphies](https://www.flickr.com/people/photogreuhphies/) on flickr
+Crédits: [Phil du Valois](https://www.flickr.com/people/37149125@N04/) on flickr

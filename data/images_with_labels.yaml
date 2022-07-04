@@ -12512,3 +12512,29 @@ items:
     Tree: 0.8555477857589722
     Black-and-white: 0.848673939704895
     Trunk: 0.8471591472625732
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9790265560150146
+    Sky: 0.9760967493057251
+    Plant: 0.9498072862625122
+    Vegetation: 0.8616194725036621
+    Tree: 0.8416616916656494
+    Flowering plant: 0.785794734954834
+    Terrestrial plant: 0.7556176781654358
+    Shrub: 0.6821670532226562
+    Petal: 0.5918405055999756
+    Palm tree: 0.5813233256340027
+- :image_url: https://live.staticflickr.com/634/20188852934_c0b2bcb8aa_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9665133357048035
+    Ecoregion: 0.9226483702659607
+    Green: 0.912446141242981
+    Tree: 0.8938111066818237
+    Natural environment: 0.8903236389160156
+    Natural landscape: 0.8790631890296936
+    Branch: 0.8688623905181885
+    Terrestrial plant: 0.8599356412887573
+    Trunk: 0.855922520160675
+    Wood: 0.8533401489257812
