@@ -1,3 +1,3 @@
-![Guillaume](/images/2022-07-04.jpg)
+![Noam](/images/2022-07-05.jpg)
 
-Crédits: [Phil du Valois](https://www.flickr.com/people/37149125@N04/) on flickr
+Crédits: [ComputerHotline](https://www.flickr.com/people/computerhotline/) on flickr

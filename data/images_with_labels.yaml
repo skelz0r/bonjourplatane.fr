@@ -12538,3 +12538,16 @@ items:
     Terrestrial plant: 0.8599356412887573
     Trunk: 0.855922520160675
     Wood: 0.8533401489257812
+- :image_url: https://live.staticflickr.com/3246/2928917015_ac42b9c72b_b.jpg
+  :description: TBD OK
+  :labels:
+    Tree: 0.8843103647232056
+    Natural landscape: 0.8703591823577881
+    Terrestrial plant: 0.8577277064323425
+    Trunk: 0.8488636612892151
+    Deciduous: 0.8132296204566956
+    Tints and shades: 0.7551404237747192
+    Twig: 0.7302603721618652
+    Forest: 0.721070408821106
+    Temperate broadleaf and mixed forest: 0.6887959837913513
+    Landscape: 0.6411892175674438
