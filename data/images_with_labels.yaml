@@ -12551,3 +12551,29 @@ items:
     Forest: 0.721070408821106
     Temperate broadleaf and mixed forest: 0.6887959837913513
     Landscape: 0.6411892175674438
+- :image_url: https://live.staticflickr.com/65535/52037827745_89a43dfddc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.968491792678833
+    Sky: 0.9682379961013794
+    Property: 0.9424816966056824
+    Plant community: 0.9361598491668701
+    Ecoregion: 0.9232358932495117
+    Mountain: 0.9202784299850464
+    Natural landscape: 0.8778396844863892
+    Sunlight: 0.8419792056083679
+    Flower: 0.8305733799934387
+    Landscape: 0.8032045960426331
+- :image_url: https://live.staticflickr.com/6162/6177755768_2af5d5abdd_b.jpg
+  :description: TBD OK
+  :labels:
+    Twig: 0.8757387399673462
+    Natural landscape: 0.8716114163398743
+    Trunk: 0.8584383726119995
+    Tree: 0.8473009467124939
+    Deciduous: 0.7848854660987854
+    Plant: 0.7819094061851501
+    Tints and shades: 0.7737756967544556
+    Sky: 0.7607147097587585
+    Monochrome photography: 0.7229517698287964
+    Monochrome: 0.7121456265449524
