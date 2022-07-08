@@ -12590,3 +12590,120 @@ items:
     Natural landscape: 0.8382443785667419
     Grass: 0.8023813962936401
     Tree: 0.8019778728485107
+- :image_url: https://live.staticflickr.com/65535/49737196821_f6d3b0e971_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9788891077041626
+    Plant: 0.9520688652992249
+    Petal: 0.8921078443527222
+    Botany: 0.8729103207588196
+    Vegetation: 0.847158670425415
+    Shrub: 0.7950403094291687
+    Groundcover: 0.7910383939743042
+    Flowering plant: 0.7554432153701782
+    Annual plant: 0.7325318455696106
+    Rose family: 0.7229224443435669
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9235806465148926
+    Plant: 0.8558965921401978
+    Flower: 0.848213791847229
+    Terrestrial plant: 0.8313500285148621
+    Twig: 0.8059811592102051
+    Evergreen: 0.8010317087173462
+    Tree: 0.7758137583732605
+    Flowering plant: 0.7354623079299927
+    Fruit: 0.729738175868988
+    Conifer: 0.6632776856422424
+- :image_url: https://live.staticflickr.com/65535/48548994076_c8bb9e3f9c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9696887731552124
+    Plant: 0.968336820602417
+    Sky: 0.9626594185829163
+    Cloud: 0.9189839363098145
+    Fruit: 0.8628276586532593
+    Tree: 0.832318127155304
+    Natural landscape: 0.7941824793815613
+    Grass: 0.78532475233078
+    Shrub: 0.7758855223655701
+    Fruit tree: 0.7591320276260376
+- :image_url: https://live.staticflickr.com/65535/51842129379_20c80621db_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9747684597969055
+    Plant: 0.947502076625824
+    Leaf: 0.9018099308013916
+    Branch: 0.8785020709037781
+    Twig: 0.8295629620552063
+    Tree: 0.8066933155059814
+    Flowering plant: 0.79050213098526
+    Fruit: 0.7579421997070312
+    Fruit tree: 0.6968812942504883
+    Buckthorn family: 0.5261467695236206
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9235806465148926
+    Plant: 0.8558965921401978
+    Flower: 0.848213791847229
+    Terrestrial plant: 0.8313500285148621
+    Twig: 0.8059811592102051
+    Evergreen: 0.8010317087173462
+    Tree: 0.7758137583732605
+    Flowering plant: 0.7354623079299927
+    Fruit: 0.729738175868988
+    Conifer: 0.6632776856422424
+- :image_url: https://live.staticflickr.com/65535/51808226302_bcbe141863_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9673313498497009
+    Sky: 0.9658050537109375
+    Natural landscape: 0.8983424305915833
+    Leaf: 0.8972665071487427
+    Natural environment: 0.8908360600471497
+    Cloud: 0.8901492953300476
+    Botany: 0.8790689706802368
+    Branch: 0.870675802230835
+    Water: 0.8706485629081726
+    Fence: 0.8690295815467834
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9732196927070618
+    Plant: 0.957913875579834
+    Petal: 0.8904391527175903
+    Terrestrial plant: 0.8645676970481873
+    Grass: 0.8165258765220642
+    Evergreen: 0.8135826587677002
+    Groundcover: 0.7908909916877747
+    Shrub: 0.7532666921615601
+    Flowering plant: 0.7456610798835754
+    Annual plant: 0.7225466966629028
+- :image_url: https://live.staticflickr.com/3924/15030364488_3af7ea8bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9455747604370117
+    Plant community: 0.9366910457611084
+    Natural environment: 0.8893859386444092
+    Flower: 0.8854315280914307
+    Natural landscape: 0.8814545273780823
+    Twig: 0.8031603097915649
+    Grass: 0.8018144369125366
+    Groundcover: 0.7913079857826233
+    Grassland: 0.7742241621017456
+    Tree: 0.7681201696395874
+- :image_url: https://live.staticflickr.com/2341/2275046430_a7cc989af6_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9582111239433289
+    Twig: 0.8911253213882446
+    Natural landscape: 0.8839014172554016
+    Trunk: 0.8519326448440552
+    Plant: 0.8388634324073792
+    Tree: 0.8212670087814331
+    Wood: 0.7995075583457947
+    Deciduous: 0.7901106476783752
+    Tints and shades: 0.7732660174369812
+    People in nature: 0.7699353098869324
