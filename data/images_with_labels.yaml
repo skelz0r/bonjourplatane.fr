@@ -12707,3 +12707,16 @@ items:
     Deciduous: 0.7901106476783752
     Tints and shades: 0.7732660174369812
     People in nature: 0.7699353098869324
+- :image_url: https://live.staticflickr.com/65535/48124620623_b619ee7ecf_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9681140780448914
+    Plant: 0.8603479862213135
+    Twig: 0.860017716884613
+    Flower: 0.8227476477622986
+    Tree: 0.8160474896430969
+    Shrub: 0.7784976959228516
+    Flowering plant: 0.7558398842811584
+    Natural landscape: 0.7350170612335205
+    Subshrub: 0.6127992272377014
+    Evergreen: 0.6018671989440918
