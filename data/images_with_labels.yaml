@@ -12720,3 +12720,16 @@ items:
     Natural landscape: 0.7350170612335205
     Subshrub: 0.6127992272377014
     Evergreen: 0.6018671989440918
+- :image_url: https://live.staticflickr.com/7028/14016836303_de9afe2077_b.jpg
+  :description: TBD OK
+  :labels:
+    Leaf: 0.8981344103813171
+    Twig: 0.8824869394302368
+    Branch: 0.8791773319244385
+    Terrestrial plant: 0.8690450191497803
+    Trunk: 0.8505530953407288
+    Biome: 0.8251494765281677
+    Tree: 0.8104069828987122
+    Woody plant: 0.8060755729675293
+    Flowering plant: 0.7347975969314575
+    Fruit tree: 0.7267481684684753
