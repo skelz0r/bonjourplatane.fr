@@ -12733,3 +12733,16 @@ items:
     Woody plant: 0.8060755729675293
     Flowering plant: 0.7347975969314575
     Fruit tree: 0.7267481684684753
+- :image_url: https://live.staticflickr.com/65535/48993913193_e1ff53ed4a_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9717601537704468
+    Sky: 0.9596936106681824
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8837507963180542
+    Afterglow: 0.8806611895561218
+    Orange: 0.8611158728599548
+    Twig: 0.8603354096412659
+    Red sky at morning: 0.8432778120040894
+    Amber: 0.8415555953979492
+    Tree: 0.8379381895065308
