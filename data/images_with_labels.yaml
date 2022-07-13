@@ -12746,3 +12746,16 @@ items:
     Red sky at morning: 0.8432778120040894
     Amber: 0.8415555953979492
     Tree: 0.8379381895065308
+- :image_url: https://live.staticflickr.com/65535/49528881498_4f510e3a88_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9813719391822815
+    Sky: 0.9772240519523621
+    Atmosphere: 0.9481807947158813
+    Plant: 0.9467160701751709
+    Blue: 0.8956077694892883
+    Azure: 0.8947479724884033
+    Tree: 0.8945465087890625
+    Branch: 0.8873226046562195
+    Natural landscape: 0.8749480247497559
+    Twig: 0.8572242856025696
