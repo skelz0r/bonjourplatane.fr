@@ -12772,3 +12772,16 @@ items:
     Wood: 0.8887425661087036
     Branch: 0.8776942491531372
     Twig: 0.8746512532234192
+- :image_url: https://live.staticflickr.com/1591/24644817161_03fa8dccab_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9685678482055664
+    Atmosphere: 0.9481807947158813
+    World: 0.9136718511581421
+    Plant: 0.9074867367744446
+    Leaf: 0.9013922810554504
+    Black: 0.895480751991272
+    Natural landscape: 0.8949621319770813
+    Natural environment: 0.8885515332221985
+    Twig: 0.8817001581192017
+    Cloud: 0.8788871169090271
