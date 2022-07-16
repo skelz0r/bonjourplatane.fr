@@ -12785,3 +12785,42 @@ items:
     Natural environment: 0.8885515332221985
     Twig: 0.8817001581192017
     Cloud: 0.8788871169090271
+- :image_url: https://live.staticflickr.com/65535/48548994076_c8bb9e3f9c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9696887731552124
+    Plant: 0.968336820602417
+    Sky: 0.9626594185829163
+    Cloud: 0.9189839363098145
+    Fruit: 0.8628276586532593
+    Tree: 0.832318127155304
+    Natural landscape: 0.7941824793815613
+    Grass: 0.78532475233078
+    Shrub: 0.7758855223655701
+    Fruit tree: 0.7591320276260376
+- :image_url: https://live.staticflickr.com/65535/51008134357_3644bf8752_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9268651008605957
+    Petal: 0.8636673092842102
+    Plant: 0.8376723527908325
+    Flowering plant: 0.7670506238937378
+    Rose family: 0.7353940010070801
+    Shrub: 0.7078258991241455
+    Rose order: 0.6752914786338806
+    Peach: 0.611454963684082
+    Rose: 0.6076370477676392
+    Produce: 0.5951960682868958
+- :image_url: https://live.staticflickr.com/5549/13951977099_d60f4d0bcc_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9322436451911926
+    Branch: 0.8822259902954102
+    Twig: 0.8540477156639099
+    Evergreen: 0.823469340801239
+    Food: 0.7927042245864868
+    Terrestrial plant: 0.7562420964241028
+    Natural foods: 0.7199742794036865
+    Fruit: 0.7195655107498169
+    Berry: 0.7111866474151611
+    Flowering plant: 0.6987289190292358
