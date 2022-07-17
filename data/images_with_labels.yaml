@@ -12824,3 +12824,29 @@ items:
     Fruit: 0.7195655107498169
     Berry: 0.7111866474151611
     Flowering plant: 0.6987289190292358
+- :image_url: https://live.staticflickr.com/65535/51762919607_9f58aafe48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9298948645591736
+    Food: 0.9132320284843445
+    Fruit: 0.9066194891929626
+    Leaf: 0.8975631594657898
+    Citrus: 0.8567755818367004
+    Flower: 0.834934413433075
+    Tree: 0.8091562986373901
+    Natural foods: 0.80642169713974
+    Fruit tree: 0.7886473536491394
+    Produce: 0.7853553295135498
+- :image_url: https://live.staticflickr.com/5677/22363036002_88d144e577_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9130302667617798
+    Green: 0.8993316888809204
+    Botany: 0.8983726501464844
+    Fruit: 0.8903695940971375
+    Terrestrial plant: 0.8649585247039795
+    Tree: 0.8623785376548767
+    Evergreen: 0.8014780879020691
+    Grass: 0.7995893955230713
+    Produce: 0.7337244153022766
+    Flowering plant: 0.7266162633895874
