@@ -12850,3 +12850,16 @@ items:
     Grass: 0.7995893955230713
     Produce: 0.7337244153022766
     Flowering plant: 0.7266162633895874
+- :image_url: https://live.staticflickr.com/65535/49572841637_db3bece2b7_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9768913388252258
+    Plant: 0.9419004321098328
+    Petal: 0.9073013067245483
+    Botany: 0.886285126209259
+    Branch: 0.870657205581665
+    Terrestrial plant: 0.8704628944396973
+    Twig: 0.8688815832138062
+    Pink: 0.8401979207992554
+    Flowering plant: 0.7825161814689636
+    Magenta: 0.7549309730529785
