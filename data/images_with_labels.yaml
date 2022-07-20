@@ -12876,3 +12876,29 @@ items:
     Twig: 0.8543369770050049
     Songbird: 0.7605143189430237
     Plant: 0.7267997860908508
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9235806465148926
+    Plant: 0.8558965921401978
+    Flower: 0.848213791847229
+    Terrestrial plant: 0.8313500285148621
+    Twig: 0.8059811592102051
+    Evergreen: 0.8010317087173462
+    Tree: 0.7758137583732605
+    Flowering plant: 0.7354623079299927
+    Fruit: 0.729738175868988
+    Conifer: 0.6632776856422424
+- :image_url: https://live.staticflickr.com/4009/4193501956_58a58cce9b_b.jpg
+  :description: TBD OK
+  :labels:
+    Twig: 0.8807094693183899
+    Snow: 0.8679835796356201
+    Natural landscape: 0.8638092279434204
+    Trunk: 0.8555327653884888
+    Tree: 0.8540706634521484
+    Wood: 0.8421069383621216
+    Grey: 0.8421052694320679
+    Freezing: 0.8129492998123169
+    Deciduous: 0.7641505599021912
+    Forest: 0.7568234801292419
