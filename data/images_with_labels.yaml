@@ -12902,3 +12902,16 @@ items:
     Freezing: 0.8129492998123169
     Deciduous: 0.7641505599021912
     Forest: 0.7568234801292419
+- :image_url: https://live.staticflickr.com/65535/50968583531_0f1c7ff63a_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9679078459739685
+    Flower: 0.9603780508041382
+    Sky: 0.9484584927558899
+    Plant community: 0.931236982345581
+    Tree: 0.8822512626647949
+    Natural landscape: 0.8687039017677307
+    Cloud: 0.8550271391868591
+    Grass: 0.8212378025054932
+    Groundcover: 0.7900905013084412
+    Herbaceous plant: 0.7896966338157654
