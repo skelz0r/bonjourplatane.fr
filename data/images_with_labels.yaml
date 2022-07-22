@@ -12915,3 +12915,16 @@ items:
     Grass: 0.8212378025054932
     Groundcover: 0.7900905013084412
     Herbaceous plant: 0.7896966338157654
+- :image_url: https://live.staticflickr.com/130/415437989_ce9c16cf3e_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9807248711585999
+    Sky: 0.966774046421051
+    Plant: 0.9635425209999084
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8959892392158508
+    Leaf: 0.894409716129303
+    Natural environment: 0.8901350498199463
+    Twig: 0.8865877985954285
+    Branch: 0.8846659064292908
+    Tree: 0.8794169425964355
