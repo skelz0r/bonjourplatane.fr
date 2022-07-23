@@ -12928,3 +12928,16 @@ items:
     Twig: 0.8865877985954285
     Branch: 0.8846659064292908
     Tree: 0.8794169425964355
+- :image_url: https://live.staticflickr.com/65535/51522284881_32d6282287_b.jpg
+  :description: TBD OK
+  :labels:
+    Twig: 0.8588786721229553
+    Terrestrial plant: 0.8160255551338196
+    Evergreen: 0.8108392953872681
+    Bird: 0.7522600293159485
+    Groundcover: 0.7473652362823486
+    Grass: 0.6892852187156677
+    Fruit tree: 0.6882016658782959
+    Tree: 0.6811720132827759
+    Trunk: 0.6701617240905762
+    Forest: 0.6653462052345276
