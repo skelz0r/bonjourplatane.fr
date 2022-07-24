@@ -12941,3 +12941,16 @@ items:
     Tree: 0.6811720132827759
     Trunk: 0.6701617240905762
     Forest: 0.6653462052345276
+- :image_url: https://live.staticflickr.com/65535/48675685496_82994fe817_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9699267148971558
+    Plant: 0.9696049690246582
+    Natural landscape: 0.8696762919425964
+    Outdoor bench: 0.8646359443664551
+    Tree: 0.863107442855835
+    Land lot: 0.8511070609092712
+    Grass: 0.830140233039856
+    Biome: 0.8259903788566589
+    Deciduous: 0.7925776839256287
+    Cloud: 0.7878907918930054
