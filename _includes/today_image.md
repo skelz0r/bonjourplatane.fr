@@ -1,3 +1,3 @@
-![Elise](/images/2022-07-25.jpg)
+![Margot](/images/2022-07-26.jpg)
 
-Crédits: [Thomas Loire](https://www.flickr.com/people/thomasloire/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr

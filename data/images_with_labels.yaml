@@ -13071,3 +13071,29 @@ items:
     Terrestrial plant: 0.8555472493171692
     Vegetation: 0.8506264090538025
     Sunlight: 0.8503056168556213
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9781500101089478
+    Water resources: 0.9491226077079773
+    Plant community: 0.9305078983306885
+    Plant: 0.9212726950645447
+    Natural landscape: 0.9055895805358887
+    Fluvial landforms of streams: 0.8963693976402283
+    Leaf: 0.8924326300621033
+    Natural environment: 0.8919334411621094
+    Branch: 0.8805990219116211
+    Vegetation: 0.8587437272071838
+- :image_url: https://live.staticflickr.com/2163/2275044746_bf022a35d9_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.969142735004425
+    Sky: 0.9519937634468079
+    Plant community: 0.9407241344451904
+    Natural landscape: 0.8882070779800415
+    Tree: 0.8864119648933411
+    Branch: 0.8834308385848999
+    Wood: 0.8706866502761841
+    Twig: 0.8699159622192383
+    Trunk: 0.8529393672943115
+    Grass: 0.8228456974029541
