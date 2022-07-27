@@ -1,3 +1,3 @@
-![Margot](/images/2022-07-26.jpg)
+![Ugo](/images/2022-07-27.jpg)
 
-Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
+Crédits: [busylvie](https://www.flickr.com/people/110273693@N04/) on flickr

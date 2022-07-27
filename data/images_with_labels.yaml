@@ -13097,3 +13097,42 @@ items:
     Twig: 0.8699159622192383
     Trunk: 0.8529393672943115
     Grass: 0.8228456974029541
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9235806465148926
+    Plant: 0.8558965921401978
+    Flower: 0.848213791847229
+    Terrestrial plant: 0.8313500285148621
+    Twig: 0.8059811592102051
+    Evergreen: 0.8010317087173462
+    Tree: 0.7758137583732605
+    Flowering plant: 0.7354623079299927
+    Fruit: 0.729738175868988
+    Conifer: 0.6632776856422424
+- :image_url: https://live.staticflickr.com/65535/50269155913_f478e857ce_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.878168523311615
+    Food: 0.872083842754364
+    Woody plant: 0.8117275834083557
+    Petal: 0.7635132074356079
+    Flowering plant: 0.7618793845176697
+    Flower: 0.7487653493881226
+    Rose family: 0.7326636910438538
+    Produce: 0.7207556962966919
+    Fruit: 0.7105828523635864
+    Fruit tree: 0.6928234100341797
+- :image_url: https://live.staticflickr.com/7302/26983652855_2263ed7c1b_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9690425992012024
+    Plant: 0.961541473865509
+    Cloud: 0.9454367160797119
+    Plant community: 0.9327419996261597
+    Natural landscape: 0.8855974674224854
+    Tree: 0.8679195046424866
+    Highland: 0.8647658824920654
+    Grass: 0.8238911628723145
+    Plain: 0.7989798784255981
+    Agriculture: 0.795710027217865
