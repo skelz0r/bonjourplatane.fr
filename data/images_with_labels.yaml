@@ -13136,3 +13136,16 @@ items:
     Grass: 0.8238911628723145
     Plain: 0.7989798784255981
     Agriculture: 0.795710027217865
+- :image_url: https://live.staticflickr.com/65535/49088567601_6dc1d98ee1_b.jpg
+  :description: TBD OK
+  :labels:
+    Snow: 0.9352394938468933
+    Plant: 0.9052951335906982
+    Twig: 0.8875402212142944
+    Botany: 0.8857541084289551
+    Wood: 0.8774213790893555
+    Natural landscape: 0.8736953735351562
+    Trunk: 0.8581348061561584
+    Vegetation: 0.8466734290122986
+    Tree: 0.8236804604530334
+    Atmospheric phenomenon: 0.8166412115097046
