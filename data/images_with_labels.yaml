@@ -13149,3 +13149,16 @@ items:
     Vegetation: 0.8466734290122986
     Tree: 0.8236804604530334
     Atmospheric phenomenon: 0.8166412115097046
+- :image_url: https://live.staticflickr.com/3053/3034778910_d8977b9a23_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.96318519115448
+    Natural environment: 0.891710102558136
+    Twig: 0.8776743412017822
+    Branch: 0.8702320456504822
+    Natural landscape: 0.8677747845649719
+    Trunk: 0.847632110118866
+    Atmospheric phenomenon: 0.8235493302345276
+    Biome: 0.8222982883453369
+    Tree: 0.7868810296058655
+    Wood: 0.7806429266929626
