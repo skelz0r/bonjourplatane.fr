@@ -1,3 +1,3 @@
-![Rémi](/images/2022-07-29.jpg)
+![Celestine](/images/2022-07-30.jpg)
 
-Crédits: [issartel](https://www.flickr.com/people/issartel/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

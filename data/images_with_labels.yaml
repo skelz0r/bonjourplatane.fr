@@ -13162,3 +13162,16 @@ items:
     Biome: 0.8222982883453369
     Tree: 0.7868810296058655
     Wood: 0.7806429266929626
+- :image_url: https://live.staticflickr.com/65535/48709892941_6d60bee4b7_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9476137161254883
+    Ecoregion: 0.9221498966217041
+    Sky: 0.9037523865699768
+    Wood: 0.8783066868782043
+    Twig: 0.8766428828239441
+    Trunk: 0.8669507503509521
+    Terrestrial plant: 0.8453622460365295
+    Tree: 0.8431848287582397
+    Natural landscape: 0.8298051357269287
+    Forest: 0.7379845976829529
