@@ -13175,3 +13175,29 @@ items:
     Tree: 0.8431848287582397
     Natural landscape: 0.8298051357269287
     Forest: 0.7379845976829529
+- :image_url: https://live.staticflickr.com/636/22279065116_ecf0b46762_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9804505109786987
+    Sky: 0.9749486446380615
+    Water: 0.9747282862663269
+    Daytime: 0.9450543522834778
+    Blue: 0.922447919845581
+    Natural landscape: 0.9018650054931641
+    Azure: 0.8950635194778442
+    Natural environment: 0.891178548336029
+    Branch: 0.8857976198196411
+    Wood: 0.8694175481796265
+- :image_url: https://live.staticflickr.com/7294/8741930434_8fd8cdcd78_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9449819922447205
+    Plant: 0.9094218611717224
+    Natural landscape: 0.879204511642456
+    Wood: 0.8638092875480652
+    Trunk: 0.8547465801239014
+    Fluvial landforms of streams: 0.852994441986084
+    Sunlight: 0.8442335724830627
+    Twig: 0.8375204801559448
+    Grass: 0.8336117267608643
+    Watercourse: 0.828845202922821
