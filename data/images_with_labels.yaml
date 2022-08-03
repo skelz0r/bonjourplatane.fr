@@ -13344,3 +13344,29 @@ items:
     Vegetation: 0.8525449633598328
     Land lot: 0.8499614596366882
     Trunk: 0.8495937585830688
+- :image_url: https://live.staticflickr.com/7141/6623911045_26718a294a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762795567512512
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9454827308654785
+    Sky: 0.9248154163360596
+    Light: 0.9104852676391602
+    World: 0.9101152420043945
+    Plant: 0.9073802828788757
+    Nature: 0.8993252515792847
+    People in nature: 0.8979979157447815
+    Leaf: 0.8935760259628296
+- :image_url: https://live.staticflickr.com/65535/51142730270_13a12647dd_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9707170128822327
+    Flower: 0.9608710408210754
+    Cloud: 0.9359052777290344
+    Plant: 0.911118745803833
+    Branch: 0.8714841604232788
+    Twig: 0.8706989884376526
+    Natural landscape: 0.8475589752197266
+    Tree: 0.8187742233276367
+    Deciduous: 0.7850650548934937
+    Trunk: 0.77895188331604
