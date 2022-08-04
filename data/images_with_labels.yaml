@@ -13370,3 +13370,29 @@ items:
     Tree: 0.8187742233276367
     Deciduous: 0.7850650548934937
     Trunk: 0.77895188331604
+- :image_url: https://live.staticflickr.com/3872/15400080261_c715ec66c5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9447671175003052
+    Flower: 0.9434551000595093
+    Terrestrial plant: 0.8491322994232178
+    Pest: 0.7807762026786804
+    Nut: 0.7724730372428894
+    Flowering plant: 0.7632386088371277
+    Twig: 0.7264942526817322
+    Fruit tree: 0.7113492488861084
+    Tree: 0.6996873021125793
+    Parasite: 0.6680960655212402
+- :image_url: https://live.staticflickr.com/3062/3080388345_89911db046_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9672134518623352
+    Snow: 0.9329816102981567
+    Natural landscape: 0.8923381567001343
+    Branch: 0.8862711191177368
+    Twig: 0.8817238211631775
+    Wood: 0.8563552498817444
+    Grey: 0.8406369686126709
+    Tree: 0.8321006894111633
+    Atmospheric phenomenon: 0.8225702047348022
+    Freezing: 0.8175643682479858
