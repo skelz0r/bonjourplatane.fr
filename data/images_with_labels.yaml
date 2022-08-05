@@ -13396,3 +13396,16 @@ items:
     Tree: 0.8321006894111633
     Atmospheric phenomenon: 0.8225702047348022
     Freezing: 0.8175643682479858
+- :image_url: https://live.staticflickr.com/5509/9312929398_57373e5081_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9524380564689636
+    Sky: 0.917506992816925
+    Natural landscape: 0.8803600072860718
+    Wood: 0.8676204681396484
+    Tree: 0.8580291867256165
+    Trunk: 0.8546391725540161
+    Terrestrial plant: 0.8454599380493164
+    Woody plant: 0.8037182688713074
+    Landscape: 0.7761452198028564
+    Grass: 0.7732244729995728
