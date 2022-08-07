@@ -1,3 +1,3 @@
-![Eliot](/images/2022-08-06.jpg)
+![Séléna](/images/2022-08-07.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [DocChewbacca](https://www.flickr.com/people/st3f4n/) on flickr
