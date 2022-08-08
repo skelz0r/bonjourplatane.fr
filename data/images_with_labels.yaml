@@ -13526,3 +13526,42 @@ items:
     Terrestrial plant: 0.8705073595046997
     Trunk: 0.8527450561523438
     Tree: 0.8493641018867493
+- :image_url: https://live.staticflickr.com/7141/6623911045_26718a294a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762795567512512
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9454827308654785
+    Sky: 0.9248154163360596
+    Light: 0.9104852676391602
+    World: 0.9101152420043945
+    Plant: 0.9073802828788757
+    Nature: 0.8993252515792847
+    People in nature: 0.8979979157447815
+    Leaf: 0.8935760259628296
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330518245697021
+    Flower: 0.8606212735176086
+    Terrestrial plant: 0.8280301690101624
+    Tree: 0.8187734484672546
+    Twig: 0.8134653568267822
+    Flowering plant: 0.7293251752853394
+    Wood: 0.6887960433959961
+    Plant pathology: 0.6789780259132385
+    Grass: 0.6326248049736023
+    Rose order: 0.6216371655464172
+- :image_url: https://live.staticflickr.com/2798/4192711513_f0c9940d3c_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9371039271354675
+    Snow: 0.889937162399292
+    Tree: 0.8895103335380554
+    Natural landscape: 0.8863623738288879
+    Wood: 0.8814730048179626
+    Twig: 0.8733626008033752
+    Branch: 0.8725930452346802
+    Trunk: 0.8435091376304626
+    Black-and-white: 0.8237684965133667
+    Atmospheric phenomenon: 0.8215910792350769
