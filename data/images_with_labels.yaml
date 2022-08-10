@@ -13604,3 +13604,55 @@ items:
     Twig: 0.8605565428733826
     Vegetation: 0.8552968502044678
     Wood: 0.8440436124801636
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.961933434009552
+    Flowerpot: 0.9358606934547424
+    Houseplant: 0.9204885363578796
+    Citrus: 0.8789398670196533
+    Rangpur: 0.80999755859375
+    Vegetable: 0.8018379211425781
+    Flowering plant: 0.7748602628707886
+    Fruit: 0.747105598449707
+    Produce: 0.743791401386261
+    Local food: 0.7390131950378418
+- :image_url: https://live.staticflickr.com/65535/49313660753_48fa9dbf5b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9728648662567139
+    Plant: 0.9667022228240967
+    Plant community: 0.93630051612854
+    Botany: 0.87701416015625
+    Branch: 0.8733955025672913
+    Natural landscape: 0.8712697625160217
+    Vegetation: 0.8484799265861511
+    Tree: 0.8369448781013489
+    Grass: 0.8354163765907288
+    Woody plant: 0.8024874925613403
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9781500101089478
+    Water resources: 0.9491226077079773
+    Plant community: 0.9305078983306885
+    Plant: 0.9212726950645447
+    Natural landscape: 0.9055895805358887
+    Fluvial landforms of streams: 0.8963693976402283
+    Leaf: 0.8924326300621033
+    Natural environment: 0.8919334411621094
+    Branch: 0.8805990219116211
+    Vegetation: 0.8587437272071838
+- :image_url: https://live.staticflickr.com/65535/51197756735_1b87752384_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9750332236289978
+    Plant: 0.9748204946517944
+    Botany: 0.8810502886772156
+    Tree: 0.8706576228141785
+    Woody plant: 0.81092768907547
+    Orange: 0.8093936443328857
+    Shrub: 0.7961321473121643
+    Grass: 0.7874825596809387
+    Clementine: 0.7838299870491028
+    Building: 0.7833973169326782
