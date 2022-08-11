@@ -13656,3 +13656,29 @@ items:
     Grass: 0.7874825596809387
     Clementine: 0.7838299870491028
     Building: 0.7833973169326782
+- :image_url: https://live.staticflickr.com/65535/51678740984_4cfd53a54f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9296550154685974
+    Botany: 0.8892016410827637
+    Berry: 0.8445136547088623
+    Terrestrial plant: 0.8323920369148254
+    Produce: 0.7877669334411621
+    Shrub: 0.7658004760742188
+    Flowering plant: 0.759937047958374
+    Seedless fruit: 0.7305232882499695
+    Fruit: 0.7172461152076721
+    Fruit tree: 0.6998060941696167
+- :image_url: https://live.staticflickr.com/65535/48451350542_67ec2e8c7e_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9611056447029114
+    Plant: 0.9579252004623413
+    Natural landscape: 0.8869584798812866
+    Larch: 0.8762084245681763
+    Branch: 0.8754880428314209
+    Tree: 0.8698520660400391
+    Terrestrial plant: 0.8590133786201477
+    Trunk: 0.8361472487449646
+    Evergreen: 0.8263888955116272
+    Woody plant: 0.8022857308387756
