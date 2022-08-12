@@ -13682,3 +13682,29 @@ items:
     Trunk: 0.8361472487449646
     Evergreen: 0.8263888955116272
     Woody plant: 0.8022857308387756
+- :image_url: https://live.staticflickr.com/65535/50572581268_38a8e426e3_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9688779711723328
+    Plant: 0.9498119354248047
+    Terrestrial plant: 0.8564660549163818
+    Twig: 0.8456522226333618
+    Tree: 0.8199416399002075
+    Sky: 0.7936772108078003
+    Flowering plant: 0.7352966070175171
+    Plant stem: 0.5896488428115845
+    Birch family: 0.5516340136528015
+    Broomrape: 0.5268172025680542
+- :image_url: https://live.staticflickr.com/5289/5239133512_68a29a7446_b.jpg
+  :description: TBD OK
+  :labels:
+    Light: 0.9132786393165588
+    Nature: 0.9020128846168518
+    Leaf: 0.89351487159729
+    Branch: 0.8905795216560364
+    Electricity: 0.8669824004173279
+    Building: 0.8601378798484802
+    Tree: 0.8535236120223999
+    Plant: 0.8241269588470459
+    Woody plant: 0.8211748600006104
+    Window: 0.8121169805526733
