@@ -13708,3 +13708,55 @@ items:
     Plant: 0.8241269588470459
     Woody plant: 0.8211748600006104
     Window: 0.8121169805526733
+- :image_url: https://live.staticflickr.com/7142/6736947635_240a2deb64_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.952263593673706
+    Terrestrial plant: 0.8633278608322144
+    Flower: 0.8594242334365845
+    Flowering plant: 0.770972728729248
+    Fruit: 0.7143188118934631
+    Tree: 0.616862952709198
+    Natural foods: 0.6082684397697449
+    Fruit tree: 0.6068601012229919
+    Plant stem: 0.5969681143760681
+    Electric blue: 0.5862889289855957
+- :image_url: https://live.staticflickr.com/65535/49412428363_9e4c3599e5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9685769081115723
+    Plant: 0.9590245485305786
+    Sky: 0.9030742645263672
+    Flowering plant: 0.7434208989143372
+    Electric blue: 0.6673658490180969
+    Twig: 0.6414628624916077
+    Rectangle: 0.5862264633178711
+    Art: 0.5527917742729187
+    Annual plant: 0.5377903580665588
+    Plant stem: 0.5048992037773132
+- :image_url: https://live.staticflickr.com/7141/6623911045_26718a294a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762795567512512
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9454827308654785
+    Sky: 0.9248154163360596
+    Light: 0.9104852676391602
+    World: 0.9101152420043945
+    Plant: 0.9073802828788757
+    Nature: 0.8993252515792847
+    People in nature: 0.8979979157447815
+    Leaf: 0.8935760259628296
+- :image_url: https://live.staticflickr.com/65535/32825577477_308b093fed_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9527208209037781
+    Tree: 0.8608524203300476
+    Twig: 0.7887428402900696
+    Natural landscape: 0.770656943321228
+    Shrub: 0.762393057346344
+    Sky: 0.7396856546401978
+    Evergreen: 0.7337403297424316
+    Grass: 0.7286021113395691
+    Fruit tree: 0.7196333408355713
+    Flowering plant: 0.7137259840965271

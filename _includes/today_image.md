@@ -1,3 +1,3 @@
-![Kaïs](/images/2022-08-12.jpg)
+![Julie](/images/2022-08-13.jpg)
 
-Crédits: [zigazou76](https://www.flickr.com/people/zigazou76/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
