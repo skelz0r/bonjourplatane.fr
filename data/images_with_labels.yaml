@@ -13760,3 +13760,16 @@ items:
     Grass: 0.7286021113395691
     Fruit tree: 0.7196333408355713
     Flowering plant: 0.7137259840965271
+- :image_url: https://live.staticflickr.com/65535/51849153123_27eeb8a614_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9818068146705627
+    Sky: 0.9692832827568054
+    Atmosphere: 0.9481807947158813
+    Leaf: 0.900081217288971
+    Azure: 0.8940287232398987
+    World: 0.8884559273719788
+    Natural landscape: 0.8748825192451477
+    Twig: 0.8708592653274536
+    Branch: 0.8690650463104248
+    Tree: 0.8475662469863892
