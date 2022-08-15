@@ -13773,3 +13773,29 @@ items:
     Twig: 0.8708592653274536
     Branch: 0.8690650463104248
     Tree: 0.8475662469863892
+- :image_url: https://live.staticflickr.com/65535/40752667473_9feab16a44_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9213252663612366
+    Fruit: 0.8972522020339966
+    Botany: 0.8971077799797058
+    Branch: 0.8729521036148071
+    Twig: 0.8465093374252319
+    Berry: 0.814861536026001
+    Woody plant: 0.8065178990364075
+    Fruit tree: 0.7780019640922546
+    Flowering plant: 0.7496218681335449
+    Produce: 0.7458865642547607
+- :image_url: https://live.staticflickr.com/459/31413017423_b14a1a15a9_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9623672962188721
+    Plant: 0.9287692308425903
+    Natural landscape: 0.8679506778717041
+    Tree: 0.8528760671615601
+    Atmospheric phenomenon: 0.846339225769043
+    Twig: 0.8274970650672913
+    Freezing: 0.8086900115013123
+    Woody plant: 0.8032127022743225
+    Smoke: 0.7864270806312561
+    Wood: 0.7823434472084045
