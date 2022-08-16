@@ -13799,3 +13799,29 @@ items:
     Woody plant: 0.8032127022743225
     Smoke: 0.7864270806312561
     Wood: 0.7823434472084045
+- :image_url: https://live.staticflickr.com/1936/44936369274_eeeb14d959_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9824137091636658
+    Plant: 0.9645567536354065
+    Botany: 0.9076079726219177
+    Petal: 0.8911116123199463
+    Terrestrial plant: 0.8584299087524414
+    Red: 0.8198100924491882
+    Water: 0.7873734831809998
+    Flowering plant: 0.7701132297515869
+    Hybrid tea rose: 0.7634502053260803
+    Shrub: 0.7129276394844055
+- :image_url: https://live.staticflickr.com/65535/50595903953_c48526213a_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9493075013160706
+    Cloud: 0.9291083216667175
+    Leaf: 0.8995662331581116
+    Building: 0.878923773765564
+    Branch: 0.8732745051383972
+    Twig: 0.8640733361244202
+    Window: 0.8338184356689453
+    Wood: 0.8168766498565674
+    Wall: 0.816425621509552
+    Woody plant: 0.8140795826911926

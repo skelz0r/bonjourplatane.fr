@@ -1,3 +1,3 @@
-![Héloïse](/images/2022-08-15.jpg)
+![Kelya](/images/2022-08-16.jpg)
 
-Crédits: [J-M Linder](https://www.flickr.com/people/jmverco/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
