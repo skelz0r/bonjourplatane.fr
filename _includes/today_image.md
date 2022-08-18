@@ -1,3 +1,3 @@
-![Enzo](/images/2022-08-17.jpg)
+![Loïc](/images/2022-08-18.jpg)
 
-Crédits: [Thomas Loire](https://www.flickr.com/people/thomasloire/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

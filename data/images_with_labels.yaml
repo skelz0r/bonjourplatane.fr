@@ -13864,3 +13864,94 @@ items:
     Amber: 0.8525571823120117
     Sunlight: 0.8459369540214539
     Tree: 0.8315311670303345
+- :image_url: https://live.staticflickr.com/65535/51825904404_faa3f22fed_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9711090922355652
+    Land vehicle: 0.9603890180587769
+    Car: 0.9491652250289917
+    Plant: 0.9446637630462646
+    Daytime: 0.9442166686058044
+    Cloud: 0.9325598478317261
+    Leaf: 0.8946874737739563
+    Branch: 0.8862882256507874
+    Wheel: 0.8832452297210693
+    Road surface: 0.8712265491485596
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9753431081771851
+    Plant: 0.9326514005661011
+    Petal: 0.8801230788230896
+    Road surface: 0.8637375831604004
+    Organism: 0.853516697883606
+    Vegetation: 0.850816547870636
+    Asphalt: 0.8315654397010803
+    Groundcover: 0.7890903353691101
+    Wood: 0.7847229838371277
+    Grass: 0.7815930247306824
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9790265560150146
+    Sky: 0.9760967493057251
+    Plant: 0.9498072862625122
+    Vegetation: 0.8616194725036621
+    Tree: 0.8416616916656494
+    Flowering plant: 0.785794734954834
+    Terrestrial plant: 0.7556176781654358
+    Shrub: 0.6821670532226562
+    Petal: 0.5918405055999756
+    Palm tree: 0.5813233256340027
+- :image_url: https://live.staticflickr.com/7141/6623911045_26718a294a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9762795567512512
+    Atmosphere: 0.9481807947158813
+    Water resources: 0.9454827308654785
+    Sky: 0.9248154163360596
+    Light: 0.9104852676391602
+    World: 0.9101152420043945
+    Plant: 0.9073802828788757
+    Nature: 0.8993252515792847
+    People in nature: 0.8979979157447815
+    Leaf: 0.8935760259628296
+- :image_url: https://live.staticflickr.com/2694/4355194851_c9f2929ae0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8872315883636475
+    Branch: 0.8698999285697937
+    Natural material: 0.8605251312255859
+    Trunk: 0.8455896973609924
+    Woody plant: 0.80173659324646
+    Grass: 0.8016889691352844
+    Terrestrial plant: 0.7833265662193298
+    Twig: 0.7440874576568604
+    Groundcover: 0.7213746905326843
+    Tree: 0.6868537664413452
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9010980129241943
+    Natural landscape: 0.879830002784729
+    Branch: 0.8741248846054077
+    Tree: 0.8302678465843201
+    Plant: 0.811410129070282
+    Trunk: 0.8036153316497803
+    Deciduous: 0.794918417930603
+    People in nature: 0.7773877382278442
+    Tints and shades: 0.7358005046844482
+    Twig: 0.7346998453140259
+- :image_url: https://live.staticflickr.com/65535/50254218827_83d05cee9e_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9746130704879761
+    Plant: 0.953687846660614
+    Twig: 0.861401379108429
+    Tree: 0.8299992680549622
+    Flowering plant: 0.7516866326332092
+    Deciduous: 0.7051735520362854
+    Temperate broadleaf and mixed forest: 0.6664963364601135
+    Electric blue: 0.6211238503456116
+    Trunk: 0.6115677356719971
+    Plant stem: 0.6092863082885742
