@@ -13955,3 +13955,16 @@ items:
     Electric blue: 0.6211238503456116
     Trunk: 0.6115677356719971
     Plant stem: 0.6092863082885742
+- :image_url: https://live.staticflickr.com/46/147009729_b9e2173d53_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9677489399909973
+    Plant: 0.9665747880935669
+    Cloud: 0.9499005079269409
+    Tree: 0.8838770389556885
+    Natural landscape: 0.8803298473358154
+    Twig: 0.8693157434463501
+    Trunk: 0.8656665086746216
+    Wood: 0.8481023907661438
+    Grass: 0.8280723690986633
+    Deciduous: 0.8050474524497986
