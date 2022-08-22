@@ -14079,3 +14079,42 @@ items:
     Deciduous: 0.7793353199958801
     Forest: 0.7381323575973511
     Twig: 0.7136868238449097
+- :image_url: https://live.staticflickr.com/3109/2685401401_965d030e65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9817191958427429
+    Sky: 0.9634793996810913
+    Natural landscape: 0.8676424622535706
+    Branch: 0.8674521446228027
+    Tree: 0.836557149887085
+    Woody plant: 0.80314701795578
+    Cumulus: 0.7938458919525146
+    Shrub: 0.7687789797782898
+    Landscape: 0.7509056329727173
+    Horizon: 0.7485467195510864
+- :image_url: https://live.staticflickr.com/3109/2685401401_965d030e65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9817191958427429
+    Sky: 0.9634793996810913
+    Natural landscape: 0.8676424622535706
+    Branch: 0.8674521446228027
+    Tree: 0.836557149887085
+    Woody plant: 0.80314701795578
+    Cumulus: 0.7938458919525146
+    Shrub: 0.7687789797782898
+    Landscape: 0.7509056329727173
+    Horizon: 0.7485467195510864
+- :image_url: https://live.staticflickr.com/65535/52197244648_8c49c81feb_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9768233895301819
+    Plant: 0.9238030314445496
+    Twig: 0.8788084983825684
+    Petal: 0.847783625125885
+    Flowering plant: 0.7762805819511414
+    Blossom: 0.7525843381881714
+    Tree: 0.6395372748374939
+    Subshrub: 0.6349614262580872
+    Malus: 0.6281117796897888
+    Cherry blossom: 0.6178892850875854
