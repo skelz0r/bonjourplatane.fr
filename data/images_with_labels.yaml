@@ -14118,3 +14118,16 @@ items:
     Subshrub: 0.6349614262580872
     Malus: 0.6281117796897888
     Cherry blossom: 0.6178892850875854
+- :image_url: https://live.staticflickr.com/65535/50812123338_44b59844bf_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9550334215164185
+    Plant community: 0.9302548766136169
+    Tree: 0.8811200857162476
+    Natural landscape: 0.8663440942764282
+    Sky: 0.8588289618492126
+    Land lot: 0.840819239616394
+    Twig: 0.8019183278083801
+    Grass: 0.7935329079627991
+    Terrestrial plant: 0.7904702425003052
+    Shrub: 0.7776718735694885
