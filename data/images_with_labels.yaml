@@ -14131,3 +14131,16 @@ items:
     Grass: 0.7935329079627991
     Terrestrial plant: 0.7904702425003052
     Shrub: 0.7776718735694885
+- :image_url: https://live.staticflickr.com/8492/8314670778_eef14ff2ca_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9461516737937927
+    Wood: 0.8851998448371887
+    Branch: 0.8793582916259766
+    Trunk: 0.8616431355476379
+    Organism: 0.8520715832710266
+    Tree: 0.8143750429153442
+    Woody plant: 0.8066051006317139
+    Formation: 0.781614363193512
+    Tints and shades: 0.7713607549667358
+    Landscape: 0.7635921835899353

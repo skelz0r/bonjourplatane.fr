@@ -1,3 +1,3 @@
-![Emeline](/images/2022-08-23.jpg)
+![Anaëlle](/images/2022-08-24.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [Maryse Algoet](https://www.flickr.com/people/albacalp/) on flickr
