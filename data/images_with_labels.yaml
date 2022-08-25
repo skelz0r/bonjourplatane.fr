@@ -14144,3 +14144,62 @@ items:
     Formation: 0.781614363193512
     Tints and shades: 0.7713607549667358
     Landscape: 0.7635921835899353
+- :image_url: https://live.staticflickr.com/65535/52037827745_89a43dfddc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.968491792678833
+    Sky: 0.9682379961013794
+    Property: 0.9424816966056824
+    Plant community: 0.9361598491668701
+    Ecoregion: 0.9232358932495117
+    Mountain: 0.9202784299850464
+    Natural landscape: 0.8778396844863892
+    Sunlight: 0.8419792056083679
+    Flower: 0.8305733799934387
+    Landscape: 0.8032045960426331
+- :image_url: https://live.staticflickr.com/65535/49893977476_749c2589c0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Terrestrial plant: 0.8409970998764038
+    Natural foods: 0.8111168146133423
+    Flowering plant: 0.7162655591964722
+    Plant: 0.5655560493469238
+- :image_url: https://live.staticflickr.com/263/31866112533_47319c78a0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9800900220870972
+    Sky: 0.9724412560462952
+    Plant: 0.9547861814498901
+    Road surface: 0.8831080198287964
+    Asphalt: 0.8676926493644714
+    Natural landscape: 0.8575776219367981
+    Street light: 0.8385871648788452
+    Tree: 0.8295596241950989
+    Thoroughfare: 0.8087059855461121
+    Woody plant: 0.8065860271453857
+- :image_url: https://live.staticflickr.com/65535/48807013652_8499b7359c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.953893780708313
+    Flower: 0.8584475517272949
+    Natural landscape: 0.8433365225791931
+    Tree: 0.831545889377594
+    Sky: 0.8295816779136658
+    Groundcover: 0.7911483645439148
+    Grass: 0.7592616677284241
+    Flowering plant: 0.7474836707115173
+    Shrub: 0.7425404191017151
+    Subshrub: 0.6923811435699463
+- :image_url: https://live.staticflickr.com/65535/48651487402_1ba2b8ea06_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9763356447219849
+    Plant: 0.9734058976173401
+    Sky: 0.9679484963417053
+    Larch: 0.8793935179710388
+    Branch: 0.8783915042877197
+    Twig: 0.8725347518920898
+    Tree: 0.8696033358573914
+    Fence: 0.8539294600486755
+    Land lot: 0.8458724617958069
+    Trunk: 0.8387040495872498
