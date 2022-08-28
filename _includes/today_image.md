@@ -1,3 +1,3 @@
-![Maëva](/images/2022-08-26.jpg)
+![Lucy](/images/2022-08-28.jpg)
 
-Crédits: [oletourn](https://www.flickr.com/people/lreivilo/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

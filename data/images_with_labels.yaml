@@ -14333,3 +14333,28 @@ items:
     Branch: 0.868297278881073
     Wood: 0.8638908267021179
     Vegetation: 0.8485073447227478
+- :image_url: https://live.staticflickr.com/65535/51530310488_09389bd04c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9624378085136414
+    Branch: 0.8841819167137146
+    Vegetation: 0.8581146001815796
+    Twig: 0.8182216286659241
+    Terrestrial plant: 0.746452271938324
+    Flowering plant: 0.7315918803215027
+    Electric blue: 0.6547930240631104
+    Tree: 0.621364951133728
+    Plant stem: 0.5774171948432922
+- :image_url: https://live.staticflickr.com/65535/48807011012_39a569c4da_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9586232304573059
+    Flower: 0.9042991399765015
+    Fruit: 0.8978857398033142
+    Tree: 0.8618248701095581
+    Twig: 0.8606252670288086
+    Berry: 0.8291977643966675
+    Rose: 0.7718380689620972
+    Flowering plant: 0.7578521370887756
+    Produce: 0.746195912361145
+    Fruit tree: 0.7430607676506042
