@@ -14371,3 +14371,16 @@ items:
     Grass: 0.8198819756507874
     Tree: 0.8130545616149902
     Blossom: 0.7661925554275513
+- :image_url: https://live.staticflickr.com/65535/51727970490_ed331d44da_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.979350745677948
+    Sky: 0.9715672135353088
+    Plant: 0.9660362005233765
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9217109680175781
+    Natural landscape: 0.9063569903373718
+    Nature: 0.9012218117713928
+    Leaf: 0.8996978402137756
+    Tree: 0.8971716165542603
+    Branch: 0.8950322866439819
