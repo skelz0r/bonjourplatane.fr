@@ -14384,3 +14384,224 @@ items:
     Leaf: 0.8996978402137756
     Tree: 0.8971716165542603
     Branch: 0.8950322866439819
+- :image_url: https://live.staticflickr.com/65535/49528877778_04976c7116_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9809480309486389
+    Sky: 0.9702049493789673
+    Plant: 0.9578583240509033
+    Natural landscape: 0.8793352842330933
+    Grass: 0.8106864094734192
+    Twig: 0.8009875416755676
+    Tree: 0.789963960647583
+    Plain: 0.7881115078926086
+    Cumulus: 0.7816689014434814
+    Landscape: 0.7748842835426331
+- :image_url: https://live.staticflickr.com/65535/49737196821_f6d3b0e971_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9772957563400269
+    Plant: 0.9498826265335083
+    Petal: 0.8898845314979553
+    Groundcover: 0.7909056544303894
+    Shrub: 0.785429060459137
+    Flowering plant: 0.7541405558586121
+    Annual plant: 0.7263613939285278
+    Rose family: 0.7127846479415894
+    Subshrub: 0.6636344194412231
+    Herbaceous plant: 0.6505103707313538
+- :image_url: https://live.staticflickr.com/65535/50178910651_6901dcdef0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765110611915588
+    Plant: 0.9578174948692322
+    Tree: 0.8154597282409668
+    Shrub: 0.7873172760009766
+    Terrestrial plant: 0.7870863676071167
+    Groundcover: 0.7868520617485046
+    Flowering plant: 0.7842367887496948
+    Grass: 0.735809862613678
+    Subshrub: 0.7064921855926514
+    Wildflower: 0.6784175634384155
+- :image_url: https://live.staticflickr.com/65535/49349385402_983aa70f98_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9632306694984436
+    Cat: 0.9555145502090454
+    Carnivore: 0.838996171951294
+    Tree: 0.8303735256195068
+    Grass: 0.8250441551208496
+    Wood: 0.8218268156051636
+    Whiskers: 0.8188344836235046
+    Fawn: 0.8150439858436584
+    Small to medium-sized cats: 0.8058408498764038
+    Trunk: 0.7973348498344421
+- :image_url: https://live.staticflickr.com/65535/50572581268_38a8e426e3_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9648767709732056
+    Plant: 0.9476132988929749
+    Terrestrial plant: 0.8568750619888306
+    Twig: 0.8319018483161926
+    Tree: 0.8123893737792969
+    Sky: 0.777344822883606
+    Flowering plant: 0.7368293404579163
+    Plant stem: 0.5868911147117615
+    Birch family: 0.5468628406524658
+    Broomrape: 0.527498185634613
+- :image_url: https://live.staticflickr.com/65535/51008134357_3644bf8752_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.909221887588501
+    Petal: 0.8505806922912598
+    Plant: 0.8060063719749451
+    Flowering plant: 0.7607264518737793
+    Rose family: 0.7219535112380981
+    Rose order: 0.6640810966491699
+    Shrub: 0.6495813131332397
+    Peach: 0.6054852604866028
+    Rose: 0.6014689803123474
+    Produce: 0.5866415500640869
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.8941112160682678
+    Natural landscape: 0.8823378682136536
+    Branch: 0.8740243315696716
+    Tree: 0.8172428607940674
+    Trunk: 0.7849283218383789
+    Deciduous: 0.7794265151023865
+    Plant: 0.7627898454666138
+    Tints and shades: 0.7289252281188965
+    People in nature: 0.7220815420150757
+    Terrestrial plant: 0.7195592522621155
+- :image_url: https://live.staticflickr.com/65535/47055883214_a0ab875a48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.979870080947876
+    Plant: 0.9592688083648682
+    Leaf: 0.8973545432090759
+    Botany: 0.8941346406936646
+    Terrestrial plant: 0.817615807056427
+    Tree: 0.8005346655845642
+    Flowering plant: 0.7666540741920471
+    Silk tree: 0.7375551462173462
+    Myrtle family: 0.6459218263626099
+    Shrub: 0.6327707171440125
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9777316451072693
+    Water resources: 0.9479654431343079
+    Plant: 0.9180870652198792
+    Natural landscape: 0.9049686789512634
+    Leaf: 0.892190158367157
+    Natural environment: 0.8899593353271484
+    Fluvial landforms of streams: 0.8884572982788086
+    Branch: 0.8720207810401917
+    Vegetation: 0.8566482067108154
+    Sunlight: 0.8500645160675049
+- :image_url: https://live.staticflickr.com/65535/52197491774_d085e9a618_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9632723331451416
+    Plant: 0.9301372766494751
+    Petal: 0.8895270228385925
+    Twig: 0.8207780122756958
+    Flowering plant: 0.7558044791221619
+    Terrestrial plant: 0.724584698677063
+    Rose family: 0.699191689491272
+    Blossom: 0.6777981519699097
+    Rose order: 0.6474934816360474
+    Subshrub: 0.6213056445121765
+- :image_url: https://live.staticflickr.com/65535/51678740984_4cfd53a54f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9252958297729492
+    Botany: 0.8713744282722473
+    Terrestrial plant: 0.8284363746643066
+    Berry: 0.82335364818573
+    Produce: 0.7724947333335876
+    Shrub: 0.7583581805229187
+    Flowering plant: 0.7579534649848938
+    Seedless fruit: 0.7083096504211426
+    Fruit: 0.6754500865936279
+    Fruit tree: 0.6579479575157166
+- :image_url: https://live.staticflickr.com/3109/2685401401_965d030e65_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9802958369255066
+    Sky: 0.9609794616699219
+    Branch: 0.8675841093063354
+    Natural landscape: 0.8667296171188354
+    Tree: 0.8216195702552795
+    Cumulus: 0.7921414971351624
+    Shrub: 0.7667864561080933
+    Landscape: 0.7479601502418518
+    Forest: 0.7405475974082947
+    Horizon: 0.7333571910858154
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9669114351272583
+    Plant: 0.949924886226654
+    Terrestrial plant: 0.8357208967208862
+    Tree: 0.8203365802764893
+    Sky: 0.7883726954460144
+    Flowering plant: 0.7590743899345398
+    Twig: 0.6823986768722534
+    Shrub: 0.572727382183075
+    Combretaceae: 0.546799898147583
+    Caper family: 0.5206931829452515
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.8941112160682678
+    Natural landscape: 0.8823378682136536
+    Branch: 0.8740243315696716
+    Tree: 0.8172428607940674
+    Trunk: 0.7849283218383789
+    Deciduous: 0.7794265151023865
+    Plant: 0.7627898454666138
+    Tints and shades: 0.7289252281188965
+    People in nature: 0.7220815420150757
+    Terrestrial plant: 0.7195592522621155
+- :image_url: https://live.staticflickr.com/65535/50572581268_38a8e426e3_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9648767709732056
+    Plant: 0.9476132988929749
+    Terrestrial plant: 0.8568750619888306
+    Twig: 0.8319018483161926
+    Tree: 0.8123893737792969
+    Sky: 0.777344822883606
+    Flowering plant: 0.7368293404579163
+    Plant stem: 0.5868911147117615
+    Birch family: 0.5468628406524658
+    Broomrape: 0.527498185634613
+- :image_url: https://live.staticflickr.com/65535/51432349283_eb95a5142b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9573327302932739
+    Branch: 0.8731446266174316
+    Flower: 0.8572578430175781
+    Fruit: 0.8532123565673828
+    Terrestrial plant: 0.8179146647453308
+    Woody plant: 0.805850625038147
+    Tree: 0.8028413653373718
+    Flowering plant: 0.7779082655906677
+    Twig: 0.6670068502426147
+    Fruit tree: 0.6378492712974548
+- :image_url: https://live.staticflickr.com/65535/52097631786_9a9bd69a10_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9675837159156799
+    Plant: 0.9657668471336365
+    Sky: 0.957416832447052
+    Twig: 0.8738957643508911
+    Tree: 0.864896833896637
+    Natural landscape: 0.8441250920295715
+    Shrub: 0.7982988357543945
+    Grass: 0.7678259611129761
+    Flowering plant: 0.7581810355186462
+    Blossom: 0.7498192191123962
