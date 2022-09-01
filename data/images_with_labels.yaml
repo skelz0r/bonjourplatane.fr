@@ -14605,3 +14605,55 @@ items:
     Grass: 0.7678259611129761
     Flowering plant: 0.7581810355186462
     Blossom: 0.7498192191123962
+- :image_url: https://live.staticflickr.com/5591/30743441621_9a4efc8701_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9774868488311768
+    Sky: 0.9744049310684204
+    Plant: 0.9479227066040039
+    Botany: 0.8882755041122437
+    Terrestrial plant: 0.815887451171875
+    Tree: 0.8062939047813416
+    Flowering plant: 0.7550248503684998
+    Shrub: 0.6740853786468506
+    Pole: 0.6295990347862244
+    Wildflower: 0.5838049054145813
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9235806465148926
+    Plant: 0.8558965921401978
+    Flower: 0.848213791847229
+    Terrestrial plant: 0.8313500285148621
+    Twig: 0.8059811592102051
+    Evergreen: 0.8010317087173462
+    Tree: 0.7758137583732605
+    Flowering plant: 0.7354623079299927
+    Fruit: 0.729738175868988
+    Conifer: 0.6632776856422424
+- :image_url: https://live.staticflickr.com/65535/50643091513_42be6feeb2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Bird: 0.963890016078949
+    Leg: 0.9196797609329224
+    Beak: 0.9020208120346069
+    Songbird: 0.7591579556465149
+    Tail: 0.7238108515739441
+    Terrestrial animal: 0.7142758965492249
+    Landscape: 0.7102888822555542
+    Wood: 0.6967709064483643
+    Soil: 0.6943156719207764
+    Perching bird: 0.6927159428596497
+- :image_url: https://live.staticflickr.com/7042/6816455380_30e9aed4bd_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.97153240442276
+    Plant community: 0.9365361928939819
+    Plant: 0.9357295632362366
+    Ecoregion: 0.9223323464393616
+    Wood: 0.8851393461227417
+    Twig: 0.8736016750335693
+    Trunk: 0.8436886072158813
+    Natural landscape: 0.839714527130127
+    Grass: 0.8100925087928772
+    Tree: 0.7977667450904846
