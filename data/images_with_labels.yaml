@@ -14657,3 +14657,16 @@ items:
     Natural landscape: 0.839714527130127
     Grass: 0.8100925087928772
     Tree: 0.7977667450904846
+- :image_url: https://live.staticflickr.com/2807/33359813383_8d3a3fcb12_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9622878432273865
+    Plant community: 0.9335734844207764
+    Natural landscape: 0.8949242830276489
+    Branch: 0.88547283411026
+    Twig: 0.8531953692436218
+    Tree: 0.8366239070892334
+    Woody plant: 0.810625433921814
+    Shrub: 0.8009742498397827
+    Grass: 0.7968325018882751
+    Trunk: 0.7893232107162476
