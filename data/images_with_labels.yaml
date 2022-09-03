@@ -14670,3 +14670,74 @@ items:
     Shrub: 0.8009742498397827
     Grass: 0.7968325018882751
     Trunk: 0.7893232107162476
+- :image_url: https://live.staticflickr.com/65535/52037827745_89a43dfddc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.966384768486023
+    Sky: 0.9648975133895874
+    Property: 0.9418981075286865
+    Plant community: 0.9342860579490662
+    Ecoregion: 0.9211573004722595
+    Mountain: 0.9125691056251526
+    Natural landscape: 0.8776053190231323
+    Flower: 0.8157107830047607
+    Landscape: 0.8025726675987244
+    Shrub: 0.7977598905563354
+- :image_url: https://live.staticflickr.com/636/22279065116_ecf0b46762_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9787704944610596
+    Sky: 0.9732499122619629
+    Water: 0.9723950624465942
+    Daytime: 0.9446401596069336
+    Blue: 0.9205237627029419
+    Natural landscape: 0.8993667364120483
+    Azure: 0.8948400020599365
+    Natural environment: 0.8883346319198608
+    Branch: 0.8833977580070496
+    Wood: 0.8688898086547852
+- :image_url: https://live.staticflickr.com/6093/6390253689_297d4a454c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Camouflage: 0.9031445980072021
+    Military camouflage: 0.8845548033714294
+    Groundcover: 0.7909430265426636
+    Deciduous: 0.7778630256652832
+    Pattern: 0.7700381278991699
+    Tints and shades: 0.7689393758773804
+    Symmetry: 0.7196742296218872
+    Soil: 0.6813262104988098
+    Art: 0.6627486348152161
+- :image_url: https://live.staticflickr.com/65535/49893977476_749c2589c0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Terrestrial plant: 0.8268963694572449
+    Natural foods: 0.796667218208313
+    Flowering plant: 0.7216259837150574
+- :image_url: https://live.staticflickr.com/65535/49528877778_04976c7116_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9809480309486389
+    Sky: 0.9702049493789673
+    Plant: 0.9578583240509033
+    Natural landscape: 0.8793352842330933
+    Grass: 0.8106864094734192
+    Twig: 0.8009875416755676
+    Tree: 0.789963960647583
+    Plain: 0.7881115078926086
+    Cumulus: 0.7816689014434814
+    Landscape: 0.7748842835426331
+- :image_url: https://live.staticflickr.com/4517/38462761706_e72c933f41_b.jpg
+  :description: TBD OK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Plant: 0.9261676669120789
+    People in nature: 0.9145098328590393
+    Natural landscape: 0.8992283344268799
+    Twig: 0.887351930141449
+    Wood: 0.8833897709846497
+    Branch: 0.8718100786209106
+    Trunk: 0.8707361221313477
+    Tree: 0.8600049614906311
+    Yellow: 0.859103262424469
