@@ -1,3 +1,3 @@
-![Loïs](/images/2022-09-03.jpg)
+![Angelo](/images/2022-09-04.jpg)
 
-Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

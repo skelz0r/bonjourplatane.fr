@@ -14741,3 +14741,29 @@ items:
     Trunk: 0.8707361221313477
     Tree: 0.8600049614906311
     Yellow: 0.859103262424469
+- :image_url: https://live.staticflickr.com/65535/51008134357_3644bf8752_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.909221887588501
+    Petal: 0.8505806922912598
+    Plant: 0.8060063719749451
+    Flowering plant: 0.7607264518737793
+    Rose family: 0.7219535112380981
+    Rose order: 0.6640810966491699
+    Shrub: 0.6495813131332397
+    Peach: 0.6054852604866028
+    Rose: 0.6014689803123474
+    Produce: 0.5866415500640869
+- :image_url: https://live.staticflickr.com/65535/48663286016_bdb94fa50a_b.jpg
+  :description: TBD OK
+  :labels:
+    Natural landscape: 0.8624523282051086
+    Twig: 0.8526861667633057
+    Tree: 0.8406227231025696
+    Trunk: 0.8166238069534302
+    Deciduous: 0.8116424679756165
+    Plant: 0.7807958126068115
+    Tints and shades: 0.7732135653495789
+    Flowering plant: 0.7717396020889282
+    Groundcover: 0.7552001476287842
+    Temperate broadleaf and mixed forest: 0.7085962891578674
