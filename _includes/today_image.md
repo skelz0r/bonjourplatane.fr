@@ -1,3 +1,3 @@
-![Angelo](/images/2022-09-04.jpg)
+![Gaëtan](/images/2022-09-05.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [cobanene](https://www.flickr.com/people/cobanene/) on flickr

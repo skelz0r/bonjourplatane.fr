@@ -14767,3 +14767,29 @@ items:
     Flowering plant: 0.7717396020889282
     Groundcover: 0.7552001476287842
     Temperate broadleaf and mixed forest: 0.7085962891578674
+- :image_url: https://live.staticflickr.com/7142/6736947635_240a2deb64_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9535083174705505
+    Terrestrial plant: 0.8599820733070374
+    Flowering plant: 0.7712340950965881
+    Flower: 0.737586498260498
+    Fruit: 0.6688531637191772
+    Plant stem: 0.5963169932365417
+    Natural foods: 0.5866765975952148
+    Electric blue: 0.5807934403419495
+    Tree: 0.5766263604164124
+    Fruit tree: 0.575978696346283
+- :image_url: https://live.staticflickr.com/7052/6846177822_19dac2098d_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.949166476726532
+    Plant: 0.9351420402526855
+    Cloud: 0.8932297229766846
+    Branch: 0.8791887760162354
+    Natural landscape: 0.8688733577728271
+    People in nature: 0.8656224608421326
+    Tree: 0.8654382824897766
+    Wood: 0.8563014268875122
+    Black-and-white: 0.854356586933136
+    Twig: 0.8474896550178528
