@@ -1,3 +1,3 @@
-![Gaëtan](/images/2022-09-05.jpg)
+![Timothe](/images/2022-09-06.jpg)
 
-Crédits: [cobanene](https://www.flickr.com/people/cobanene/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
