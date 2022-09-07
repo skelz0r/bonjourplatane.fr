@@ -14806,3 +14806,55 @@ items:
     Branch: 0.8696451783180237
     World: 0.8547167181968689
     Water: 0.7911180853843689
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330595135688782
+    Flower: 0.8404232263565063
+    Terrestrial plant: 0.8214560151100159
+    Twig: 0.810585618019104
+    Tree: 0.8083398342132568
+    Flowering plant: 0.7240303754806519
+    Wood: 0.6619078516960144
+    Plant pathology: 0.6519372463226318
+    Rose order: 0.6085016131401062
+    Plant stem: 0.6024391055107117
+- :image_url: https://live.staticflickr.com/65535/40752667473_9feab16a44_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9132976531982422
+    Fruit: 0.9001455903053284
+    Botany: 0.8815475106239319
+    Branch: 0.8713164329528809
+    Twig: 0.8392276167869568
+    Berry: 0.82033371925354
+    Woody plant: 0.8009137511253357
+    Fruit tree: 0.7620197534561157
+    Flowering plant: 0.7467505931854248
+    Produce: 0.7447637319564819
+- :image_url: https://live.staticflickr.com/65535/48101244531_ba7267e997_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9799472689628601
+    Sky: 0.9198024868965149
+    Branch: 0.8895040154457092
+    Fruit: 0.8751219511032104
+    Flowering plant: 0.7840672135353088
+    Fruit tree: 0.7617188692092896
+    Rose family: 0.7435256242752075
+    Produce: 0.7398514747619629
+    Plant: 0.7052011489868164
+    Tree: 0.6960800886154175
+- :image_url: https://live.staticflickr.com/5091/5506911061_7f0a550813_b.jpg
+  :description: TBD OK
+  :labels:
+    Twig: 0.8729627728462219
+    Wood: 0.8619897961616516
+    Terrestrial plant: 0.8423663973808289
+    Trunk: 0.839776873588562
+    Tree: 0.7882895469665527
+    Grass: 0.7844085693359375
+    Plant: 0.7786111831665039
+    Forest: 0.7335510849952698
+    Woodland: 0.7034100294113159
+    Deciduous: 0.7027356028556824
