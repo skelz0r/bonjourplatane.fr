@@ -14858,3 +14858,81 @@ items:
     Forest: 0.7335510849952698
     Woodland: 0.7034100294113159
     Deciduous: 0.7027356028556824
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9801327586174011
+    Sky: 0.9687007665634155
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9255766272544861
+    Natural landscape: 0.8984315991401672
+    Sunlight: 0.8528869152069092
+    Electricity: 0.8499535322189331
+    Dusk: 0.8379175066947937
+    Afterglow: 0.836792528629303
+    Tree: 0.8355700969696045
+- :image_url: https://live.staticflickr.com/7142/6736947635_240a2deb64_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9535083174705505
+    Terrestrial plant: 0.8599820733070374
+    Flowering plant: 0.7712340950965881
+    Flower: 0.737586498260498
+    Fruit: 0.6688531637191772
+    Plant stem: 0.5963169932365417
+    Natural foods: 0.5866765975952148
+    Electric blue: 0.5807934403419495
+    Tree: 0.5766263604164124
+    Fruit tree: 0.575978696346283
+- :image_url: https://live.staticflickr.com/903/41077606285_223c4d69fc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9330595135688782
+    Flower: 0.8404232263565063
+    Terrestrial plant: 0.8214560151100159
+    Twig: 0.810585618019104
+    Tree: 0.8083398342132568
+    Flowering plant: 0.7240303754806519
+    Wood: 0.6619078516960144
+    Plant pathology: 0.6519372463226318
+    Rose order: 0.6085016131401062
+    Plant stem: 0.6024391055107117
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9801327586174011
+    Sky: 0.9687007665634155
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9255766272544861
+    Natural landscape: 0.8984315991401672
+    Sunlight: 0.8528869152069092
+    Electricity: 0.8499535322189331
+    Dusk: 0.8379175066947937
+    Afterglow: 0.836792528629303
+    Tree: 0.8355700969696045
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8994207978248596
+    Orange: 0.8630223274230957
+    Sunlight: 0.8433071374893188
+    Plant: 0.8016929030418396
+    Natural landscape: 0.7899776101112366
+    Tints and shades: 0.7637435793876648
+    Deciduous: 0.7098224759101868
+    Wood: 0.7074865698814392
+    Close-up: 0.7041730284690857
+    Terrestrial plant: 0.7009393572807312
+- :image_url: https://live.staticflickr.com/652/22674973516_cab58b8708_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9389844536781311
+    Plant community: 0.938265323638916
+    Sky: 0.9181275963783264
+    Natural landscape: 0.8956587314605713
+    Tree: 0.8558781147003174
+    Terrestrial plant: 0.8256382346153259
+    Plant: 0.8219060897827148
+    Shrub: 0.8050931692123413
+    Evergreen: 0.7998155355453491
+    Landscape: 0.7859114408493042
