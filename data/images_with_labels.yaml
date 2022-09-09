@@ -14936,3 +14936,29 @@ items:
     Shrub: 0.8050931692123413
     Evergreen: 0.7998155355453491
     Landscape: 0.7859114408493042
+- :image_url: https://live.staticflickr.com/65535/51432349283_eb95a5142b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9573327302932739
+    Branch: 0.8731446266174316
+    Flower: 0.8572578430175781
+    Fruit: 0.8532123565673828
+    Terrestrial plant: 0.8179146647453308
+    Woody plant: 0.805850625038147
+    Tree: 0.8028413653373718
+    Flowering plant: 0.7779082655906677
+    Twig: 0.6670068502426147
+    Fruit tree: 0.6378492712974548
+- :image_url: https://live.staticflickr.com/2639/4192715497_65a79339e7_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9518616199493408
+    Plant: 0.9335312247276306
+    Snow: 0.9233798384666443
+    Natural landscape: 0.8970279693603516
+    Natural environment: 0.8909677267074585
+    Tree: 0.8807470202445984
+    Wood: 0.869395911693573
+    Twig: 0.8684289455413818
+    Sunlight: 0.8423265218734741
+    Trunk: 0.8319926261901855
