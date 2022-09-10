@@ -14962,3 +14962,29 @@ items:
     Twig: 0.8684289455413818
     Sunlight: 0.8423265218734741
     Trunk: 0.8319926261901855
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.8941112160682678
+    Natural landscape: 0.8823378682136536
+    Branch: 0.8740243315696716
+    Tree: 0.8172428607940674
+    Trunk: 0.7849283218383789
+    Deciduous: 0.7794265151023865
+    Plant: 0.7627898454666138
+    Tints and shades: 0.7289252281188965
+    People in nature: 0.7220815420150757
+    Terrestrial plant: 0.7195592522621155
+- :image_url: https://live.staticflickr.com/2493/4196970730_a782df6f4d_b.jpg
+  :description: TBD OK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Plant: 0.9369789958000183
+    Ecoregion: 0.9219527840614319
+    Natural landscape: 0.8845484852790833
+    Wood: 0.8807754516601562
+    Twig: 0.8770009279251099
+    Branch: 0.8716325163841248
+    Trunk: 0.8664063811302185
+    Tree: 0.8525146245956421
+    Atmospheric phenomenon: 0.8194974064826965
