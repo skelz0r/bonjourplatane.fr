@@ -1,3 +1,3 @@
-![Pauline](/images/2022-09-10.jpg)
+![Lou](/images/2022-09-11.jpg)
 
-Crédits: [zigazou76](https://www.flickr.com/people/zigazou76/) on flickr
+Crédits: [Brest EnVies](https://www.flickr.com/people/thierry-fayret/) on flickr
