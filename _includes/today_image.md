@@ -1,3 +1,3 @@
-![Jade](/images/2022-09-12.jpg)
+![Lucy](/images/2022-09-15.jpg)
 
-Crédits: [Gilles FRANCOIS](https://www.flickr.com/people/thesoundoviolence/) on flickr
+Crédits: [jourand](https://www.flickr.com/people/jourand/) on flickr

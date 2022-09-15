@@ -15014,3 +15014,41 @@ items:
     Sky: 0.784277081489563
     Twig: 0.7832831740379333
     Wood: 0.7757534384727478
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9721805453300476
+    Plant: 0.9564041495323181
+    Petal: 0.8807685971260071
+    Terrestrial plant: 0.8618626594543457
+    Grass: 0.8070601224899292
+    Evergreen: 0.8019073009490967
+    Groundcover: 0.790796160697937
+    Shrub: 0.7548186779022217
+    Flowering plant: 0.7476170063018799
+    Annual plant: 0.715120255947113
+- :image_url: https://live.staticflickr.com/65535/49412428363_9e4c3599e5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9662355184555054
+    Plant: 0.9560907483100891
+    Sky: 0.8917968273162842
+    Flowering plant: 0.7380698323249817
+    Electric blue: 0.6553016304969788
+    Twig: 0.6120398640632629
+    Rectangle: 0.5606906414031982
+    Art: 0.532048225402832
+    Annual plant: 0.5279487371444702
+- :image_url: https://live.staticflickr.com/42/92489558_61da4cfbbf_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9781557321548462
+    Cloud: 0.9752770066261292
+    Plant: 0.957669198513031
+    Natural landscape: 0.8928910493850708
+    Branch: 0.8820586800575256
+    Tree: 0.8709004521369934
+    Trunk: 0.8426110744476318
+    Sunlight: 0.8422393798828125
+    Twig: 0.8291174173355103
+    Grass: 0.8274505138397217
