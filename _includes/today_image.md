@@ -1,3 +1,3 @@
-![Lucy](/images/2022-09-15.jpg)
+![Eléonore](/images/2022-09-16.jpg)
 
-Crédits: [jourand](https://www.flickr.com/people/jourand/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

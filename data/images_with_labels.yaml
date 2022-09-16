@@ -15052,3 +15052,81 @@ items:
     Sunlight: 0.8422393798828125
     Twig: 0.8291174173355103
     Grass: 0.8274505138397217
+- :image_url: https://live.staticflickr.com/3010/2478269871_3684480a98_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9778937101364136
+    Sky: 0.9615261554718018
+    Atmosphere: 0.9481807947158813
+    Branch: 0.8849844336509705
+    Natural landscape: 0.8773050904273987
+    Wood: 0.8747499585151672
+    Plant: 0.8650547862052917
+    Twig: 0.8490713834762573
+    Dusk: 0.8422242403030396
+    Afterglow: 0.8377708196640015
+- :image_url: https://live.staticflickr.com/65535/49737196821_f6d3b0e971_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9772957563400269
+    Plant: 0.9498826265335083
+    Petal: 0.8898845314979553
+    Groundcover: 0.7909056544303894
+    Shrub: 0.785429060459137
+    Flowering plant: 0.7541405558586121
+    Annual plant: 0.7263613939285278
+    Rose family: 0.7127846479415894
+    Subshrub: 0.6636344194412231
+    Herbaceous plant: 0.6505103707313538
+- :image_url: https://live.staticflickr.com/65535/51510838272_8cb45ae8a8_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9795725345611572
+    Sky: 0.9723811745643616
+    Plant community: 0.9361698627471924
+    Plant: 0.9025218486785889
+    Natural landscape: 0.8830662369728088
+    Mountain: 0.8819980621337891
+    Bedrock: 0.8754189610481262
+    Grass: 0.8071147203445435
+    Landscape: 0.7887777090072632
+    Grassland: 0.7876713275909424
+- :image_url: https://live.staticflickr.com/65535/49313660753_48fa9dbf5b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9690335392951965
+    Plant: 0.9661917686462402
+    Plant community: 0.9347283244132996
+    Branch: 0.872196614742279
+    Natural landscape: 0.8557069897651672
+    Grass: 0.8328701257705688
+    Tree: 0.8297007083892822
+    Woody plant: 0.803398072719574
+    Groundcover: 0.7911278605461121
+    Shrub: 0.7685770392417908
+- :image_url: https://live.staticflickr.com/5789/21996107101_72e9ff062f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9791402220726013
+    Sky: 0.9729503393173218
+    Water: 0.9575130343437195
+    Plant: 0.9550701975822449
+    Natural landscape: 0.8908262848854065
+    Tree: 0.8472410440444946
+    Land lot: 0.8423706889152527
+    Lake: 0.8339451551437378
+    Bank: 0.8172105550765991
+    Grass: 0.7959374189376831
+- :image_url: https://live.staticflickr.com/737/23184891022_55d62360f2_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9756799340248108
+    Bird: 0.9639304876327515
+    Twig: 0.8668819069862366
+    Tree: 0.7990645170211792
+    Natural material: 0.701676070690155
+    Trunk: 0.6806215047836304
+    Wildlife: 0.6762040853500366
+    Plant stem: 0.60383141040802
+    Conifer: 0.5663624405860901
+    Winter: 0.5424215197563171
