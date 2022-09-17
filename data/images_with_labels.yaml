@@ -15130,3 +15130,29 @@ items:
     Plant stem: 0.60383141040802
     Conifer: 0.5663624405860901
     Winter: 0.5424215197563171
+- :image_url: https://live.staticflickr.com/65535/52197719660_c2b9e5a55d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9804620742797852
+    Plant: 0.9547356367111206
+    Petal: 0.9111636877059937
+    Botany: 0.8761446475982666
+    Terrestrial plant: 0.8493496775627136
+    Groundcover: 0.7911942005157471
+    Flowering plant: 0.7249552011489868
+    Shrub: 0.6838619709014893
+    Subshrub: 0.6778907179832458
+    Tree: 0.6654112339019775
+- :image_url: https://live.staticflickr.com/7149/6569905821_cb1ebd4f63_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9714409708976746
+    Sky: 0.9572024345397949
+    Flower: 0.9431387782096863
+    Natural landscape: 0.8814218044281006
+    Twig: 0.8660752177238464
+    Tree: 0.810205340385437
+    Larch: 0.799283504486084
+    Landscape: 0.782371461391449
+    Deciduous: 0.7731865644454956
+    Tints and shades: 0.7730535864830017
