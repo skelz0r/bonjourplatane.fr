@@ -1,3 +1,3 @@
-![Emile](/images/2022-09-17.jpg)
+![Liam](/images/2022-09-18.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [Groume](https://www.flickr.com/people/groume/) on flickr

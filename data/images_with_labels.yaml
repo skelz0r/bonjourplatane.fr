@@ -15156,3 +15156,16 @@ items:
     Landscape: 0.782371461391449
     Deciduous: 0.7731865644454956
     Tints and shades: 0.7730535864830017
+- :image_url: https://live.staticflickr.com/8144/7273548066_1ab78e940d_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9741701483726501
+    Sky: 0.9670766592025757
+    Natural landscape: 0.8744565844535828
+    Branch: 0.8696328997612
+    Twig: 0.8669196367263794
+    Trunk: 0.8588470220565796
+    Terrestrial plant: 0.8306852579116821
+    Wood: 0.8274309635162354
+    Tree: 0.8218474984169006
+    Grass: 0.7790839672088623
