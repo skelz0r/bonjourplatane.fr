@@ -15169,3 +15169,16 @@ items:
     Wood: 0.8274309635162354
     Tree: 0.8218474984169006
     Grass: 0.7790839672088623
+- :image_url: https://live.staticflickr.com/65535/49140326366_d8fde9f860_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9722230434417725
+    Moon: 0.9105849862098694
+    Azure: 0.894449770450592
+    Tree: 0.8766878843307495
+    Natural landscape: 0.847773015499115
+    Twig: 0.8188439011573792
+    Moonlight: 0.7658239603042603
+    Astronomical object: 0.7624719142913818
+    Full moon: 0.738003134727478
+    Event: 0.7152655720710754
