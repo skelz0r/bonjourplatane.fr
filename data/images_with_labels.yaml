@@ -15182,3 +15182,81 @@ items:
     Astronomical object: 0.7624719142913818
     Full moon: 0.738003134727478
     Event: 0.7152655720710754
+- :image_url: https://live.staticflickr.com/65535/50790264727_e3e2e61a4a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9772087335586548
+    Sky: 0.9700927734375
+    Twig: 0.8499153852462769
+    Natural landscape: 0.8184338808059692
+    Tree: 0.8017470836639404
+    Deciduous: 0.7795485258102417
+    Tints and shades: 0.7589654922485352
+    Flowering plant: 0.7498070001602173
+    Temperate broadleaf and mixed forest: 0.6870025992393494
+    Cumulus: 0.6117346882820129
+- :image_url: https://live.staticflickr.com/65535/51678740984_4cfd53a54f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9252958297729492
+    Botany: 0.8713744282722473
+    Terrestrial plant: 0.8284363746643066
+    Berry: 0.82335364818573
+    Produce: 0.7724947333335876
+    Shrub: 0.7583581805229187
+    Flowering plant: 0.7579534649848938
+    Seedless fruit: 0.7083096504211426
+    Fruit: 0.6754500865936279
+    Fruit tree: 0.6579479575157166
+- :image_url: https://live.staticflickr.com/2888/33489580192_2dafaed9c6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9699923992156982
+    Building: 0.8891860246658325
+    World: 0.8761178255081177
+    Twig: 0.8335009813308716
+    Wood: 0.8101435899734497
+    Urban design: 0.7901961207389832
+    Tree: 0.7893669009208679
+    Tints and shades: 0.7719030380249023
+    City: 0.7432847023010254
+    Facade: 0.7269058227539062
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8303652405738831
+    Sky: 0.7795426845550537
+    Wood: 0.7734814882278442
+    Tints and shades: 0.771244466304779
+    Natural landscape: 0.7701533436775208
+    Deciduous: 0.7122373580932617
+    Plant: 0.7087511420249939
+    Macro photography: 0.6496936082839966
+    Flowering plant: 0.6418043971061707
+    Peach: 0.5807651877403259
+- :image_url: https://live.staticflickr.com/156/353794736_1f4e1b48e1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Water: 0.9377405047416687
+    Plant: 0.9337806701660156
+    Street light: 0.9164854884147644
+    Automotive lighting: 0.9121459722518921
+    Leaf: 0.896136999130249
+    Road surface: 0.8899370431900024
+    Branch: 0.8892171382904053
+    Asphalt: 0.8198712468147278
+    Sky: 0.8192520141601562
+- :image_url: https://live.staticflickr.com/7288/16470892191_2cd2ac16c7_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.962516188621521
+    Plant community: 0.9390477538108826
+    Ecoregion: 0.921650230884552
+    Wood: 0.8901174664497375
+    Natural landscape: 0.8891145586967468
+    Natural environment: 0.8883851766586304
+    Twig: 0.8808287382125854
+    Tree: 0.871920108795166
+    Branch: 0.8703344464302063
+    Trunk: 0.8612732887268066
