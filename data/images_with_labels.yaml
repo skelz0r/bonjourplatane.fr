@@ -15260,3 +15260,29 @@ items:
     Tree: 0.871920108795166
     Branch: 0.8703344464302063
     Trunk: 0.8612732887268066
+- :image_url: https://live.staticflickr.com/65535/51048356126_2764436a05_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9699425101280212
+    Plant community: 0.9366112947463989
+    Flower: 0.9356766939163208
+    Flowerpot: 0.9301298260688782
+    Houseplant: 0.881159245967865
+    Table: 0.8478071093559265
+    Grass: 0.8380030989646912
+    Outdoor furniture: 0.8376731276512146
+    Landscape: 0.814586341381073
+    Groundcover: 0.790310800075531
+- :image_url: https://live.staticflickr.com/176/415438534_3ad098ffc2_b.jpg
+  :description: TBD OK
+  :labels:
+    Botany: 0.8964087963104248
+    Wood: 0.8776094913482666
+    Branch: 0.8717856407165527
+    Terrestrial plant: 0.8677679300308228
+    Trunk: 0.8616210222244263
+    Tree: 0.8405790328979492
+    Natural landscape: 0.8397411704063416
+    Grass: 0.8210828900337219
+    Groundcover: 0.7877628207206726
+    Plant: 0.7820063233375549
