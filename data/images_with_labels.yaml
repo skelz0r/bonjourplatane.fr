@@ -15286,3 +15286,16 @@ items:
     Grass: 0.8210828900337219
     Groundcover: 0.7877628207206726
     Plant: 0.7820063233375549
+- :image_url: https://live.staticflickr.com/6225/6300707508_0d82fc4bdf_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9697599411010742
+    Trunk: 0.857637882232666
+    Wood: 0.8518658876419067
+    Plant: 0.8333694934844971
+    Tree: 0.8192863464355469
+    Tints and shades: 0.7498905062675476
+    Terrestrial plant: 0.7444659471511841
+    Landscape: 0.7087887525558472
+    Monochrome photography: 0.6975566148757935
+    Forest: 0.6922339200973511
