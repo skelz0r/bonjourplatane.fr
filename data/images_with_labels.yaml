@@ -15312,3 +15312,16 @@ items:
     Twig: 0.886206328868866
     People in nature: 0.8848587870597839
     Natural landscape: 0.8838596343994141
+- :image_url: https://live.staticflickr.com/655/21112092701_82d073b7bc_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9803581237792969
+    Sky: 0.9693586826324463
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9229486584663391
+    Afterglow: 0.9110865592956543
+    Natural landscape: 0.8921586871147156
+    Branch: 0.8799518942832947
+    Tree: 0.8644604086875916
+    Sunlight: 0.8482326865196228
+    Twig: 0.8451958298683167

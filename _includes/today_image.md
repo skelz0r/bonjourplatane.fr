@@ -1,3 +1,3 @@
-![Morgan](/images/2022-09-23.jpg)
+![Diane](/images/2022-09-24.jpg)
 
-Crédits: [shivapat](https://www.flickr.com/people/shivapat/) on flickr
+Crédits: [Fandral](https://www.flickr.com/people/kefoo42/) on flickr
