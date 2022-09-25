@@ -15325,3 +15325,81 @@ items:
     Tree: 0.8644604086875916
     Sunlight: 0.8482326865196228
     Twig: 0.8451958298683167
+- :image_url: https://live.staticflickr.com/3924/15030364488_3af7ea8bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9419505000114441
+    Plant community: 0.9370043277740479
+    Natural environment: 0.888347327709198
+    Natural landscape: 0.8759247064590454
+    Flower: 0.8545474410057068
+    Grass: 0.7968098521232605
+    Groundcover: 0.791119396686554
+    Twig: 0.7854853868484497
+    Grassland: 0.7724137306213379
+    Tree: 0.7669141292572021
+- :image_url: https://live.staticflickr.com/65535/51762919607_9f58aafe48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9180353283882141
+    Fruit: 0.8989952802658081
+    Leaf: 0.8948204517364502
+    Food: 0.8919278383255005
+    Citrus: 0.8388804197311401
+    Tree: 0.8009098768234253
+    Flower: 0.7908938527107239
+    Fruit tree: 0.788379430770874
+    Produce: 0.7838209271430969
+    Natural foods: 0.764336109161377
+- :image_url: https://live.staticflickr.com/65535/52125986344_31d13b2072_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9815611243247986
+    Sky: 0.9774715900421143
+    Flower: 0.9720789790153503
+    Plant: 0.9670335054397583
+    Ecoregion: 0.9282940626144409
+    Petal: 0.9207186102867126
+    Natural landscape: 0.8807357549667358
+    Grass: 0.8231388330459595
+    Terrestrial plant: 0.8057497143745422
+    Tree: 0.8009642958641052
+- :image_url: https://live.staticflickr.com/65535/50178910651_6901dcdef0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765110611915588
+    Plant: 0.9578174948692322
+    Tree: 0.8154597282409668
+    Shrub: 0.7873172760009766
+    Terrestrial plant: 0.7870863676071167
+    Groundcover: 0.7868520617485046
+    Flowering plant: 0.7842367887496948
+    Grass: 0.735809862613678
+    Subshrub: 0.7064921855926514
+    Wildflower: 0.6784175634384155
+- :image_url: https://live.staticflickr.com/65535/51678740984_4cfd53a54f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9252958297729492
+    Botany: 0.8713744282722473
+    Terrestrial plant: 0.8284363746643066
+    Berry: 0.82335364818573
+    Produce: 0.7724947333335876
+    Shrub: 0.7583581805229187
+    Flowering plant: 0.7579534649848938
+    Seedless fruit: 0.7083096504211426
+    Fruit: 0.6754500865936279
+    Fruit tree: 0.6579479575157166
+- :image_url: https://live.staticflickr.com/8237/8512791380_c59ed1eab5_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.8969302177429199
+    Black: 0.8951096534729004
+    Azure: 0.8933016061782837
+    Wood: 0.8830394148826599
+    Natural landscape: 0.8801791071891785
+    Branch: 0.8747279644012451
+    Trunk: 0.8718572854995728
+    Rectangle: 0.8717032074928284
+    Tree: 0.8490720391273499
+    Twig: 0.8352881669998169

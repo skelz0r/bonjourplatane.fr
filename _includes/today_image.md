@@ -1,3 +1,3 @@
-![Diane](/images/2022-09-24.jpg)
+![Luca](/images/2022-09-25.jpg)
 
-Crédits: [Fandral](https://www.flickr.com/people/kefoo42/) on flickr
+Crédits: [Claudine Booth](https://www.flickr.com/people/claudinebooth/) on flickr
