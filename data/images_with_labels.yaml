@@ -15403,3 +15403,42 @@ items:
     Rectangle: 0.8717032074928284
     Tree: 0.8490720391273499
     Twig: 0.8352881669998169
+- :image_url: https://live.staticflickr.com/7642/16326530704_dda2e226d5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8839477896690369
+    Plant: 0.8636380434036255
+    Trunk: 0.8289893269538879
+    Terrestrial plant: 0.8248382210731506
+    Natural material: 0.8247663378715515
+    Grass: 0.7916461229324341
+    Natural landscape: 0.7562116980552673
+    Twig: 0.7410135269165039
+    Hardwood: 0.7408376932144165
+    Groundcover: 0.7183294892311096
+- :image_url: https://live.staticflickr.com/636/22279065116_ecf0b46762_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9787704944610596
+    Sky: 0.9732499122619629
+    Water: 0.9723950624465942
+    Daytime: 0.9446401596069336
+    Blue: 0.9205237627029419
+    Natural landscape: 0.8993667364120483
+    Azure: 0.8948400020599365
+    Natural environment: 0.8883346319198608
+    Branch: 0.8833977580070496
+    Wood: 0.8688898086547852
+- :image_url: https://live.staticflickr.com/2057/2478269845_5fc576616e_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9689679145812988
+    Ecoregion: 0.9211897850036621
+    Natural landscape: 0.8824084997177124
+    Twig: 0.8819789886474609
+    Tree: 0.8659213185310364
+    Afterglow: 0.8581830263137817
+    Wood: 0.8518534302711487
+    Dusk: 0.8218748569488525
+    Trunk: 0.8001835346221924
+    Plant: 0.7982327938079834

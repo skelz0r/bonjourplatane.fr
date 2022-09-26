@@ -1,3 +1,3 @@
-![Luca](/images/2022-09-25.jpg)
+![Dylan](/images/2022-09-26.jpg)
 
-Crédits: [Claudine Booth](https://www.flickr.com/people/claudinebooth/) on flickr
+Crédits: [F.A.L.I](https://www.flickr.com/people/26384010@N03/) on flickr
