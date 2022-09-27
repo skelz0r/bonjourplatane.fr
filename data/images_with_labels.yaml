@@ -15442,3 +15442,42 @@ items:
     Dusk: 0.8218748569488525
     Trunk: 0.8001835346221924
     Plant: 0.7982327938079834
+- :image_url: https://live.staticflickr.com/2850/33262212370_5ffb6bb80f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9684385657310486
+    Building: 0.9425978660583496
+    Azure: 0.8949411511421204
+    Window: 0.8786798715591431
+    World: 0.8633732795715332
+    Urban design: 0.8200961947441101
+    Tower block: 0.8099998235702515
+    Tree: 0.7982624173164368
+    Twig: 0.7890153527259827
+    Tints and shades: 0.7735565304756165
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9323165416717529
+    Plant: 0.9140900373458862
+    Tree: 0.8193044066429138
+    Grass: 0.7737201452255249
+    Shrub: 0.7645788788795471
+    Evergreen: 0.7564840912818909
+    Flowering plant: 0.727134108543396
+    Subshrub: 0.6679249405860901
+    Garden: 0.6105816960334778
+    Conifer: 0.6014812588691711
+- :image_url: https://live.staticflickr.com/51/133600878_7850c180a6_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9696900844573975
+    Plant: 0.965718150138855
+    Cloud: 0.9037817120552063
+    Tree: 0.8906247615814209
+    Botany: 0.8790689706802368
+    Vegetation: 0.8519775867462158
+    Building: 0.8473699688911438
+    Arecales: 0.8314839005470276
+    Terrestrial plant: 0.8275926113128662
+    Grass: 0.8275898098945618
