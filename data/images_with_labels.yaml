@@ -15481,3 +15481,16 @@ items:
     Arecales: 0.8314839005470276
     Terrestrial plant: 0.8275926113128662
     Grass: 0.8275898098945618
+- :image_url: https://live.staticflickr.com/81/280711717_f9522f7bbf_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.96657794713974
+    Plant: 0.9654279947280884
+    Natural landscape: 0.8887122869491577
+    People in nature: 0.8762238621711731
+    Twig: 0.8696860074996948
+    Trunk: 0.8452139496803284
+    Tree: 0.8396379351615906
+    Grass: 0.820523202419281
+    Grassland: 0.8035617470741272
+    Plain: 0.7955133318901062
