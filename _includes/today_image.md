@@ -1,3 +1,3 @@
-![Lucy](/images/2022-09-28.jpg)
+![Anthony](/images/2022-09-29.jpg)
 
-Crédits: [barbux](https://www.flickr.com/people/barbux/) on flickr
+Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
