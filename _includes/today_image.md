@@ -1,3 +1,3 @@
-![Anthony](/images/2022-09-29.jpg)
+![Emma](/images/2022-09-30.jpg)
 
-Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
+Crédits: [@bodil](https://www.flickr.com/people/bodil/) on flickr
