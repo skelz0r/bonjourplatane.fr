@@ -15546,3 +15546,29 @@ items:
     Tints and shades: 0.6924325823783875
     Plant stem: 0.59341961145401
     Birch family: 0.5150947570800781
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9721805453300476
+    Plant: 0.9564041495323181
+    Petal: 0.8807685971260071
+    Terrestrial plant: 0.8618626594543457
+    Grass: 0.8070601224899292
+    Evergreen: 0.8019073009490967
+    Groundcover: 0.790796160697937
+    Shrub: 0.7548186779022217
+    Flowering plant: 0.7476170063018799
+    Annual plant: 0.715120255947113
+- :image_url: https://live.staticflickr.com/8743/17054554852_d1bd2e10af_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8777008652687073
+    Twig: 0.8676345944404602
+    Sky: 0.8416361212730408
+    Trunk: 0.8127280473709106
+    Natural material: 0.7954148054122925
+    Tree: 0.7128498554229736
+    Event: 0.6614702939987183
+    Terrestrial animal: 0.6441556811332703
+    Soil: 0.62370365858078
