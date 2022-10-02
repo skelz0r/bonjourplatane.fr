@@ -15572,3 +15572,16 @@ items:
     Event: 0.6614702939987183
     Terrestrial animal: 0.6441556811332703
     Soil: 0.62370365858078
+- :image_url: https://live.staticflickr.com/4898/39702342153_40ce6eac01_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9635018706321716
+    Plant: 0.9633371829986572
+    Atmosphere: 0.9481807947158813
+    Natural landscape: 0.8917059898376465
+    Branch: 0.878309428691864
+    Tree: 0.8747984170913696
+    Wood: 0.8689724802970886
+    Twig: 0.8513827919960022
+    Trunk: 0.8405401110649109
+    Atmospheric phenomenon: 0.8331156969070435
