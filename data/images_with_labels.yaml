@@ -15624,3 +15624,16 @@ items:
     Perching bird: 0.6853872537612915
     Wing: 0.6764798760414124
     Wood: 0.6447139978408813
+- :image_url: https://live.staticflickr.com/814/40961122602_f06995e39c_b.jpg
+  :description: TBD OK
+  :labels:
+    Bird: 0.9558092951774597
+    Beak: 0.886003851890564
+    Twig: 0.8849658966064453
+    Branch: 0.8794090151786804
+    Wood: 0.8429702520370483
+    Feather: 0.7377969622612
+    Songbird: 0.7149624228477478
+    Tail: 0.6960949897766113
+    Perching bird: 0.6853976845741272
+    Wildlife: 0.6695801615715027
