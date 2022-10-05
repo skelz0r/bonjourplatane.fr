@@ -15637,3 +15637,29 @@ items:
     Tail: 0.6960949897766113
     Perching bird: 0.6853976845741272
     Wildlife: 0.6695801615715027
+- :image_url: https://live.staticflickr.com/65535/51808226302_bcbe141863_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9658236503601074
+    Sky: 0.9629149436950684
+    Leaf: 0.8966856002807617
+    Natural landscape: 0.8961759805679321
+    Natural environment: 0.8893832564353943
+    Cloud: 0.8761592507362366
+    Botany: 0.8708194494247437
+    Fence: 0.8626952171325684
+    Water: 0.8539270758628845
+    Tree: 0.8475047945976257
+- :image_url: https://live.staticflickr.com/2346/2421712458_8c3ded1627_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9723441004753113
+    Plant: 0.9706676602363586
+    Botany: 0.9060430526733398
+    Petal: 0.873482346534729
+    Building: 0.8676034212112427
+    Tree: 0.8576322197914124
+    Sky: 0.8381327390670776
+    Grass: 0.828920304775238
+    Pink: 0.8265652060508728
+    Public space: 0.8116180896759033
