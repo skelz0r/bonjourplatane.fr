@@ -15663,3 +15663,55 @@ items:
     Grass: 0.828920304775238
     Pink: 0.8265652060508728
     Public space: 0.8116180896759033
+- :image_url: https://live.staticflickr.com/5733/23999207825_f4ed652923_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9747868180274963
+    Sky: 0.9692113995552063
+    Water: 0.96380215883255
+    Plant: 0.9473276138305664
+    Light: 0.9106351733207703
+    Natural landscape: 0.9001659154891968
+    Sunlight: 0.855171799659729
+    Dusk: 0.8355506062507629
+    Sunrise: 0.827392041683197
+    Afterglow: 0.8221860527992249
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9750099778175354
+    Plant: 0.9314269423484802
+    Petal: 0.860420823097229
+    Road surface: 0.8534506559371948
+    Organism: 0.8517209887504578
+    Vegetation: 0.8469789028167725
+    Asphalt: 0.8106375336647034
+    Groundcover: 0.7877508401870728
+    Flowering plant: 0.7502157092094421
+    Grass: 0.747093915939331
+- :image_url: https://live.staticflickr.com/65535/47055883214_a0ab875a48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.979870080947876
+    Plant: 0.9592688083648682
+    Leaf: 0.8973545432090759
+    Botany: 0.8941346406936646
+    Terrestrial plant: 0.817615807056427
+    Tree: 0.8005346655845642
+    Flowering plant: 0.7666540741920471
+    Silk tree: 0.7375551462173462
+    Myrtle family: 0.6459218263626099
+    Shrub: 0.6327707171440125
+- :image_url: https://live.staticflickr.com/8193/8357627381_a416a58979_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9558204412460327
+    Plant: 0.9011903405189514
+    Branch: 0.879636824131012
+    Twig: 0.8619717359542847
+    Petal: 0.8569380044937134
+    Food: 0.8277229070663452
+    Terrestrial plant: 0.7877709865570068
+    Flowering plant: 0.7767760753631592
+    Fruit: 0.7728273272514343
+    Tree: 0.6699159741401672
