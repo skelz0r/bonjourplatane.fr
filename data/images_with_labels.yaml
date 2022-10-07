@@ -15715,3 +15715,42 @@ items:
     Flowering plant: 0.7767760753631592
     Fruit: 0.7728273272514343
     Tree: 0.6699159741401672
+- :image_url: https://live.staticflickr.com/747/23626388570_942ff7f9e3_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9826536178588867
+    Sky: 0.9733195304870605
+    Tree: 0.8050190210342407
+    Bridge: 0.8007580637931824
+    Cumulus: 0.774480402469635
+    Wind: 0.7422171235084534
+    Cable-stayed bridge: 0.7318189740180969
+    Pole: 0.7297369837760925
+    Road: 0.7003082036972046
+    Horizon: 0.6908689141273499
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9669114351272583
+    Plant: 0.949924886226654
+    Terrestrial plant: 0.8357208967208862
+    Tree: 0.8203365802764893
+    Sky: 0.7883726954460144
+    Flowering plant: 0.7590743899345398
+    Twig: 0.6823986768722534
+    Shrub: 0.572727382183075
+    Combretaceae: 0.546799898147583
+    Caper family: 0.5206931829452515
+- :image_url: https://live.staticflickr.com/2477/4052977479_8d00656a16_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9612964391708374
+    Cloud: 0.9422129392623901
+    Tire: 0.9384647011756897
+    Branch: 0.8815551400184631
+    Larch: 0.8800920248031616
+    Tree: 0.8625763058662415
+    Plant: 0.8548429012298584
+    Street light: 0.8501530885696411
+    Twig: 0.8468695282936096
+    Deciduous: 0.8340564370155334
