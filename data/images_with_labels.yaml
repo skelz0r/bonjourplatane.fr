@@ -15754,3 +15754,42 @@ items:
     Street light: 0.8501530885696411
     Twig: 0.8468695282936096
     Deciduous: 0.8340564370155334
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9785097241401672
+    Sky: 0.9751899242401123
+    Plant: 0.9432983994483948
+    Vegetation: 0.8569455742835999
+    Tree: 0.8359882235527039
+    Flowering plant: 0.784514307975769
+    Terrestrial plant: 0.7420542240142822
+    Shrub: 0.6356385350227356
+    Petal: 0.5813642144203186
+    Palm tree: 0.5716361999511719
+- :image_url: https://live.staticflickr.com/5698/21653585975_17bd68de1b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9721081852912903
+    Cloud: 0.9701746702194214
+    Plant: 0.9318031668663025
+    Natural landscape: 0.8628190159797668
+    Agriculture: 0.8007054328918457
+    Plain: 0.7722930312156677
+    Grass: 0.7648635506629944
+    Landscape: 0.7541171908378601
+    Meadow: 0.750972330570221
+    Horizon: 0.7459320425987244
+- :image_url: https://live.staticflickr.com/7004/6749979641_7d6a8f5cd2_b.jpg
+  :description: TBD OK
+  :labels:
+    Food: 0.9623076319694519
+    Light: 0.9109309315681458
+    Plant: 0.8941841721534729
+    Branch: 0.8676992058753967
+    Twig: 0.8510724306106567
+    Fruit: 0.8414670825004578
+    Natural foods: 0.7981044054031372
+    Terrestrial plant: 0.7932466268539429
+    Produce: 0.7751263976097107
+    Flowering plant: 0.759476900100708
