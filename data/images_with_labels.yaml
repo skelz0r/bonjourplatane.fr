@@ -15793,3 +15793,16 @@ items:
     Terrestrial plant: 0.7932466268539429
     Produce: 0.7751263976097107
     Flowering plant: 0.759476900100708
+- :image_url: https://live.staticflickr.com/675/22473684912_c2fa535756_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9751143455505371
+    Plant: 0.9567471146583557
+    Leaf: 0.9038362503051758
+    Natural landscape: 0.8991162180900574
+    Natural environment: 0.8899697065353394
+    Branch: 0.8792979717254639
+    Larch: 0.8747748136520386
+    Tree: 0.8634732365608215
+    Sunlight: 0.8508097529411316
+    Vegetation: 0.8507336378097534
