@@ -15806,3 +15806,42 @@ items:
     Tree: 0.8634732365608215
     Sunlight: 0.8508097529411316
     Vegetation: 0.8507336378097534
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9323165416717529
+    Plant: 0.9140900373458862
+    Tree: 0.8193044066429138
+    Grass: 0.7737201452255249
+    Shrub: 0.7645788788795471
+    Evergreen: 0.7564840912818909
+    Flowering plant: 0.727134108543396
+    Subshrub: 0.6679249405860901
+    Garden: 0.6105816960334778
+    Conifer: 0.6014812588691711
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8855230212211609
+    Sky: 0.8768270015716553
+    Deciduous: 0.7880703806877136
+    Flowering plant: 0.7639373540878296
+    Twig: 0.7420429587364197
+    Subshrub: 0.691612720489502
+    Temperate broadleaf and mixed forest: 0.6276395916938782
+    Tints and shades: 0.6114389300346375
+    Annual plant: 0.5855468511581421
+    Plant stem: 0.5282941460609436
+- :image_url: https://live.staticflickr.com/65535/50790151576_7eb975eb59_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9562653303146362
+    Sky: 0.9394799470901489
+    Plant: 0.8886479139328003
+    Branch: 0.8784837126731873
+    Twig: 0.858608603477478
+    Tree: 0.8298479318618774
+    Woody plant: 0.8148565888404846
+    Terrestrial plant: 0.7429587244987488
+    Flowering plant: 0.7425147294998169
+    Art: 0.6271247863769531
