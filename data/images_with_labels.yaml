@@ -15845,3 +15845,16 @@ items:
     Terrestrial plant: 0.7429587244987488
     Flowering plant: 0.7425147294998169
     Art: 0.6271247863769531
+- :image_url: https://live.staticflickr.com/65535/48035146232_8732828341_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9423287510871887
+    Plant community: 0.9329497218132019
+    Natural landscape: 0.8768720030784607
+    Tree: 0.8597598671913147
+    Terrestrial plant: 0.8580115437507629
+    Wood: 0.8567476272583008
+    Trunk: 0.8326047658920288
+    Biome: 0.8316072225570679
+    People in nature: 0.8094289898872375
+    Grass: 0.7943534851074219
