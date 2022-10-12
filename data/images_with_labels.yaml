@@ -15858,3 +15858,29 @@ items:
     Biome: 0.8316072225570679
     People in nature: 0.8094289898872375
     Grass: 0.7943534851074219
+- :image_url: https://live.staticflickr.com/65535/52197719660_c2b9e5a55d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9804620742797852
+    Plant: 0.9547356367111206
+    Petal: 0.9111636877059937
+    Botany: 0.8761446475982666
+    Terrestrial plant: 0.8493496775627136
+    Groundcover: 0.7911942005157471
+    Flowering plant: 0.7249552011489868
+    Shrub: 0.6838619709014893
+    Subshrub: 0.6778907179832458
+    Tree: 0.6654112339019775
+- :image_url: https://live.staticflickr.com/65535/51112888993_f2aecfc7a5_b.jpg
+  :description: TBD OK
+  :labels:
+    Flower: 0.9794824719429016
+    Sky: 0.9757893085479736
+    Plant: 0.9636117815971375
+    Tree: 0.8751904964447021
+    Branch: 0.8670710325241089
+    Twig: 0.861712634563446
+    Flowering plant: 0.7818905711174011
+    Petal: 0.7414223551750183
+    Terrestrial plant: 0.730204701423645
+    Blossom: 0.7275649905204773
