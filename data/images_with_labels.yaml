@@ -15884,3 +15884,29 @@ items:
     Petal: 0.7414223551750183
     Terrestrial plant: 0.730204701423645
     Blossom: 0.7275649905204773
+- :image_url: https://live.staticflickr.com/65535/50688986783_a1592e6b29_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9779387712478638
+    Plant: 0.9608392715454102
+    Sky: 0.9438004493713379
+    Botany: 0.9036826491355896
+    Petal: 0.8964846134185791
+    Cloud: 0.8641588091850281
+    Flowering plant: 0.763653576374054
+    Groundcover: 0.7561049461364746
+    Building: 0.7545461058616638
+    Tree: 0.7524440884590149
+- :image_url: https://live.staticflickr.com/65535/51039172387_b761f222c8_b.jpg
+  :description: TBD OK
+  :labels:
+    Vertebrate: 0.9214098453521729
+    Nature: 0.9000149965286255
+    Branch: 0.8870550990104675
+    Plant: 0.879267156124115
+    Twig: 0.854150116443634
+    Mammal: 0.8537498116493225
+    Rodent: 0.846135139465332
+    Fawn: 0.8156852126121521
+    Squirrel: 0.815325140953064
+    Eurasian Red Squirrel: 0.8027456402778625
