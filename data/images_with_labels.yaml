@@ -15910,3 +15910,29 @@ items:
     Fawn: 0.8156852126121521
     Squirrel: 0.815325140953064
     Eurasian Red Squirrel: 0.8027456402778625
+- :image_url: https://live.staticflickr.com/263/31866112533_47319c78a0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9782572388648987
+    Sky: 0.9707195162773132
+    Plant: 0.9513459801673889
+    Road surface: 0.8820737600326538
+    Asphalt: 0.8641874194145203
+    Natural landscape: 0.8493815660476685
+    Tree: 0.8279574513435364
+    Street light: 0.8260449767112732
+    Woody plant: 0.8060595989227295
+    Thoroughfare: 0.7998855710029602
+- :image_url: https://live.staticflickr.com/406/31913680272_ca37d0540f_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9550732970237732
+    Natural landscape: 0.8760685324668884
+    Tree: 0.8581157326698303
+    Cloud: 0.796515703201294
+    Landscape: 0.7488424181938171
+    Grass: 0.7442524433135986
+    Horizon: 0.7404339909553528
+    Plant: 0.7343060374259949
+    Happy: 0.69202721118927
+    Grassland: 0.6629100441932678
