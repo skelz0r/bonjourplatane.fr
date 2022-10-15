@@ -15936,3 +15936,29 @@ items:
     Plant: 0.7343060374259949
     Happy: 0.69202721118927
     Grassland: 0.6629100441932678
+- :image_url: https://live.staticflickr.com/3120/2762588129_467334b9ff_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8750481605529785
+    Wood: 0.8735905289649963
+    Vegetation: 0.846147358417511
+    Plant: 0.844967246055603
+    Terrestrial plant: 0.8435544967651367
+    Twig: 0.8342680335044861
+    Trunk: 0.8333109617233276
+    Grass: 0.819490373134613
+    Groundcover: 0.7878128290176392
+    Grass family: 0.7533412575721741
+- :image_url: https://live.staticflickr.com/65535/49929814811_8a991e77f7_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.960795521736145
+    Plant: 0.901416003704071
+    Cloud: 0.8960878849029541
+    Natural landscape: 0.8888686895370483
+    Tree: 0.8562837243080139
+    Bedrock: 0.8389388918876648
+    Wood: 0.8127012848854065
+    Grass: 0.7930269241333008
+    Landscape: 0.7835564017295837
+    Horizon: 0.7805029153823853
