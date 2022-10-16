@@ -15962,3 +15962,29 @@ items:
     Grass: 0.7930269241333008
     Landscape: 0.7835564017295837
     Horizon: 0.7805029153823853
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9750099778175354
+    Plant: 0.9314269423484802
+    Petal: 0.860420823097229
+    Road surface: 0.8534506559371948
+    Organism: 0.8517209887504578
+    Vegetation: 0.8469789028167725
+    Asphalt: 0.8106375336647034
+    Groundcover: 0.7877508401870728
+    Flowering plant: 0.7502157092094421
+    Grass: 0.747093915939331
+- :image_url: https://live.staticflickr.com/8827/17733307451_9aed4625e5_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9566465020179749
+    Twig: 0.8632088899612427
+    Terrestrial plant: 0.8437396287918091
+    Natural landscape: 0.821917712688446
+    Tree: 0.8050190210342407
+    Flowering plant: 0.759303629398346
+    Electric blue: 0.7353019118309021
+    Temperate broadleaf and mixed forest: 0.669611394405365
+    Shrub: 0.6472103595733643
+    Arecales: 0.6103174090385437

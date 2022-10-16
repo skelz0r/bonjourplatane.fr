@@ -1,3 +1,3 @@
-![Clarisse](/images/2022-10-15.jpg)
+![Elliot](/images/2022-10-16.jpg)
 
-Crédits: [Jacquod1](https://www.flickr.com/people/136092478@N05/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
