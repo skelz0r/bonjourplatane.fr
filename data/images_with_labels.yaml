@@ -15988,3 +15988,29 @@ items:
     Temperate broadleaf and mixed forest: 0.669611394405365
     Shrub: 0.6472103595733643
     Arecales: 0.6103174090385437
+- :image_url: https://live.staticflickr.com/2794/4176262728_8000887e16_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9341979026794434
+    Vegetation: 0.8459984064102173
+    Terrestrial plant: 0.8111087679862976
+    Grass: 0.8078036308288574
+    Balloon: 0.787035346031189
+    Astronomical object: 0.7753621339797974
+    Grass family: 0.7609617710113525
+    Circle: 0.7368228435516357
+    Electricity: 0.7083330750465393
+    Twig: 0.6943333148956299
+- :image_url: https://live.staticflickr.com/1467/25444702984_17fc024870_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9600362181663513
+    Wood: 0.8603207468986511
+    Tree: 0.8596912622451782
+    Twig: 0.8531109690666199
+    Trunk: 0.829685628414154
+    Tree house: 0.7394770383834839
+    Building: 0.7104347944259644
+    Pole: 0.693632960319519
+    Leisure: 0.5744594931602478
+    Roof: 0.5517275929450989
