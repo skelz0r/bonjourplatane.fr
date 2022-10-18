@@ -16014,3 +16014,54 @@ items:
     Pole: 0.693632960319519
     Leisure: 0.5744594931602478
     Roof: 0.5517275929450989
+- :image_url: https://live.staticflickr.com/65535/51530310488_09389bd04c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9624378085136414
+    Branch: 0.8841819167137146
+    Vegetation: 0.8581146001815796
+    Twig: 0.8182216286659241
+    Terrestrial plant: 0.746452271938324
+    Flowering plant: 0.7315918803215027
+    Electric blue: 0.6547930240631104
+    Tree: 0.621364951133728
+    Plant stem: 0.5774171948432922
+- :image_url: https://live.staticflickr.com/65535/49737196821_f6d3b0e971_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9772957563400269
+    Plant: 0.9498826265335083
+    Petal: 0.8898845314979553
+    Groundcover: 0.7909056544303894
+    Shrub: 0.785429060459137
+    Flowering plant: 0.7541405558586121
+    Annual plant: 0.7263613939285278
+    Rose family: 0.7127846479415894
+    Subshrub: 0.6636344194412231
+    Herbaceous plant: 0.6505103707313538
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8855230212211609
+    Sky: 0.8768270015716553
+    Deciduous: 0.7880703806877136
+    Flowering plant: 0.7639373540878296
+    Twig: 0.7420429587364197
+    Subshrub: 0.691612720489502
+    Temperate broadleaf and mixed forest: 0.6276395916938782
+    Tints and shades: 0.6114389300346375
+    Annual plant: 0.5855468511581421
+    Plant stem: 0.5282941460609436
+- :image_url: https://live.staticflickr.com/1388/926360347_048b9af557_b.jpg
+  :description: TBD OK
+  :labels:
+    Natural landscape: 0.8827033638954163
+    Terrestrial plant: 0.8703259825706482
+    Twig: 0.8696382641792297
+    Wood: 0.8545219898223877
+    Tree: 0.8478412628173828
+    Trunk: 0.8419902920722961
+    Deciduous: 0.7973514795303345
+    Grass: 0.7708672285079956
+    Plant: 0.7274426221847534
+    Forest: 0.7197555899620056
