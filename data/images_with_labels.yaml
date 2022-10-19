@@ -16065,3 +16065,29 @@ items:
     Grass: 0.7708672285079956
     Plant: 0.7274426221847534
     Forest: 0.7197555899620056
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9801327586174011
+    Sky: 0.9687007665634155
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9255766272544861
+    Natural landscape: 0.8984315991401672
+    Sunlight: 0.8528869152069092
+    Electricity: 0.8499535322189331
+    Dusk: 0.8379175066947937
+    Afterglow: 0.836792528629303
+    Tree: 0.8355700969696045
+- :image_url: https://live.staticflickr.com/7613/16874644802_079c489900_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9443516135215759
+    Sky: 0.9425315856933594
+    Natural landscape: 0.8791790008544922
+    Tree: 0.8639835715293884
+    Rectangle: 0.8285291790962219
+    Terrestrial plant: 0.8140559792518616
+    Grass: 0.8011587262153625
+    Grassland: 0.7345796227455139
+    Landscape: 0.7077390551567078
+    Electric blue: 0.7041407227516174
