@@ -16091,3 +16091,16 @@ items:
     Grassland: 0.7345796227455139
     Landscape: 0.7077390551567078
     Electric blue: 0.7041407227516174
+- :image_url: https://live.staticflickr.com/2770/4193474184_73b87ecda3_b.jpg
+  :description: TBD OK
+  :labels:
+    Snow: 0.9299913644790649
+    Plant: 0.8929451704025269
+    Natural landscape: 0.8875525593757629
+    Tree: 0.8771002292633057
+    Wood: 0.8734058737754822
+    Branch: 0.8711299300193787
+    Twig: 0.8645467758178711
+    Trunk: 0.8396060466766357
+    Landscape: 0.7863886952400208
+    Sky: 0.7800418138504028
