@@ -16117,3 +16117,16 @@ items:
     Grass: 0.748343825340271
     Flowering plant: 0.7183153033256531
     Blossom: 0.6796979308128357
+- :image_url: https://live.staticflickr.com/65535/51873035948_17b5576ac5_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9666135311126709
+    Cloud: 0.9437724947929382
+    Branch: 0.8702223896980286
+    Twig: 0.8633290529251099
+    Natural landscape: 0.858102560043335
+    Tree: 0.8348321914672852
+    Trunk: 0.797268271446228
+    Deciduous: 0.7841383218765259
+    Grass: 0.7822959423065186
+    Flowering plant: 0.6915071606636047
