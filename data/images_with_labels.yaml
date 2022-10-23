@@ -16130,3 +16130,42 @@ items:
     Deciduous: 0.7841383218765259
     Grass: 0.7822959423065186
     Flowering plant: 0.6915071606636047
+- :image_url: https://live.staticflickr.com/7860/47239657172_751f3fdd7f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.979479193687439
+    Sky: 0.9616256952285767
+    Daytime: 0.9444535970687866
+    Building: 0.9433526992797852
+    Window: 0.9053643941879272
+    Sunlight: 0.8564627766609192
+    Watercourse: 0.8394380807876587
+    Plant: 0.8345292806625366
+    Bank: 0.8219577670097351
+    Tree: 0.814113199710846
+- :image_url: https://live.staticflickr.com/3224/3589072344_7bab591e07_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.8941112160682678
+    Natural landscape: 0.8823378682136536
+    Branch: 0.8740243315696716
+    Tree: 0.8172428607940674
+    Trunk: 0.7849283218383789
+    Deciduous: 0.7794265151023865
+    Plant: 0.7627898454666138
+    Tints and shades: 0.7289252281188965
+    People in nature: 0.7220815420150757
+    Terrestrial plant: 0.7195592522621155
+- :image_url: https://live.staticflickr.com/7570/15501148113_01a4fb6b52_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9697831869125366
+    Plant: 0.9623454213142395
+    Cloud: 0.9484648704528809
+    Tree: 0.9052665829658508
+    Natural landscape: 0.885857105255127
+    Branch: 0.8815771341323853
+    Twig: 0.8475122451782227
+    Trunk: 0.8175902962684631
+    Terrestrial plant: 0.811671793460846
+    Woody plant: 0.8015444874763489
