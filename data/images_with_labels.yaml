@@ -16169,3 +16169,55 @@ items:
     Trunk: 0.8175902962684631
     Terrestrial plant: 0.811671793460846
     Woody plant: 0.8015444874763489
+- :image_url: https://live.staticflickr.com/2850/33262212370_5ffb6bb80f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9684385657310486
+    Building: 0.9425978660583496
+    Azure: 0.8949411511421204
+    Window: 0.8786798715591431
+    World: 0.8633732795715332
+    Urban design: 0.8200961947441101
+    Tower block: 0.8099998235702515
+    Tree: 0.7982624173164368
+    Twig: 0.7890153527259827
+    Tints and shades: 0.7735565304756165
+- :image_url: https://live.staticflickr.com/65535/50820051896_47f65868cc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9781696200370789
+    Plant: 0.9609724283218384
+    Shrub: 0.8071010112762451
+    Grass: 0.8013702630996704
+    Tree: 0.7941780686378479
+    Groundcover: 0.7914879322052002
+    Flowering plant: 0.7753997445106506
+    Blossom: 0.7138188481330872
+    Subshrub: 0.7063114047050476
+    Forb: 0.6553630232810974
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9592413306236267
+    Flowerpot: 0.931354284286499
+    Houseplant: 0.9167672395706177
+    Citrus: 0.876437783241272
+    Rangpur: 0.8267121315002441
+    Vegetable: 0.7980079650878906
+    Flowering plant: 0.7689903974533081
+    Produce: 0.7189531922340393
+    Local food: 0.7111954689025879
+    Fruit: 0.7015185952186584
+- :image_url: https://live.staticflickr.com/65535/48741079593_a77fd23ec3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9643178582191467
+    Natural environment: 0.8945614695549011
+    Natural landscape: 0.8880739808082581
+    Branch: 0.8813376426696777
+    Vegetation: 0.8656737208366394
+    Tree: 0.8513443470001221
+    Sunlight: 0.8498738408088684
+    Atmospheric phenomenon: 0.8427984714508057
+    Biome: 0.8292266726493835
+    Deciduous: 0.8237974047660828
