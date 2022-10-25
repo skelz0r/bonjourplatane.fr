@@ -16221,3 +16221,16 @@ items:
     Atmospheric phenomenon: 0.8427984714508057
     Biome: 0.8292266726493835
     Deciduous: 0.8237974047660828
+- :image_url: https://live.staticflickr.com/1507/24423499241_acb3816d1f_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9814649224281311
+    Sky: 0.9745892286300659
+    World: 0.9198617339134216
+    Branch: 0.8841508626937866
+    Twig: 0.8715521097183228
+    Wood: 0.7909154295921326
+    Trunk: 0.7892358899116516
+    Tints and shades: 0.7733469605445862
+    Tree: 0.759350597858429
+    Building: 0.7477697134017944
