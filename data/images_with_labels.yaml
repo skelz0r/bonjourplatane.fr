@@ -16234,3 +16234,29 @@ items:
     Tints and shades: 0.7733469605445862
     Tree: 0.759350597858429
     Building: 0.7477697134017944
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9323165416717529
+    Plant: 0.9140900373458862
+    Tree: 0.8193044066429138
+    Grass: 0.7737201452255249
+    Shrub: 0.7645788788795471
+    Evergreen: 0.7564840912818909
+    Flowering plant: 0.727134108543396
+    Subshrub: 0.6679249405860901
+    Garden: 0.6105816960334778
+    Conifer: 0.6014812588691711
+- :image_url: https://live.staticflickr.com/589/21894785033_23c7d67321_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9793638586997986
+    Sky: 0.9719889760017395
+    Plant: 0.9709059000015259
+    Property: 0.9428853988647461
+    Building: 0.9290189743041992
+    Tree: 0.8841676115989685
+    Window: 0.8758641481399536
+    House: 0.8682408332824707
+    Natural landscape: 0.8651032447814941
+    Land lot: 0.8558847308158875
