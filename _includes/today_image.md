@@ -1,3 +1,3 @@
-![Ilan](/images/2022-10-26.jpg)
+![Mylan](/images/2022-10-27.jpg)
 
-Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr
+Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr

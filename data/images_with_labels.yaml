@@ -16260,3 +16260,55 @@ items:
     House: 0.8682408332824707
     Natural landscape: 0.8651032447814941
     Land lot: 0.8558847308158875
+- :image_url: https://live.staticflickr.com/65535/52197491774_d085e9a618_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9632723331451416
+    Plant: 0.9301372766494751
+    Petal: 0.8895270228385925
+    Twig: 0.8207780122756958
+    Flowering plant: 0.7558044791221619
+    Terrestrial plant: 0.724584698677063
+    Rose family: 0.699191689491272
+    Blossom: 0.6777981519699097
+    Rose order: 0.6474934816360474
+    Subshrub: 0.6213056445121765
+- :image_url: https://live.staticflickr.com/4834/44194477930_f5a22eeeac_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.922947883605957
+    Leaf: 0.9055800437927246
+    Terrestrial plant: 0.8392278552055359
+    Tree: 0.777714729309082
+    Fruit tree: 0.7316662669181824
+    Twig: 0.7278056740760803
+    Flowering plant: 0.7190247178077698
+    Fruit: 0.6306664347648621
+    Combretaceae: 0.5438596606254578
+    Plant stem: 0.5355261564254761
+- :image_url: https://live.staticflickr.com/3879/14555650740_2f03fdfaa6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9696906805038452
+    Plant community: 0.9326874017715454
+    Natural landscape: 0.8777438998222351
+    Branch: 0.8714870810508728
+    Twig: 0.8490633964538574
+    Tree: 0.8355231881141663
+    Sky: 0.828529953956604
+    Woody plant: 0.8070193529129028
+    Grass: 0.8051337599754333
+    Shrub: 0.7929257750511169
+- :image_url: https://live.staticflickr.com/3849/14867650775_512aa0f60d_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9784849286079407
+    Sky: 0.9597431421279907
+    Atmosphere: 0.9481807947158813
+    Plant: 0.915725827217102
+    Natural landscape: 0.895511269569397
+    Afterglow: 0.8925934433937073
+    Tree: 0.8779361248016357
+    Orange: 0.8644217252731323
+    Sunlight: 0.8459848165512085
+    Red sky at morning: 0.8414470553398132
