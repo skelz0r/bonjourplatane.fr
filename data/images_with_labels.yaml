@@ -16312,3 +16312,16 @@ items:
     Orange: 0.8644217252731323
     Sunlight: 0.8459848165512085
     Red sky at morning: 0.8414470553398132
+- :image_url: https://live.staticflickr.com/167/391372771_fa9f0dd5ac_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9723373651504517
+    Plant: 0.9630991816520691
+    Cloud: 0.957806408405304
+    Natural landscape: 0.8877091407775879
+    Larch: 0.8769292831420898
+    Branch: 0.8677495121955872
+    Tree: 0.8592744469642639
+    Evergreen: 0.8273693919181824
+    Trunk: 0.8232018947601318
+    Terrestrial plant: 0.8203719854354858

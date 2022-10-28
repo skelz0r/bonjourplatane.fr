@@ -1,3 +1,3 @@
-![Mylan](/images/2022-10-27.jpg)
+![Ewen](/images/2022-10-28.jpg)
 
-Crédits: [david palleja](https://www.flickr.com/people/davidpalleja/) on flickr
+Crédits: [PCB75](https://www.flickr.com/people/ainhoap/) on flickr
