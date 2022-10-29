@@ -16325,3 +16325,29 @@ items:
     Evergreen: 0.8273693919181824
     Trunk: 0.8232018947601318
     Terrestrial plant: 0.8203719854354858
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9193375706672668
+    Plant: 0.8500850200653076
+    Terrestrial plant: 0.8305993676185608
+    Flower: 0.8285137414932251
+    Twig: 0.799423098564148
+    Evergreen: 0.7925665378570557
+    Tree: 0.7720798254013062
+    Flowering plant: 0.7352328896522522
+    Fruit: 0.6836546659469604
+    Subshrub: 0.6580166220664978
+- :image_url: https://live.staticflickr.com/5648/23020049346_4a07d5926b_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9696935415267944
+    Plant: 0.9469909071922302
+    Plant community: 0.9311358332633972
+    Natural landscape: 0.8619888424873352
+    Tree: 0.8585816621780396
+    Land lot: 0.8428895473480225
+    Grass: 0.8050581216812134
+    Plain: 0.7790607213973999
+    Grassland: 0.774829626083374
+    Meadow: 0.7648615837097168
