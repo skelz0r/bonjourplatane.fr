@@ -1,3 +1,3 @@
-![Antoine](/images/2022-10-30.jpg)
+![Enora](/images/2022-10-31.jpg)
 
-Crédits: [bpmm](https://www.flickr.com/people/bpmm/) on flickr
+Crédits: [Christophe Sertelet](https://www.flickr.com/people/fotof/) on flickr
