@@ -16377,3 +16377,42 @@ items:
     Sunlight: 0.8522641062736511
     Atmospheric phenomenon: 0.8416862487792969
     Wood: 0.8341670036315918
+- :image_url: https://live.staticflickr.com/65535/49692909021_6cddff8812_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9735528230667114
+    Plant: 0.9589613080024719
+    Purple: 0.8999834060668945
+    Sky: 0.8400752544403076
+    Cloud: 0.8354582190513611
+    Shrub: 0.7914166450500488
+    Groundcover: 0.790079653263092
+    Flowering plant: 0.7597811818122864
+    Herbaceous plant: 0.7582441568374634
+    Subshrub: 0.6822600960731506
+- :image_url: https://live.staticflickr.com/65535/49692909021_6cddff8812_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9735528230667114
+    Plant: 0.9589613080024719
+    Purple: 0.8999834060668945
+    Sky: 0.8400752544403076
+    Cloud: 0.8354582190513611
+    Shrub: 0.7914166450500488
+    Groundcover: 0.790079653263092
+    Flowering plant: 0.7597811818122864
+    Herbaceous plant: 0.7582441568374634
+    Subshrub: 0.6822600960731506
+- :image_url: https://live.staticflickr.com/2882/33841792862_06b8ff64ed_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9686748385429382
+    Flower: 0.9632112383842468
+    Plant community: 0.9324687123298645
+    Tree: 0.873719334602356
+    Natural landscape: 0.873066246509552
+    Grass: 0.7917665839195251
+    Groundcover: 0.7912566661834717
+    Grassland: 0.7670113444328308
+    Shrub: 0.7662500143051147
+    Landscape: 0.7624096274375916
