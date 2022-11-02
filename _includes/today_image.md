@@ -1,3 +1,3 @@
-![Quentin](/images/2022-11-01.jpg)
+![Léandro](/images/2022-11-02.jpg)
 
-Crédits: [Jordi Domènech i Arnau](https://www.flickr.com/people/ziol/) on flickr
+Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr

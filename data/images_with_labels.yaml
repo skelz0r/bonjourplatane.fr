@@ -16416,3 +16416,16 @@ items:
     Grassland: 0.7670113444328308
     Shrub: 0.7662500143051147
     Landscape: 0.7624096274375916
+- :image_url: https://live.staticflickr.com/5730/23754575312_06a1348b87_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9707076549530029
+    Sky: 0.9688817262649536
+    Colorfulness: 0.9619269967079163
+    Cloud: 0.9426577687263489
+    Building: 0.9001399278640747
+    Natural landscape: 0.899689793586731
+    Leaf: 0.8916044235229492
+    Tree: 0.8899872899055481
+    Branch: 0.8757414817810059
+    Window: 0.8612381815910339
