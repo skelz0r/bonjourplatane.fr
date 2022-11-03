@@ -16429,3 +16429,48 @@ items:
     Tree: 0.8899872899055481
     Branch: 0.8757414817810059
     Window: 0.8612381815910339
+- :image_url: https://live.staticflickr.com/65535/49893977476_749c2589c0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Terrestrial plant: 0.8268963694572449
+    Natural foods: 0.796667218208313
+    Flowering plant: 0.7216259837150574
+- :image_url: https://live.staticflickr.com/3854/14533563332_36df8094eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9373736381530762
+    Wood: 0.8458003997802734
+    Grass: 0.8043541312217712
+    Terrestrial plant: 0.8042858242988586
+    Bird: 0.8038904070854187
+    Natural landscape: 0.7781458497047424
+    Beak: 0.7635442614555359
+    Trunk: 0.7492595911026001
+    Groundcover: 0.7261733412742615
+    Terrestrial animal: 0.7250828146934509
+- :image_url: https://live.staticflickr.com/3936/33869773021_cb51f4f862_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9666622281074524
+    Sky: 0.9656562209129333
+    Plant: 0.9408612847328186
+    Plant community: 0.9346074461936951
+    Tree: 0.8390147686004639
+    Shrub: 0.7847588658332825
+    Flowering plant: 0.7691409587860107
+    Blossom: 0.7619187235832214
+    Groundcover: 0.7063109278678894
+    Terrestrial plant: 0.7052518129348755
+- :image_url: https://live.staticflickr.com/26/43325743_10163208b9_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9732193946838379
+    Mountain: 0.9510613083839417
+    Plant: 0.950922966003418
+    Natural landscape: 0.8825605511665344
+    Tree: 0.8698945641517639
+    Atmospheric phenomenon: 0.8455802202224731
+    Wood: 0.8278763294219971
+    Trunk: 0.8112151026725769
+    Terrain: 0.8070940971374512
+    Twig: 0.8057808876037598
