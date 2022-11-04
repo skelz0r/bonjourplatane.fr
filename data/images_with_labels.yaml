@@ -16474,3 +16474,67 @@ items:
     Trunk: 0.8112151026725769
     Terrain: 0.8070940971374512
     Twig: 0.8057808876037598
+- :image_url: https://live.staticflickr.com/937/42968893484_13a7256561_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9746049046516418
+    Sky: 0.9393273591995239
+    Plant: 0.9142541885375977
+    Petal: 0.8287190198898315
+    Flowering plant: 0.7412676215171814
+    Shrub: 0.7138758897781372
+    Blossom: 0.6988365054130554
+    Terrestrial plant: 0.6197094917297363
+    Annual plant: 0.6136152148246765
+    Tree: 0.589360237121582
+- :image_url: https://live.staticflickr.com/65535/49412428363_9e4c3599e5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9662355184555054
+    Plant: 0.9560907483100891
+    Sky: 0.8917968273162842
+    Flowering plant: 0.7380698323249817
+    Electric blue: 0.6553016304969788
+    Twig: 0.6120398640632629
+    Rectangle: 0.5606906414031982
+    Art: 0.532048225402832
+    Annual plant: 0.5279487371444702
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.980351448059082
+    Plant: 0.9647651314735413
+    Petal: 0.8559961915016174
+    Terrestrial plant: 0.8350774645805359
+    Flowering plant: 0.7642140984535217
+    Groundcover: 0.6788396835327148
+    Subshrub: 0.6628201007843018
+    Lantana: 0.6210480332374573
+    Lantana camara: 0.5903154015541077
+    Annual plant: 0.5663594603538513
+- :image_url: https://live.staticflickr.com/3879/14555650740_2f03fdfaa6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9696906805038452
+    Plant community: 0.9326874017715454
+    Natural landscape: 0.8777438998222351
+    Branch: 0.8714870810508728
+    Twig: 0.8490633964538574
+    Tree: 0.8355231881141663
+    Sky: 0.828529953956604
+    Woody plant: 0.8070193529129028
+    Grass: 0.8051337599754333
+    Shrub: 0.7929257750511169
+- :image_url: https://live.staticflickr.com/3060/2866231692_c14a520281_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9723028540611267
+    Plant: 0.9589937329292297
+    Cloud: 0.9290347099304199
+    Natural landscape: 0.8936918377876282
+    Twig: 0.87807297706604
+    People in nature: 0.877405047416687
+    Branch: 0.8680108189582825
+    Tree: 0.8599349856376648
+    Trunk: 0.8534876108169556
+    Grass: 0.8228818774223328
