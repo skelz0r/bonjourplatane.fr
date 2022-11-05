@@ -16538,3 +16538,68 @@ items:
     Tree: 0.8599349856376648
     Trunk: 0.8534876108169556
     Grass: 0.8228818774223328
+- :image_url: https://live.staticflickr.com/65535/47055883214_a0ab875a48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.979870080947876
+    Plant: 0.9592688083648682
+    Leaf: 0.8973545432090759
+    Botany: 0.8941346406936646
+    Terrestrial plant: 0.817615807056427
+    Tree: 0.8005346655845642
+    Flowering plant: 0.7666540741920471
+    Silk tree: 0.7375551462173462
+    Myrtle family: 0.6459218263626099
+    Shrub: 0.6327707171440125
+- :image_url: https://live.staticflickr.com/65535/51825904404_faa3f22fed_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9698519706726074
+    Plant: 0.9411816000938416
+    Car: 0.9385770559310913
+    Cloud: 0.9166183471679688
+    Leaf: 0.8938299417495728
+    Branch: 0.8853094577789307
+    Wheel: 0.8837284445762634
+    Road surface: 0.8631276488304138
+    Tree: 0.8624944686889648
+    Orange: 0.8624377846717834
+- :image_url: https://live.staticflickr.com/65535/48101244531_ba7267e997_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9799472689628601
+    Sky: 0.9198024868965149
+    Branch: 0.8895040154457092
+    Fruit: 0.8751219511032104
+    Flowering plant: 0.7840672135353088
+    Fruit tree: 0.7617188692092896
+    Rose family: 0.7435256242752075
+    Produce: 0.7398514747619629
+    Plant: 0.7052011489868164
+    Tree: 0.6960800886154175
+- :image_url: https://live.staticflickr.com/65535/49528877778_04976c7116_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9809480309486389
+    Sky: 0.9702049493789673
+    Plant: 0.9578583240509033
+    Natural landscape: 0.8793352842330933
+    Grass: 0.8106864094734192
+    Twig: 0.8009875416755676
+    Tree: 0.789963960647583
+    Plain: 0.7881115078926086
+    Cumulus: 0.7816689014434814
+    Landscape: 0.7748842835426331
+- :image_url: https://live.staticflickr.com/8774/16868223548_9c0f1e453d_b.jpg
+  :description: TBD OK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8726722598075867
+    Twig: 0.8663529753684998
+    Trunk: 0.8343920111656189
+    Sky: 0.7888556718826294
+    Tree: 0.773522675037384
+    Deciduous: 0.7722442746162415
+    Tints and shades: 0.6326684355735779
+    Terrestrial plant: 0.6245418787002563
+    Woodland: 0.6063010096549988
