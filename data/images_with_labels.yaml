@@ -16603,3 +16603,16 @@ items:
     Tints and shades: 0.6326684355735779
     Terrestrial plant: 0.6245418787002563
     Woodland: 0.6063010096549988
+- :image_url: https://live.staticflickr.com/5050/5353515593_77b0039ac5_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9242730736732483
+    Black: 0.8973082900047302
+    Branch: 0.8906963467597961
+    Natural landscape: 0.8815081715583801
+    Twig: 0.8755509853363037
+    Tree: 0.8674361109733582
+    Trunk: 0.8486425280570984
+    Black-and-white: 0.8447886109352112
+    Grey: 0.8406098484992981
+    Sky: 0.8353646397590637

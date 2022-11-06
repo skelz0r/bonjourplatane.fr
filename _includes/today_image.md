@@ -1,3 +1,3 @@
-![Solène](/images/2022-11-05.jpg)
+![Clémentine](/images/2022-11-06.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [J-M Linder](https://www.flickr.com/people/jmverco/) on flickr
