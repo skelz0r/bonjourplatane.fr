@@ -16616,3 +16616,55 @@ items:
     Black-and-white: 0.8447886109352112
     Grey: 0.8406098484992981
     Sky: 0.8353646397590637
+- :image_url: https://live.staticflickr.com/7608/16267381663_a520503d6b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Train: 0.9745687246322632
+    Plant: 0.9543084502220154
+    Rolling stock: 0.9236426949501038
+    Vehicle: 0.9030873775482178
+    Track: 0.9007024765014648
+    Leaf: 0.8965122103691101
+    Branch: 0.8770676851272583
+    Railway: 0.8727376461029053
+    Mode of transport: 0.8595308661460876
+    Wood: 0.8561244010925293
+- :image_url: https://live.staticflickr.com/5591/30743441621_9a4efc8701_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765449166297913
+    Sky: 0.9733182191848755
+    Plant: 0.9382578134536743
+    Botany: 0.8742178082466125
+    Tree: 0.8068698048591614
+    Terrestrial plant: 0.804923951625824
+    Flowering plant: 0.7480677962303162
+    Shrub: 0.639371931552887
+    Pole: 0.6221533417701721
+    Wildflower: 0.571724534034729
+- :image_url: https://live.staticflickr.com/3879/14555650740_2f03fdfaa6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9696906805038452
+    Plant community: 0.9326874017715454
+    Natural landscape: 0.8777438998222351
+    Branch: 0.8714870810508728
+    Twig: 0.8490633964538574
+    Tree: 0.8355231881141663
+    Sky: 0.828529953956604
+    Woody plant: 0.8070193529129028
+    Grass: 0.8051337599754333
+    Shrub: 0.7929257750511169
+- :image_url: https://live.staticflickr.com/2663/3955709032_13fc290eee_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9836922287940979
+    Sky: 0.976527750492096
+    Plant: 0.9641416668891907
+    Atmosphere: 0.9481807947158813
+    Daytime: 0.9445682764053345
+    Azure: 0.8968307375907898
+    Natural landscape: 0.887503981590271
+    Tree: 0.8738776445388794
+    Sunlight: 0.8472201228141785
+    Highland: 0.8436130285263062
