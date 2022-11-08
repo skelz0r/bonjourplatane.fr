@@ -1,3 +1,3 @@
-![Manon](/images/2022-11-07.jpg)
+![Yanis](/images/2022-11-08.jpg)
 
-Crédits: [Matthieu Luna](https://www.flickr.com/people/m0ietcesttout/) on flickr
+Crédits: [Mireille Muggianu](https://www.flickr.com/people/mimuggianu/) on flickr

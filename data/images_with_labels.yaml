@@ -16668,3 +16668,42 @@ items:
     Tree: 0.8738776445388794
     Sunlight: 0.8472201228141785
     Highland: 0.8436130285263062
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8994207978248596
+    Orange: 0.8630223274230957
+    Sunlight: 0.8433071374893188
+    Plant: 0.8016929030418396
+    Natural landscape: 0.7899776101112366
+    Tints and shades: 0.7637435793876648
+    Deciduous: 0.7098224759101868
+    Wood: 0.7074865698814392
+    Close-up: 0.7041730284690857
+    Terrestrial plant: 0.7009393572807312
+- :image_url: https://live.staticflickr.com/7062/6899196568_0c8c94faa0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9670072197914124
+    Natural landscape: 0.8720419406890869
+    Branch: 0.8715497851371765
+    Rectangle: 0.8642319440841675
+    Slope: 0.8410678505897522
+    Trunk: 0.8347352147102356
+    Snow: 0.8144544363021851
+    Tree: 0.8097936511039734
+    Wood: 0.7883060574531555
+    Tints and shades: 0.7737265229225159
+- :image_url: https://live.staticflickr.com/7302/10674941926_b682a61d71_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9155691862106323
+    Mountain: 0.9065850973129272
+    Tree: 0.8565878868103027
+    Bedrock: 0.8355571627616882
+    Highland: 0.8352339267730713
+    Terrain: 0.8169685006141663
+    Natural landscape: 0.792818009853363
+    Landscape: 0.7636802792549133
+    Formation: 0.756987452507019
+    Slope: 0.7536304593086243
