@@ -16707,3 +16707,55 @@ items:
     Landscape: 0.7636802792549133
     Formation: 0.756987452507019
     Slope: 0.7536304593086243
+- :image_url: https://live.staticflickr.com/65535/51672798692_fce8a3038b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant community: 0.9330211281776428
+    Natural landscape: 0.8688716292381287
+    Terrestrial plant: 0.8685365915298462
+    Branch: 0.8671700954437256
+    Bedrock: 0.8522264957427979
+    Watercourse: 0.8398125767707825
+    Trunk: 0.8247323632240295
+    Formation: 0.797184944152832
+    Groundcover: 0.7845693826675415
+    Landscape: 0.7758050560951233
+- :image_url: https://live.staticflickr.com/636/22279065116_ecf0b46762_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9787704944610596
+    Sky: 0.9732499122619629
+    Water: 0.9723950624465942
+    Daytime: 0.9446401596069336
+    Blue: 0.9205237627029419
+    Natural landscape: 0.8993667364120483
+    Azure: 0.8948400020599365
+    Natural environment: 0.8883346319198608
+    Branch: 0.8833977580070496
+    Wood: 0.8688898086547852
+- :image_url: https://live.staticflickr.com/65535/51508211364_fd911fca80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.976620614528656
+    Cloud: 0.9757065773010254
+    Plant: 0.9398832321166992
+    Natural landscape: 0.8733679056167603
+    Larch: 0.8401972651481628
+    People in nature: 0.8047171235084534
+    Wood: 0.8022866249084473
+    Grass: 0.7996889352798462
+    Mountainous landforms: 0.7886145710945129
+    Trunk: 0.787216067314148
+- :image_url: https://live.staticflickr.com/8062/8192059983_772ea70550_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9466119408607483
+    People in nature: 0.9133253693580627
+    Natural landscape: 0.9019258618354797
+    Wood: 0.8946373462677002
+    Natural environment: 0.8895081281661987
+    Tree: 0.8880594372749329
+    Twig: 0.8750972747802734
+    Trunk: 0.8607079386711121
+    Sunlight: 0.8555712699890137
+    Vegetation: 0.8519980311393738

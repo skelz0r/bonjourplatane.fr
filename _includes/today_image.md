@@ -1,3 +1,3 @@
-![Yanis](/images/2022-11-08.jpg)
+![Jules](/images/2022-11-09.jpg)
 
-Crédits: [Mireille Muggianu](https://www.flickr.com/people/mimuggianu/) on flickr
+Crédits: [annegbt](https://www.flickr.com/people/gbta/) on flickr
