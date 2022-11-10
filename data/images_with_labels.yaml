@@ -16759,3 +16759,29 @@ items:
     Trunk: 0.8607079386711121
     Sunlight: 0.8555712699890137
     Vegetation: 0.8519980311393738
+- :image_url: https://live.staticflickr.com/65535/47055883214_a0ab875a48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.979870080947876
+    Plant: 0.9592688083648682
+    Leaf: 0.8973545432090759
+    Botany: 0.8941346406936646
+    Terrestrial plant: 0.817615807056427
+    Tree: 0.8005346655845642
+    Flowering plant: 0.7666540741920471
+    Silk tree: 0.7375551462173462
+    Myrtle family: 0.6459218263626099
+    Shrub: 0.6327707171440125
+- :image_url: https://live.staticflickr.com/65535/51407946289_dbb49261c1_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9595290422439575
+    Sky: 0.9591426849365234
+    Plant: 0.9554911255836487
+    Flower: 0.9447189569473267
+    Plant community: 0.9304192066192627
+    Natural landscape: 0.8897077441215515
+    Tree: 0.8702342510223389
+    Grass: 0.8115596771240234
+    Shrub: 0.8050723671913147
+    Herbaceous plant: 0.7944675087928772
