@@ -16785,3 +16785,29 @@ items:
     Grass: 0.8115596771240234
     Shrub: 0.8050723671913147
     Herbaceous plant: 0.7944675087928772
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9777316451072693
+    Water resources: 0.9479654431343079
+    Plant: 0.9180870652198792
+    Natural landscape: 0.9049686789512634
+    Leaf: 0.892190158367157
+    Natural environment: 0.8899593353271484
+    Fluvial landforms of streams: 0.8884572982788086
+    Branch: 0.8720207810401917
+    Vegetation: 0.8566482067108154
+    Sunlight: 0.8500645160675049
+- :image_url: https://live.staticflickr.com/65535/52405577341_bf9881024f_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9635593891143799
+    Tree: 0.8914291858673096
+    Natural landscape: 0.8913140296936035
+    Terrestrial plant: 0.8676085472106934
+    Trunk: 0.8014029860496521
+    Groundcover: 0.7909871339797974
+    Deciduous: 0.77826988697052
+    Landscape: 0.7580941915512085
+    Shrub: 0.7397650480270386
+    Grass: 0.7312998175621033
