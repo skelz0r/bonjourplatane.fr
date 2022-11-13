@@ -16965,3 +16965,16 @@ items:
     Flowering plant: 0.7099043130874634
     Plant stem: 0.5944594740867615
     Shrub: 0.5515053272247314
+- :image_url: https://live.staticflickr.com/150/336151743_c233321d5b_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9735627174377441
+    Sky: 0.972514808177948
+    Atmosphere: 0.9481807947158813
+    Plant: 0.9466548562049866
+    Daytime: 0.9442364573478699
+    Natural landscape: 0.9018163084983826
+    Snow: 0.8993800282478333
+    Azure: 0.8984321355819702
+    Branch: 0.8892414569854736
+    Tree: 0.8741599321365356
