@@ -16978,3 +16978,29 @@ items:
     Azure: 0.8984321355819702
     Branch: 0.8892414569854736
     Tree: 0.8741599321365356
+- :image_url: https://live.staticflickr.com/65535/51255221993_d34ffd6095_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.975073516368866
+    Plant: 0.9347518682479858
+    Petal: 0.8819493651390076
+    Flowering plant: 0.7567581534385681
+    Annual plant: 0.7218416333198547
+    Close-up: 0.716195285320282
+    Terrestrial plant: 0.7101338505744934
+    Subshrub: 0.6495417356491089
+    Wildflower: 0.6139171123504639
+    Lantana: 0.5756518840789795
+- :image_url: https://live.staticflickr.com/65535/49741990127_8642146724_b.jpg
+  :description: TBD OK
+  :labels:
+    Water: 0.9482377171516418
+    Natural landscape: 0.88902747631073
+    Sky: 0.8871548771858215
+    Tree: 0.8865284323692322
+    Twig: 0.8809150457382202
+    Trunk: 0.868149995803833
+    Wood: 0.8604035377502441
+    Plant: 0.8110036253929138
+    Landscape: 0.7955235838890076
+    Tints and shades: 0.7725141644477844
