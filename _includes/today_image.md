@@ -1,3 +1,3 @@
-![Jean](/images/2022-11-15.jpg)
+![Anna](/images/2022-11-16.jpg)
 
-Crédits: [sidcamelot](https://www.flickr.com/people/sidcamelot/) on flickr
+Crédits: [Mireille Muggianu](https://www.flickr.com/people/mimuggianu/) on flickr

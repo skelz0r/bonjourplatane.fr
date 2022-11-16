@@ -17121,3 +17121,68 @@ items:
     Lake: 0.8684785962104797
     Vegetation: 0.8553097248077393
     Fluvial landforms of streams: 0.8300890326499939
+- :image_url: https://live.staticflickr.com/7540/15371960273_4362a62798_b.jpg
+  :description: TBD NOK
+  :labels:
+    Natural environment: 0.8922033309936523
+    Plant: 0.8876402378082275
+    Wood: 0.8840386867523193
+    Botany: 0.8837887048721313
+    Branch: 0.8832558393478394
+    Organism: 0.8628531694412231
+    Terrestrial plant: 0.8556044101715088
+    Grass: 0.8487657904624939
+    Trunk: 0.8460882306098938
+    Natural landscape: 0.8425207138061523
+- :image_url: https://live.staticflickr.com/1936/44936369274_eeeb14d959_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.982241153717041
+    Plant: 0.9644924998283386
+    Botany: 0.904262125492096
+    Petal: 0.892076313495636
+    Terrestrial plant: 0.8555796146392822
+    Red: 0.8153445720672607
+    Flowering plant: 0.7680872082710266
+    Water: 0.7577961683273315
+    Hybrid tea rose: 0.7407848238945007
+    Rose family: 0.6993465423583984
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9712855815887451
+    Branch: 0.8677400946617126
+    Plant: 0.834669291973114
+    Fruit: 0.8310542702674866
+    Tree: 0.8303239941596985
+    Woody plant: 0.8046674728393555
+    Twig: 0.7896245718002319
+    Flowering plant: 0.7628211379051208
+    Produce: 0.7350234985351562
+    Fruit tree: 0.7270416617393494
+- :image_url: https://live.staticflickr.com/65535/51508211364_fd911fca80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.976620614528656
+    Cloud: 0.9757065773010254
+    Plant: 0.9398832321166992
+    Natural landscape: 0.8733679056167603
+    Larch: 0.8401972651481628
+    People in nature: 0.8047171235084534
+    Wood: 0.8022866249084473
+    Grass: 0.7996889352798462
+    Mountainous landforms: 0.7886145710945129
+    Trunk: 0.787216067314148
+- :image_url: https://live.staticflickr.com/5186/5646064692_a6ff9213f5_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9572628140449524
+    Atmosphere: 0.9481807947158813
+    Fog: 0.8984652161598206
+    Natural landscape: 0.8957734704017639
+    Wood: 0.8794969916343689
+    Branch: 0.8768442869186401
+    Tree: 0.8711705803871155
+    Atmospheric phenomenon: 0.8580922484397888
+    Trunk: 0.8560534119606018
+    Twig: 0.8547020554542542
