@@ -17186,3 +17186,68 @@ items:
     Atmospheric phenomenon: 0.8580922484397888
     Trunk: 0.8560534119606018
     Twig: 0.8547020554542542
+- :image_url: https://live.staticflickr.com/3879/14555650740_2f03fdfaa6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9696906805038452
+    Plant community: 0.9326874017715454
+    Natural landscape: 0.8777438998222351
+    Branch: 0.8714870810508728
+    Twig: 0.8490633964538574
+    Tree: 0.8355231881141663
+    Sky: 0.828529953956604
+    Woody plant: 0.8070193529129028
+    Grass: 0.8051337599754333
+    Shrub: 0.7929257750511169
+- :image_url: https://live.staticflickr.com/7371/13999300000_590a5b278c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9777316451072693
+    Water resources: 0.9479654431343079
+    Plant: 0.9180870652198792
+    Natural landscape: 0.9049686789512634
+    Leaf: 0.892190158367157
+    Natural environment: 0.8899593353271484
+    Fluvial landforms of streams: 0.8884572982788086
+    Branch: 0.8720207810401917
+    Vegetation: 0.8566482067108154
+    Sunlight: 0.8500645160675049
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8303652405738831
+    Sky: 0.7795426845550537
+    Wood: 0.7734814882278442
+    Tints and shades: 0.771244466304779
+    Natural landscape: 0.7701533436775208
+    Deciduous: 0.7122373580932617
+    Plant: 0.7087511420249939
+    Macro photography: 0.6496936082839966
+    Flowering plant: 0.6418043971061707
+    Peach: 0.5807651877403259
+- :image_url: https://live.staticflickr.com/65535/50790264727_e3e2e61a4a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9772087335586548
+    Sky: 0.9700927734375
+    Twig: 0.8499153852462769
+    Natural landscape: 0.8184338808059692
+    Tree: 0.8017470836639404
+    Deciduous: 0.7795485258102417
+    Tints and shades: 0.7589654922485352
+    Flowering plant: 0.7498070001602173
+    Temperate broadleaf and mixed forest: 0.6870025992393494
+    Cumulus: 0.6117346882820129
+- :image_url: https://live.staticflickr.com/6094/6306433447_e92cee0021_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9526326656341553
+    Plant: 0.9521788358688354
+    Daytime: 0.9444165229797363
+    Cat: 0.9410761594772339
+    Branch: 0.8868466019630432
+    Carnivore: 0.8856027126312256
+    Felidae: 0.8821550011634827
+    Cloud: 0.8664092421531677
+    Twig: 0.8582821488380432
+    Small to medium-sized cats: 0.8551161885261536

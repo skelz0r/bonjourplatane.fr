@@ -1,3 +1,3 @@
-![Anna](/images/2022-11-16.jpg)
+![Romain](/images/2022-11-17.jpg)
 
-Crédits: [Mireille Muggianu](https://www.flickr.com/people/mimuggianu/) on flickr
+Crédits: [asmoth360](https://www.flickr.com/people/asmoth/) on flickr
