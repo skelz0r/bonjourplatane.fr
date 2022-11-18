@@ -17251,3 +17251,42 @@ items:
     Cloud: 0.8664092421531677
     Twig: 0.8582821488380432
     Small to medium-sized cats: 0.8551161885261536
+- :image_url: https://live.staticflickr.com/65535/52340438189_8406f0e798_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9482388496398926
+    Plant: 0.9470518231391907
+    Terrestrial plant: 0.8360554575920105
+    Tree: 0.7799972891807556
+    Flowering plant: 0.7646021246910095
+    Annual plant: 0.7392695546150208
+    Shrub: 0.7372843623161316
+    Magenta: 0.7005389928817749
+    Subshrub: 0.6971853375434875
+    Groundcover: 0.619887113571167
+- :image_url: https://live.staticflickr.com/7062/6899196568_0c8c94faa0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9669517278671265
+    Natural landscape: 0.8741418719291687
+    Branch: 0.8702446222305298
+    Rectangle: 0.8622202277183533
+    Slope: 0.8457706570625305
+    Trunk: 0.8329570889472961
+    Snow: 0.821029007434845
+    Tree: 0.8045617341995239
+    Wood: 0.7861771583557129
+    Tints and shades: 0.7737023830413818
+- :image_url: https://live.staticflickr.com/65535/50381419737_8374788463_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.897794783115387
+    Branch: 0.8767972588539124
+    Twig: 0.8575912117958069
+    Fruit: 0.839956521987915
+    Produce: 0.7442605495452881
+    Sky: 0.7407466173171997
+    Food: 0.7262631058692932
+    Terrestrial plant: 0.7166516780853271
+    Fruit tree: 0.70269775390625
+    Flowering plant: 0.6726734042167664
