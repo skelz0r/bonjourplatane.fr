@@ -17290,3 +17290,16 @@ items:
     Terrestrial plant: 0.7166516780853271
     Fruit tree: 0.70269775390625
     Flowering plant: 0.6726734042167664
+- :image_url: https://live.staticflickr.com/7008/6400356485_4a99aa01a3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9594506025314331
+    Food: 0.930853009223938
+    Leaf: 0.9089539647102356
+    Fruit: 0.9050616025924683
+    Flower: 0.898649275302887
+    Botany: 0.8982995748519897
+    Branch: 0.8930500745773315
+    Tree: 0.8827597498893738
+    Twig: 0.8718298673629761
+    Woody plant: 0.8167638778686523
