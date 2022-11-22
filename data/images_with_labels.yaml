@@ -17511,3 +17511,16 @@ items:
     Landscape: 0.7952203154563904
     Mountainous landforms: 0.7841600775718689
     Tints and shades: 0.7685705423355103
+- :image_url: https://live.staticflickr.com/5619/22336742160_b63efd93c1_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9781635999679565
+    Cloud: 0.9769511818885803
+    Water: 0.9765340089797974
+    Plant: 0.9656156897544861
+    Natural landscape: 0.8880401253700256
+    Orange: 0.875229001045227
+    Tree: 0.8701144456863403
+    Lake: 0.8473367691040039
+    Sunlight: 0.8427316546440125
+    House: 0.8360778093338013
