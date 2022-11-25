@@ -17808,3 +17808,29 @@ items:
     Trunk: 0.8632253408432007
     Vegetation: 0.8461166024208069
     Biome: 0.8278412818908691
+- :image_url: https://live.staticflickr.com/2290/2478269411_f9ecac5caf_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9736748337745667
+    Plant: 0.9504611492156982
+    Branch: 0.8686603903770447
+    Tree: 0.8468539714813232
+    Twig: 0.8247029781341553
+    Wood: 0.8100553154945374
+    Trunk: 0.808273196220398
+    Terrestrial plant: 0.8070433735847473
+    Natural landscape: 0.7856884598731995
+    Grass: 0.7694401741027832
+- :image_url: https://live.staticflickr.com/7856/47104632212_d81cb7923f_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.857924222946167
+    Twig: 0.8509859442710876
+    Terrestrial plant: 0.843828558921814
+    Wood: 0.8356297016143799
+    Natural landscape: 0.7460002303123474
+    Grass: 0.676304042339325
+    Macro photography: 0.6354189515113831
+    Natural material: 0.6227651238441467
+    Plant stem: 0.5934664607048035
+    Art: 0.5367298126220703
