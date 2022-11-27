@@ -18042,3 +18042,107 @@ items:
     Tints and shades: 0.772473931312561
     Electric blue: 0.7470268607139587
     Landscape: 0.7465102672576904
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9661407470703125
+    Plant: 0.9488763213157654
+    Terrestrial plant: 0.8332526087760925
+    Tree: 0.8196422457695007
+    Sky: 0.7790774703025818
+    Flowering plant: 0.7558102011680603
+    Twig: 0.6720431447029114
+    Shrub: 0.5494964122772217
+    Combretaceae: 0.5481845736503601
+    Caper family: 0.5207393765449524
+- :image_url: https://live.staticflickr.com/65535/49528877778_04976c7116_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9811694025993347
+    Sky: 0.9691832065582275
+    Plant: 0.9572516679763794
+    Natural landscape: 0.8796225786209106
+    Grass: 0.8063234686851501
+    Twig: 0.8020666241645813
+    Plain: 0.7872065901756287
+    Cumulus: 0.7839877009391785
+    Tree: 0.7838621735572815
+    Landscape: 0.7775653600692749
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8993091583251953
+    Orange: 0.8651362061500549
+    Organism: 0.8531398773193359
+    Plant: 0.8487317562103271
+    Sunlight: 0.8441221117973328
+    Natural landscape: 0.785213828086853
+    Tints and shades: 0.7642160058021545
+    Deciduous: 0.7199100255966187
+    Close-up: 0.70643150806427
+    Terrestrial plant: 0.7061686515808105
+- :image_url: https://live.staticflickr.com/65535/49349385402_983aa70f98_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9620184302330017
+    Cat: 0.9579681754112244
+    Carnivore: 0.8302077054977417
+    Grass: 0.8267629742622375
+    Wood: 0.8256780505180359
+    Whiskers: 0.8207665681838989
+    Tree: 0.8165141344070435
+    Small to medium-sized cats: 0.8063368201255798
+    Trunk: 0.7936903834342957
+    Groundcover: 0.7886955142021179
+- :image_url: https://live.staticflickr.com/7058/6858668121_cb003b7cf4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Membranophone: 0.9723543524742126
+    Musical instrument: 0.9471762776374817
+    Drum: 0.9365020394325256
+    Idiophone: 0.8906276226043701
+    Wood: 0.8884462118148804
+    Trunk: 0.8341249227523804
+    Percussion mallet: 0.8128824830055237
+    Drumhead: 0.7615879774093628
+    Grass: 0.7563244700431824
+    Percussion: 0.7457754015922546
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9717363119125366
+    Plant: 0.9568091034889221
+    Petal: 0.8759874701499939
+    Terrestrial plant: 0.8603054285049438
+    Grass: 0.8085249066352844
+    Evergreen: 0.8010507822036743
+    Groundcover: 0.790592610836029
+    Shrub: 0.7539108991622925
+    Flowering plant: 0.746407151222229
+    Annual plant: 0.7179603576660156
+- :image_url: https://live.staticflickr.com/65535/49313660753_48fa9dbf5b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9711240530014038
+    Plant: 0.9667242765426636
+    Plant community: 0.9336119890213013
+    Branch: 0.8713279962539673
+    Botany: 0.8704389929771423
+    Natural landscape: 0.8554288148880005
+    Grass: 0.8318437933921814
+    Tree: 0.8318294882774353
+    Woody plant: 0.8007539510726929
+    Groundcover: 0.7911269664764404
+- :image_url: https://live.staticflickr.com/65535/50625122972_3625e3c4c2_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.937904953956604
+    Plant: 0.9158435463905334
+    Nature: 0.8992804288864136
+    Branch: 0.8727614283561707
+    Natural landscape: 0.8698375225067139
+    Tree: 0.8654382824897766
+    Trunk: 0.8540823459625244
+    Twig: 0.8479822874069214
+    Wood: 0.8363354206085205
+    Black-and-white: 0.8359487652778625
