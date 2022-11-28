@@ -18146,3 +18146,29 @@ items:
     Twig: 0.8479822874069214
     Wood: 0.8363354206085205
     Black-and-white: 0.8359487652778625
+- :image_url: https://live.staticflickr.com/769/23858664681_d347676203_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9786087274551392
+    Water: 0.966525673866272
+    Plant: 0.963745653629303
+    Sky: 0.9629580974578857
+    Water resources: 0.9482023119926453
+    Natural landscape: 0.8908318877220154
+    Highland: 0.8621705770492554
+    Sunlight: 0.8621249794960022
+    Grass: 0.8418878316879272
+    Bank: 0.8185091018676758
+- :image_url: https://live.staticflickr.com/4035/4355184317_80df8e2496_b.jpg
+  :description: TBD OK
+  :labels:
+    Cat: 0.9589724540710449
+    Plant: 0.9362160563468933
+    Sky: 0.881114661693573
+    Felidae: 0.8811143040657043
+    Carnivore: 0.869794487953186
+    Tree: 0.8656179904937744
+    Small to medium-sized cats: 0.8450435400009155
+    Fawn: 0.8156265020370483
+    Whiskers: 0.8101447820663452
+    Twig: 0.8037025332450867
