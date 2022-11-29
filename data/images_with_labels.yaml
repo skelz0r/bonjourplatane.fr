@@ -18172,3 +18172,29 @@ items:
     Fawn: 0.8156265020370483
     Whiskers: 0.8101447820663452
     Twig: 0.8037025332450867
+- :image_url: https://live.staticflickr.com/65535/40752667473_9feab16a44_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9145873188972473
+    Fruit: 0.9029949307441711
+    Botany: 0.8784875273704529
+    Branch: 0.8705177903175354
+    Twig: 0.842351496219635
+    Berry: 0.8135223388671875
+    Woody plant: 0.8019776940345764
+    Fruit tree: 0.7641814947128296
+    Produce: 0.7450066208839417
+    Flowering plant: 0.7442999482154846
+- :image_url: https://live.staticflickr.com/5090/5254603151_a966a202d9_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9499841332435608
+    Snow: 0.9415064454078674
+    Building: 0.9220403432846069
+    Black: 0.8956338167190552
+    Branch: 0.8715553283691406
+    Tree: 0.867924153804779
+    Twig: 0.8617887496948242
+    Black-and-white: 0.8548294305801392
+    Style: 0.8379420042037964
+    Atmospheric phenomenon: 0.8182452321052551
