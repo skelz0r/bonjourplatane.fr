@@ -18418,3 +18418,55 @@ items:
     Tints and shades: 0.6660630106925964
     Event: 0.5917857885360718
     Plant stem: 0.5154956579208374
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9587526917457581
+    Flowerpot: 0.9308797121047974
+    Houseplant: 0.9182860255241394
+    Citrus: 0.8768846988677979
+    Rangpur: 0.8391491174697876
+    Vegetable: 0.7945476174354553
+    Flowering plant: 0.766972541809082
+    Produce: 0.7206984758377075
+    Fruit: 0.7073569297790527
+    Local food: 0.70201575756073
+- :image_url: https://live.staticflickr.com/7642/16326530704_dda2e226d5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8842418789863586
+    Plant: 0.8630940318107605
+    Trunk: 0.8310524821281433
+    Terrestrial plant: 0.8273614048957825
+    Natural material: 0.8249056935310364
+    Grass: 0.7927529811859131
+    Twig: 0.7540662884712219
+    Natural landscape: 0.7535293102264404
+    Hardwood: 0.7385308146476746
+    Groundcover: 0.7095242738723755
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9800916314125061
+    Sky: 0.9699597954750061
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9256687760353088
+    Natural landscape: 0.8988650441169739
+    Sunlight: 0.8514915108680725
+    Electricity: 0.8447604179382324
+    Tree: 0.8426970839500427
+    Afterglow: 0.8375821113586426
+    Red sky at morning: 0.8341471552848816
+- :image_url: https://live.staticflickr.com/2800/4099160864_3989786de8_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9286743998527527
+    Sky: 0.9261817932128906
+    Twig: 0.8781201839447021
+    Tree: 0.8560283780097961
+    Cloud: 0.823054313659668
+    Street light: 0.7950134873390198
+    Trunk: 0.7924036383628845
+    Deciduous: 0.7904679775238037
+    Flowering plant: 0.7313255071640015
+    Temperate broadleaf and mixed forest: 0.6781937479972839
