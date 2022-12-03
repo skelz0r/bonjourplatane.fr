@@ -18470,3 +18470,55 @@ items:
     Deciduous: 0.7904679775238037
     Flowering plant: 0.7313255071640015
     Temperate broadleaf and mixed forest: 0.6781937479972839
+- :image_url: https://live.staticflickr.com/65535/52340438189_8406f0e798_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.949070394039154
+    Plant: 0.9439477920532227
+    Terrestrial plant: 0.8367096185684204
+    Tree: 0.7736010551452637
+    Flowering plant: 0.7666338682174683
+    Annual plant: 0.7374652624130249
+    Shrub: 0.7371205687522888
+    Subshrub: 0.697747528553009
+    Magenta: 0.6910668611526489
+    Groundcover: 0.6259748339653015
+- :image_url: https://live.staticflickr.com/77/177956244_7e365b0b5a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Tree: 0.8161913752555847
+    Sky: 0.7845258712768555
+    Leisure: 0.77375727891922
+    Wood: 0.7690008282661438
+    Snapshot: 0.7428473830223083
+    Pole: 0.7270479798316956
+    City: 0.7007439732551575
+    Event: 0.69089275598526
+    Plant: 0.6867817044258118
+    Travel: 0.6715266704559326
+- :image_url: https://live.staticflickr.com/8345/8211755166_317792d414_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768665432929993
+    Plant: 0.920282781124115
+    Terrestrial plant: 0.8653848767280579
+    Tree: 0.8114389777183533
+    Flowering plant: 0.7820380926132202
+    Herbaceous plant: 0.6485067009925842
+    Annual plant: 0.5505685806274414
+    Broomrape: 0.5193324685096741
+    Amaranth family: 0.5170623064041138
+    Birch family: 0.5160603523254395
+- :image_url: https://live.staticflickr.com/7803/46453810704_f731aca79b_b.jpg
+  :description: TBD OK
+  :labels:
+    Bird: 0.9696345329284668
+    Twig: 0.8874129056930542
+    Branch: 0.8767404556274414
+    Plant: 0.8381847143173218
+    Beak: 0.8271335959434509
+    Wood: 0.7791399955749512
+    Feather: 0.7675513625144958
+    Songbird: 0.7575386762619019
+    Tree: 0.7468919157981873
+    Perching bird: 0.6806499361991882

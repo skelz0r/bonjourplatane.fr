@@ -1,3 +1,3 @@
-![Laly](/images/2022-12-01.jpg)
+![Julie](/images/2022-12-03.jpg)
 
-Crédits: [zigazou76](https://www.flickr.com/people/zigazou76/) on flickr
+Crédits: [Phil du Valois](https://www.flickr.com/people/37149125@N04/) on flickr
