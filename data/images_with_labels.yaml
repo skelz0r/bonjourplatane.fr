@@ -18522,3 +18522,29 @@ items:
     Songbird: 0.7575386762619019
     Tree: 0.7468919157981873
     Perching bird: 0.6806499361991882
+- :image_url: https://live.staticflickr.com/3854/14533563332_36df8094eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9372454881668091
+    Wood: 0.8463428616523743
+    Bird: 0.8295554518699646
+    Grass: 0.8053241968154907
+    Terrestrial plant: 0.8044883012771606
+    Beak: 0.7916635274887085
+    Natural landscape: 0.7750126719474792
+    Terrestrial animal: 0.7399949431419373
+    Trunk: 0.7331335544586182
+    Groundcover: 0.7220188975334167
+- :image_url: https://live.staticflickr.com/65535/52206334235_c5ffd005ac_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9563330411911011
+    Plant community: 0.9339969158172607
+    Flower: 0.9287810921669006
+    Natural landscape: 0.8843047022819519
+    Branch: 0.882689356803894
+    Tree: 0.8760926723480225
+    Grass: 0.8429932594299316
+    Woody plant: 0.8007408380508423
+    Groundcover: 0.7881578207015991
+    Shrub: 0.7846785187721252
