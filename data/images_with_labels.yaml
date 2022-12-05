@@ -18548,3 +18548,29 @@ items:
     Woody plant: 0.8007408380508423
     Groundcover: 0.7881578207015991
     Shrub: 0.7846785187721252
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9800916314125061
+    Sky: 0.9699597954750061
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9256687760353088
+    Natural landscape: 0.8988650441169739
+    Sunlight: 0.8514915108680725
+    Electricity: 0.8447604179382324
+    Tree: 0.8426970839500427
+    Afterglow: 0.8375821113586426
+    Red sky at morning: 0.8341471552848816
+- :image_url: https://live.staticflickr.com/59/217083998_c7f7054f96_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9687999486923218
+    Plant community: 0.9317758679389954
+    Tree: 0.8970053791999817
+    Natural landscape: 0.8865278363227844
+    Groundcover: 0.7894508838653564
+    Grass: 0.7731907963752747
+    Plain: 0.7723271250724792
+    Grassland: 0.7704489231109619
+    Herbaceous plant: 0.7697179317474365
+    Landscape: 0.7517957091331482
