@@ -18731,3 +18731,16 @@ items:
     Grey: 0.8438352346420288
     Atmospheric phenomenon: 0.8426454663276672
     Tree: 0.8085790276527405
+- :image_url: https://live.staticflickr.com/2656/4196217801_e8e24001e5_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9549697041511536
+    Atmosphere: 0.9481807947158813
+    Sky: 0.9151001572608948
+    Natural landscape: 0.8960148692131042
+    Wood: 0.8906188607215881
+    Twig: 0.884268045425415
+    Tree: 0.8807926774024963
+    Trunk: 0.8664920330047607
+    Deciduous: 0.8351544737815857
+    Dusk: 0.8281936645507812
