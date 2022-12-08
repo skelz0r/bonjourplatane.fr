@@ -1,3 +1,3 @@
-![Logan](/images/2022-12-07.jpg)
+![Damien](/images/2022-12-08.jpg)
 
-Crédits: [zigazou76](https://www.flickr.com/people/zigazou76/) on flickr
+Crédits: [Jeanne Menjoulet](https://www.flickr.com/people/jmenj/) on flickr
