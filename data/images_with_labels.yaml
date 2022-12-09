@@ -18757,3 +18757,55 @@ items:
     Twig: 0.8207036256790161
     Wood: 0.7942400574684143
     Cumulus: 0.7899864315986633
+- :image_url: https://live.staticflickr.com/65535/51510838272_8cb45ae8a8_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9794310927391052
+    Sky: 0.9720903038978577
+    Plant community: 0.9364574551582336
+    Plant: 0.9042866230010986
+    Mountain: 0.8857228755950928
+    Natural landscape: 0.8822258710861206
+    Bedrock: 0.874866783618927
+    Grass: 0.8110210299491882
+    Landscape: 0.7893483638763428
+    Grassland: 0.7867222428321838
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9802200794219971
+    Plant: 0.9646625518798828
+    Petal: 0.8555575609207153
+    Terrestrial plant: 0.8345927596092224
+    Flowering plant: 0.7698999643325806
+    Groundcover: 0.6905486583709717
+    Subshrub: 0.6610041260719299
+    Lantana: 0.6210865378379822
+    Lantana camara: 0.581693708896637
+    Annual plant: 0.5677840709686279
+- :image_url: https://live.staticflickr.com/7492/15146731424_ccbdce75fd_b.jpg
+  :description: TBD NOK
+  :labels:
+    Natural landscape: 0.8605523109436035
+    Plant: 0.8568188548088074
+    Trunk: 0.8398829102516174
+    Tree: 0.8367119431495667
+    Twig: 0.8224003911018372
+    Deciduous: 0.7839720845222473
+    Tints and shades: 0.7693090438842773
+    Flowering plant: 0.7401025891304016
+    Temperate broadleaf and mixed forest: 0.6976730227470398
+    Terrestrial plant: 0.6743641495704651
+- :image_url: https://live.staticflickr.com/65535/51815478065_27cdf41d45_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9676274061203003
+    Plant: 0.963424801826477
+    Cloud: 0.9546490907669067
+    Natural landscape: 0.8922281265258789
+    Twig: 0.8695389628410339
+    Wood: 0.8444117903709412
+    Dusk: 0.825736403465271
+    Tree: 0.8151208758354187
+    Grass: 0.8127297163009644
+    Grassland: 0.8080853819847107
