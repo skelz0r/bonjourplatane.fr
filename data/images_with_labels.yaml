@@ -18809,3 +18809,68 @@ items:
     Tree: 0.8151208758354187
     Grass: 0.8127297163009644
     Grassland: 0.8080853819847107
+- :image_url: https://live.staticflickr.com/937/42968893484_13a7256561_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9749959111213684
+    Sky: 0.9367846250534058
+    Plant: 0.9151005744934082
+    Petal: 0.8223705887794495
+    Flowering plant: 0.7423704862594604
+    Shrub: 0.7092879414558411
+    Blossom: 0.692654550075531
+    Annual plant: 0.6112087965011597
+    Terrestrial plant: 0.6060930490493774
+    Tree: 0.5902730822563171
+- :image_url: https://live.staticflickr.com/5789/21996107101_72e9ff062f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9792459011077881
+    Sky: 0.9734035134315491
+    Water: 0.9617419242858887
+    Plant: 0.9543088674545288
+    Natural landscape: 0.8911536335945129
+    Tree: 0.8483070731163025
+    Land lot: 0.8429272174835205
+    Lake: 0.8342322111129761
+    Bank: 0.8183197975158691
+    Grass: 0.797568678855896
+- :image_url: https://live.staticflickr.com/65535/50904700173_0ff7c9b09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9503452777862549
+    Twig: 0.8386476039886475
+    Tree: 0.827010452747345
+    Natural landscape: 0.8212683796882629
+    Wood: 0.8143144845962524
+    Art: 0.7930646538734436
+    Trunk: 0.7771528363227844
+    Snow: 0.772698700428009
+    Freezing: 0.7313233613967896
+    Event: 0.7139126062393188
+- :image_url: https://live.staticflickr.com/65535/51762919607_9f58aafe48_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.928650438785553
+    Food: 0.9171573519706726
+    Leaf: 0.8960833549499512
+    Fruit: 0.8951243162155151
+    Citrus: 0.8357607126235962
+    Tree: 0.8033055067062378
+    Produce: 0.7916098833084106
+    Fruit tree: 0.7889129519462585
+    Natural foods: 0.7700109481811523
+    Flower: 0.7497912645339966
+- :image_url: https://live.staticflickr.com/5836/22189155868_f8c856a1f8_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.955904483795166
+    Building: 0.9182021021842957
+    Sky: 0.9125819802284241
+    Tree: 0.8807123303413391
+    Natural landscape: 0.875913679599762
+    Wood: 0.829893171787262
+    Cottage: 0.8269292116165161
+    Shade: 0.8204328417778015
+    Grass: 0.7813954949378967
+    Landscape: 0.7802693843841553
