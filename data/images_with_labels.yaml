@@ -18887,3 +18887,68 @@ items:
     Snow: 0.8293082118034363
     Woody plant: 0.8074274063110352
     Wood: 0.8065534830093384
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9690719246864319
+    Plant: 0.8546339273452759
+    Fruit: 0.8440421223640442
+    Tree: 0.8263425230979919
+    Woody plant: 0.8049222826957703
+    Twig: 0.792995035648346
+    Flowering plant: 0.7642837166786194
+    Produce: 0.7413051128387451
+    Fruit tree: 0.7217167019844055
+    Natural foods: 0.710135817527771
+- :image_url: https://live.staticflickr.com/5726/30626214181_e612e2cde2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9773483872413635
+    Sky: 0.9742141366004944
+    Plant: 0.9318225383758545
+    Building: 0.9201931357383728
+    Tree: 0.8472307324409485
+    Street light: 0.8362478613853455
+    Road surface: 0.8058937191963196
+    Urban design: 0.7651082873344421
+    City: 0.7589035630226135
+    Road: 0.7473047375679016
+- :image_url: https://live.staticflickr.com/65535/51106126520_054f3a4035_b.jpg
+  :description: TBD NOK
+  :labels:
+    Tire: 0.9716165661811829
+    Wheel: 0.9669370055198669
+    Plant: 0.9487084150314331
+    Motor vehicle: 0.8997675180435181
+    Tree: 0.8919177651405334
+    Automotive tire: 0.8514823317527771
+    Vehicle: 0.8115996718406677
+    Art: 0.8054068684577942
+    Tints and shades: 0.7712564468383789
+    Paint: 0.7705622911453247
+- :image_url: https://live.staticflickr.com/2888/33489580192_2dafaed9c6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9700391292572021
+    Building: 0.8900403380393982
+    World: 0.8755092024803162
+    Twig: 0.8333129286766052
+    Wood: 0.8127676248550415
+    Tree: 0.7939344644546509
+    Urban design: 0.7930302619934082
+    Tints and shades: 0.7717447280883789
+    City: 0.7447624802589417
+    Facade: 0.7269424200057983
+- :image_url: https://live.staticflickr.com/65535/52402445040_c7054e0e53_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9610720276832581
+    Green: 0.9112493991851807
+    Natural landscape: 0.8747343420982361
+    Tree: 0.8729656338691711
+    Wood: 0.8703128695487976
+    Branch: 0.869922399520874
+    Terrestrial plant: 0.865117609500885
+    Trunk: 0.8564159274101257
+    Sunlight: 0.8425634503364563
+    Deciduous: 0.8095642328262329
