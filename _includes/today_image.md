@@ -1,3 +1,3 @@
-![Noe](/images/2022-12-14.jpg)
+![Mila](/images/2022-12-15.jpg)
 
-Crédits: [Gauthier V.](https://www.flickr.com/people/gvdmoort/) on flickr
+Crédits: [Pixelsfitter](https://www.flickr.com/people/pixelfitter/) on flickr
