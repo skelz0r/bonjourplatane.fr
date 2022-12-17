@@ -19199,3 +19199,107 @@ items:
     Tree: 0.8716005682945251
     Lake: 0.8566722869873047
     Sunlight: 0.8521867990493774
+- :image_url: https://live.staticflickr.com/641/23439905355_bac971e3b1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9789958000183105
+    Water: 0.9771389365196228
+    Sky: 0.9709634184837341
+    Plant: 0.9494707584381104
+    Natural landscape: 0.8994709849357605
+    Branch: 0.882357120513916
+    Sunrise: 0.851472795009613
+    Vegetation: 0.8498028516769409
+    Lake: 0.8476349115371704
+    Sunlight: 0.8456282019615173
+- :image_url: https://live.staticflickr.com/3010/2478269871_3684480a98_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9778281450271606
+    Sky: 0.9637669324874878
+    Atmosphere: 0.9481807947158813
+    Branch: 0.8857553601264954
+    Natural landscape: 0.877102792263031
+    Wood: 0.8708940744400024
+    Plant: 0.8584603667259216
+    Twig: 0.8484470248222351
+    Sunlight: 0.8414590954780579
+    Dusk: 0.8388466835021973
+- :image_url: https://live.staticflickr.com/65535/51808226302_bcbe141863_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9646944999694824
+    Sky: 0.9627466201782227
+    Natural landscape: 0.8968350887298584
+    Leaf: 0.8957933783531189
+    Natural environment: 0.8892883658409119
+    Cloud: 0.8686962723731995
+    Branch: 0.8680532574653625
+    Fence: 0.86104416847229
+    Water: 0.8504281044006348
+    Tree: 0.8437011241912842
+- :image_url: https://live.staticflickr.com/4834/44194477930_f5a22eeeac_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.920809805393219
+    Leaf: 0.9043313264846802
+    Terrestrial plant: 0.8360785841941833
+    Tree: 0.7836877107620239
+    Twig: 0.7258415222167969
+    Flowering plant: 0.7063848972320557
+    Fruit tree: 0.6952271461486816
+    Fruit: 0.6145462989807129
+    Combretaceae: 0.5387009978294373
+    Nettle family: 0.5330089926719666
+- :image_url: https://live.staticflickr.com/65535/50178910651_6901dcdef0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765986800193787
+    Plant: 0.9571693539619446
+    Tree: 0.819911539554596
+    Shrub: 0.7874212861061096
+    Groundcover: 0.7868435978889465
+    Flowering plant: 0.7842367887496948
+    Terrestrial plant: 0.7834342122077942
+    Grass: 0.7364458441734314
+    Subshrub: 0.7007428407669067
+    Wildflower: 0.674530565738678
+- :image_url: https://live.staticflickr.com/769/23858664681_d347676203_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9786087274551392
+    Water: 0.966525673866272
+    Plant: 0.963745653629303
+    Sky: 0.9629580974578857
+    Water resources: 0.9482023119926453
+    Natural landscape: 0.8908318877220154
+    Highland: 0.8621705770492554
+    Sunlight: 0.8621249794960022
+    Grass: 0.8418878316879272
+    Bank: 0.8185091018676758
+- :image_url: https://live.staticflickr.com/65535/51842129379_20c80621db_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9700738191604614
+    Plant: 0.9431053400039673
+    Leaf: 0.9009885787963867
+    Branch: 0.8777964115142822
+    Twig: 0.8181880712509155
+    Tree: 0.7944039702415466
+    Flowering plant: 0.7859168648719788
+    Fruit: 0.7211014032363892
+    Fruit tree: 0.6838622689247131
+    Buckthorn family: 0.5315234661102295
+- :image_url: https://live.staticflickr.com/65535/51118306517_8322e6f82d_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9622533917427063
+    Window: 0.9401293992996216
+    Plant: 0.9336906671524048
+    Building: 0.9182149171829224
+    Tree: 0.8731546401977539
+    Cloud: 0.8681521415710449
+    Twig: 0.8281891345977783
+    House: 0.8040145635604858
+    Facade: 0.7773730754852295
+    Cottage: 0.7496346235275269
