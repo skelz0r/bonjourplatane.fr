@@ -19303,3 +19303,107 @@ items:
     House: 0.8040145635604858
     Facade: 0.7773730754852295
     Cottage: 0.7496346235275269
+- :image_url: https://live.staticflickr.com/5454/17860182309_6fab1d85f2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Eye: 0.9363722801208496
+    Bird: 0.9307738542556763
+    Owl: 0.8748512268066406
+    Screech owl: 0.8585086464881897
+    Beak: 0.8172276020050049
+    Feather: 0.8017780780792236
+    Terrestrial animal: 0.794869601726532
+    Bird of prey: 0.7706207036972046
+    Falconiformes: 0.7373613119125366
+    Close-up: 0.7002139687538147
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8832142949104309
+    Sky: 0.8743641972541809
+    Deciduous: 0.7911521196365356
+    Flowering plant: 0.7656563520431519
+    Twig: 0.7499874234199524
+    Subshrub: 0.6860048174858093
+    Temperate broadleaf and mixed forest: 0.6312524080276489
+    Tints and shades: 0.6082785129547119
+    Annual plant: 0.5804979205131531
+    Shrub: 0.5461131930351257
+- :image_url: https://live.staticflickr.com/65535/50904700173_0ff7c9b09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9503452777862549
+    Twig: 0.8386476039886475
+    Tree: 0.827010452747345
+    Natural landscape: 0.8212683796882629
+    Wood: 0.8143144845962524
+    Art: 0.7930646538734436
+    Trunk: 0.7771528363227844
+    Snow: 0.772698700428009
+    Freezing: 0.7313233613967896
+    Event: 0.7139126062393188
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768399000167847
+    Plant: 0.9326156973838806
+    Petal: 0.8588541746139526
+    Road surface: 0.8492227792739868
+    Vegetation: 0.847380518913269
+    Asphalt: 0.8113693594932556
+    Groundcover: 0.788277804851532
+    Landscape: 0.7566158175468445
+    Grass: 0.7520589828491211
+    Wood: 0.7482797503471375
+- :image_url: https://live.staticflickr.com/7608/16267381663_a520503d6b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Train: 0.9729731678962708
+    Plant: 0.9540485739707947
+    Rolling stock: 0.9224125742912292
+    Vehicle: 0.9058089852333069
+    Track: 0.9005414247512817
+    Leaf: 0.8967292904853821
+    Branch: 0.8746098279953003
+    Railway: 0.8727376461029053
+    Mode of transport: 0.8597860336303711
+    Wood: 0.8579291701316833
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9717363119125366
+    Plant: 0.9568091034889221
+    Petal: 0.8759874701499939
+    Terrestrial plant: 0.8603054285049438
+    Grass: 0.8085249066352844
+    Evergreen: 0.8010507822036743
+    Groundcover: 0.790592610836029
+    Shrub: 0.7539108991622925
+    Flowering plant: 0.746407151222229
+    Annual plant: 0.7179603576660156
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9587526917457581
+    Flowerpot: 0.9308797121047974
+    Houseplant: 0.9182860255241394
+    Citrus: 0.8768846988677979
+    Rangpur: 0.8391491174697876
+    Vegetable: 0.7945476174354553
+    Flowering plant: 0.766972541809082
+    Produce: 0.7206984758377075
+    Fruit: 0.7073569297790527
+    Local food: 0.70201575756073
+- :image_url: https://live.staticflickr.com/65535/50790264727_e3e2e61a4a_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9771106243133545
+    Sky: 0.9710167646408081
+    Twig: 0.8508626818656921
+    Natural landscape: 0.82010418176651
+    Tree: 0.8025534749031067
+    Deciduous: 0.7803965210914612
+    Tints and shades: 0.7595242261886597
+    Flowering plant: 0.7492196559906006
+    Temperate broadleaf and mixed forest: 0.6842681169509888
+    Cumulus: 0.6144033670425415
