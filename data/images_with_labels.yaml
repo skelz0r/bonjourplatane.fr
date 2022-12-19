@@ -19407,3 +19407,42 @@ items:
     Flowering plant: 0.7492196559906006
     Temperate broadleaf and mixed forest: 0.6842681169509888
     Cumulus: 0.6144033670425415
+- :image_url: https://live.staticflickr.com/2694/4355194851_c9f2929ae0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8835843205451965
+    Natural material: 0.8550603985786438
+    Trunk: 0.8439001441001892
+    Woody plant: 0.8019065260887146
+    Grass: 0.795794665813446
+    Terrestrial plant: 0.7817398905754089
+    Twig: 0.7208203077316284
+    Groundcover: 0.7129504680633545
+    Tree: 0.6661802530288696
+    Forest: 0.6366519927978516
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9802200794219971
+    Plant: 0.9646625518798828
+    Petal: 0.8555575609207153
+    Terrestrial plant: 0.8345927596092224
+    Flowering plant: 0.7698999643325806
+    Groundcover: 0.6905486583709717
+    Subshrub: 0.6610041260719299
+    Lantana: 0.6210865378379822
+    Lantana camara: 0.581693708896637
+    Annual plant: 0.5677840709686279
+- :image_url: https://live.staticflickr.com/7431/16279543079_716c847d9b_b.jpg
+  :description: TBD OK
+  :labels:
+    Snow: 0.9323641061782837
+    Nature: 0.8993805646896362
+    Branch: 0.8678758144378662
+    Natural landscape: 0.8629013299942017
+    Twig: 0.8510396480560303
+    Freezing: 0.8399294018745422
+    Tree: 0.8280922174453735
+    Atmospheric phenomenon: 0.8280542492866516
+    Geological phenomenon: 0.7620065808296204
+    Landscape: 0.761809766292572
