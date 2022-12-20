@@ -1,3 +1,3 @@
-![Eléna](/images/2022-12-19.jpg)
+![Gauthier](/images/2022-12-20.jpg)
 
-Crédits: [JM Fumeau](https://www.flickr.com/people/jeanmar/) on flickr
+Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr

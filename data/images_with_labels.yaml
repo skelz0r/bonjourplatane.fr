@@ -19446,3 +19446,120 @@ items:
     Atmospheric phenomenon: 0.8280542492866516
     Geological phenomenon: 0.7620065808296204
     Landscape: 0.761809766292572
+- :image_url: https://live.staticflickr.com/65535/49528877778_04976c7116_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9811694025993347
+    Sky: 0.9691832065582275
+    Plant: 0.9572516679763794
+    Natural landscape: 0.8796225786209106
+    Grass: 0.8063234686851501
+    Twig: 0.8020666241645813
+    Plain: 0.7872065901756287
+    Cumulus: 0.7839877009391785
+    Tree: 0.7838621735572815
+    Landscape: 0.7775653600692749
+- :image_url: https://live.staticflickr.com/2290/2478269411_f9ecac5caf_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9736748337745667
+    Plant: 0.9504611492156982
+    Branch: 0.8686603903770447
+    Tree: 0.8468539714813232
+    Twig: 0.8247029781341553
+    Wood: 0.8100553154945374
+    Trunk: 0.808273196220398
+    Terrestrial plant: 0.8070433735847473
+    Natural landscape: 0.7856884598731995
+    Grass: 0.7694401741027832
+- :image_url: https://live.staticflickr.com/65535/52031314165_6371f5b0b6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9761917591094971
+    Sky: 0.9704849720001221
+    Water: 0.9703393578529358
+    Daytime: 0.9441832304000854
+    Blue: 0.9080455303192139
+    Nature: 0.902940034866333
+    Azure: 0.8935831785202026
+    Natural landscape: 0.8858766555786133
+    Wood: 0.8682718276977539
+    Branch: 0.8669368624687195
+- :image_url: https://live.staticflickr.com/641/23439905355_bac971e3b1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9789958000183105
+    Water: 0.9771389365196228
+    Sky: 0.9709634184837341
+    Plant: 0.9494707584381104
+    Natural landscape: 0.8994709849357605
+    Branch: 0.882357120513916
+    Sunrise: 0.851472795009613
+    Vegetation: 0.8498028516769409
+    Lake: 0.8476349115371704
+    Sunlight: 0.8456282019615173
+- :image_url: https://live.staticflickr.com/65535/49737196821_f6d3b0e971_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9781450033187866
+    Plant: 0.9492815732955933
+    Petal: 0.8896611928939819
+    Groundcover: 0.7909659147262573
+    Shrub: 0.7874380946159363
+    Flowering plant: 0.7570429444313049
+    Annual plant: 0.7232598066329956
+    Rose family: 0.7169821262359619
+    Subshrub: 0.6701018810272217
+    Herbaceous plant: 0.647594690322876
+- :image_url: https://live.staticflickr.com/65535/50269155913_f478e857ce_b.jpg
+  :description: TBD NOK
+  :labels:
+    Branch: 0.8761456608772278
+    Food: 0.8383756279945374
+    Woody plant: 0.8100486993789673
+    Petal: 0.7634696960449219
+    Flowering plant: 0.7616528272628784
+    Rose family: 0.7194406986236572
+    Produce: 0.7101563811302185
+    Fruit: 0.6843631863594055
+    Flower: 0.6763792634010315
+    Fruit tree: 0.662709653377533
+- :image_url: https://live.staticflickr.com/5770/22861696487_ec0bcfced2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9722557663917542
+    Plant: 0.9589946866035461
+    Cloud: 0.92951899766922
+    Green: 0.9149438142776489
+    Nature: 0.9007606506347656
+    Tree: 0.8998887538909912
+    Sculpture: 0.8712600469589233
+    Statue: 0.8598665595054626
+    Grass: 0.8556163907051086
+    Art: 0.8078174591064453
+- :image_url: https://live.staticflickr.com/65535/49692909021_6cddff8812_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9729650020599365
+    Plant: 0.9590681791305542
+    Purple: 0.8998416662216187
+    Sky: 0.841198205947876
+    Cloud: 0.818540632724762
+    Shrub: 0.7918490171432495
+    Groundcover: 0.7899478673934937
+    Flowering plant: 0.7625586986541748
+    Herbaceous plant: 0.7553820610046387
+    Subshrub: 0.6824886202812195
+- :image_url: https://live.staticflickr.com/5827/22699850318_25a63dbe4d_b.jpg
+  :description: TBD OK
+  :labels:
+    People in nature: 0.8912211060523987
+    Natural landscape: 0.8817487359046936
+    Tree: 0.8661389350891113
+    Trunk: 0.851923942565918
+    Wood: 0.844837486743927
+    Twig: 0.792018711566925
+    Tints and shades: 0.7722415924072266
+    Deciduous: 0.7708743810653687
+    Terrestrial plant: 0.7702422738075256
+    Sky: 0.7618417739868164
