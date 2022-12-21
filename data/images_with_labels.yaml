@@ -19563,3 +19563,29 @@ items:
     Deciduous: 0.7708743810653687
     Terrestrial plant: 0.7702422738075256
     Sky: 0.7618417739868164
+- :image_url: https://live.staticflickr.com/1936/44936369274_eeeb14d959_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9823417663574219
+    Plant: 0.9644854664802551
+    Botany: 0.9012958407402039
+    Petal: 0.8939512372016907
+    Terrestrial plant: 0.8519629240036011
+    Red: 0.8181679248809814
+    Water: 0.7784718871116638
+    Flowering plant: 0.7653471827507019
+    Hybrid tea rose: 0.7221966981887817
+    Rose family: 0.7002048492431641
+- :image_url: https://live.staticflickr.com/571/22549188160_91d9f447a3_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9549844861030579
+    People in nature: 0.9060197472572327
+    Sky: 0.905794084072113
+    Natural landscape: 0.8828982710838318
+    Wood: 0.8739286065101624
+    Twig: 0.8704062104225159
+    Branch: 0.8692324161529541
+    Trunk: 0.8587559461593628
+    Tree: 0.8403303027153015
+    Grass: 0.8125991821289062
