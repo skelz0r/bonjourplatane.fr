@@ -19589,3 +19589,81 @@ items:
     Trunk: 0.8587559461593628
     Tree: 0.8403303027153015
     Grass: 0.8125991821289062
+- :image_url: https://live.staticflickr.com/7873/46317084334_e6d968947c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9633421301841736
+    Snow: 0.9078324437141418
+    Mountain: 0.9037021994590759
+    Natural landscape: 0.8886815905570984
+    Branch: 0.8810505867004395
+    Plant: 0.8704556822776794
+    Slope: 0.8677105903625488
+    Sunlight: 0.8433696031570435
+    Tree: 0.8269554376602173
+    Twig: 0.7965611815452576
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9327279329299927
+    Plant: 0.9146161675453186
+    Tree: 0.8204600214958191
+    Grass: 0.7730475664138794
+    Evergreen: 0.7701947689056396
+    Shrub: 0.7641061544418335
+    Flowering plant: 0.7264150381088257
+    Subshrub: 0.6700468063354492
+    Conifer: 0.6042023301124573
+    Garden: 0.6031205654144287
+- :image_url: https://live.staticflickr.com/156/353794736_1f4e1b48e1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Water: 0.9352523684501648
+    Plant: 0.930770993232727
+    Street light: 0.9134060740470886
+    Automotive lighting: 0.9121332168579102
+    Leaf: 0.8940719366073608
+    Branch: 0.8891339302062988
+    Road surface: 0.8868926167488098
+    Asphalt: 0.8228452205657959
+    Sky: 0.8215478658676147
+- :image_url: https://live.staticflickr.com/7916/32388701507_78e54617b6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9585546255111694
+    Snow: 0.9347580075263977
+    Natural landscape: 0.8661171197891235
+    Plant: 0.8540695309638977
+    Slope: 0.8517023324966431
+    Freezing: 0.8511507511138916
+    Cloud: 0.8492113947868347
+    Tree: 0.8081178665161133
+    Twig: 0.8052446246147156
+    Wood: 0.7826082706451416
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8993091583251953
+    Orange: 0.8651362061500549
+    Organism: 0.8531398773193359
+    Plant: 0.8487317562103271
+    Sunlight: 0.8441221117973328
+    Natural landscape: 0.785213828086853
+    Tints and shades: 0.7642160058021545
+    Deciduous: 0.7199100255966187
+    Close-up: 0.70643150806427
+    Terrestrial plant: 0.7061686515808105
+- :image_url: https://live.staticflickr.com/3079/2479082082_f809c86ef3_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9740267992019653
+    Plant: 0.9338118433952332
+    Ecoregion: 0.9264264106750488
+    Natural environment: 0.8913813829421997
+    Natural landscape: 0.8877443075180054
+    Wood: 0.8737499713897705
+    Twig: 0.863508939743042
+    Sunlight: 0.8427783846855164
+    Trunk: 0.8367976546287537
+    Grass: 0.8230242133140564
