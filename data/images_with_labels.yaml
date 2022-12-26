@@ -20007,3 +20007,16 @@ items:
     Flowering plant: 0.7531331777572632
     Blossom: 0.6879966259002686
     Sky: 0.6202481389045715
+- :image_url: https://live.staticflickr.com/5704/23433113811_65f79f0fae_b.jpg
+  :description: TBD OK
+  :labels:
+    Cloud: 0.9769168496131897
+    Water: 0.9765220880508423
+    Sky: 0.9644546508789062
+    Plant: 0.9571947455406189
+    Water resources: 0.9454165697097778
+    Natural landscape: 0.8980867862701416
+    Natural environment: 0.888718843460083
+    Branch: 0.8723820447921753
+    Wood: 0.8659477829933167
+    Tree: 0.8618336915969849
