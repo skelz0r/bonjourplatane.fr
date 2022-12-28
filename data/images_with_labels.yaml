@@ -20059,3 +20059,366 @@ items:
     Deciduous: 0.7847928404808044
     Grass: 0.7393366098403931
     Forest: 0.706689715385437
+- :image_url: https://live.staticflickr.com/7062/6899196568_0c8c94faa0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9669517278671265
+    Natural landscape: 0.8741418719291687
+    Branch: 0.8702446222305298
+    Rectangle: 0.8622202277183533
+    Slope: 0.8457706570625305
+    Trunk: 0.8329570889472961
+    Snow: 0.821029007434845
+    Tree: 0.8045617341995239
+    Wood: 0.7861771583557129
+    Tints and shades: 0.7737023830413818
+- :image_url: https://live.staticflickr.com/3872/15400080261_c715ec66c5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9343273639678955
+    Flower: 0.9046468734741211
+    Terrestrial plant: 0.8494827151298523
+    Flowering plant: 0.7536388039588928
+    Pest: 0.7365347743034363
+    Nut: 0.7342369556427002
+    Twig: 0.7020320892333984
+    Fruit tree: 0.7001779079437256
+    Tree: 0.6741796731948853
+    Parasite: 0.6653664708137512
+- :image_url: https://live.staticflickr.com/3872/15400080261_c715ec66c5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9343273639678955
+    Flower: 0.9046468734741211
+    Terrestrial plant: 0.8494827151298523
+    Flowering plant: 0.7536388039588928
+    Pest: 0.7365347743034363
+    Nut: 0.7342369556427002
+    Twig: 0.7020320892333984
+    Fruit tree: 0.7001779079437256
+    Tree: 0.6741796731948853
+    Parasite: 0.6653664708137512
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8993091583251953
+    Orange: 0.8651362061500549
+    Organism: 0.8531398773193359
+    Plant: 0.8487317562103271
+    Sunlight: 0.8441221117973328
+    Natural landscape: 0.785213828086853
+    Tints and shades: 0.7642160058021545
+    Deciduous: 0.7199100255966187
+    Close-up: 0.70643150806427
+    Terrestrial plant: 0.7061686515808105
+- :image_url: https://live.staticflickr.com/65535/48548994076_c8bb9e3f9c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9662615656852722
+    Flower: 0.9638883471488953
+    Sky: 0.9588149189949036
+    Cloud: 0.8890693187713623
+    Fruit: 0.8479860424995422
+    Tree: 0.8228998184204102
+    Grass: 0.7769259214401245
+    Natural landscape: 0.7721635103225708
+    Shrub: 0.768869936466217
+    Fruit tree: 0.7497974038124084
+- :image_url: https://live.staticflickr.com/2794/4176262728_8000887e16_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.928110659122467
+    Vegetation: 0.8467496037483215
+    Terrestrial plant: 0.8130056262016296
+    Grass: 0.8086352348327637
+    Balloon: 0.7923964262008667
+    Astronomical object: 0.7719795107841492
+    Grass family: 0.7600176930427551
+    Circle: 0.7358718514442444
+    Electricity: 0.7070542573928833
+    Twig: 0.6938413977622986
+- :image_url: https://live.staticflickr.com/7142/6736947635_240a2deb64_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9542694687843323
+    Terrestrial plant: 0.8595544695854187
+    Flowering plant: 0.7697611451148987
+    Flower: 0.7684674263000488
+    Fruit: 0.6845337748527527
+    Food: 0.6121154427528381
+    Natural foods: 0.6001226305961609
+    Plant stem: 0.5952901840209961
+    Tree: 0.5752927660942078
+    Fruit tree: 0.5717308521270752
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8306961059570312
+    Tints and shades: 0.7712610363960266
+    Natural landscape: 0.7712522149085999
+    Wood: 0.7670461535453796
+    Sky: 0.7585318088531494
+    Deciduous: 0.7123261094093323
+    Plant: 0.6784951090812683
+    Macro photography: 0.6519062519073486
+    Flowering plant: 0.642488420009613
+    Peach: 0.5811945199966431
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9802200794219971
+    Plant: 0.9646625518798828
+    Petal: 0.8555575609207153
+    Terrestrial plant: 0.8345927596092224
+    Flowering plant: 0.7698999643325806
+    Groundcover: 0.6905486583709717
+    Subshrub: 0.6610041260719299
+    Lantana: 0.6210865378379822
+    Lantana camara: 0.581693708896637
+    Annual plant: 0.5677840709686279
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9690719246864319
+    Plant: 0.8546339273452759
+    Fruit: 0.8440421223640442
+    Tree: 0.8263425230979919
+    Woody plant: 0.8049222826957703
+    Twig: 0.792995035648346
+    Flowering plant: 0.7642837166786194
+    Produce: 0.7413051128387451
+    Fruit tree: 0.7217167019844055
+    Natural foods: 0.710135817527771
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8993091583251953
+    Orange: 0.8651362061500549
+    Organism: 0.8531398773193359
+    Plant: 0.8487317562103271
+    Sunlight: 0.8441221117973328
+    Natural landscape: 0.785213828086853
+    Tints and shades: 0.7642160058021545
+    Deciduous: 0.7199100255966187
+    Close-up: 0.70643150806427
+    Terrestrial plant: 0.7061686515808105
+- :image_url: https://live.staticflickr.com/7058/6858668121_cb003b7cf4_b.jpg
+  :description: TBD NOK
+  :labels:
+    Membranophone: 0.9723543524742126
+    Musical instrument: 0.9471762776374817
+    Drum: 0.9365020394325256
+    Idiophone: 0.8906276226043701
+    Wood: 0.8884462118148804
+    Trunk: 0.8341249227523804
+    Percussion mallet: 0.8128824830055237
+    Drumhead: 0.7615879774093628
+    Grass: 0.7563244700431824
+    Percussion: 0.7457754015922546
+- :image_url: https://live.staticflickr.com/65535/49412428363_9e4c3599e5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9644970297813416
+    Plant: 0.9519938826560974
+    Sky: 0.8924024701118469
+    Flowering plant: 0.7315899133682251
+    Electric blue: 0.6546241044998169
+    Twig: 0.6176407933235168
+    Rectangle: 0.5570224523544312
+    Art: 0.5368271470069885
+    Annual plant: 0.5319725275039673
+- :image_url: https://live.staticflickr.com/7608/16267381663_a520503d6b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Train: 0.9729731678962708
+    Plant: 0.9540485739707947
+    Rolling stock: 0.9224125742912292
+    Vehicle: 0.9058089852333069
+    Track: 0.9005414247512817
+    Leaf: 0.8967292904853821
+    Branch: 0.8746098279953003
+    Railway: 0.8727376461029053
+    Mode of transport: 0.8597860336303711
+    Wood: 0.8579291701316833
+- :image_url: https://live.staticflickr.com/65535/52031314165_6371f5b0b6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9761917591094971
+    Sky: 0.9704849720001221
+    Water: 0.9703393578529358
+    Daytime: 0.9441832304000854
+    Blue: 0.9080455303192139
+    Nature: 0.902940034866333
+    Azure: 0.8935831785202026
+    Natural landscape: 0.8858766555786133
+    Wood: 0.8682718276977539
+    Branch: 0.8669368624687195
+- :image_url: https://live.staticflickr.com/65535/49893977476_749c2589c0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Terrestrial plant: 0.8277124762535095
+    Natural foods: 0.7950372099876404
+    Flowering plant: 0.7155309915542603
+    Plant: 0.5153534412384033
+- :image_url: https://live.staticflickr.com/65535/51439400244_80be8e4a04_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9802200794219971
+    Plant: 0.9646625518798828
+    Petal: 0.8555575609207153
+    Terrestrial plant: 0.8345927596092224
+    Flowering plant: 0.7698999643325806
+    Groundcover: 0.6905486583709717
+    Subshrub: 0.6610041260719299
+    Lantana: 0.6210865378379822
+    Lantana camara: 0.581693708896637
+    Annual plant: 0.5677840709686279
+- :image_url: https://live.staticflickr.com/65535/52037827745_89a43dfddc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9666272401809692
+    Sky: 0.9653140902519226
+    Plant community: 0.9354585409164429
+    Ecoregion: 0.9214104413986206
+    Mountain: 0.913515567779541
+    Natural landscape: 0.8784226775169373
+    Landscape: 0.8018509149551392
+    Shrub: 0.7962822914123535
+    Rural area: 0.7870987057685852
+    Flower: 0.7781868577003479
+- :image_url: https://live.staticflickr.com/2694/4355194851_c9f2929ae0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8835843205451965
+    Natural material: 0.8550603985786438
+    Trunk: 0.8439001441001892
+    Woody plant: 0.8019065260887146
+    Grass: 0.795794665813446
+    Terrestrial plant: 0.7817398905754089
+    Twig: 0.7208203077316284
+    Groundcover: 0.7129504680633545
+    Tree: 0.6661802530288696
+    Forest: 0.6366519927978516
+- :image_url: https://live.staticflickr.com/65535/51530310488_09389bd04c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9640157222747803
+    Branch: 0.8843063116073608
+    Vegetation: 0.8598135113716125
+    Twig: 0.8181284070014954
+    Terrestrial plant: 0.7508023381233215
+    Flowering plant: 0.7366090416908264
+    Electric blue: 0.6644532680511475
+    Tree: 0.6577370762825012
+    Plant stem: 0.5771737694740295
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8832142949104309
+    Sky: 0.8743641972541809
+    Deciduous: 0.7911521196365356
+    Flowering plant: 0.7656563520431519
+    Twig: 0.7499874234199524
+    Subshrub: 0.6860048174858093
+    Temperate broadleaf and mixed forest: 0.6312524080276489
+    Tints and shades: 0.6082785129547119
+    Annual plant: 0.5804979205131531
+    Shrub: 0.5461131930351257
+- :image_url: https://live.staticflickr.com/65535/51048356126_2764436a05_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9703830480575562
+    Flower: 0.9373703598976135
+    Plant community: 0.9364166259765625
+    Flowerpot: 0.9320473074913025
+    Houseplant: 0.885272741317749
+    Table: 0.8565212488174438
+    Grass: 0.8423285484313965
+    Outdoor furniture: 0.8391565680503845
+    Biome: 0.8222878575325012
+    Landscape: 0.8163073658943176
+- :image_url: https://live.staticflickr.com/65535/51842129379_20c80621db_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9700738191604614
+    Plant: 0.9431053400039673
+    Leaf: 0.9009885787963867
+    Branch: 0.8777964115142822
+    Twig: 0.8181880712509155
+    Tree: 0.7944039702415466
+    Flowering plant: 0.7859168648719788
+    Fruit: 0.7211014032363892
+    Fruit tree: 0.6838622689247131
+    Buckthorn family: 0.5315234661102295
+- :image_url: https://live.staticflickr.com/65535/51508211364_fd911fca80_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9768025875091553
+    Cloud: 0.9760119318962097
+    Plant: 0.936560332775116
+    Natural landscape: 0.8690618276596069
+    Larch: 0.841079831123352
+    People in nature: 0.8141774535179138
+    Wood: 0.8002588152885437
+    Grass: 0.7942118644714355
+    Mountainous landforms: 0.7880287170410156
+    Trunk: 0.7864822745323181
+- :image_url: https://live.staticflickr.com/65535/49893977476_749c2589c0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Terrestrial plant: 0.8277124762535095
+    Natural foods: 0.7950372099876404
+    Flowering plant: 0.7155309915542603
+    Plant: 0.5153534412384033
+- :image_url: https://live.staticflickr.com/5488/11553673735_13409d1bae_b.jpg
+  :description: TBD NOK
+  :labels:
+    Twig: 0.8306961059570312
+    Tints and shades: 0.7712610363960266
+    Natural landscape: 0.7712522149085999
+    Wood: 0.7670461535453796
+    Sky: 0.7585318088531494
+    Deciduous: 0.7123261094093323
+    Plant: 0.6784951090812683
+    Macro photography: 0.6519062519073486
+    Flowering plant: 0.642488420009613
+    Peach: 0.5811945199966431
+- :image_url: https://live.staticflickr.com/661/22280420509_e0d3a1f07f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Nature: 0.8993091583251953
+    Orange: 0.8651362061500549
+    Organism: 0.8531398773193359
+    Plant: 0.8487317562103271
+    Sunlight: 0.8441221117973328
+    Natural landscape: 0.785213828086853
+    Tints and shades: 0.7642160058021545
+    Deciduous: 0.7199100255966187
+    Close-up: 0.70643150806427
+    Terrestrial plant: 0.7061686515808105
+- :image_url: https://live.staticflickr.com/65535/50178910651_6901dcdef0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765986800193787
+    Plant: 0.9571693539619446
+    Tree: 0.819911539554596
+    Shrub: 0.7874212861061096
+    Groundcover: 0.7868435978889465
+    Flowering plant: 0.7842367887496948
+    Terrestrial plant: 0.7834342122077942
+    Grass: 0.7364458441734314
+    Subshrub: 0.7007428407669067
+    Wildflower: 0.674530565738678
+- :image_url: https://live.staticflickr.com/65535/51727434145_447b9f343d_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9597892761230469
+    Leaf: 0.9027597308158875
+    Nature: 0.8991481065750122
+    Natural landscape: 0.8879706859588623
+    Branch: 0.8763768672943115
+    Wood: 0.8623829483985901
+    Trunk: 0.8571808934211731
+    Twig: 0.8500385284423828
+    Tree: 0.8480813503265381
+    Vegetation: 0.8469759821891785
