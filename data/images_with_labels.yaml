@@ -20422,3 +20422,107 @@ items:
     Twig: 0.8500385284423828
     Tree: 0.8480813503265381
     Vegetation: 0.8469759821891785
+- :image_url: https://live.staticflickr.com/65535/52037827745_89a43dfddc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9666272401809692
+    Sky: 0.9653140902519226
+    Plant community: 0.9354585409164429
+    Ecoregion: 0.9214104413986206
+    Mountain: 0.913515567779541
+    Natural landscape: 0.8784226775169373
+    Landscape: 0.8018509149551392
+    Shrub: 0.7962822914123535
+    Rural area: 0.7870987057685852
+    Flower: 0.7781868577003479
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9800916314125061
+    Sky: 0.9699597954750061
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9256687760353088
+    Natural landscape: 0.8988650441169739
+    Sunlight: 0.8514915108680725
+    Electricity: 0.8447604179382324
+    Tree: 0.8426970839500427
+    Afterglow: 0.8375821113586426
+    Red sky at morning: 0.8341471552848816
+- :image_url: https://live.staticflickr.com/65535/51008134357_3644bf8752_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9016427993774414
+    Petal: 0.8518407344818115
+    Plant: 0.8259173631668091
+    Flowering plant: 0.7634854912757874
+    Rose family: 0.7221216559410095
+    Rose order: 0.6632994413375854
+    Shrub: 0.6422553062438965
+    Peach: 0.604584276676178
+    Produce: 0.5885598659515381
+    Rose: 0.585488498210907
+- :image_url: https://live.staticflickr.com/65535/52031314165_6371f5b0b6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9761917591094971
+    Sky: 0.9704849720001221
+    Water: 0.9703393578529358
+    Daytime: 0.9441832304000854
+    Blue: 0.9080455303192139
+    Nature: 0.902940034866333
+    Azure: 0.8935831785202026
+    Natural landscape: 0.8858766555786133
+    Wood: 0.8682718276977539
+    Branch: 0.8669368624687195
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9587526917457581
+    Flowerpot: 0.9308797121047974
+    Houseplant: 0.9182860255241394
+    Citrus: 0.8768846988677979
+    Rangpur: 0.8391491174697876
+    Vegetable: 0.7945476174354553
+    Flowering plant: 0.766972541809082
+    Produce: 0.7206984758377075
+    Fruit: 0.7073569297790527
+    Local food: 0.70201575756073
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9782088994979858
+    Sky: 0.9758046865463257
+    Plant: 0.947072446346283
+    Vegetation: 0.8573551177978516
+    Tree: 0.8369104266166687
+    Flowering plant: 0.7872482538223267
+    Terrestrial plant: 0.7502337098121643
+    Shrub: 0.6427690982818604
+    Petal: 0.5696214437484741
+    Palm tree: 0.5688784122467041
+- :image_url: https://live.staticflickr.com/65535/49962201911_c08ff007eb_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9717363119125366
+    Plant: 0.9568091034889221
+    Petal: 0.8759874701499939
+    Terrestrial plant: 0.8603054285049438
+    Grass: 0.8085249066352844
+    Evergreen: 0.8010507822036743
+    Groundcover: 0.790592610836029
+    Shrub: 0.7539108991622925
+    Flowering plant: 0.746407151222229
+    Annual plant: 0.7179603576660156
+- :image_url: https://live.staticflickr.com/3122/2479081970_6cbf8c229a_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9617180824279785
+    Natural landscape: 0.8897085189819336
+    Wood: 0.8821064233779907
+    Plant: 0.8786866068840027
+    Twig: 0.8741121888160706
+    Branch: 0.8710194826126099
+    Tree: 0.8598432540893555
+    Trunk: 0.8188803791999817
+    Dusk: 0.8008512854576111
+    Landscape: 0.7820553183555603
