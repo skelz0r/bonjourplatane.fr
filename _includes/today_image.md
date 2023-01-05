@@ -1,3 +1,3 @@
-![Lina](/images/2023-01-04.jpg)
+![Thaïs](/images/2023-01-05.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [J-M Linder](https://www.flickr.com/people/jmverco/) on flickr
