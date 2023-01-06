@@ -20806,3 +20806,29 @@ items:
     Tree: 0.8242145776748657
     Evergreen: 0.8095878958702087
     Natural landscape: 0.8080820441246033
+- :image_url: https://live.staticflickr.com/65535/51842129379_20c80621db_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9700738191604614
+    Plant: 0.9431053400039673
+    Leaf: 0.9009885787963867
+    Branch: 0.8777964115142822
+    Twig: 0.8181880712509155
+    Tree: 0.7944039702415466
+    Flowering plant: 0.7859168648719788
+    Fruit: 0.7211014032363892
+    Fruit tree: 0.6838622689247131
+    Buckthorn family: 0.5315234661102295
+- :image_url: https://live.staticflickr.com/4904/31238269897_7c3e8a8f42_b.jpg
+  :description: TBD OK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Water: 0.9403972029685974
+    Sky: 0.9251787662506104
+    Cloud: 0.9050371050834656
+    Plant: 0.8978633284568787
+    Branch: 0.871341347694397
+    Twig: 0.8692620992660522
+    Natural landscape: 0.8677460551261902
+    World: 0.843730628490448
+    Black-and-white: 0.8384374976158142
