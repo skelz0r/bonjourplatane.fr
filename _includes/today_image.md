@@ -1,3 +1,3 @@
-![Léonie](/images/2023-01-06.jpg)
+![Lyna](/images/2023-01-08.jpg)
 
-Crédits: [kate053](https://www.flickr.com/people/16447874@N02/) on flickr
+Crédits: [davidjunyent](https://www.flickr.com/people/davidjunyent/) on flickr
