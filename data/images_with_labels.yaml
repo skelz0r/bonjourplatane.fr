@@ -21274,3 +21274,16 @@ items:
     Grass: 0.8279322385787964
     Terrestrial plant: 0.8010595440864563
     Twig: 0.7428308129310608
+- :image_url: https://live.staticflickr.com/1075/639262637_bb9e8f4ce2_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9644221663475037
+    Leaf: 0.8929575085639954
+    Branch: 0.8792322874069214
+    Tree: 0.8630689382553101
+    Trunk: 0.8469521999359131
+    Grass: 0.8363800644874573
+    Shade: 0.8266894817352295
+    Woody plant: 0.8136115670204163
+    Leisure: 0.7858503460884094
+    Tints and shades: 0.7678211331367493
