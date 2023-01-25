@@ -1,3 +1,3 @@
-![Louisa](/images/2023-01-18.jpg)
+![Lena](/images/2023-01-25.jpg)
 
-Crédits: [Jeff-Photo](https://www.flickr.com/people/jeff38/) on flickr
+Crédits: [F.A.L.I](https://www.flickr.com/people/26384010@N03/) on flickr

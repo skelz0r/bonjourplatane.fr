@@ -22391,3 +22391,133 @@ items:
     Tree: 0.8692166805267334
     Dusk: 0.8566238284111023
     Sunset: 0.8514452576637268
+- :image_url: https://live.staticflickr.com/4834/44194477930_f5a22eeeac_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.920809805393219
+    Leaf: 0.9043313264846802
+    Terrestrial plant: 0.8360785841941833
+    Tree: 0.7836877107620239
+    Twig: 0.7258415222167969
+    Flowering plant: 0.7063848972320557
+    Fruit tree: 0.6952271461486816
+    Fruit: 0.6145462989807129
+    Combretaceae: 0.5387009978294373
+    Nettle family: 0.5330089926719666
+- :image_url: https://live.staticflickr.com/65535/52188190560_0c50e4f895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Hops: 0.9113977551460266
+    Plant: 0.8572224974632263
+    Terrestrial plant: 0.8307898044586182
+    Flower: 0.8207312226295471
+    Twig: 0.7956820726394653
+    Evergreen: 0.7824453711509705
+    Tree: 0.7723225951194763
+    Flowering plant: 0.7348297834396362
+    Subshrub: 0.6561684012413025
+    Conifer: 0.6457975506782532
+- :image_url: https://live.staticflickr.com/65535/50146049698_db305a8473_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9782088994979858
+    Sky: 0.9758046865463257
+    Plant: 0.947072446346283
+    Vegetation: 0.8573551177978516
+    Tree: 0.8369104266166687
+    Flowering plant: 0.7872482538223267
+    Terrestrial plant: 0.7502337098121643
+    Shrub: 0.6427690982818604
+    Petal: 0.5696214437484741
+    Palm tree: 0.5688784122467041
+- :image_url: https://live.staticflickr.com/1/739329_78447e0b03_b.jpg
+  :description: TBD NOK
+  :labels:
+    Window: 0.8606586456298828
+    Rectangle: 0.8486897945404053
+    Fixture: 0.845676600933075
+    Building: 0.8297823667526245
+    Line: 0.8191859722137451
+    Material property: 0.8009523153305054
+    Facade: 0.7805607318878174
+    Tints and shades: 0.7625154852867126
+    Glass: 0.7589443325996399
+    Tower block: 0.7546483874320984
+- :image_url: https://live.staticflickr.com/3879/14555650740_2f03fdfaa6_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9697434306144714
+    Plant community: 0.9334099888801575
+    Natural landscape: 0.8766959309577942
+    Branch: 0.8722347617149353
+    Twig: 0.8475809097290039
+    Tree: 0.8360577821731567
+    Sky: 0.8273677229881287
+    Grass: 0.8131661415100098
+    Woody plant: 0.807545006275177
+    Shrub: 0.7965918779373169
+- :image_url: https://live.staticflickr.com/65535/40752667473_9feab16a44_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9145873188972473
+    Fruit: 0.9029949307441711
+    Botany: 0.8784875273704529
+    Branch: 0.8705177903175354
+    Twig: 0.842351496219635
+    Berry: 0.8135223388671875
+    Woody plant: 0.8019776940345764
+    Fruit tree: 0.7641814947128296
+    Produce: 0.7450066208839417
+    Flowering plant: 0.7442999482154846
+- :image_url: https://live.staticflickr.com/77/177956244_7e365b0b5a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Tree: 0.8161913752555847
+    Sky: 0.7845258712768555
+    Leisure: 0.77375727891922
+    Wood: 0.7690008282661438
+    Snapshot: 0.7428473830223083
+    Pole: 0.7270479798316956
+    City: 0.7007439732551575
+    Event: 0.69089275598526
+    Plant: 0.6867817044258118
+    Travel: 0.6715266704559326
+- :image_url: https://live.staticflickr.com/2711/4303700776_1ae31be331_b.jpg
+  :description: TBD NOK
+  :labels:
+    Brown: 0.9804678559303284
+    Wood: 0.8745322227478027
+    Rectangle: 0.8621314167976379
+    Art: 0.8020029664039612
+    Tints and shades: 0.773944079875946
+    Font: 0.7683432102203369
+    Twig: 0.686255931854248
+    Visual arts: 0.6758760213851929
+    Monochrome: 0.6639481782913208
+    Pattern: 0.6611015796661377
+- :image_url: https://live.staticflickr.com/130/329129708_4ecac74e40_b.jpg
+  :description: TBD NOK
+  :labels:
+    Water: 0.9777835011482239
+    Cloud: 0.9751634001731873
+    Plant: 0.9682959318161011
+    Sky: 0.9676156044006348
+    Plant community: 0.9353671669960022
+    Ecoregion: 0.9250721335411072
+    Nature: 0.8993819355964661
+    Natural landscape: 0.8940788507461548
+    Azure: 0.89351886510849
+    Natural environment: 0.8884125351905823
+- :image_url: https://live.staticflickr.com/2004/2478269453_fd558301d3_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9691159129142761
+    Light: 0.91114741563797
+    Branch: 0.8815076351165771
+    Twig: 0.8717029094696045
+    Wood: 0.8674275279045105
+    Natural landscape: 0.8559818863868713
+    Biome: 0.8257056474685669
+    Trunk: 0.8185886144638062
+    Landscape: 0.7739545702934265
+    Tints and shades: 0.7640908360481262
