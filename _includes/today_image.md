@@ -1,3 +1,3 @@
-![Lena](/images/2023-01-25.jpg)
+![Garance](/images/2023-01-27.jpg)
 
-Crédits: [F.A.L.I](https://www.flickr.com/people/26384010@N03/) on flickr
+Crédits: [BuggerOne](https://www.flickr.com/people/24405432@N00/) on flickr

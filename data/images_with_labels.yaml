@@ -22521,3 +22521,29 @@ items:
     Trunk: 0.8185886144638062
     Landscape: 0.7739545702934265
     Tints and shades: 0.7640908360481262
+- :image_url: https://live.staticflickr.com/65535/50904700173_0ff7c9b09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9503452777862549
+    Twig: 0.8386476039886475
+    Tree: 0.827010452747345
+    Natural landscape: 0.8212683796882629
+    Wood: 0.8143144845962524
+    Art: 0.7930646538734436
+    Trunk: 0.7771528363227844
+    Snow: 0.772698700428009
+    Freezing: 0.7313233613967896
+    Event: 0.7139126062393188
+- :image_url: https://live.staticflickr.com/2169/2272306609_87d87e96b9_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.973577082157135
+    Plant: 0.9416764974594116
+    Plant community: 0.9318787455558777
+    Natural landscape: 0.8828716278076172
+    Tree: 0.8821078538894653
+    Wood: 0.8522611856460571
+    Land lot: 0.8512867093086243
+    Horizon: 0.8067842125892639
+    Grass: 0.801067590713501
+    Grassland: 0.7913781404495239
