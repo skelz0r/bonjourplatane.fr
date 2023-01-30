@@ -1,3 +1,3 @@
-![Garance](/images/2023-01-27.jpg)
+![Claire](/images/2023-01-30.jpg)
 
-Crédits: [BuggerOne](https://www.flickr.com/people/24405432@N00/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

@@ -22547,3 +22547,156 @@ items:
     Horizon: 0.8067842125892639
     Grass: 0.801067590713501
     Grassland: 0.7913781404495239
+- :image_url: https://live.staticflickr.com/8024/7433127672_e42881314c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8493601083755493
+    Trunk: 0.8321175575256348
+    Natural material: 0.8290565013885498
+    Grass: 0.7703182697296143
+    Bedrock: 0.7672361731529236
+    Plant: 0.7430479526519775
+    Terrestrial animal: 0.7422666549682617
+    Terrestrial plant: 0.7223092317581177
+    Soil: 0.6669577360153198
+    Wildlife: 0.6366651654243469
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768399000167847
+    Plant: 0.9326156973838806
+    Petal: 0.8588541746139526
+    Road surface: 0.8492227792739868
+    Vegetation: 0.847380518913269
+    Asphalt: 0.8113693594932556
+    Groundcover: 0.788277804851532
+    Landscape: 0.7566158175468445
+    Grass: 0.7520589828491211
+    Wood: 0.7482797503471375
+- :image_url: https://live.staticflickr.com/65535/51814443240_70224c2e00_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9690719246864319
+    Plant: 0.8546339273452759
+    Fruit: 0.8440421223640442
+    Tree: 0.8263425230979919
+    Woody plant: 0.8049222826957703
+    Twig: 0.792995035648346
+    Flowering plant: 0.7642837166786194
+    Produce: 0.7413051128387451
+    Fruit tree: 0.7217167019844055
+    Natural foods: 0.710135817527771
+- :image_url: https://live.staticflickr.com/65535/51185297870_05056251f5_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9327279329299927
+    Plant: 0.9146161675453186
+    Tree: 0.8204600214958191
+    Grass: 0.7730475664138794
+    Evergreen: 0.7701947689056396
+    Shrub: 0.7641061544418335
+    Flowering plant: 0.7264150381088257
+    Subshrub: 0.6700468063354492
+    Conifer: 0.6042023301124573
+    Garden: 0.6031205654144287
+- :image_url: https://live.staticflickr.com/5591/30743441621_9a4efc8701_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9759596586227417
+    Sky: 0.9735143780708313
+    Plant: 0.9399906396865845
+    Botany: 0.8748130202293396
+    Tree: 0.8075247406959534
+    Terrestrial plant: 0.8068193793296814
+    Flowering plant: 0.7419013381004333
+    Shrub: 0.6353243589401245
+    Pole: 0.6171732544898987
+    Plant stem: 0.562371551990509
+- :image_url: https://live.staticflickr.com/2694/4355194851_c9f2929ae0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Wood: 0.8835843205451965
+    Natural material: 0.8550603985786438
+    Trunk: 0.8439001441001892
+    Woody plant: 0.8019065260887146
+    Grass: 0.795794665813446
+    Terrestrial plant: 0.7817398905754089
+    Twig: 0.7208203077316284
+    Groundcover: 0.7129504680633545
+    Tree: 0.6661802530288696
+    Forest: 0.6366519927978516
+- :image_url: https://live.staticflickr.com/499/31792896411_af1e13f61d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9800916314125061
+    Sky: 0.9699597954750061
+    Atmosphere: 0.9481807947158813
+    Ecoregion: 0.9256687760353088
+    Natural landscape: 0.8988650441169739
+    Sunlight: 0.8514915108680725
+    Electricity: 0.8447604179382324
+    Tree: 0.8426970839500427
+    Afterglow: 0.8375821113586426
+    Red sky at morning: 0.8341471552848816
+- :image_url: https://live.staticflickr.com/65535/52647252252_725c4a5895_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9689878225326538
+    Flowering plant: 0.7043952941894531
+    Plant: 0.6944245100021362
+    Tree: 0.6699965596199036
+    Fruit tree: 0.6610248684883118
+    Terrestrial plant: 0.6507151126861572
+    Agriculture: 0.5030519366264343
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9661407470703125
+    Plant: 0.9488763213157654
+    Terrestrial plant: 0.8332526087760925
+    Tree: 0.8196422457695007
+    Sky: 0.7790774703025818
+    Flowering plant: 0.7558102011680603
+    Twig: 0.6720431447029114
+    Shrub: 0.5494964122772217
+    Combretaceae: 0.5481845736503601
+    Caper family: 0.5207393765449524
+- :image_url: https://live.staticflickr.com/7608/16267381663_a520503d6b_b.jpg
+  :description: TBD NOK
+  :labels:
+    Train: 0.9729731678962708
+    Plant: 0.9540485739707947
+    Rolling stock: 0.9224125742912292
+    Vehicle: 0.9058089852333069
+    Track: 0.9005414247512817
+    Leaf: 0.8967292904853821
+    Branch: 0.8746098279953003
+    Railway: 0.8727376461029053
+    Mode of transport: 0.8597860336303711
+    Wood: 0.8579291701316833
+- :image_url: https://live.staticflickr.com/65535/50934099163_038ebdec8d_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9587526917457581
+    Flowerpot: 0.9308797121047974
+    Houseplant: 0.9182860255241394
+    Citrus: 0.8768846988677979
+    Rangpur: 0.8391491174697876
+    Vegetable: 0.7945476174354553
+    Flowering plant: 0.766972541809082
+    Produce: 0.7206984758377075
+    Fruit: 0.7073569297790527
+    Local food: 0.70201575756073
+- :image_url: https://live.staticflickr.com/65535/52651516636_e85bae5f31_b.jpg
+  :description: TBD OK
+  :labels:
+    Leaf: 0.9001951813697815
+    Branch: 0.8830641508102417
+    Tree: 0.8824041485786438
+    Twig: 0.8721497654914856
+    Trunk: 0.8521116375923157
+    Wood: 0.8456065058708191
+    Biome: 0.8364977240562439
+    Sky: 0.8260043263435364
+    Amber: 0.8125107288360596
+    Woody plant: 0.8067788481712341
