@@ -1,3 +1,3 @@
-![Claire](/images/2023-01-30.jpg)
+![Armand](/images/2023-02-01.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr
