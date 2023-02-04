@@ -23141,3 +23141,16 @@ items:
     Deciduous: 0.8125168085098267
     Grass: 0.7850329279899597
     Flowering plant: 0.773263692855835
+- :image_url: https://live.staticflickr.com/65535/49563911516_0c7088905e_b.jpg
+  :description: TBD OK
+  :labels:
+    Sky: 0.9678103923797607
+    Cloud: 0.9638707041740417
+    Twig: 0.8719301819801331
+    Bird: 0.8665511608123779
+    Tree: 0.7811142206192017
+    Tints and shades: 0.7106397747993469
+    Plant: 0.7037913799285889
+    Monochrome photography: 0.6150789260864258
+    Conifer: 0.6074501276016235
+    Plant stem: 0.5817468166351318
