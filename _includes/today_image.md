@@ -1,3 +1,3 @@
-![Laly](/images/2023-02-04.jpg)
+![Léa](/images/2023-02-08.jpg)
 
-Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
+Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr
