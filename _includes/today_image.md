@@ -1,3 +1,3 @@
-![Louna](/images/2023-02-09.jpg)
+![Luka](/images/2023-02-11.jpg)
 
-Crédits: [LB Photos.](https://www.flickr.com/people/lucbarre/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr
