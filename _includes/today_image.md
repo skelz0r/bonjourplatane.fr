@@ -1,3 +1,3 @@
-![Roméo](/images/2023-02-19.jpg)
+![Lenny](/images/2023-02-28.jpg)
 
-Crédits: [F.A.L.I](https://www.flickr.com/people/26384010@N03/) on flickr
+Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr
