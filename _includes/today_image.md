@@ -1,3 +1,3 @@
-![Lenny](/images/2023-02-28.jpg)
+![Lia](/images/2023-03-01.jpg)
 
-Crédits: [blavandmaster](https://www.flickr.com/people/blavandmaster/) on flickr
+Crédits: [Cassiopée2010](https://www.flickr.com/people/cmoi30/) on flickr

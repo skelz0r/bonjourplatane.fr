@@ -24250,3 +24250,54 @@ items:
     Symmetry: 0.7581737041473389
     Landscape: 0.7367566227912903
     Road surface: 0.7267089486122131
+- :image_url: https://live.staticflickr.com/65535/51678740984_4cfd53a54f_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9313008189201355
+    Berry: 0.8322103023529053
+    Terrestrial plant: 0.8295261859893799
+    Produce: 0.7776895761489868
+    Flowering plant: 0.7576314806938171
+    Shrub: 0.7554342746734619
+    Seedless fruit: 0.7116540670394897
+    Fruit: 0.6802785992622375
+    Fruit tree: 0.6629699468612671
+    Natural foods: 0.6546406149864197
+- :image_url: https://live.staticflickr.com/65535/51530310488_09389bd04c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9640157222747803
+    Branch: 0.8843063116073608
+    Vegetation: 0.8598135113716125
+    Twig: 0.8181284070014954
+    Terrestrial plant: 0.7508023381233215
+    Flowering plant: 0.7366090416908264
+    Electric blue: 0.6644532680511475
+    Tree: 0.6577370762825012
+    Plant stem: 0.5771737694740295
+- :image_url: https://live.staticflickr.com/156/353794736_1f4e1b48e1_b.jpg
+  :description: TBD NOK
+  :labels:
+    Atmosphere: 0.9481807947158813
+    Water: 0.9352523684501648
+    Plant: 0.930770993232727
+    Street light: 0.9134060740470886
+    Automotive lighting: 0.9121332168579102
+    Leaf: 0.8940719366073608
+    Branch: 0.8891339302062988
+    Road surface: 0.8868926167488098
+    Asphalt: 0.8228452205657959
+    Sky: 0.8215478658676147
+- :image_url: https://live.staticflickr.com/7141/6400351681_5357272473_b.jpg
+  :description: TBD OK
+  :labels:
+    Food: 0.9829496145248413
+    Plant: 0.9395056962966919
+    Sky: 0.9337390065193176
+    Fruit: 0.9096800684928894
+    Branch: 0.8735354542732239
+    Tree: 0.8535935878753662
+    Natural foods: 0.8429803252220154
+    Produce: 0.7840009331703186
+    Fruit tree: 0.7632032632827759
+    Flowering plant: 0.7493473291397095
