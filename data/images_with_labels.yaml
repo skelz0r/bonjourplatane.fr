@@ -24340,3 +24340,236 @@ items:
     Groundcover: 0.7881525754928589
     Deciduous: 0.7876574397087097
     Landscape: 0.7577744126319885
+- :image_url: https://live.staticflickr.com/65535/50904700173_0ff7c9b09c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9503452777862549
+    Twig: 0.8386476039886475
+    Tree: 0.827010452747345
+    Natural landscape: 0.8212683796882629
+    Wood: 0.8143144845962524
+    Art: 0.7930646538734436
+    Trunk: 0.7771528363227844
+    Snow: 0.772698700428009
+    Freezing: 0.7313233613967896
+    Event: 0.7139126062393188
+- :image_url: https://live.staticflickr.com/65535/49349385402_983aa70f98_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.9620184302330017
+    Cat: 0.9579681754112244
+    Carnivore: 0.8302077054977417
+    Grass: 0.8267629742622375
+    Wood: 0.8256780505180359
+    Whiskers: 0.8207665681838989
+    Tree: 0.8165141344070435
+    Small to medium-sized cats: 0.8063368201255798
+    Trunk: 0.7936903834342957
+    Groundcover: 0.7886955142021179
+- :image_url: https://live.staticflickr.com/65535/50820051896_47f65868cc_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9780011177062988
+    Plant: 0.9608603119850159
+    Shrub: 0.8079872727394104
+    Grass: 0.7967254519462585
+    Tree: 0.7964788675308228
+    Groundcover: 0.7915014028549194
+    Flowering plant: 0.7743273377418518
+    Blossom: 0.7104529142379761
+    Subshrub: 0.7059400677680969
+    Forb: 0.6480751633644104
+- :image_url: https://live.staticflickr.com/7492/15146731424_ccbdce75fd_b.jpg
+  :description: TBD NOK
+  :labels:
+    Natural landscape: 0.8605523109436035
+    Plant: 0.8568188548088074
+    Trunk: 0.8398829102516174
+    Tree: 0.8367119431495667
+    Twig: 0.8224003911018372
+    Deciduous: 0.7839720845222473
+    Tints and shades: 0.7693090438842773
+    Flowering plant: 0.7401025891304016
+    Temperate broadleaf and mixed forest: 0.6976730227470398
+    Terrestrial plant: 0.6743641495704651
+- :image_url: https://live.staticflickr.com/65535/50178910651_6901dcdef0_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9765986800193787
+    Plant: 0.9571693539619446
+    Tree: 0.819911539554596
+    Shrub: 0.7874212861061096
+    Groundcover: 0.7868435978889465
+    Flowering plant: 0.7842367887496948
+    Terrestrial plant: 0.7834342122077942
+    Grass: 0.7364458441734314
+    Subshrub: 0.7007428407669067
+    Wildflower: 0.674530565738678
+- :image_url: https://live.staticflickr.com/65535/50798679876_30b407bf0c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9661407470703125
+    Plant: 0.9488763213157654
+    Terrestrial plant: 0.8332526087760925
+    Tree: 0.8196422457695007
+    Sky: 0.7790774703025818
+    Flowering plant: 0.7558102011680603
+    Twig: 0.6720431447029114
+    Shrub: 0.5494964122772217
+    Combretaceae: 0.5481845736503601
+    Caper family: 0.5207393765449524
+- :image_url: https://live.staticflickr.com/5726/30626214181_e612e2cde2_b.jpg
+  :description: TBD NOK
+  :labels:
+    Cloud: 0.9773483872413635
+    Sky: 0.9742141366004944
+    Plant: 0.9318225383758545
+    Building: 0.9201931357383728
+    Tree: 0.8472307324409485
+    Street light: 0.8362478613853455
+    Road surface: 0.8058937191963196
+    Urban design: 0.7651082873344421
+    City: 0.7589035630226135
+    Road: 0.7473047375679016
+- :image_url: https://live.staticflickr.com/937/42968893484_13a7256561_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9749959111213684
+    Sky: 0.9367846250534058
+    Plant: 0.9151005744934082
+    Petal: 0.8223705887794495
+    Flowering plant: 0.7423704862594604
+    Shrub: 0.7092879414558411
+    Blossom: 0.692654550075531
+    Annual plant: 0.6112087965011597
+    Terrestrial plant: 0.6060930490493774
+    Tree: 0.5902730822563171
+- :image_url: https://live.staticflickr.com/77/177956244_7e365b0b5a_b.jpg
+  :description: TBD NOK
+  :labels:
+    Tree: 0.8161913752555847
+    Sky: 0.7845258712768555
+    Leisure: 0.77375727891922
+    Wood: 0.7690008282661438
+    Snapshot: 0.7428473830223083
+    Pole: 0.7270479798316956
+    City: 0.7007439732551575
+    Event: 0.69089275598526
+    Plant: 0.6867817044258118
+    Travel: 0.6715266704559326
+- :image_url: https://live.staticflickr.com/65535/51095671276_45e92aae27_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9321210384368896
+    Plant: 0.9288145899772644
+    Tree: 0.8329108953475952
+    Evergreen: 0.8191957473754883
+    Shrub: 0.794634997844696
+    Groundcover: 0.7903744578361511
+    Natural landscape: 0.7873662710189819
+    Grass: 0.7665066123008728
+    Flowering plant: 0.7229571342468262
+    Sky: 0.7179113030433655
+- :image_url: https://live.staticflickr.com/65535/51530310488_09389bd04c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Sky: 0.9640157222747803
+    Branch: 0.8843063116073608
+    Vegetation: 0.8598135113716125
+    Twig: 0.8181284070014954
+    Terrestrial plant: 0.7508023381233215
+    Flowering plant: 0.7366090416908264
+    Electric blue: 0.6644532680511475
+    Tree: 0.6577370762825012
+    Plant stem: 0.5771737694740295
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8832142949104309
+    Sky: 0.8743641972541809
+    Deciduous: 0.7911521196365356
+    Flowering plant: 0.7656563520431519
+    Twig: 0.7499874234199524
+    Subshrub: 0.6860048174858093
+    Temperate broadleaf and mixed forest: 0.6312524080276489
+    Tints and shades: 0.6082785129547119
+    Annual plant: 0.5804979205131531
+    Shrub: 0.5461131930351257
+- :image_url: https://live.staticflickr.com/65535/50781988431_258052065c_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.9768399000167847
+    Plant: 0.9326156973838806
+    Petal: 0.8588541746139526
+    Road surface: 0.8492227792739868
+    Vegetation: 0.847380518913269
+    Asphalt: 0.8113693594932556
+    Groundcover: 0.788277804851532
+    Landscape: 0.7566158175468445
+    Grass: 0.7520589828491211
+    Wood: 0.7482797503471375
+- :image_url: https://live.staticflickr.com/2794/4176262728_8000887e16_b.jpg
+  :description: TBD NOK
+  :labels:
+    Plant: 0.928110659122467
+    Vegetation: 0.8467496037483215
+    Terrestrial plant: 0.8130056262016296
+    Grass: 0.8086352348327637
+    Balloon: 0.7923964262008667
+    Astronomical object: 0.7719795107841492
+    Grass family: 0.7600176930427551
+    Circle: 0.7358718514442444
+    Electricity: 0.7070542573928833
+    Twig: 0.6938413977622986
+- :image_url: https://live.staticflickr.com/65535/48101244531_ba7267e997_b.jpg
+  :description: TBD NOK
+  :labels:
+    Food: 0.9798692464828491
+    Sky: 0.9120423793792725
+    Branch: 0.888579249382019
+    Fruit: 0.8715735673904419
+    Flowering plant: 0.7827927470207214
+    Fruit tree: 0.7571049332618713
+    Produce: 0.7396131157875061
+    Rose family: 0.7395821213722229
+    Plant: 0.7033628225326538
+    Tree: 0.6923626661300659
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8832142949104309
+    Sky: 0.8743641972541809
+    Deciduous: 0.7911521196365356
+    Flowering plant: 0.7656563520431519
+    Twig: 0.7499874234199524
+    Subshrub: 0.6860048174858093
+    Temperate broadleaf and mixed forest: 0.6312524080276489
+    Tints and shades: 0.6082785129547119
+    Annual plant: 0.5804979205131531
+    Shrub: 0.5461131930351257
+- :image_url: https://live.staticflickr.com/2583/4070053170_bd50ab2d26_b.jpg
+  :description: TBD NOK
+  :labels:
+    Flower: 0.8832142949104309
+    Sky: 0.8743641972541809
+    Deciduous: 0.7911521196365356
+    Flowering plant: 0.7656563520431519
+    Twig: 0.7499874234199524
+    Subshrub: 0.6860048174858093
+    Temperate broadleaf and mixed forest: 0.6312524080276489
+    Tints and shades: 0.6082785129547119
+    Annual plant: 0.5804979205131531
+    Shrub: 0.5461131930351257
+- :image_url: https://live.staticflickr.com/1674/24150760752_cd15fabe9e_b.jpg
+  :description: TBD OK
+  :labels:
+    Plant: 0.9467388987541199
+    Tree: 0.8837125897407532
+    Rectangle: 0.8617926239967346
+    Sleeve: 0.8615277409553528
+    Organism: 0.8579819798469543
+    Twig: 0.8043549656867981
+    Aqua: 0.8005421757698059
+    Terrestrial plant: 0.7982344627380371
+    Freezing: 0.7856341004371643
+    Evergreen: 0.7786082625389099
