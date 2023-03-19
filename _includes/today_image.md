@@ -1,3 +1,3 @@
-![Edgar](/images/2023-03-12.jpg)
+![Mya](/images/2023-03-19.jpg)
 
-Crédits: [ann@bel](https://www.flickr.com/people/bruxellus/) on flickr
+Crédits: [kate053](https://www.flickr.com/people/16447874@N02/) on flickr
